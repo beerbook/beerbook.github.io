@@ -1,0 +1,22 @@
+---
+layout: default
+title: Countries
+---
+
+
+# {{ page.title }}
+
+<% Continent.all.each_with_index do |continent,i| %>
+<%= ' • ' if i > 0 %><%= continent.title %>
+<% end %>
+
+
+<% Continent.all.each do |continent| %>
+
+### <%= continent.title %>  <!-- add newline; line NOT ending in erb stmt -->
+
+<% continent.countries.order(:title).each do |country| %>
+<%= country.title %> -  xx beers, xx breweries <br>
+<% end %>
+
+<% end %>
