@@ -45,10 +45,11 @@ BeerDb.tables
 ### model shortcuts
 
 Continent = WorldDb::Model::Continent
+Country   = WorldDb::Model::Country
 
 
 
-def render_erb_template( tmpl )
+def render_erb_template( tmpl, ctx )
 
 # note: erb offers the following trim modes:
 #  1) <> omit newline for lines starting with <% and ending in %>
@@ -60,7 +61,7 @@ def render_erb_template( tmpl )
   tmpl = remove_leading_spaces( tmpl )
   tmpl = concat_lines( tmpl )
 
-  text = ERB.new( tmpl, nil, '<>' ).result( binding )
+  text = ERB.new( tmpl, nil, '<>' ).result( ctx )
 
   ### text = cleanup_newlines( text )
   text
@@ -118,14 +119,48 @@ end
 ### generate table of contents (toc)
 
 toc_countries_tmpl = File.read_utf8( '_templates/toc_countries.md.erb' )
+country_tmpl       = File.read_utf8( '_templates/country.md.erb' )
 
-toc_countries_text = render_erb_template( toc_countries_tmpl )
+
+toc_countries_text = render_erb_template( toc_countries_tmpl, binding )
 
 
 File.open( 'index.md', 'w+') do |file|
   file.write toc_countries_text
 end
 
+
+### generate pages for countries
+
+
+###
+# part helpers
+
+def render_breweries_table_rows_for_region( region )
+  "<tr>#{region.title}</tr>\n"
+end
+
+
+def render_breweries( breweries )
+  breweries_tmpl       = File.read_utf8( '_templates/breweries.md.erb' )
+  render_erb_template( breweries_tmpl, binding )
+end
+
+
+country_count=0
+Country.where( "key in ('at','mx','hr')" ).each do |country|
+  beers_count     = country.beers.count
+  breweries_count = country.breweries.count
+  if beers_count > 0 || breweries_count > 0
+    country_count += 1
+    puts "build country page #{country.key}..."
+    country_text = render_erb_template( country_tmpl, binding )
+    File.open( "#{country.key}.md", 'w+') do |file|
+      file.write country_text
+    end
+  end
+  break if country_count == 3    # note: for testing only build three country pages
+end
 
 
 puts 'Done. Bye.'

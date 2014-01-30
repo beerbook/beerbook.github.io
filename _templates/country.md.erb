@@ -1,0 +1,37 @@
+
+
+## <%= country.title %>   ++
+   (<%= country.code %>)  ++
+   -                      ++
+   <%= country.beers.count %> Beers, ++
+   <%= country.breweries.count %> Breweries
+
+ .. <!-- add intra-page links here -->
+<% country.regions.each_with_index do |region,i| %>
+  <%= ' • ' if i > 0 %><%= link_to region.title, "##{region.key}" %> ++
+  (<%= region.breweries.count %>)<%= '' %>
+<% end %>
+
+
+<% country.regions.each do |region| %>
+
+### <%= region.title_w_synonyms %>  ++
+    (<%= region.breweries.count %>)
+
+<!-- fix: add list of cities here first -->
+
+<%#= render_breweries_table_rows_for_region( region ) %>
+ 
+<% region.cities.order(:title).each do |city| %>
+  <% city_breweries_count = city.breweries.count %>
+  <% if city_breweries_count > 0 %>
+##### <%= city.title %>  ++
+      <%= "(#{city_breweries_count})" if city_breweries_count > 1 %>
+     ..
+     <%= render_breweries( city.breweries ) %>
+  <% end %>
+<% end %>
+
+
+
+<% end %> <!-- each region -->

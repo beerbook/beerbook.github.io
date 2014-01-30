@@ -1,0 +1,17 @@
+
+<!-- todo/fix: change to brewery.md.erb - single template -->
+
+
+<% breweries.each do |brewery| %>
+
+  ___________________________________________
+  <%= brewery.title %> | <%= brewery.founded %> <%#= render_brewery_tags( brewery ) %> <br>
+  <%= brewery.address %>
+  <% if brewery.web.present? %>
+    <%= link_to brewery.web, "http://#{brewery.web}" %>
+  <% end %>
+
+  <%#= render_beers( brewery.beers ) %>
+
+<% end %><!-- each brewery -->
+
