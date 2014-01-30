@@ -1,3 +1,7 @@
+---
+layout: default
+title: Contents
+---
 
 
 ## Austria (AUT) - 215 Beers, 88 Breweries

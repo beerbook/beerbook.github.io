@@ -1,3 +1,7 @@
+---
+layout: default
+title: Contents
+---
 
 
 ## México [Mexico] (MEX) - 179 Beers, 45 Breweries
