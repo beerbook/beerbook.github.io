@@ -48,25 +48,84 @@ Continent = WorldDb::Model::Continent
 
 
 
-### generate table of contents (toc)
-
-toc_countries_tmpl = File.read_utf8( '_templates/toc_countries.md.erb' )
+def render_erb_template( tmpl )
 
 # note: erb offers the following trim modes:
 #  1) <> omit newline for lines starting with <% and ending in %>
 #  2)  >  omit newline for lines ending in %>
 #  3)  omit blank lines ending in -%>
+  ## run filters
+  tmpl = remove_html_comments( tmpl )
+  tmpl = remove_blanks( tmpl )
+  tmpl = remove_leading_spaces( tmpl )
+  tmpl = concat_lines( tmpl )
 
-toc_countries_erb  = ERB.new( toc_countries_tmpl, nil, '>' )
+  text = ERB.new( tmpl, nil, '<>' ).result( binding )
 
-File.open( 'index.md', 'w+') do |file|
-  file.write toc_countries_erb.result(binding)
+  ### text = cleanup_newlines( text )
+  text
 end
 
-### todo: use filter to strip leading spaces
-### todo: use   ++ at the end of line to strip new line w/ filter !!!
-## todo: just use %> trim mode -- only trim blank/stmt lines!!!
-### todo: add filter to remove html/xml comments e.g. <!-- -->
+
+### markdown helpers
+
+def link_to( title, link )
+  "[#{title}](#{link})"
+end
+
+
+
+### filters
+#
+#  todo: move to textutils for reuse !!!
+
+def remove_html_comments( text )
+  text.gsub( /<!--.+?-->/, '' )
+end
+
+def remove_leading_spaces( text )
+  # remove leading spaces if less than four !!!
+  text.gsub( /^[ \t]+(?![ \t])/, '' )    # use negative regex lookahead e.g. (?!)
+end
+
+def remove_blanks( text )
+  # remove lines only with  ..
+  text.gsub( /^[ \t]*\.{2}[ \t]*\n/, '' )
+end
+
+def cleanup_newlines( text )
+  # remove all blank lines that go over three
+  text.gsub( /\n{4,}/, "\n\n\n" )
+end
+
+
+def concat_lines( text )
+  #  lines ending with  ++  will get newlines get removed
+  # e.g.
+  # >|   hello1 ++
+  # >1   hello2
+  #  becomes
+  # >|   hello1 hello2
+  
+  #
+  # note: do NOT use \s - will include \n (newline) ??
+  
+  text.gsub( /[ \t]+\+{2}[ \t]*\n[ \t]*/, ' ' )  # note: replace with single space
+end
+
+
+
+### generate table of contents (toc)
+
+toc_countries_tmpl = File.read_utf8( '_templates/toc_countries.md.erb' )
+
+toc_countries_text = render_erb_template( toc_countries_tmpl )
+
+
+File.open( 'index.md', 'w+') do |file|
+  file.write toc_countries_text
+end
+
 
 
 puts 'Done. Bye.'

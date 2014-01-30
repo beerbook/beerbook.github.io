@@ -1,22 +1,32 @@
 ---
 layout: default
-title: Countries
+title: Contents
 ---
 
 
-# {{ page.title }}
+# Contents
 
 <% Continent.all.each_with_index do |continent,i| %>
-<%= ' • ' if i > 0 %><%= continent.title %>
+  <%= ' • ' if i > 0 %><%= link_to continent.title, "##{continent.key}" %>
 <% end %>
-
 
 <% Continent.all.each do |continent| %>
 
-### <%= continent.title %>  <!-- add newline; line NOT ending in erb stmt -->
 
-<% continent.countries.order(:title).each do |country| %>
-<%= country.title %> -  xx beers, xx breweries <br>
-<% end %>
+### <%= continent.title %>  {#<%= continent.key %>}
 
-<% end %>
+  <% continent.countries.order(:title).each do |country| %>
+    ..
+    .. <!-- todo: use helper e.g. has_beers_or_breweries? or similar  ?? -->
+    <% beers_count     = country.beers.count %>
+    <% breweries_count = country.breweries.count %>
+    ..
+    <% if beers_count > 0 || breweries_count > 0 %>
+      <%= link_to country.title, "#{country.key}.html" %>  ++ 
+      (<%= country.code %>)                                ++ 
+       -                                                   ++ 
+      <%= beers_count %> Beers,                            ++
+      <%= breweries_count %> Breweries <br>
+    <% end %>
+   <% end %><!-- each country -->
+<% end %><!-- each continent -->
