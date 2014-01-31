@@ -1,9 +1,3 @@
----
-layout: default
-title: Contents
----
-
-
 # Contents
 
 <%= continents_navbar %>
@@ -14,6 +8,7 @@ title: Contents
 
 ### <%= continent.title %>  {#<%= urlify( continent.title ) %>}
 
-  <%= render_toc_countries( continent.countries.order(:title) ) %>
+  <%= render_toc_countries( continent.countries.order(:title), opts ) %>
 
 <% end %><!-- each continent -->
+

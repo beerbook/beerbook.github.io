@@ -1,14 +1,9 @@
----
-layout: default
-title: <%= country.title %> (<%= country.code %>)
----
-
-
 ## <%= country.title %>   ++
    (<%= country.code %>)  ++
    -                      ++
    <%= country.beers.count %> Beers, ++
-   <%= country.breweries.count %> Breweries
+   <%= country.breweries.count %> Breweries  ++
+   {#<%= country.key %>}
 
  .. <!-- add intra-page links for regions here -->
  <%= regions_navbar_for_country( country ) %>
@@ -39,7 +34,7 @@ title: <%= country.title %> (<%= country.code %>)
 
 ### <%= region.title_w_synonyms %>  ++
     _(<%= region.breweries.count %>)_{:.count} ++
-    {#<%= region.key %>}
+    {#<%= country.key %>-<%= region.key %>}
 
  .. <!-- add intra-page cities for regions links here -->
  <%= cities_navbar_for_region( region ) %>

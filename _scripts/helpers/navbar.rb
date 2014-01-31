@@ -18,7 +18,7 @@ def regions_navbar_for_country( country )
   region_count = 0
   country.regions.each do |region|
     buf << ' • '  if region_count > 0
-    buf << link_to( region.title, "##{region.key}" )
+    buf << link_to( region.title, "##{country.key}-#{region.key}" )
     buf << " _(#{region.breweries.count})_{:.count}"
     region_count += 1
   end

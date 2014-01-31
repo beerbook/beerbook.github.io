@@ -61,15 +61,22 @@ Country   = WorldDb::Model::Country
 
 
 
+####################################
+# 1) generate multi-page version
+
+def build_book
 
 ### generate table of contents (toc)
 
-toc_tmpl = File.read_utf8( '_templates/toc.md.erb' )
-country_tmpl       = File.read_utf8( '_templates/country.md.erb' )
+toc_text = <<EOS
+---
+layout: default
+title: Contents
+---
 
+EOS
 
-toc_text = render_erb_template( toc_tmpl, binding )
-
+toc_text += render_toc()
 
 File.open( 'index.md', 'w+') do |file|
   file.write toc_text
@@ -79,19 +86,84 @@ end
 ### generate pages for countries
 
 country_count=0
-Country.where( "key in ('at','mx','hr', 'de', 'be', 'nl', 'cz')" ).each do |country|
+# Country.where( "key in ('at','mx','hr', 'de', 'be', 'nl', 'cz')" ).each do |country|
+Country.all.each do |country|
   beers_count     = country.beers.count
   breweries_count = country.breweries.count
-  if beers_count > 0 || breweries_count > 0
-    country_count += 1
-    puts "build country page #{country.key}..."
-    country_text = render_erb_template( country_tmpl, binding )
-    File.open( "#{country.key}.md", 'w+') do |file|
-      file.write country_text
-    end
+  next if beers_count == 0 && breweries_count == 0
+  
+  country_count += 1
+  puts "build country page #{country.key}..."
+  country_text = <<EOS
+---
+layout: default
+title: <%= country.title %> (<%= country.code %>)
+---
+
+EOS
+  
+  country_text += render_country( country )
+  File.open( "#{country.key}.md", 'w+') do |file|
+    file.write country_text
   end
+ 
   ## break if country_count == 3    # note: for testing only build three country pages
 end
+
+end # method build_book
+
+
+##########################################
+# 2) generate all-in-one-page version
+
+def build_book_all_in_one
+
+book_text = <<EOS
+---
+layout: default
+title: Contents
+---
+
+EOS
+
+book_text += render_toc( inline: true )
+
+
+### generate pages for countries
+# note: use same order as table of contents
+
+country_count=0
+
+Continent.all.each do |continent|
+  continent.countries.order(:title).each do |country|
+
+    beers_count     = country.beers.count
+    breweries_count = country.breweries.count
+    next if beers_count == 0 && breweries_count == 0
+    
+    country_count += 1
+    puts "build country page #{country.key}..."
+    country_text = render_country( country )
+
+    book_text += <<EOS
+
+---------------------------------------
+
+EOS
+
+    book_text += country_text
+  end
+end
+
+
+File.open( 'book.md', 'w+') do |file|
+  file.write book_text
+end
+
+end # method build_book_all_in_one
+
+
+build_book_all_in_one()
 
 
 puts 'Done. Bye.'

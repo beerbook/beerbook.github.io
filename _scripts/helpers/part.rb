@@ -4,10 +4,23 @@
 # part helpers
 
 
+def render_country( country, opts={} )
+  country_tmpl       = File.read_utf8( '_templates/country.md.erb' )
+  country_text = render_erb_template( country_tmpl, binding )
+end
+
+
+def render_toc( opts={} )
+  toc_tmpl = File.read_utf8( '_templates/toc.md.erb' )
+  render_erb_template( toc_tmpl, binding )
+end
+
+
 #####
 # todo: find a better name for ender_toc_countries ??
 
-def render_toc_countries( countries )
+
+def render_toc_countries( countries, opts={} )
   buf = ''
   countries.each do |country|
   
@@ -16,13 +29,13 @@ def render_toc_countries( countries )
     beers_count     = country.beers.count
     breweries_count = country.breweries.count
     
-    if beers_count > 0 || breweries_count > 0
-      buf << link_to_country( country )
-      buf << " - "
-      buf << "_#{beers_count} Beers, #{breweries_count} Breweries_{:.count}"
-      buf << "  <br>"
-      buf << "\n"
-    end
+    next if beers_count == 0 && breweries_count == 0
+    
+    buf << link_to_country( country, opts )
+    buf << " - "
+    buf << "_#{beers_count} Beers, #{breweries_count} Breweries_{:.count}"
+    buf << "  <br>"
+    buf << "\n"
   end
   buf
 end
