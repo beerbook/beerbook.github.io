@@ -43,7 +43,7 @@ Heineken Pilsener   • Amstel
 ##### Uncategorized (1)
 
 
-Berghoeve |   <br>
+Berghoeve -   {.brewery}  <br>
 // Den Ham 
 
 
@@ -71,23 +71,23 @@ Berghoeve |   <br>
 ##### Uncategorized (4)
 
 
-De Leckere | 1997  <br>
+De Leckere - 1997  {.brewery}  <br>
 // Utrecht  <br>
 [www.deleckere.nl](http://www.deleckere.nl) 
 
 
 
-De Eem |   <br>
+De Eem -   {.brewery}  <br>
 // Amersfoort 
 
 
-Maximus | 2011  <br>
+Maximus - 2011  {.brewery}  <br>
 // Leidsche Rijn  <br>
 [www.brouwerijmaximus.nl](http://www.brouwerijmaximus.nl) 
 
 
 
-Duits & Lauret | 2009  <br>
+Duits & Lauret - 2009  {.brewery}  <br>
 // Vleuten  <br>
 [www.duitslauret.com](http://www.duitslauret.com) 
 
@@ -103,57 +103,57 @@ Duits & Lauret | 2009  <br>
 ##### Uncategorized (13)
 
 
-De 7 Deugden | 2010  <br>
+De 7 Deugden - 2010  {.brewery}  <br>
 // Amsterdam  <br>
 [www.de7deugden.nl](http://www.de7deugden.nl) 
 
 
 
-Breugems | 2007  <br>
+Breugems - 2007  {.brewery}  <br>
 // Zaandam 
 
 
-De Boei |   <br>
+De Boei -   {.brewery}  <br>
  
 
 
-Dampegheest |   <br>
+Dampegheest -   {.brewery}  <br>
  
 
 
-Egmond |   <br>
+Egmond -   {.brewery}  <br>
  
 
 
-Florindia |   <br>
+Florindia -   {.brewery}  <br>
  
 
 
-Gooische Bierbrouwerij |   <br>
+Gooische Bierbrouwerij -   {.brewery}  <br>
  
 
 
-Heyloo |   <br>
+Heyloo -   {.brewery}  <br>
  
 
 
-'t IJ |   <br>
+'t IJ -   {.brewery}  <br>
  
 
 
-Jopen |   <br>
+Jopen -   {.brewery}  <br>
  
 
 
-Brouwerij De Prael |   <br>
+Brouwerij De Prael -   {.brewery}  <br>
  
 
 
-SNAB |   <br>
+SNAB -   {.brewery}  <br>
  
 
 
-Texelse Bierbrouwerij |   <br>
+Texelse Bierbrouwerij -   {.brewery}  <br>
  
 
 
@@ -181,43 +181,43 @@ Texelse Bierbrouwerij |   <br>
 ##### Uncategorized (7)
 
 
-Budels | 1870  <br>
+Budels - 1870  {.brewery}  <br>
 // Budel  <br>
 [www.budels.nl](http://www.budels.nl) 
 
 
 
-De 3 Horne | 1990  <br>
+De 3 Horne - 1990  {.brewery}  <br>
 // Kaatsheuvel  <br>
 [www.de3horne.nl](http://www.de3horne.nl) 
 
 
 
-Bavaria | 1680  <br>
+Bavaria - 1680  {.brewery}  <br>
 // Lieshout  <br>
 [www.bavaria.nl](http://www.bavaria.nl) 
 
 
 
-Dommelsch | 1744  <br>
+Dommelsch - 1744  {.brewery}  <br>
 // Dommelen  <br>
 [www.dommelsch.nl](http://www.dommelsch.nl) 
 
 
 
-De Koningshoeven |   <br>
+De Koningshoeven -   {.brewery}  <br>
   <br>
 [www.latrappe.nl](http://www.latrappe.nl) 
 
 
 
-Oijen |   <br>
+Oijen -   {.brewery}  <br>
 // Oijen (Oss)  <br>
 [www.speciaalbierbrouwerij.nl](http://www.speciaalbierbrouwerij.nl) 
 
 
 
-De Roos |   <br>
+De Roos -   {.brewery}  <br>
   <br>
 [www.museumbrouwerij.nl](http://www.museumbrouwerij.nl) 
 
@@ -233,39 +233,39 @@ De Roos |   <br>
 ##### Uncategorized (8)
 
 
-Alfa | 1870  <br>
+Alfa - 1870  {.brewery}  <br>
 // Thull (Schinnen)  <br>
 [www.alfabier.nl](http://www.alfabier.nl) 
 
 
 
-Brand |   <br>
+Brand -   {.brewery}  <br>
 // Wijlre  <br>
 [www.brand.nl](http://www.brand.nl) 
 
 
 
-Brouwerij Sint Christoffel |   <br>
+Brouwerij Sint Christoffel -   {.brewery}  <br>
  
 
 
-Brouwerij De Fontein |   <br>
+Brouwerij De Fontein -   {.brewery}  <br>
  
 
 
-· Gulpener Bierbrouwerij |   <br>
+· Gulpener Bierbrouwerij -   {.brewery}  <br>
  
 
 
-Hertog Jan Brouwerij |   <br>
+Hertog Jan Brouwerij -   {.brewery}  <br>
  
 
 
-Bierbrouwerij Lindeboom |   <br>
+Bierbrouwerij Lindeboom -   {.brewery}  <br>
  
 
 
-Mongozo |   <br>
+Mongozo -   {.brewery}  <br>
  
 
 

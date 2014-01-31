@@ -15,37 +15,37 @@ Regio   • Regio Light   • Obispado   • La Silla   • El Fraile   • Las 
 ### Uncategorized (7)
 
 
-Microcervecería La Legendaria | 2010  <br>
+Microcervecería La Legendaria - 2010    <br>  {.brewery}
  
 
 
-Cervecera Mexicana |   <br>
+Cervecera Mexicana -     <br>   {#mexicana}
  
 Caballero Águila   • Cheisy   • Potro   • Horus  
 
-Cervecería La Brü |   <br>
+Cervecería La Brü -   {#labrue}  <br>
  
 
-
-Cervecería Tepozteca |   <br>
+{.brewery}
+Cervecería Tepozteca -     <br>
   <br>
 [www.tepozteca.com](http://www.tepozteca.com) 
 
 
-
-Cerveza Afromestizo |   <br>
+{#afromestizo}
+Cerveza Afromestizo -    <br>
   <br>
 [www.afromestizo.com](http://www.afromestizo.com) 
 
 Don Hilaro   • Doña Amalia   • Mama Grande   • Doña Amalia Cardamomo   • Doña Amalia Jamaica  
 
-Cerveza Dos Palomas |   <br>
+Cerveza Dos Palomas -   {.brewery}  <br>
   <br>
 [www.cervezadospalomas.com](http://www.cervezadospalomas.com) 
 
 Dos Palomas Bitter   • Dos Palomas Ginger Ale   • Dos Palomas Red Ale   • Dos Palomas Porter  
 
-Cerveceria Sileno |   <br>
+Cerveceria Sileno -   {.brewery}  <br>
  
 Wiesnbier   • Brown Ale   • Porter   • Trippel  
 
@@ -66,51 +66,51 @@ Wiesnbier   • Brown Ale   • Porter   • Trippel
 ##### Uncategorized (9)
 
 
-Cervecería Mexicali |   <br>
+Cervecería Mexicali -   {.brewery}  <br>
 // Ensenada | Baja California  <br>
 [www.mexicalibeer.com](http://www.mexicalibeer.com) 
 
 Mexicali Pale Lager   • Mexicali Dark   • Red Pig Mexican Ale   • Chili Beer   • Trader José Premium Lager   • Trader José Dark Premium Lager  
 
-Consorcio Cervecero de Baja California | 1996  <br>
+Consorcio Cervecero de Baja California - 1996  {.brewery}  <br>
 Blvd. Fundadores No. 2951, Col Juárez, CP. 22040 // Tijuana, B.C.  <br>
 [www.tjbeer.com](http://www.tjbeer.com) 
 
 Tijuana Light   • Tijuana Rosarito Beach   • Tijuana Güera   • Tijuana Morena   • Tijuana Bufadora   • Tijuana Brava   • Tijuana Bronca Güera   • Tijuana Bronca Morena  
 
-Cucapá | 2002  <br>
+Cucapá - 2002  {.brewery}  <br>
 Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 [www.cucapa.com](http://www.cucapa.com) 
 
 Cucapá Clásica   • Cucapá Honey   • Cucapá Obscura   • Cucapá Chupacabras   • Cucapa Light   • Cucapá Trigueña   • Cucapá Barley Wine   • Cucapá Lowrider Ale   • Cucapá Imperial Stout  
 
-Cervecería Rámuri |   <br>
+Cervecería Rámuri -   {.brewery}  <br>
   <br>
 [www.cervezaramuri.com](http://www.cervezaramuri.com) 
 
 Batari Chónami   • Batari Turio ari biche Amoque   • Batari Choracami   • 100 Dias   • Lágrimas Negras   • Bucéfalo  
 
-Ensenada Microbrewery |   <br>
+Ensenada Microbrewery -   {.brewery}  <br>
  
 Ensenada Sweet Stout   • Ensenada Pale Ale  
 
-Canneria Cerveza | 2010  <br>
+Canneria Cerveza - 2010  {.brewery}  <br>
   <br>
 [www.canneriacerveza.com.mx](http://www.canneriacerveza.com.mx) 
 
 Canneria Alt Bier   • Canneria Stout   • Canneria Lager Americana   • Canneria Cherry Lambic  
 
-Cerveza Frontera |   <br>
+Cerveza Frontera -   {.brewery}  <br>
   <br>
 [www.cervezafrontera.com.mx](http://www.cervezafrontera.com.mx) 
 
 
 
-Cervecería Calafia |   <br>
+Cervecería Calafia -   {.brewery}  <br>
  
 Calafia Golden Ale   • Calafia Red Ale   • Calafia Pale Ale   • Calafia IPA  
 
-Cervecería Kudos |   <br>
+Cervecería Kudos -   {.brewery}  <br>
  
 Kudos Strawberry Wheat   • Kudos Hefeweizen   • Kudos Mild Brown   • Kudos IPA (India Pale Ale)  
 
@@ -124,7 +124,7 @@ Kudos Strawberry Wheat   • Kudos Hefeweizen   • Kudos Mild Brown   • Kudos
 ##### Uncategorized (1)
 
 
-Cervecería Baja Brewing Co |   <br>
+Cervecería Baja Brewing Co -   {.brewery}  <br>
   <br>
 [www.bajabrewingcompany.com](http://www.bajabrewingcompany.com) 
 
@@ -174,7 +174,7 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 ##### México 
 
 
-Cervecería Modelo / Grupo Modelo | 1922  <br>
+Cervecería Modelo / Grupo Modelo - 1922  {.brewery}  <br>
 Lago Alberto 156 | Col. Anáhuac // México | D.F. | C.P. 11320  <br>
 [www.gmodelo.com.mx](http://www.gmodelo.com.mx) 
 
@@ -184,29 +184,29 @@ León
 ##### Uncategorized (5)
 
 
-Cervecería Primus | 2007  <br>
+Cervecería Primus - 2007  {.brewery}  <br>
 Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrito Federal  <br>
 [www.primus.com.mx](http://www.primus.com.mx) 
 
 Tempus Dorada   • Tempus Clásica   • Tempus Doble Malta   • Tempus Reserva Especial  
 
-Cervecería Pública Condesa | 2009  <br>
+Cervecería Pública Condesa - 2009  {.brewery}  <br>
  
 Poe  
 
-Microcerveceria La Chingoneria |   <br>
+Microcerveceria La Chingoneria -   {.brewery}  <br>
   <br>
 [www.lachingoneria.com.mx](http://www.lachingoneria.com.mx) 
 
 Chekate Esta   • Házmela Rusa   • Amargator IPA  
 
-Cervecería Alebrije | 2004  <br>
+Cervecería Alebrije - 2004  {.brewery}  <br>
   <br>
 [cerveceriaalebrije.com](http://cerveceriaalebrije.com) 
 
 Imperial Stout   • Dark IPA   • Sweet Stout   • Irish Red   • IPA   • Mulli Stout   • Agave Red Ale   • Kölsch   • Dort Honey  
 
-Beer Factory |   <br>
+Beer Factory -   {.brewery}  <br>
   <br>
 [www.beerfactory.com](http://www.beerfactory.com) 
 
@@ -243,19 +243,19 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 ##### Uncategorized (3)
 
 
-Cervecería Cosaco | 2000  <br>
+Cervecería Cosaco - 2000  {.brewery}  <br>
   <br>
 [www.cervezacosaco.com](http://www.cervezacosaco.com) 
 
 Cosaco Roja   • Cosaco Negra   • Cosaco Guera  
 
-Cervecería Hacienda |   <br>
+Cervecería Hacienda -   {.brewery}  <br>
   <br>
 [www.cerveceriahacienda.com](http://www.cerveceriahacienda.com) 
 
 Hidalgo   • Catrina   • Jaguar  
 
-Cerveza Benévolo | 2010  <br>
+Cerveza Benévolo - 2010  {.brewery}  <br>
 // Pachuca, Hidalgo  <br>
 [www.cervezabenevolo.com.mx](http://www.cervezabenevolo.com.mx) 
 
@@ -271,17 +271,17 @@ Cerveza Benévolo | 2010  <br>
 ##### Uncategorized (3)
 
 
-Cervecería Minerva | 2002  <br>
+Cervecería Minerva - 2002  {.brewery}  <br>
   <br>
 [www.cervezaminerva.mx](http://www.cervezaminerva.mx) 
 
 Minerva Colonial   • Minerva Viena (Oscura)   • Minerva Stout Imperial   • Minerva Pale Ale   • Minerva ITA (Imperial Tequila Ale)   • Minerva Diosa Blanca   • Minerva 8:60   • Minerva Lupe Reyes   • Malverde   • Minerva Rila  
 
-Cervecería Revolucion |   <br>
+Cervecería Revolucion -   {.brewery}  <br>
  
 
 
-Cervecería Ale & Ale |   <br>
+Cervecería Ale & Ale -   {.brewery}  <br>
  
 
 
@@ -295,11 +295,11 @@ Cervecería Ale & Ale |   <br>
 ##### Uncategorized (2)
 
 
-Cervecería Calavera |   <br>
+Cervecería Calavera -   {.brewery}  <br>
  
 Calavera Witbier   • Calavera American Pale Ale   • Calavera Smoky Scotish Ale 80/-   • Calavera Oktoberfest   • Calavera Mexican Imperial Stout   • Calavera Dubbel (de Abadia)   • Calavera Tripel (de Abadia)   • Calavera Barley Wine   • Calavera Schwarz   • Calavera Lovecraft   • Calavera Project X  
 
-Cervecería Jack |   <br>
+Cervecería Jack -   {.brewery}  <br>
  
 Jack Alebrije   • Jack Stout   • Jack Chocolate Sweet Stout   • Jack Clown Smile  
 
@@ -333,7 +333,7 @@ Jack Alebrije   • Jack Stout   • Jack Chocolate Sweet Stout   • Jack Clown
 ##### Monterrey 
 
 
-Cervecería Cuauhtémoc Moctezuma | 1890  <br>
+Cervecería Cuauhtémoc Moctezuma - 1890  {.brewery}  <br>
 Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 [www.cuamoc.com](http://www.cuamoc.com) 
 
@@ -343,15 +343,15 @@ Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 ##### Uncategorized (3)
 
 
-Especialidades Cerveceras |   <br>
+Especialidades Cerveceras -   {.brewery}  <br>
  
 Casta Bruna   • Casta Dorada   • Casta Milenia   • Casta Morena   • Casta Triguera   • Casta Unica  
 
-Cervecería Propaganda | 2012  <br>
+Cervecería Propaganda - 2012  {.brewery}  <br>
  
 
 
-Sierra Madre Brewing Co. | 1996  <br>
+Sierra Madre Brewing Co. - 1996  {.brewery}  <br>
 // Monterrey  <br>
 [www.smbc.com.mx](http://www.smbc.com.mx) 
 
@@ -367,11 +367,11 @@ Sierra Madre Brewing Co. | 1996  <br>
 ##### Uncategorized (2)
 
 
-Cervecería Camarada | 2009  <br>
+Cervecería Camarada - 2009  {.brewery}  <br>
  
 Camarada Schwarzbier   • Camarada Weissbier   • Santería   • Camarada Red Ale   • Camarada Pale      seasonal  
 
-Compañía Cervecera del Trópico / Grupo Modelo |   <br>
+Compañía Cervecera del Trópico / Grupo Modelo -   {.brewery}  <br>
 Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxtepec | Oax. | C.P. 68365 
 Montejo  
 
@@ -385,13 +385,13 @@ Montejo
 ##### Uncategorized (2)
 
 
-Cervecería Bayernbrau de México |   <br>
+Cervecería Bayernbrau de México -   {.brewery}  <br>
   <br>
 [www.bayernbrau.com|www.cervezaweissbier.mx](http://www.bayernbrau.com|www.cervezaweissbier.mx) 
 
 
 
-Cervecería Cholula |   <br>
+Cervecería Cholula -   {.brewery}  <br>
   <br>
 [www.cerveceriacholula.com](http://www.cerveceriacholula.com) 
 
@@ -407,19 +407,19 @@ Cervecería Cholula |   <br>
 ##### Uncategorized (3)
 
 
-Cervecería Querétaro |   <br>
+Cervecería Querétaro -   {.brewery}  <br>
   <br>
 [www.cervezaqueretaro.com](http://www.cervezaqueretaro.com) 
 
 
 
-Cervecería Amalias |   <br>
+Cervecería Amalias -   {.brewery}  <br>
   <br>
 [www.amalias.com.mx](http://www.amalias.com.mx) 
 
 Amalias Ambar   • Amalias Tezontle   • Amalias Obsidiana  
 
-Cervecería Josefa | 2011  <br>
+Cervecería Josefa - 2011  {.brewery}  <br>
   <br>
 [www.cerveceriajosefa.com](http://www.cerveceriajosefa.com) 
 
@@ -449,7 +449,7 @@ Cervecería Josefa | 2011  <br>
 ##### Uncategorized (1)
 
 
-Cervecería del Pacífico / Grupo Modelo |   <br>
+Cervecería del Pacífico / Grupo Modelo -   {.brewery}  <br>
 Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000 
 Pacifico   • Pacifico Light  
 
@@ -491,11 +491,11 @@ Pacifico   • Pacifico Light
 ##### Uncategorized (2)
 
 
-Cerveceria La Antigua |   <br>
+Cerveceria La Antigua -   {.brewery}  <br>
  
 
 
-Cerveza Criolla |   <br>
+Cerveza Criolla -   {.brewery}  <br>
   <br>
 [www.cervezacriolla.com.mx](http://www.cervezacriolla.com.mx) 
 

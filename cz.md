@@ -21,13 +21,13 @@ Pilsner Urquell   • Budweiser Budvar 10%            4%   • Budweiser Budvar 
 ##### Praha [Prague]  (2) 
 
 
-Pivovary Staropramen [Staropramen Brewery] | 1869  <br>
+Pivovary Staropramen [Staropramen Brewery] - 1869  {.brewery}  <br>
 Nádražní 84 // 150 54  Praha 5 - Smíchov, abinbev  <br>
 [www.staropramen.cz](http://www.staropramen.cz) 
 
 
 
-Pivovar Braník | 1899  <br>
+Pivovar Braník - 1899  {.brewery}  <br>
 Údolní 212/1 // 147 00 Praha 4 - Braník 
 
 
@@ -42,35 +42,35 @@ Pivovar Braník | 1899  <br>
 ##### Uncategorized (6)
 
 
-Pivovar Velké Popovice | 1874  <br>
+Pivovar Velké Popovice - 1874  {.brewery}  <br>
 Ringhofferova 1 // 251 69  Velké Popovice  <br>
 [www.beer-kozel.cz](http://www.beer-kozel.cz) 
 
 Kozel   • Kozel Medium 11°   • Kozel Premium   • Kozel Černý [Dark Lager]  
 
-Královský Pivovar Krušovice | 1581  <br>
+Královský Pivovar Krušovice - 1581  {.brewery}  <br>
 270 53 Krušovice //  <br>
 [www.krusovice.cz](http://www.krusovice.cz) 
 
 Krušovice 10°   • Krušovice 12°   • Krušovice Černé [Dark]   • Krušovice Mušketýr   • Krušovice Malvaz 13°  
 
-Pivovar Kutná Hora | 1573  <br>
+Pivovar Kutná Hora - 1573  {.brewery}  <br>
 U Lorce 11 // 284 15 Kutná Hora 
 
 
-Pivovar Nymburk | 1895  <br>
+Pivovar Nymburk - 1895  {.brewery}  <br>
 Pražská 581 // 288 25  Nymburk  <br>
 [www.postriziny.cz](http://www.postriziny.cz) 
 
 
 
-Lobkowiczký Pivovar Vysoký Chlumec | 1466  <br>
+Lobkowiczký Pivovar Vysoký Chlumec - 1466  {.brewery}  <br>
 Vysoký Chlumec // 262 52  Vysoký Chlumec  <br>
 [www.lobkowicz.cz](http://www.lobkowicz.cz) 
 
 
 
-Pivovar Klášter (Pivovary Lobkowicz) | 1570  <br>
+Pivovar Klášter (Pivovary Lobkowicz) - 1570  {.brewery}  <br>
 294 15 Klášter Hradiště nad Jizerou //  <br>
 [www.pivovarklaster.cz](http://www.pivovarklaster.cz) 
 
@@ -85,7 +85,7 @@ Pivovar Klášter (Pivovary Lobkowicz) | 1570  <br>
 ##### Budějovice [Budweis] 
 
 
-Budějovický Budvar [Budweiser Budvar Brewery] | 1895  <br>
+Budějovický Budvar [Budweiser Budvar Brewery] - 1895  {.brewery}  <br>
 Karoliny Světlé 4 // 370 21  České Budějovice  <br>
 [www.budvar.cz](http://www.budvar.cz) 
 
@@ -95,31 +95,31 @@ Karoliny Světlé 4 // 370 21  České Budějovice  <br>
 ##### Uncategorized (5)
 
 
-Budějovický Měšťanský Pivovar | 1795  <br>
+Budějovický Měšťanský Pivovar - 1795  {.brewery}  <br>
 37054 České Budějovice // Lidická 458/51  <br>
 [www.samson.cz](http://www.samson.cz) 
 
 
 
-Pivovar Eggenberg | 1560  <br>
+Pivovar Eggenberg - 1560  {.brewery}  <br>
 Latrán 27 // 381 01  Český Krumlov  <br>
 [www.eggenberg.cz](http://www.eggenberg.cz) 
 
 Eggenberg Světlé Výčepní   • Eggenberg Tmavý Ležák [Dark Lager]   • Eggenberg Světlý Ležák  
 
-Městský Pivovar Platan | 1598  <br>
+Městský Pivovar Platan - 1598  {.brewery}  <br>
 Pivovarská 168 // 389 12  Protivín  <br>
 [www.pivo-platan.cz](http://www.pivo-platan.cz) 
 
 
 
-Bohemia Regent | 1379  <br>
+Bohemia Regent - 1379  {.brewery}  <br>
 Trocnovské nám. 124 // 379 14  Třeboň  <br>
 [www.pivovar-regent.cz](http://www.pivovar-regent.cz) 
 
 
 
-Měšťanský Pivovar Strakonice | 1649  <br>
+Měšťanský Pivovar Strakonice - 1649  {.brewery}  <br>
 Podskalského 324 // 386 19  Strakonice  <br>
 [www.pivovar-strakonice.cz](http://www.pivovar-strakonice.cz) 
 
@@ -134,13 +134,13 @@ Podskalského 324 // 386 19  Strakonice  <br>
 ##### Plzeň [Pilsen]  (2) 
 
 
-Plzeňský Prazdroj [Pilsner Urquell Brewery] | 1839  <br>
+Plzeňský Prazdroj [Pilsner Urquell Brewery] - 1839  {.brewery}  <br>
 U Prazdroje 7 // 304 97  Plzeň  <br>
 [www.pilsner-urquell.cz](http://www.pilsner-urquell.cz) 
 
 
 
-Pivovar Gambrinus | 1869  <br>
+Pivovar Gambrinus - 1869  {.brewery}  <br>
 U Prazdroje 7 // 304 97  Plzeň  <br>
 [www.gambrinus.cz](http://www.gambrinus.cz) 
 
@@ -150,7 +150,7 @@ Gambrinus Nefitrovaný Ležák [Unfilted]   • Gambrinus Originál 10°   • G
 ##### Uncategorized (1)
 
 
-Chodovar | 1573  <br>
+Chodovar - 1573  {.brewery}  <br>
 Pivovarská 107 // 348 13  Chodová Planá  <br>
 [www.chodovar.cz](http://www.chodovar.cz) 
 
@@ -166,25 +166,25 @@ Chodovar Zlatý Ležák 11%   • Chodovar Pašerák Světlé   • Chodovar Pre
 ##### Uncategorized (4)
 
 
-Pivovar Broumov | 1348  <br>
+Pivovar Broumov - 1348  {.brewery}  <br>
 Tř.Osvobození 55 // 550 11  Broumov-Olivětín  <br>
 [www.pivovarbroumov.cz](http://www.pivovarbroumov.cz) 
 
 Opat Světlé Výčepní   • Opat Světlý Ležák   • Opat Tmavé Výčepní  
 
-Pivovar Náchod | 1872  <br>
+Pivovar Náchod - 1872  {.brewery}  <br>
 Dobrošovská 130 // 547 40 Náchod  <br>
 [www.primator.cz](http://www.primator.cz) 
 
 
 
-Městský Pivovar Nová Paka | 1872  <br>
+Městský Pivovar Nová Paka - 1872  {.brewery}  <br>
 Pivovarská 400 // 509 01 Nová Paka  <br>
 [www.novopackepivo.cz](http://www.novopackepivo.cz) 
 
 
 
-Pivovar Krakonoš Trutnov | 1582  <br>
+Pivovar Krakonoš Trutnov - 1582  {.brewery}  <br>
 Křižíkova 486 // 541 01  Trutnov  <br>
 [www.pivovar-krakonos.cz](http://www.pivovar-krakonos.cz) 
 
@@ -200,21 +200,21 @@ Křižíkova 486 // 541 01  Trutnov  <br>
 ##### Uncategorized (4)
 
 
-Pivovar Krásné Březno | 1867  <br>
+Pivovar Krásné Březno - 1867  {.brewery}  <br>
 Drážďanská 80 // 401 73  Ústí nad Labem  <br>
 [www.zlatopramen.cz](http://www.zlatopramen.cz) 
 
 Zlatopramen Světlé Výčepní   • Zlatopramen 11°  
 
-Pivovar Velké Březno | 1753  <br>
+Pivovar Velké Březno - 1753  {.brewery}  <br>
 Pivovarská 116 // 403 23  Velké Březno 
 
 
-Pivovar Louny | 1892  <br>
+Pivovar Louny - 1892  {.brewery}  <br>
 Říční 633 // 440 85 Louny 
 
 
-Žatecký Pivovar | 1801  <br>
+Žatecký Pivovar - 1801  {.brewery}  <br>
 Žižkovo náměstí 81 // 438 01 Žatec  <br>
 [www.zateckypivovar.cz](http://www.zateckypivovar.cz) 
 
@@ -230,13 +230,13 @@ Pivovar Louny | 1892  <br>
 ##### Uncategorized (2)
 
 
-Pivovar Vratislavice | 1872  <br>
+Pivovar Vratislavice - 1872  {.brewery}  <br>
 Pivovarská 164 // 463 11  Liberec 30  <br>
 [www.pivo-konrad.cz](http://www.pivo-konrad.cz) 
 
 
 
-Pivovar Svijany | 1564  <br>
+Pivovar Svijany - 1564  {.brewery}  <br>
 Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 [www.pivovarsvijany.cz](http://www.pivovarsvijany.cz) 
 
@@ -259,19 +259,19 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 ##### Uncategorized (3)
 
 
-Pivovar Pardubice | 1871  <br>
+Pivovar Pardubice - 1871  {.brewery}  <br>
 Palackého 250 // 530 33  Pardubice  <br>
 [www.pernstejn.cz](http://www.pernstejn.cz) 
 
 
 
-Měšťanský pivovar v Poličce | 1517  <br>
+Měšťanský pivovar v Poličce - 1517  {.brewery}  <br>
 Pivovarská 151 // 572 14  Polička  <br>
 [www.pivovar-policka.cz](http://www.pivovar-policka.cz) 
 
 
 
-Pivovar Rychtář (Pivovary Lobkowicz) | 1913  <br>
+Pivovar Rychtář (Pivovary Lobkowicz) - 1913  {.brewery}  <br>
 Resslova 260 // 539 01  Hlinsko v Čechách  <br>
 [www.rychtar.cz](http://www.rychtar.cz) 
 
@@ -286,7 +286,7 @@ Resslova 260 // 539 01  Hlinsko v Čechách  <br>
 ##### Brno 
 
 
-Pivovar Starobrno [Starobrno Brewery] | 1872  <br>
+Pivovar Starobrno [Starobrno Brewery] - 1872  {.brewery}  <br>
 Hlinky 12 // 661 47  Brno  <br>
 [www.starobrno.com](http://www.starobrno.com) 
 
@@ -296,19 +296,19 @@ Hlinky 12 // 661 47  Brno  <br>
 ##### Uncategorized (3)
 
 
-Pivovar Hostan | 1363  <br>
+Pivovar Hostan - 1363  {.brewery}  <br>
 Hradní 2 // 669 28  Znojmo  <br>
 [www.hostan.cz](http://www.hostan.cz) 
 
 Hostan Naše Pivko   • Hostan Hradní  
 
-Pivovar Černá Hora | 1530  <br>
+Pivovar Černá Hora - 1530  {.brewery}  <br>
 Černá Hora 3/5 // 679 21  Č. Hora  <br>
 [www.pivovarch.cz](http://www.pivovarch.cz) 
 
 Černá Hora (Světlý) Ležák 12%  
 
-Pivovar Vyškov | 1680  <br>
+Pivovar Vyškov - 1680  {.brewery}  <br>
 Čsl. armády 116/4 // 682 11  Vyškov  <br>
 [www.pivovyskov.cz](http://www.pivovyskov.cz) 
 
@@ -324,19 +324,19 @@ Pivovar Vyškov | 1680  <br>
 ##### Uncategorized (3)
 
 
-Bernard Pivo | 1551  <br>
+Bernard Pivo - 1551  {.brewery}  <br>
 5. května 1 // 396 01  Humpolec  <br>
 [www.bernard.cz](http://www.bernard.cz) 
 
 Bernard Sváteční Ležák   • Bernard Jantarový Ležák [Amber Lager]   • Bernard Černý Ležák [Dark Lager]   • Bernard Světlý Výčepní 10%   • Bernard Světlý Ležák 11%   • Bernard Světlý Ležák 12%   • Bernard Speciální Ležák 14% OX  
 
-Měšťanský Pivovar Havlíčkův Brod | 1834  <br>
+Měšťanský Pivovar Havlíčkův Brod - 1834  {.brewery}  <br>
 Dobrovského 2027 // 580 01  Havlíčkův Brod  <br>
 [www.hbrebel.cz](http://www.hbrebel.cz) 
 
 Rebel Originál Premium   • Rebel Černý [Dark]   • Czech Rebel Beer   • Rebel Tradiční  
 
-Pivovar a sodovkárna Jihlava (Pivovary Lobkowicz) | 1860  <br>
+Pivovar a sodovkárna Jihlava (Pivovary Lobkowicz) - 1860  {.brewery}  <br>
 Vrchlického 2 // 586 01  Jihlava  <br>
 [www.pivovar-jihlava.cz](http://www.pivovar-jihlava.cz) 
 
@@ -352,19 +352,19 @@ Vrchlického 2 // 586 01  Jihlava  <br>
 ##### Uncategorized (3)
 
 
-Pivovar Holba (PMS a.s. Přerov) | 1874  <br>
+Pivovar Holba (PMS a.s. Přerov) - 1874  {.brewery}  <br>
 Pivovarská 261 // 788 33 Hanušovice  <br>
 [www.holba.cz](http://www.holba.cz) 
 
 Holba Classic   • Holba Šerák   • Holba Premium  
 
-Pivovar Zubr (PMS a.s. Přerov) | 1872  <br>
+Pivovar Zubr (PMS a.s. Přerov) - 1872  {.brewery}  <br>
 Komenského 35 // 750 51 Přerov  <br>
 [www.zubr.cz](http://www.zubr.cz) 
 
 
 
-Pivovar Litovel (PMS a.s. Přerov) | 1893  <br>
+Pivovar Litovel (PMS a.s. Přerov) - 1893  {.brewery}  <br>
 Palackého 934 // 784 05  Litovel  <br>
 [www.litovel.cz](http://www.litovel.cz) 
 
@@ -380,7 +380,7 @@ Palackého 934 // 784 05  Litovel  <br>
 ##### Uncategorized (1)
 
 
-Pivovar Janáček (Pivovary Lobkowicz) | 1894  <br>
+Pivovar Janáček (Pivovary Lobkowicz) - 1894  {.brewery}  <br>
 Neradice 369 // 688 16 Uherský Brod  <br>
 [www.pivovar-janacek.cz](http://www.pivovar-janacek.cz) 
 
@@ -396,13 +396,13 @@ Neradice 369 // 688 16 Uherský Brod  <br>
 ##### Uncategorized (2)
 
 
-Pivovar Radegast | 1970  <br>
+Pivovar Radegast - 1970  {.brewery}  <br>
 Nošovice // 739 51  Nošovice  <br>
 [www.radegast.cz](http://www.radegast.cz) 
 
 Radegast Originál   • Radegast Premium   • Radegast Temně Hořký  
 
-Pivovar Ostravar | 1897  <br>
+Pivovar Ostravar - 1897  {.brewery}  <br>
 Hornopolní 57 // 728 25  Ostrava 1  <br>
 [www.ostravar.cz](http://www.ostravar.cz) 
 
