@@ -12,61 +12,61 @@ title: Contents
 
 ### Europe  {#europe}
 
-[Albania](al.html) (ALB) - 1 Beers, 0 Breweries <br>
-[Austria](at.html) (AUT) - 215 Beers, 88 Breweries <br>
-[Belarus](by.html) (BLR) - 3 Beers, 0 Breweries <br>
-[Belgium](be.html) (BEL) - 66 Beers, 85 Breweries <br>
-[Bosnia and Herzegovina](ba.html) (BIH) - 1 Beers, 0 Breweries <br>
-[Bulgaria](bg.html) (BUL) - 3 Beers, 0 Breweries <br>
-[Croatia](hr.html) (CRO) - 3 Beers, 0 Breweries <br>
-[Czech Republic](cz.html) (CZE) - 68 Beers, 43 Breweries <br>
-[Denmark](dk.html) (DEN) - 15 Beers, 0 Breweries <br>
-[England](en.html) (ENG) - 9 Beers, 1 Breweries <br>
-[Estonia](ee.html) (EST) - 2 Beers, 0 Breweries <br>
-[Finland](fi.html) (FIN) - 6 Beers, 0 Breweries <br>
-[France](fr.html) (FRA) - 31 Beers, 0 Breweries <br>
-[Germany](de.html) (GER) - 133 Beers, 770 Breweries <br>
-[Greece](gr.html) (GRE) - 3 Beers, 0 Breweries <br>
-[Hungary](hu.html) (HUN) - 3 Beers, 0 Breweries <br>
-[Iceland](is.html) (ISL) - 4 Beers, 0 Breweries <br>
-[Irland](ie.html) (IRL) - 11 Beers, 4 Breweries <br>
-[Italy](it.html) (ITA) - 60 Beers, 0 Breweries <br>
-[Latvija [Latvia]](lv.html) (LVA) - 1 Beers, 0 Breweries <br>
-[Liechtenstein](li.html) (LIE) - 1 Beers, 0 Breweries <br>
-[Lithuania](lt.html) (LTU) - 5 Beers, 0 Breweries <br>
-[Luxembourg](lu.html) (LUX) - 2 Beers, 0 Breweries <br>
-[Montenegro](me.html) (MNE) - 2 Beers, 0 Breweries <br>
-[Netherlands](nl.html) (NED) - 2 Beers, 33 Breweries <br>
-[Norway](no.html) (NOR) - 6 Beers, 0 Breweries <br>
-[Poland](pl.html) (POL) - 13 Beers, 0 Breweries <br>
-[Portugal](pt.html) (POR) - 4 Beers, 0 Breweries <br>
-[Romania](ro.html) (ROU) - 24 Beers, 5 Breweries <br>
-[Russia](ru.html) (RUS) - 1 Beers, 0 Breweries <br>
-[Serbia](rs.html) (SRB) - 1 Beers, 0 Breweries <br>
-[Slovakia](sk.html) (SVK) - 23 Beers, 16 Breweries <br>
-[Slovenia](si.html) (SVN) - 3 Beers, 0 Breweries <br>
-[Spain](es.html) (ESP) - 14 Beers, 0 Breweries <br>
-[Sweden](se.html) (SWE) - 7 Beers, 0 Breweries <br>
-[Switzerland](ch.html) (SUI) - 0 Beers, 23 Breweries <br>
-[Turkey](tr.html) (TUR) - 1 Beers, 0 Breweries <br>
-[Ukraine](ua.html) (UKR) - 1 Beers, 0 Breweries <br>
+[Albania (ALB)](al.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Austria (AUT)](at.html) - _215 Beers, 88 Breweries_{:.count}  <br>
+[Belarus (BLR)](by.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[Belgium (BEL)](be.html) - _66 Beers, 85 Breweries_{:.count}  <br>
+[Bosnia and Herzegovina (BIH)](ba.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Bulgaria (BUL)](bg.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[Croatia (CRO)](hr.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[Czech Republic (CZE)](cz.html) - _68 Beers, 43 Breweries_{:.count}  <br>
+[Denmark (DEN)](dk.html) - _15 Beers, 0 Breweries_{:.count}  <br>
+[England (ENG)](en.html) - _9 Beers, 1 Breweries_{:.count}  <br>
+[Estonia (EST)](ee.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Finland (FIN)](fi.html) - _6 Beers, 0 Breweries_{:.count}  <br>
+[France (FRA)](fr.html) - _31 Beers, 0 Breweries_{:.count}  <br>
+[Germany (GER)](de.html) - _133 Beers, 770 Breweries_{:.count}  <br>
+[Greece (GRE)](gr.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[Hungary (HUN)](hu.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[Iceland (ISL)](is.html) - _4 Beers, 0 Breweries_{:.count}  <br>
+[Irland (IRL)](ie.html) - _11 Beers, 4 Breweries_{:.count}  <br>
+[Italy (ITA)](it.html) - _60 Beers, 0 Breweries_{:.count}  <br>
+[Latvija [Latvia] (LVA)](lv.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Liechtenstein (LIE)](li.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Lithuania (LTU)](lt.html) - _5 Beers, 0 Breweries_{:.count}  <br>
+[Luxembourg (LUX)](lu.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Montenegro (MNE)](me.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Netherlands (NED)](nl.html) - _2 Beers, 33 Breweries_{:.count}  <br>
+[Norway (NOR)](no.html) - _6 Beers, 0 Breweries_{:.count}  <br>
+[Poland (POL)](pl.html) - _13 Beers, 0 Breweries_{:.count}  <br>
+[Portugal (POR)](pt.html) - _4 Beers, 0 Breweries_{:.count}  <br>
+[Romania (ROU)](ro.html) - _24 Beers, 5 Breweries_{:.count}  <br>
+[Russia (RUS)](ru.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Serbia (SRB)](rs.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Slovakia (SVK)](sk.html) - _23 Beers, 16 Breweries_{:.count}  <br>
+[Slovenia (SVN)](si.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[Spain (ESP)](es.html) - _14 Beers, 0 Breweries_{:.count}  <br>
+[Sweden (SWE)](se.html) - _7 Beers, 0 Breweries_{:.count}  <br>
+[Switzerland (SUI)](ch.html) - _0 Beers, 23 Breweries_{:.count}  <br>
+[Turkey (TUR)](tr.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Ukraine (UKR)](ua.html) - _1 Beers, 0 Breweries_{:.count}  <br>
 
 
 
 ### South America  {#south-america}
 
-[Argentina](ar.html) (ARG) - 10 Beers, 1 Breweries <br>
-[Brazil](br.html) (BRA) - 10 Beers, 1 Breweries <br>
-[Peru](pe.html) (PER) - 2 Beers, 0 Breweries <br>
-[Venezuela](ve.html) (VEN) - 1 Beers, 0 Breweries <br>
+[Argentina (ARG)](ar.html) - _10 Beers, 1 Breweries_{:.count}  <br>
+[Brazil (BRA)](br.html) - _10 Beers, 1 Breweries_{:.count}  <br>
+[Peru (PER)](pe.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Venezuela (VEN)](ve.html) - _1 Beers, 0 Breweries_{:.count}  <br>
 
 
 
 ### North America  {#north-america}
 
-[Canada](ca.html) (CAN) - 7 Beers, 10 Breweries <br>
-[México [Mexico]](mx.html) (MEX) - 179 Beers, 45 Breweries <br>
-[United States](us.html) (USA) - 61 Beers, 138 Breweries <br>
+[Canada (CAN)](ca.html) - _7 Beers, 10 Breweries_{:.count}  <br>
+[México [Mexico] (MEX)](mx.html) - _179 Beers, 45 Breweries_{:.count}  <br>
+[United States (USA)](us.html) - _61 Beers, 138 Breweries_{:.count}  <br>
 
 
 
@@ -77,21 +77,21 @@ title: Contents
 
 ### Caribbean  {#caribbean}
 
-[Cuba](cu.html) (CUB) - 4 Beers, 0 Breweries <br>
-[Jamaica](jm.html) (JAM) - 2 Beers, 0 Breweries <br>
-[Puerto Rico](pr.html) (PUR) - 1 Beers, 0 Breweries <br>
-[Trinidad and Tobago](tt.html) (TRI) - 2 Beers, 0 Breweries <br>
+[Cuba (CUB)](cu.html) - _4 Beers, 0 Breweries_{:.count}  <br>
+[Jamaica (JAM)](jm.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Puerto Rico (PUR)](pr.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Trinidad and Tobago (TRI)](tt.html) - _2 Beers, 0 Breweries_{:.count}  <br>
 
 
 
 ### Africa  {#africa}
 
-[Egypt](eg.html) (EGY) - 3 Beers, 0 Breweries <br>
-[Ethiopia](et.html) (ETH) - 2 Beers, 0 Breweries <br>
-[Kenya](ke.html) (KEN) - 2 Beers, 0 Breweries <br>
-[Mozambique](mz.html) (MOZ) - 1 Beers, 0 Breweries <br>
-[Namibia](na.html) (NAM) - 2 Beers, 0 Breweries <br>
-[South Africa](za.html) (RSA) - 6 Beers, 0 Breweries <br>
+[Egypt (EGY)](eg.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[Ethiopia (ETH)](et.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Kenya (KEN)](ke.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Mozambique (MOZ)](mz.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Namibia (NAM)](na.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[South Africa (RSA)](za.html) - _6 Beers, 0 Breweries_{:.count}  <br>
 
 
 
@@ -102,22 +102,22 @@ title: Contents
 
 ### Asia & Australia  {#asia--australia}
 
-[Australia](au.html) (AUS) - 51 Beers, 13 Breweries <br>
-[Cambodia](kh.html) (CAM) - 10 Beers, 0 Breweries <br>
-[Japan](jp.html) (JPN) - 24 Beers, 3 Breweries <br>
-[Laos](la.html) (LAO) - 2 Beers, 0 Breweries <br>
-[Philippines](ph.html) (PHI) - 2 Beers, 0 Breweries <br>
-[Singapore](sg.html) (SIN) - 3 Beers, 0 Breweries <br>
-[South Korea](kr.html) (KOR) - 1 Beers, 0 Breweries <br>
-[Sri Lanka](lk.html) (SRI) - 1 Beers, 0 Breweries <br>
-[Thailand](th.html) (THA) - 2 Beers, 0 Breweries <br>
-[Vietnam](vn.html) (VIE) - 1 Beers, 0 Breweries <br>
+[Australia (AUS)](au.html) - _51 Beers, 13 Breweries_{:.count}  <br>
+[Cambodia (CAM)](kh.html) - _10 Beers, 0 Breweries_{:.count}  <br>
+[Japan (JPN)](jp.html) - _24 Beers, 3 Breweries_{:.count}  <br>
+[Laos (LAO)](la.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Philippines (PHI)](ph.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Singapore (SIN)](sg.html) - _3 Beers, 0 Breweries_{:.count}  <br>
+[South Korea (KOR)](kr.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Sri Lanka (SRI)](lk.html) - _1 Beers, 0 Breweries_{:.count}  <br>
+[Thailand (THA)](th.html) - _2 Beers, 0 Breweries_{:.count}  <br>
+[Vietnam (VIE)](vn.html) - _1 Beers, 0 Breweries_{:.count}  <br>
 
 
 
 ### Pacific  {#pacific}
 
-[New Zealand](nz.html) (NZL) - 17 Beers, 0 Breweries <br>
+[New Zealand (NZL)](nz.html) - _17 Beers, 0 Breweries_{:.count}  <br>
 
 
 

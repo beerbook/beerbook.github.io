@@ -6,7 +6,7 @@ title: Germany (GER)
 
 ## Germany (GER) - 133 Beers, 770 Breweries
 
-[Baden-Württemberg](#bw) (7) • [Bayern [Bavaria]](#by) (566) • [Berlin](#be) (21) • [Brandenburg](#bb) (14) • [Bremen](#hb) (4) • [Hamburg](#hh) (6) • [Hessen [Hesse]](#he) (28) • [Mecklenburg-Vorpommern](#mv) (7) • [Niedersachsen [Lower Saxony]](#ni) (25) • [Nordrhein-Westfalen [North Rhine-Westphalia]](#nw) (9) • [Rheinland-Pfalz [Rhineland-Palatinate]](#rp) (17) • [Saarland](#sl) (0) • [Sachsen [Saxony]](#sn) (28) • [Sachsen-Anhalt [Saxony-Anhalt]](#st) (10) • [Schleswig-Holstein](#sh) (13) • [Thüringen [Thuringia]](#th) (15)
+[Baden-Württemberg](#bw) _(7)_{:.count} • [Bayern [Bavaria]](#by) _(566)_{:.count} • [Berlin](#be) _(21)_{:.count} • [Brandenburg](#bb) _(14)_{:.count} • [Bremen](#hb) _(4)_{:.count} • [Hamburg](#hh) _(6)_{:.count} • [Hessen [Hesse]](#he) _(28)_{:.count} • [Mecklenburg-Vorpommern](#mv) _(7)_{:.count} • [Niedersachsen [Lower Saxony]](#ni) _(25)_{:.count} • [Nordrhein-Westfalen [North Rhine-Westphalia]](#nw) _(9)_{:.count} • [Rheinland-Pfalz [Rhineland-Palatinate]](#rp) _(17)_{:.count} • [Saarland](#sl) _(0)_{:.count} • [Sachsen [Saxony]](#sn) _(28)_{:.count} • [Sachsen-Anhalt [Saxony-Anhalt]](#st) _(10)_{:.count} • [Schleswig-Holstein](#sh) _(13)_{:.count} • [Thüringen [Thuringia]](#th) _(15)_{:.count}
 
 ### Uncategorized Beers
 
@@ -14,5317 +14,5900 @@ Beck's Pilsner   • Beck's Gold   • Warsteiner   • Berliner Kindl Pils   �
 
 
 
-### Baden-Württemberg (7) {#bw}
 
-[Gaildorf](#gaildorf) • [Grafenhausen-Rothaus](#grafenhausenrothaus) • [Mannheim](#mannheim) • [Stuttgart](#stuttgart) (3) • [Waldhaus](#waldhaus)
+### Baden-Württemberg _(7)_{:.count} {#bw}
+
+[Gaildorf](#gaildorf) • [Grafenhausen-Rothaus](#grafenhausenrothaus) • [Mannheim](#mannheim) • [Stuttgart](#stuttgart) _(3)_{:.count} • [Waldhaus](#waldhaus)
 
 ##### Gaildorf 
 
 
-Brauerei Eugen Häberlen - 1875  {.brewery}  <br>
+Brauerei Eugen Häberlen - 1875  <br>
 74405 Gaildorf // Karlstraße 66  <br>
-[www.brauerei-haeberlen.de](http://www.brauerei-haeberlen.de) 
-
+[www.brauerei-haeberlen.de](http://www.brauerei-haeberlen.de)  <br>
+{:.brewery}
 
 
 ##### Grafenhausen-Rothaus 
 
 
-Badische Staatsbrauerei Rothaus - 1791  {.brewery}  <br>
+Badische Staatsbrauerei Rothaus - 1791  <br>
 79865 Grafenhausen-Rothaus // Rothaus 1  <br>
-[www.rothaus.de](http://www.rothaus.de) 
-
+[www.rothaus.de](http://www.rothaus.de)  <br>
+{:.brewery}
 
 
 ##### Mannheim 
 
 
-Privatbrauerei Eichbaum - 1679  {.brewery}  <br>
+Privatbrauerei Eichbaum - 1679  <br>
 68167 Mannheim // Käfertaler Straße 170  <br>
-[www.eichbaum.de](http://www.eichbaum.de) 
+[www.eichbaum.de](http://www.eichbaum.de)  <br>
+{:.brewery}
 
 
+##### Stuttgart  _(3)_{:.count} 
 
-##### Stuttgart  (3) 
 
-
-Dinkelacker - 1888  {.brewery}  <br>
+Dinkelacker - 1888  <br>
 70178 Stuttgart // Tübinger Straße 48  <br>
-[www.dinkelacker.de](http://www.dinkelacker.de) 
+[www.dinkelacker.de](http://www.dinkelacker.de)  <br>
+{:.brewery}
 
 
-
-Schwabenbräu - 1878  {.brewery}  <br>
+Schwabenbräu - 1878  <br>
 70178 Stuttgart // Tübinger Straße 46  <br>
-[www.schwabenbraeu.de](http://www.schwabenbraeu.de) 
+[www.schwabenbraeu.de](http://www.schwabenbraeu.de)  <br>
+{:.brewery}
 
 
-
-Stuttgarter Hofbräu - 1872  {.brewery}  <br>
+Stuttgarter Hofbräu - 1872  <br>
 70199 Stuttgart // Böblinger Straße 104  <br>
-[www.stuttgarter-hofbraeu.de](http://www.stuttgarter-hofbraeu.de) 
-
+[www.stuttgarter-hofbraeu.de](http://www.stuttgarter-hofbraeu.de)  <br>
+{:.brewery}
 
 
 ##### Waldhaus 
 
 
-Privatbrauerei Waldhaus - 1833  {.brewery}  <br>
+Privatbrauerei Waldhaus - 1833  <br>
 79809 Waldhaus // Waldhaus 1  <br>
-[www.waldhaus-bier.de](http://www.waldhaus-bier.de) 
+[www.waldhaus-bier.de](http://www.waldhaus-bier.de)  <br>
+{:.brewery}
 
 
 
 
 
+### Bayern [Bavaria] _(566)_{:.count} {#by}
 
-### Bayern [Bavaria] (566) {#by}
+[Abensberg](#abensberg) _(4)_{:.count} • [Adelsdorf-Aisch](#adelsdorfaisch) • [Adelsdorf-Neuhaus](#adelsdorfneuhaus) _(2)_{:.count} • [Adelsried](#adelsried) • [Ahorntal](#ahorntal) _(2)_{:.count} • [Aichach (Schloss Blumenthal)](#aichach) _(2)_{:.count} • [Aichach-Oberbernbach](#aichachoberbernbach) • [Aichach-Obermauerbach](#aichachobermauerbach) • [Aidenbach](#aidenbach) • [Albertshofen](#albertshofen) • [Aldersbach](#aldersbach) • [Altenkunstadt](#altenkunstadt) • [Altenmarkt an der Alz](#altenmarktanderalz) • [Altenstadt](#altenstadt) • [Altomünster](#altomuenster) _(2)_{:.count} • [Altötting](#altoetting) • [Amberg](#amberg) _(5)_{:.count} • [Andechs](#andechs) • [Apfeltrang](#apfeltrang) • [Appendorf](#appendorf) • [Arnschwang](#arnschwang) • [Arnstein](#arnstein) • [Arnstorf](#arnstorf) • [Arnstorf-Mariakirchen](#arnstorfmariakirchen) • [Aschaffenburg-Schweinheim](#aschaffenburgschweinheim) • [Aschau](#aschau) • [Au in der Hallertau](#auinderhallertau) • [Aufseß](#aufsess) _(3)_{:.count} • [Augsburg](#augsburg) _(5)_{:.count} • [Aying](#aying) • [Baar](#baar) • [Bad Abbach-Oberndorf](#badabbachoberndorf) • [Bad Kissingen-Arnshausen](#badkissingenarnshausen) • [Bad Kissingen-Garitz](#badkissingengaritz) • [Bad Kötzting](#badkoetzting) • [Bad Reichenhall](#badreichenhall) • [Bad Rodach](#badrodach) • [Bad Staffelstein-Frauendorf](#badstaffelsteinfrauendorf) • [Bad Staffelstein-Loffeld](#badstaffelsteinloffeld) • [Bad Staffelstein-Nedensdorf](#badstaffelsteinnedensdorf) • [Bad Staffelstein-Stublang](#badstaffelsteinstublang) _(2)_{:.count} • [Bad Staffelstein-Uetzing](#badstaffelsteinuetzing) • [Bad Staffelstein-Vierzehnheiligen](#badstaffelsteinvierzehnheiligen) • [Bad Staffelstein-Wiesen](#badstaffelsteinwiesen) _(2)_{:.count} • [Bad Tölz](#badtoelz) _(2)_{:.count} • [Bad Windsheim](#badwindsheim) _(3)_{:.count} • [Bad Wörishofen](#badwoerishofen) • [Bamberg](#bamberg) _(10)_{:.count} • [Bayreuth](#bayreuth) _(6)_{:.count} • [Berching](#berching) • [Berchtesgaden](#berchtesgaden) • [Bergen-Thalmannsfeld](#bergenthalmannsfeld) • [Biberach](#biberach) • [Bichl](#bichl) • [Bischberg](#bischberg) • [Bischofsheim an der Rhön](#bischofsheimanderrhoen) • [Bockhorn (Oberbayern)-Grünbach](#bockhorngruenbach) • [Bodenkirchen](#bodenkirchen) • [Bodenmais](#bodenmais) • [Bodenwöhr](#bodenwoehr) • [Breitengüßbach](#breitenguessbach) • [Bruckberg](#bruckberg) _(2)_{:.count} • [Bruckmühl](#bruckmuehl) • [Burgebrach](#burgebrach) _(2)_{:.count} • [Burgebrach-Ampferbach](#burgebrachampferbach) • [Burgkunstadt](#burgkunstadt) • [Buttenheim](#buttenheim) _(3)_{:.count} • [Böbrach](#boebrach) • [Cham](#cham) _(2)_{:.count} • [Cham-Thierlstein](#chamthierlstein) • [Creussen-Lindenhardt](#creussenlindenhardt) • [Debring](#debring) • [Deuerling](#deuerling) • [Dingolfing](#dingolfing) • [Dinkelsbühl](#dinkelsbuehl) _(3)_{:.count} • [Dorfen](#dorfen) _(2)_{:.count} • [Drachselsried](#drachselsried) _(2)_{:.count} • [Ebensfeld](#ebensfeld) _(2)_{:.count} • [Ebing](#ebing) • [Edelsfeld](#edelsfeld) • [Eggenfelden-Spanberg](#eggenfeldenspanberg) • [Eggolsheim](#eggolsheim) • [Eggolsheim-Weigelshofen](#eggolsheimweigelshofen) • [Eichendorf-Adldorf](#eichendorfadldorf) • [Eichstätt](#eichstaett) • [Eitting](#eitting) • [Ellingen](#ellingen) • [Elsendorf-Horneck](#elsendorfhorneck) • [Eltmann-Eschenbach](#eltmanneschenbach) • [Eltmann-Roßstadt](#eltmannrossstadt) • [Erding](#erding) _(2)_{:.count} • [Erharting](#erharting) • [Erlangen](#erlangen) _(2)_{:.count} • [Eslarn](#eslarn) • [Essing](#essing) • [Ettal](#ettal) • [Etzelwang](#etzelwang) • [Eurasburg](#eurasburg) • [Feldkirchen-Riem](#feldkirchenriem) • [Flughafen München](#flughafenmuenchen) • [Forchheim](#forchheim) _(4)_{:.count} • [Frammersbach](#frammersbach) • [Freilassing](#freilassing) • [Freising](#freising) _(2)_{:.count} • [Frensdorf-Reundorf](#frensdorfreundorf) • [Frensdorf-Untergreuth](#frensdorfuntergreuth) • [Freudenberg](#freudenberg) • [Freystadt](#freystadt) • [Freyung](#freyung) • [Fridolfing](#fridolfing) • [Friedberg](#friedberg) • [Friedenfels](#friedenfels) • [Frontenhausen](#frontenhausen) _(2)_{:.count} • [Furth](#furth) • [Furth im Wald](#furthimwald) _(2)_{:.count} • [Fürstenfeldbruck](#fuerstenfeldbruck) • [Gangkofen-Seemannshausen](#gangkofenseemannshausen) • [Geiselhöring](#geiselhoering) • [Gessertshausen](#gessertshausen) • [Glonn](#glonn) • [Gnodstadt](#gnodstadt) • [Grafenau](#grafenau) • [Grafing bei München](#grafingbeimuenchen) • [Großheirath-Rossach](#grossheirathrossach) • [Großostheim](#grossostheim) • [Gräfenberg](#graefenberg) _(4)_{:.count} • [Gunzendorf](#gunzendorf) • [Gunzenhausen](#gunzenhausen) • [Gutenstetten](#gutenstetten) • [Günzburg](#guenzburg) _(2)_{:.count} • [Haag in Oberbayern](#haaginoberbayern) • [Haimhausen](#haimhausen) • [Halfing](#halfing) • [Hallerndorf](#hallerndorf) _(6)_{:.count} • [Hallstadt](#hallstadt) • [Hausen-Herrnwahlthann](#hausenherrnwahlthann) • [Heiligenstadt](#heiligenstadt) _(2)_{:.count} • [Heimenkirch](#heimenkirch) • [Hemau](#hemau) • [Herrngiersdorf](#herrngiersdorf) • [Hersbruck](#hersbruck) • [Herzogenaurach](#herzogenaurach) • [Hirschaid](#hirschaid) • [Hirschau](#hirschau) • [Hof](#hof) _(2)_{:.count} • [Hofheim](#hofheim) • [Hohenthann](#hohenthann) • [Holzhausen bei Buchloe](#holzhausenbeibuchloe) • [Holzheim-Neuhausen](#holzheimneuhausen) • [Holzkirchen](#holzkirchen) • [Hutthurm](#hutthurm) • [Höchstadt](#hoechstadt) • [Höchstadt an der Aisch-Greuth](#hoechstadtanderaischgreuth) • [Ichenhausen-Autenried](#ichenhausenautenried) _(2)_{:.count} • [Illerberg](#illerberg) • [Illertissen](#illertissen) • [Ingolstadt](#ingolstadt) _(5)_{:.count} • [Irlbach](#irlbach) • [Irsee](#irsee) • [Itzgrund](#itzgrund) • [Jandelsbrunn](#jandelsbrunn) • [Jochsberg bei Leutershausen](#jochsbergbeileutershausen) • [Kammerstein-Barthelmesaurach](#kammersteinbarthelmesaurach) • [Karlstadt-Stadelhofen](#karlstadtstadelhofen) • [Kaufbeuren](#kaufbeuren) _(2)_{:.count} • [Kelheim](#kelheim) _(2)_{:.count} • [Kelheim-Weltenburg](#kelheimweltenburg) • [Kemmern](#kemmern) • [Kemnath](#kemnath) • [Kempten](#kempten) • [Kirchenthumbach](#kirchenthumbach) • [Konzell](#konzell) • [Krautheim](#krautheim) • [Kreuzwertheim](#kreuzwertheim) • [Kronach](#kronach) _(2)_{:.count} • [Kronburg](#kronburg) • [Kulmbach](#kulmbach) _(3)_{:.count} • [Kutzenhausen](#kutzenhausen) • [Königsberg in Bayern-Unfinden](#koenigsberginbayernunfinden) • [Königsfeld](#koenigsfeld) • [Kößlarn](#koesslarn) • [Kühbach](#kuehbach) _(2)_{:.count} • [Laaber](#laaber) • [Landau an der Isar](#landauanderisar) _(2)_{:.count} • [Landshut](#landshut) _(2)_{:.count} • [Lauf an der Pegnitz](#laufanderpegnitz) _(2)_{:.count} • [Lauf-Neunhof](#laufneunhof) • [Leinburg](#leinburg) • [Leipheim](#leipheim) _(2)_{:.count} • [Leutenbach](#leutenbach) _(2)_{:.count} • [Leuterschach](#leuterschach) • [Lichtenau](#lichtenau) • [Lichtenberg](#lichtenberg) • [Lichtenfels](#lichtenfels) _(2)_{:.count} • [Litzendorf-Lohndorf](#litzendorflohndorf) _(2)_{:.count} • [Litzendorf-Melkendorf](#litzendorfmelkendorf) • [Litzendorf-Tiefenellern](#litzendorftiefenellern) • [Mainburg](#mainburg) • [Maisach](#maisach) • [Malgersdorf-Heilmfurt](#malgersdorfheilmfurt) • [Mallersdorf](#mallersdorf) • [Markt Schwaben](#marktschwaben) • [Marktheidenfeld](#marktheidenfeld) • [Marktredwitz](#marktredwitz) • [Marktsteft](#marktsteft) • [Maroldsweisach](#maroldsweisach) • [Maxlrain](#maxlrain) • [Memmelsdorf](#memmelsdorf) _(2)_{:.count} • [Memmelsdorf-Drosendorf](#memmelsdorfdrosendorf) • [Memmelsdorf-Merkendorf](#memmelsdorfmerkendorf) • [Memmingen](#memmingen) • [Merkendorf](#merkendorf) • [Meßhofen](#messhofen) • [Michelsneukirchen](#michelsneukirchen) • [Miesbach](#miesbach) • [Miltenberg](#miltenberg) • [Mindelheim](#mindelheim) • [Missen](#missen) • [Mittenwald](#mittenwald) • [Mitterteich](#mitterteich) _(2)_{:.count} • [Mitwitz](#mitwitz) • [Moos](#moos) • [Moosbach](#moosbach) • [Motten](#motten) • [Murnau](#murnau) • [Murnau am Staffelsee](#murnauamstaffelsee) • [Mönchsambach](#moenchsambach) • [Mühldorf am Inn](#muehldorfaminn) _(2)_{:.count} • [Mühlhausen](#muehlhausen) • [München](#muenchen) _(9)_{:.count} • [München-Neuhausen](#muenchenneuhausen) • [Münchsteinach](#muenchsteinach) • [Naila](#naila) • [Nennslingen](#nennslingen) • [Nesselwang](#nesselwang) • [Neu-Ulm](#neuulm) • [Neu-Ulm-Offenhausen](#neuulmoffenhausen) • [Neu-Ulm-Reutti](#neuulmreutti) • [Neuburg an der Donau](#neuburganderdonau) • [Neuhaus an der Pegnitz](#neuhausanderpegnitz) _(3)_{:.count} • [Neukirchen bei Sulzbach-Rosenberg](#neukirchenbeisulzbachrosenberg) • [Neumarkt](#neumarkt) • [Neumarkt in der Oberpfalz](#neumarktinderoberpfalz) _(2)_{:.count} • [Neunburg vorm Wald](#neunburgvormwald) • [Neunkirchen am Brand](#neunkirchenambrand) • [Neunkirchen am Sand](#neunkirchenamsand) • [Neureichenau-Riedelsbach](#neureichenauriedelsbach) • [Neustadt an der Aisch](#neustadtanderaisch) • [Neusäß-Steppach](#neusaesssteppach) • [Nittenau](#nittenau) • [Nittendorf](#nittendorf) • [Nördlingen](#noerdlingen) _(2)_{:.count} • [Nürnberg](#nuernberg) _(5)_{:.count} • [Oberammergau](#oberammergau) • [Oberaurach-Trossenfurt](#oberaurachtrossenfurt) • [Oberelsbach](#oberelsbach) • [Oberhaching-Deisenhofen](#oberhachingdeisenhofen) • [Oberhaid](#oberhaid) _(2)_{:.count} • [Oberkotzau-Fattigau](#oberkotzaufattigau) • [Oberreichenbach](#oberreichenbach) • [Obertaufkirchen](#obertaufkirchen) • [Ochsenfurt](#ochsenfurt) _(2)_{:.count} • [Odelzhausen](#odelzhausen) • [Oettingen](#oettingen) • [Osterberg](#osterberg) • [Ostheim vor der Rhön](#ostheimvorderrhoen) _(2)_{:.count} • [Ottobeuren](#ottobeuren) • [Pahres](#pahres) • [Pappenheim-Bieswang](#pappenheimbieswang) • [Pappenheim-Zimmern](#pappenheimzimmern) • [Passau](#passau) _(2)_{:.count} • [Passau-Ries](#passauries) • [Pegnitz](#pegnitz) _(3)_{:.count} • [Pegnitz-Büchenbach](#pegnitzbuechenbach) • [Pettendorf](#pettendorf) • [Petting/Schönram](#pettingschoenram) • [Pfaffenberg](#pfaffenberg) • [Pfaffenhofen an der Ilm](#pfaffenhofenanderilm) _(2)_{:.count} • [Pfaffing-Forsting](#pfaffingforsting) • [Pfeffenhausen](#pfeffenhausen) _(2)_{:.count} • [Pfronten](#pfronten) • [Pilsting-Großköllnbach](#pilstinggrosskoellnbach) • [Pirk](#pirk) • [Plattling](#plattling) • [Plößberg](#ploessberg) • [Pommersfelden](#pommersfelden) • [Pottenstein](#pottenstein) _(3)_{:.count} • [Pretzfeld](#pretzfeld) _(3)_{:.count} • [Priesendorf](#priesendorf) • [Pullach-Großhesselohe](#pullachgrosshesselohe) • [Pörnbach](#poernbach) • [Pösing](#poesing) • [Raigering](#raigering) • [Rammingen](#rammingen) • [Rattelsdorf](#rattelsdorf) _(2)_{:.count} • [Rauhenebrach-Theinheim](#rauhenebrachtheinheim) • [Reckendorf](#reckendorf) _(2)_{:.count} • [Regen](#regen) • [Regensburg](#regensburg) _(4)_{:.count} • [Rehling](#rehling) • [Reischach](#reischach) • [Rettenberg](#rettenberg) _(2)_{:.count} • [Reuth bei Erbendorf](#reuthbeierbendorf) • [Ried bei Markt Indersdorf](#riedbeimarktindersdorf) • [Riedenburg](#riedenburg) _(2)_{:.count} • [Rosenheim](#rosenheim) _(3)_{:.count} • [Roth vor der Rhön](#rothvorderrhoen) • [Roßdorf am Forst](#rossdorfamforst) • [Ruderatshofen](#ruderatshofen) • [Runding](#runding) • [Röbersdorf](#roebersdorf) • [Rödental](#roedental) • [Röttenbach (bei Erlangen)](#roettenbach) • [Rötz](#roetz) • [Rüdenhausen](#ruedenhausen) • [Saal an der Saale-Waltershausen](#saalandersaalewaltershausen) • [Sachsendorf](#sachsendorf) • [Sachsenkam-Reutberg](#sachsenkamreutberg) • [Salz](#salz) • [Sandersdorf](#sandersdorf) • [Sankt Wolfgang](#sanktwolfgang) • [Schammelsdorf](#schammelsdorf) • [Scheyern](#scheyern) • [Scheßlitz](#schesslitz) _(2)_{:.count} • [Schierling](#schierling) • [Schlammersdorf](#schlammersdorf) • [Schloss Haselbach](#schlosshaselbach) • [Schlüsselfeld](#schluesselfeld) _(3)_{:.count} • [Schnaitsee](#schnaitsee) • [Schnaittach](#schnaittach) _(2)_{:.count} • [Schnaittach-Enzenreuth](#schnaittachenzenreuth) • [Schonungen-Hausen](#schonungenhausen) • [Schwandorf](#schwandorf) • [Schwangau](#schwangau) • [Schwarzach](#schwarzach) • [Schweinfurt](#schweinfurt) _(2)_{:.count} • [Schöllkrippen](#schoellkrippen) • [Schönbrunn-Zettmannsdorf](#schoenbrunnzettmannsdorf) • [Schönthal](#schoenthal) • [Seinsheim](#seinsheim) • [Selb](#selb) • [Seßlach](#sesslach) • [Seßlach-Heilgersdorf](#sesslachheilgersdorf) • [Siegenburg](#siegenburg) • [Solnhofen-Hochholz](#solnhofenhochholz) • [Sonthofen](#sonthofen) • [Spalt](#spalt) • [Speiden](#speiden) • [Spiegelau-Klingenbrunn](#spiegelauklingenbrunn) • [Stadelhofen](#stadelhofen) • [Stadelhofen-Schederndorf](#stadelhofenschederndorf) • [Stadtsteinach](#stadtsteinach) • [Stegaurach](#stegaurach) • [Stegaurach-Mühlendorf](#stegaurachmuehlendorf) • [Stein an der Traun](#steinandertraun) • [Steinfeld-Waldzell](#steinfeldwaldzell) • [Steinsfeld-Reichelshofen](#steinsfeldreichelshofen) • [Stettfeld](#stettfeld) • [Straubing](#straubing) _(2)_{:.count} • [Straßkirchen (Salzweg)](#strasskirchen) • [Strullendorf-Geisfeld](#strullendorfgeisfeld) _(2)_{:.count} • [Sulzbach-Rosenberg](#sulzbachrosenberg) _(2)_{:.count} • [Tacherting](#tacherting) • [Taufkirchen (Vils)](#taufkirchen) • [Tegernsee](#tegernsee) • [Teisendorf](#teisendorf) • [Teisnach](#teisnach) • [Teunz](#teunz) • [Thalmässing-Pyras](#thalmaessingpyras) • [Thannhausen](#thannhausen) • [Thüngen](#thuengen) • [Titting](#titting) • [Trabelsdorf](#trabelsdorf) • [Traitsching-Loifling](#traitschingloifling) • [Traunstein](#traunstein) _(4)_{:.count} • [Trebgast](#trebgast) • [Triefenstein-Homburg](#triefensteinhomburg) • [Truchtlaching](#truchtlaching) • [Tüßling](#tuessling) • [Uehlfeld](#uehlfeld) _(2)_{:.count} • [Unterneukirchen](#unterneukirchen) • [Untersiemau](#untersiemau) • [Untersiemau-Birkach am Forst](#untersiemaubirkachamforst) • [Ursberg](#ursberg) • [Ustersbach](#ustersbach) • [Velburg-Lengenfeld](#velburglengenfeld) • [Velden](#velden) • [Viechtach](#viechtach) • [Viereth-Trunstadt](#vierethtrunstadt) _(2)_{:.count} • [Vilseck](#vilseck) • [Vilshofen an der Donau](#vilshofenanderdonau) • [Vohenstrauß](#vohenstrauss) • [Waischenfeld](#waischenfeld) _(3)_{:.count} • [Walkertshofen](#walkertshofen) • [Wallerstein](#wallerstein) • [Warmensteinach](#warmensteinach) • [Wartenberg](#wartenberg) • [Wassertrüdingen-Fürnheim](#wassertruedingenfuernheim) • [Wattendorf](#wattendorf) _(2)_{:.count} • [Weiden in der Oberpfalz](#weideninderoberpfalz) • [Weihmichl](#weihmichl) • [Weiler-Simmerberg](#weilersimmerberg) • [Weilheim in Oberbayern](#weilheiminoberbayern) • [Weismain](#weismain) • [Weissenstadt](#weissenstadt) • [Weißenbrunn](#weissenbrunn) • [Weißenburg in Bayern](#weissenburginbayern) _(2)_{:.count} • [Weißenohe](#weissenohe) • [Werneck](#werneck) • [Wertingen](#wertingen) • [Wettelsheim](#wettelsheim) • [Weyarn](#weyarn) • [Wiesen](#wiesen) • [Wildenberg](#wildenberg) • [Windischeschenbach](#windischeschenbach) • [Wolnzach](#wolnzach) • [Wunsiedel](#wunsiedel) • [Wunsiedel-Schönbrunn](#wunsiedelschoenbrunn) • [Würgau](#wuergau) • [Würzburg](#wuerzburg) _(2)_{:.count} • [Zeil am Main](#zeilammain) • [Zentbechhofen-Höchstadt](#zentbechhofenhoechstadt) • [Zirndorf](#zirndorf) • [Zwiesel](#zwiesel) _(2)_{:.count}
 
-[Abensberg](#abensberg) (4) • [Adelsdorf-Aisch](#adelsdorfaisch) • [Adelsdorf-Neuhaus](#adelsdorfneuhaus) (2) • [Adelsried](#adelsried) • [Ahorntal](#ahorntal) (2) • [Aichach (Schloss Blumenthal)](#aichach) (2) • [Aichach-Oberbernbach](#aichachoberbernbach) • [Aichach-Obermauerbach](#aichachobermauerbach) • [Aidenbach](#aidenbach) • [Albertshofen](#albertshofen) • [Aldersbach](#aldersbach) • [Altenkunstadt](#altenkunstadt) • [Altenmarkt an der Alz](#altenmarktanderalz) • [Altenstadt](#altenstadt) • [Altomünster](#altomuenster) (2) • [Altötting](#altoetting) • [Amberg](#amberg) (5) • [Andechs](#andechs) • [Apfeltrang](#apfeltrang) • [Appendorf](#appendorf) • [Arnschwang](#arnschwang) • [Arnstein](#arnstein) • [Arnstorf](#arnstorf) • [Arnstorf-Mariakirchen](#arnstorfmariakirchen) • [Aschaffenburg-Schweinheim](#aschaffenburgschweinheim) • [Aschau](#aschau) • [Au in der Hallertau](#auinderhallertau) • [Aufseß](#aufsess) (3) • [Augsburg](#augsburg) (5) • [Aying](#aying) • [Baar](#baar) • [Bad Abbach-Oberndorf](#badabbachoberndorf) • [Bad Kissingen-Arnshausen](#badkissingenarnshausen) • [Bad Kissingen-Garitz](#badkissingengaritz) • [Bad Kötzting](#badkoetzting) • [Bad Reichenhall](#badreichenhall) • [Bad Rodach](#badrodach) • [Bad Staffelstein-Frauendorf](#badstaffelsteinfrauendorf) • [Bad Staffelstein-Loffeld](#badstaffelsteinloffeld) • [Bad Staffelstein-Nedensdorf](#badstaffelsteinnedensdorf) • [Bad Staffelstein-Stublang](#badstaffelsteinstublang) (2) • [Bad Staffelstein-Uetzing](#badstaffelsteinuetzing) • [Bad Staffelstein-Vierzehnheiligen](#badstaffelsteinvierzehnheiligen) • [Bad Staffelstein-Wiesen](#badstaffelsteinwiesen) (2) • [Bad Tölz](#badtoelz) (2) • [Bad Windsheim](#badwindsheim) (3) • [Bad Wörishofen](#badwoerishofen) • [Bamberg](#bamberg) (10) • [Bayreuth](#bayreuth) (6) • [Berching](#berching) • [Berchtesgaden](#berchtesgaden) • [Bergen-Thalmannsfeld](#bergenthalmannsfeld) • [Biberach](#biberach) • [Bichl](#bichl) • [Bischberg](#bischberg) • [Bischofsheim an der Rhön](#bischofsheimanderrhoen) • [Bockhorn (Oberbayern)-Grünbach](#bockhorngruenbach) • [Bodenkirchen](#bodenkirchen) • [Bodenmais](#bodenmais) • [Bodenwöhr](#bodenwoehr) • [Breitengüßbach](#breitenguessbach) • [Bruckberg](#bruckberg) (2) • [Bruckmühl](#bruckmuehl) • [Burgebrach](#burgebrach) (2) • [Burgebrach-Ampferbach](#burgebrachampferbach) • [Burgkunstadt](#burgkunstadt) • [Buttenheim](#buttenheim) (3) • [Böbrach](#boebrach) • [Cham](#cham) (2) • [Cham-Thierlstein](#chamthierlstein) • [Creussen-Lindenhardt](#creussenlindenhardt) • [Debring](#debring) • [Deuerling](#deuerling) • [Dingolfing](#dingolfing) • [Dinkelsbühl](#dinkelsbuehl) (3) • [Dorfen](#dorfen) (2) • [Drachselsried](#drachselsried) (2) • [Ebensfeld](#ebensfeld) (2) • [Ebing](#ebing) • [Edelsfeld](#edelsfeld) • [Eggenfelden-Spanberg](#eggenfeldenspanberg) • [Eggolsheim](#eggolsheim) • [Eggolsheim-Weigelshofen](#eggolsheimweigelshofen) • [Eichendorf-Adldorf](#eichendorfadldorf) • [Eichstätt](#eichstaett) • [Eitting](#eitting) • [Ellingen](#ellingen) • [Elsendorf-Horneck](#elsendorfhorneck) • [Eltmann-Eschenbach](#eltmanneschenbach) • [Eltmann-Roßstadt](#eltmannrossstadt) • [Erding](#erding) (2) • [Erharting](#erharting) • [Erlangen](#erlangen) (2) • [Eslarn](#eslarn) • [Essing](#essing) • [Ettal](#ettal) • [Etzelwang](#etzelwang) • [Eurasburg](#eurasburg) • [Feldkirchen-Riem](#feldkirchenriem) • [Flughafen München](#flughafenmuenchen) • [Forchheim](#forchheim) (4) • [Frammersbach](#frammersbach) • [Freilassing](#freilassing) • [Freising](#freising) (2) • [Frensdorf-Reundorf](#frensdorfreundorf) • [Frensdorf-Untergreuth](#frensdorfuntergreuth) • [Freudenberg](#freudenberg) • [Freystadt](#freystadt) • [Freyung](#freyung) • [Fridolfing](#fridolfing) • [Friedberg](#friedberg) • [Friedenfels](#friedenfels) • [Frontenhausen](#frontenhausen) (2) • [Furth](#furth) • [Furth im Wald](#furthimwald) (2) • [Fürstenfeldbruck](#fuerstenfeldbruck) • [Gangkofen-Seemannshausen](#gangkofenseemannshausen) • [Geiselhöring](#geiselhoering) • [Gessertshausen](#gessertshausen) • [Glonn](#glonn) • [Gnodstadt](#gnodstadt) • [Grafenau](#grafenau) • [Grafing bei München](#grafingbeimuenchen) • [Großheirath-Rossach](#grossheirathrossach) • [Großostheim](#grossostheim) • [Gräfenberg](#graefenberg) (4) • [Gunzendorf](#gunzendorf) • [Gunzenhausen](#gunzenhausen) • [Gutenstetten](#gutenstetten) • [Günzburg](#guenzburg) (2) • [Haag in Oberbayern](#haaginoberbayern) • [Haimhausen](#haimhausen) • [Halfing](#halfing) • [Hallerndorf](#hallerndorf) (6) • [Hallstadt](#hallstadt) • [Hausen-Herrnwahlthann](#hausenherrnwahlthann) • [Heiligenstadt](#heiligenstadt) (2) • [Heimenkirch](#heimenkirch) • [Hemau](#hemau) • [Herrngiersdorf](#herrngiersdorf) • [Hersbruck](#hersbruck) • [Herzogenaurach](#herzogenaurach) • [Hirschaid](#hirschaid) • [Hirschau](#hirschau) • [Hof](#hof) (2) • [Hofheim](#hofheim) • [Hohenthann](#hohenthann) • [Holzhausen bei Buchloe](#holzhausenbeibuchloe) • [Holzheim-Neuhausen](#holzheimneuhausen) • [Holzkirchen](#holzkirchen) • [Hutthurm](#hutthurm) • [Höchstadt](#hoechstadt) • [Höchstadt an der Aisch-Greuth](#hoechstadtanderaischgreuth) • [Ichenhausen-Autenried](#ichenhausenautenried) (2) • [Illerberg](#illerberg) • [Illertissen](#illertissen) • [Ingolstadt](#ingolstadt) (5) • [Irlbach](#irlbach) • [Irsee](#irsee) • [Itzgrund](#itzgrund) • [Jandelsbrunn](#jandelsbrunn) • [Jochsberg bei Leutershausen](#jochsbergbeileutershausen) • [Kammerstein-Barthelmesaurach](#kammersteinbarthelmesaurach) • [Karlstadt-Stadelhofen](#karlstadtstadelhofen) • [Kaufbeuren](#kaufbeuren) (2) • [Kelheim](#kelheim) (2) • [Kelheim-Weltenburg](#kelheimweltenburg) • [Kemmern](#kemmern) • [Kemnath](#kemnath) • [Kempten](#kempten) • [Kirchenthumbach](#kirchenthumbach) • [Konzell](#konzell) • [Krautheim](#krautheim) • [Kreuzwertheim](#kreuzwertheim) • [Kronach](#kronach) (2) • [Kronburg](#kronburg) • [Kulmbach](#kulmbach) (3) • [Kutzenhausen](#kutzenhausen) • [Königsberg in Bayern-Unfinden](#koenigsberginbayernunfinden) • [Königsfeld](#koenigsfeld) • [Kößlarn](#koesslarn) • [Kühbach](#kuehbach) (2) • [Laaber](#laaber) • [Landau an der Isar](#landauanderisar) (2) • [Landshut](#landshut) (2) • [Lauf an der Pegnitz](#laufanderpegnitz) (2) • [Lauf-Neunhof](#laufneunhof) • [Leinburg](#leinburg) • [Leipheim](#leipheim) (2) • [Leutenbach](#leutenbach) (2) • [Leuterschach](#leuterschach) • [Lichtenau](#lichtenau) • [Lichtenberg](#lichtenberg) • [Lichtenfels](#lichtenfels) (2) • [Litzendorf-Lohndorf](#litzendorflohndorf) (2) • [Litzendorf-Melkendorf](#litzendorfmelkendorf) • [Litzendorf-Tiefenellern](#litzendorftiefenellern) • [Mainburg](#mainburg) • [Maisach](#maisach) • [Malgersdorf-Heilmfurt](#malgersdorfheilmfurt) • [Mallersdorf](#mallersdorf) • [Markt Schwaben](#marktschwaben) • [Marktheidenfeld](#marktheidenfeld) • [Marktredwitz](#marktredwitz) • [Marktsteft](#marktsteft) • [Maroldsweisach](#maroldsweisach) • [Maxlrain](#maxlrain) • [Memmelsdorf](#memmelsdorf) (2) • [Memmelsdorf-Drosendorf](#memmelsdorfdrosendorf) • [Memmelsdorf-Merkendorf](#memmelsdorfmerkendorf) • [Memmingen](#memmingen) • [Merkendorf](#merkendorf) • [Meßhofen](#messhofen) • [Michelsneukirchen](#michelsneukirchen) • [Miesbach](#miesbach) • [Miltenberg](#miltenberg) • [Mindelheim](#mindelheim) • [Missen](#missen) • [Mittenwald](#mittenwald) • [Mitterteich](#mitterteich) (2) • [Mitwitz](#mitwitz) • [Moos](#moos) • [Moosbach](#moosbach) • [Motten](#motten) • [Murnau](#murnau) • [Murnau am Staffelsee](#murnauamstaffelsee) • [Mönchsambach](#moenchsambach) • [Mühldorf am Inn](#muehldorfaminn) (2) • [Mühlhausen](#muehlhausen) • [München](#muenchen) (9) • [München-Neuhausen](#muenchenneuhausen) • [Münchsteinach](#muenchsteinach) • [Naila](#naila) • [Nennslingen](#nennslingen) • [Nesselwang](#nesselwang) • [Neu-Ulm](#neuulm) • [Neu-Ulm-Offenhausen](#neuulmoffenhausen) • [Neu-Ulm-Reutti](#neuulmreutti) • [Neuburg an der Donau](#neuburganderdonau) • [Neuhaus an der Pegnitz](#neuhausanderpegnitz) (3) • [Neukirchen bei Sulzbach-Rosenberg](#neukirchenbeisulzbachrosenberg) • [Neumarkt](#neumarkt) • [Neumarkt in der Oberpfalz](#neumarktinderoberpfalz) (2) • [Neunburg vorm Wald](#neunburgvormwald) • [Neunkirchen am Brand](#neunkirchenambrand) • [Neunkirchen am Sand](#neunkirchenamsand) • [Neureichenau-Riedelsbach](#neureichenauriedelsbach) • [Neustadt an der Aisch](#neustadtanderaisch) • [Neusäß-Steppach](#neusaesssteppach) • [Nittenau](#nittenau) • [Nittendorf](#nittendorf) • [Nördlingen](#noerdlingen) (2) • [Nürnberg](#nuernberg) (5) • [Oberammergau](#oberammergau) • [Oberaurach-Trossenfurt](#oberaurachtrossenfurt) • [Oberelsbach](#oberelsbach) • [Oberhaching-Deisenhofen](#oberhachingdeisenhofen) • [Oberhaid](#oberhaid) (2) • [Oberkotzau-Fattigau](#oberkotzaufattigau) • [Oberreichenbach](#oberreichenbach) • [Obertaufkirchen](#obertaufkirchen) • [Ochsenfurt](#ochsenfurt) (2) • [Odelzhausen](#odelzhausen) • [Oettingen](#oettingen) • [Osterberg](#osterberg) • [Ostheim vor der Rhön](#ostheimvorderrhoen) (2) • [Ottobeuren](#ottobeuren) • [Pahres](#pahres) • [Pappenheim-Bieswang](#pappenheimbieswang) • [Pappenheim-Zimmern](#pappenheimzimmern) • [Passau](#passau) (2) • [Passau-Ries](#passauries) • [Pegnitz](#pegnitz) (3) • [Pegnitz-Büchenbach](#pegnitzbuechenbach) • [Pettendorf](#pettendorf) • [Petting/Schönram](#pettingschoenram) • [Pfaffenberg](#pfaffenberg) • [Pfaffenhofen an der Ilm](#pfaffenhofenanderilm) (2) • [Pfaffing-Forsting](#pfaffingforsting) • [Pfeffenhausen](#pfeffenhausen) (2) • [Pfronten](#pfronten) • [Pilsting-Großköllnbach](#pilstinggrosskoellnbach) • [Pirk](#pirk) • [Plattling](#plattling) • [Plößberg](#ploessberg) • [Pommersfelden](#pommersfelden) • [Pottenstein](#pottenstein) (3) • [Pretzfeld](#pretzfeld) (3) • [Priesendorf](#priesendorf) • [Pullach-Großhesselohe](#pullachgrosshesselohe) • [Pörnbach](#poernbach) • [Pösing](#poesing) • [Raigering](#raigering) • [Rammingen](#rammingen) • [Rattelsdorf](#rattelsdorf) (2) • [Rauhenebrach-Theinheim](#rauhenebrachtheinheim) • [Reckendorf](#reckendorf) (2) • [Regen](#regen) • [Regensburg](#regensburg) (4) • [Rehling](#rehling) • [Reischach](#reischach) • [Rettenberg](#rettenberg) (2) • [Reuth bei Erbendorf](#reuthbeierbendorf) • [Ried bei Markt Indersdorf](#riedbeimarktindersdorf) • [Riedenburg](#riedenburg) (2) • [Rosenheim](#rosenheim) (3) • [Roth vor der Rhön](#rothvorderrhoen) • [Roßdorf am Forst](#rossdorfamforst) • [Ruderatshofen](#ruderatshofen) • [Runding](#runding) • [Röbersdorf](#roebersdorf) • [Rödental](#roedental) • [Röttenbach (bei Erlangen)](#roettenbach) • [Rötz](#roetz) • [Rüdenhausen](#ruedenhausen) • [Saal an der Saale-Waltershausen](#saalandersaalewaltershausen) • [Sachsendorf](#sachsendorf) • [Sachsenkam-Reutberg](#sachsenkamreutberg) • [Salz](#salz) • [Sandersdorf](#sandersdorf) • [Sankt Wolfgang](#sanktwolfgang) • [Schammelsdorf](#schammelsdorf) • [Scheyern](#scheyern) • [Scheßlitz](#schesslitz) (2) • [Schierling](#schierling) • [Schlammersdorf](#schlammersdorf) • [Schloss Haselbach](#schlosshaselbach) • [Schlüsselfeld](#schluesselfeld) (3) • [Schnaitsee](#schnaitsee) • [Schnaittach](#schnaittach) (2) • [Schnaittach-Enzenreuth](#schnaittachenzenreuth) • [Schonungen-Hausen](#schonungenhausen) • [Schwandorf](#schwandorf) • [Schwangau](#schwangau) • [Schwarzach](#schwarzach) • [Schweinfurt](#schweinfurt) (2) • [Schöllkrippen](#schoellkrippen) • [Schönbrunn-Zettmannsdorf](#schoenbrunnzettmannsdorf) • [Schönthal](#schoenthal) • [Seinsheim](#seinsheim) • [Selb](#selb) • [Seßlach](#sesslach) • [Seßlach-Heilgersdorf](#sesslachheilgersdorf) • [Siegenburg](#siegenburg) • [Solnhofen-Hochholz](#solnhofenhochholz) • [Sonthofen](#sonthofen) • [Spalt](#spalt) • [Speiden](#speiden) • [Spiegelau-Klingenbrunn](#spiegelauklingenbrunn) • [Stadelhofen](#stadelhofen) • [Stadelhofen-Schederndorf](#stadelhofenschederndorf) • [Stadtsteinach](#stadtsteinach) • [Stegaurach](#stegaurach) • [Stegaurach-Mühlendorf](#stegaurachmuehlendorf) • [Stein an der Traun](#steinandertraun) • [Steinfeld-Waldzell](#steinfeldwaldzell) • [Steinsfeld-Reichelshofen](#steinsfeldreichelshofen) • [Stettfeld](#stettfeld) • [Straubing](#straubing) (2) • [Straßkirchen (Salzweg)](#strasskirchen) • [Strullendorf-Geisfeld](#strullendorfgeisfeld) (2) • [Sulzbach-Rosenberg](#sulzbachrosenberg) (2) • [Tacherting](#tacherting) • [Taufkirchen (Vils)](#taufkirchen) • [Tegernsee](#tegernsee) • [Teisendorf](#teisendorf) • [Teisnach](#teisnach) • [Teunz](#teunz) • [Thalmässing-Pyras](#thalmaessingpyras) • [Thannhausen](#thannhausen) • [Thüngen](#thuengen) • [Titting](#titting) • [Trabelsdorf](#trabelsdorf) • [Traitsching-Loifling](#traitschingloifling) • [Traunstein](#traunstein) (4) • [Trebgast](#trebgast) • [Triefenstein-Homburg](#triefensteinhomburg) • [Truchtlaching](#truchtlaching) • [Tüßling](#tuessling) • [Uehlfeld](#uehlfeld) (2) • [Unterneukirchen](#unterneukirchen) • [Untersiemau](#untersiemau) • [Untersiemau-Birkach am Forst](#untersiemaubirkachamforst) • [Ursberg](#ursberg) • [Ustersbach](#ustersbach) • [Velburg-Lengenfeld](#velburglengenfeld) • [Velden](#velden) • [Viechtach](#viechtach) • [Viereth-Trunstadt](#vierethtrunstadt) (2) • [Vilseck](#vilseck) • [Vilshofen an der Donau](#vilshofenanderdonau) • [Vohenstrauß](#vohenstrauss) • [Waischenfeld](#waischenfeld) (3) • [Walkertshofen](#walkertshofen) • [Wallerstein](#wallerstein) • [Warmensteinach](#warmensteinach) • [Wartenberg](#wartenberg) • [Wassertrüdingen-Fürnheim](#wassertruedingenfuernheim) • [Wattendorf](#wattendorf) (2) • [Weiden in der Oberpfalz](#weideninderoberpfalz) • [Weihmichl](#weihmichl) • [Weiler-Simmerberg](#weilersimmerberg) • [Weilheim in Oberbayern](#weilheiminoberbayern) • [Weismain](#weismain) • [Weissenstadt](#weissenstadt) • [Weißenbrunn](#weissenbrunn) • [Weißenburg in Bayern](#weissenburginbayern) (2) • [Weißenohe](#weissenohe) • [Werneck](#werneck) • [Wertingen](#wertingen) • [Wettelsheim](#wettelsheim) • [Weyarn](#weyarn) • [Wiesen](#wiesen) • [Wildenberg](#wildenberg) • [Windischeschenbach](#windischeschenbach) • [Wolnzach](#wolnzach) • [Wunsiedel](#wunsiedel) • [Wunsiedel-Schönbrunn](#wunsiedelschoenbrunn) • [Würgau](#wuergau) • [Würzburg](#wuerzburg) (2) • [Zeil am Main](#zeilammain) • [Zentbechhofen-Höchstadt](#zentbechhofenhoechstadt) • [Zirndorf](#zirndorf) • [Zwiesel](#zwiesel) (2)
-
-##### Abensberg  (4) 
-
-
-Hofbräu Abensberg -   {.brewery}  <br>
-Abensberg // 
+##### Abensberg  _(4)_{:.count} 
 
 
-Brauerei Kuchlbauer -   {.brewery}  <br>
-Abensberg // 
+Hofbräu Abensberg -   <br>
+Abensberg //  <br>
+{:.brewery}
 
 
-Ottenbräu -   {.brewery}  <br>
-Abensberg // 
+Brauerei Kuchlbauer -   <br>
+Abensberg //  <br>
+{:.brewery}
 
 
-Weißbierbrauer -   {.brewery}  <br>
-Abensberg // 
+Ottenbräu -   <br>
+Abensberg //  <br>
+{:.brewery}
+
+
+Weißbierbrauer -   <br>
+Abensberg //  <br>
+{:.brewery}
 
 
 ##### Adelsdorf-Aisch 
 
 
-Brauerei Rittmayer -   {.brewery}  <br>
-Adelsdorf-Aisch // 
+Brauerei Rittmayer -   <br>
+Adelsdorf-Aisch //  <br>
+{:.brewery}
 
 
-##### Adelsdorf-Neuhaus  (2) 
+##### Adelsdorf-Neuhaus  _(2)_{:.count} 
 
 
-Brauerei Gasthof Hotel Zum Löwenbräu -   {.brewery}  <br>
-91325 Adelsdorf/Neuhaus // Neuhauser Hauptstraße 3 
+Brauerei Gasthof Hotel Zum Löwenbräu -   <br>
+91325 Adelsdorf/Neuhaus // Neuhauser Hauptstraße 3  <br>
+{:.brewery}
 
 
-Zum Löwenbräu -   {.brewery}  <br>
-Adelsdorf-Neuhaus // 
+Zum Löwenbräu -   <br>
+Adelsdorf-Neuhaus //  <br>
+{:.brewery}
 
 
 ##### Adelsried 
 
 
-Stadelbräu -   {.brewery}  <br>
-Adelsried // 
+Stadelbräu -   <br>
+Adelsried //  <br>
+{:.brewery}
 
 
-##### Ahorntal  (2) 
+##### Ahorntal  _(2)_{:.count} 
 
 
-Stöckel-Bräu Hintergereuth -   {.brewery}  <br>
-95491 Ahorntal // Hintergereuth 4 
+Stöckel-Bräu Hintergereuth -   <br>
+95491 Ahorntal // Hintergereuth 4  <br>
+{:.brewery}
 
 
-Held Bräu -   {.brewery}  <br>
-95491 Ahorntal // Oberailsfeld 19 
+Held Bräu -   <br>
+95491 Ahorntal // Oberailsfeld 19  <br>
+{:.brewery}
 
 
-##### Aichach (Schloss Blumenthal)  (2) 
+##### Aichach (Schloss Blumenthal)  _(2)_{:.count} 
 
 
-Hinterhofbräu Aichach -   {.brewery}  <br>
-Aichach // 
+Hinterhofbräu Aichach -   <br>
+Aichach //  <br>
+{:.brewery}
 
 
-Schlossbrauerei Blumenthal -   {.brewery}  <br>
-Aichach (Schloss Blumenthal) // 
+Schlossbrauerei Blumenthal -   <br>
+Aichach (Schloss Blumenthal) //  <br>
+{:.brewery}
 
 
 ##### Aichach-Oberbernbach 
 
 
-Boandlbräu -   {.brewery}  <br>
-Aichach-Oberbernbach // 
+Boandlbräu -   <br>
+Aichach-Oberbernbach //  <br>
+{:.brewery}
 
 
 ##### Aichach-Obermauerbach 
 
 
-Canada Mauerbacher Bräustüberl -   {.brewery}  <br>
-Aichach-Obermauerbach // 
+Canada Mauerbacher Bräustüberl -   <br>
+Aichach-Obermauerbach //  <br>
+{:.brewery}
 
 
 ##### Aidenbach 
 
 
-Brauhaus Aidenbach Woerlein -   {.brewery}  <br>
-Aidenbach // 
+Brauhaus Aidenbach Woerlein -   <br>
+Aidenbach //  <br>
+{:.brewery}
 
 
 ##### Albertshofen 
 
 
-Albertshöfer Sternbräu -   {.brewery}  <br>
-Albertshofen // 
+Albertshöfer Sternbräu -   <br>
+Albertshofen //  <br>
+{:.brewery}
 
 
 ##### Aldersbach 
 
 
-Brauerei Aldersbach Freiherr von Aretin -   {.brewery}  <br>
-Aldersbach // 
+Brauerei Aldersbach Freiherr von Aretin -   <br>
+Aldersbach //  <br>
+{:.brewery}
 
 
 ##### Altenkunstadt 
 
 
-Brauhaus Altenkunstadt Andreas Leikeim -   {.brewery}  <br>
-96264 Altenkunstadt // Langheimer Straße 14 
+Brauhaus Altenkunstadt Andreas Leikeim -   <br>
+96264 Altenkunstadt // Langheimer Straße 14  <br>
+{:.brewery}
 
 
 ##### Altenmarkt an der Alz 
 
 
-Klosterbrauerei Baumburg -   {.brewery}  <br>
-Altenmarkt an der Alz // 
+Klosterbrauerei Baumburg -   <br>
+Altenmarkt an der Alz //  <br>
+{:.brewery}
 
 
 ##### Altenstadt 
 
 
-Maxbrauerei Biermanufaktur -   {.brewery}  <br>
-Altenstadt // 
+Maxbrauerei Biermanufaktur -   <br>
+Altenstadt //  <br>
+{:.brewery}
 
 
-##### Altomünster  (2) 
+##### Altomünster  _(2)_{:.count} 
 
 
-Kapplerbräu Hans Wiedemann -   {.brewery}  <br>
-Altomünster // 
+Kapplerbräu Hans Wiedemann -   <br>
+Altomünster //  <br>
+{:.brewery}
 
 
-Maierbräu Altomünster -   {.brewery}  <br>
-Altomünster // 
+Maierbräu Altomünster -   <br>
+Altomünster //  <br>
+{:.brewery}
 
 
 ##### Altötting 
 
 
-Graminger Weißbräu -   {.brewery}  <br>
-Altötting // 
+Graminger Weißbräu -   <br>
+Altötting //  <br>
+{:.brewery}
 
 
-##### Amberg  (5) 
+##### Amberg  _(5)_{:.count} 
 
 
-Bruckmüller -   {.brewery}  <br>
-Amberg // 
+Bruckmüller -   <br>
+Amberg //  <br>
+{:.brewery}
 
 
-Kummert -   {.brewery}  <br>
-Amberg // 
+Kummert -   <br>
+Amberg //  <br>
+{:.brewery}
 
 
-Sudhang Hausbrauerei -   {.brewery}  <br>
-Amberg // 
+Sudhang Hausbrauerei -   <br>
+Amberg //  <br>
+{:.brewery}
 
 
-Privatbrauerei Winkler - 1617  {.brewery}  <br>
+Privatbrauerei Winkler - 1617  <br>
 92224 Amberg // Schanzgäßchen 6  <br>
-[www.brauerei-winkler.de](http://www.brauerei-winkler.de) 
+[www.brauerei-winkler.de](http://www.brauerei-winkler.de)  <br>
+{:.brewery}
 
 
-
-Schloderer -   {.brewery}  <br>
-Amberg // 
+Schloderer -   <br>
+Amberg //  <br>
+{:.brewery}
 
 
 ##### Andechs 
 
 
-Klosterbrauerei Andechs - 1455  {.brewery}  <br>
+Klosterbrauerei Andechs - 1455  <br>
 82346 Andechs // Bergstraße 2  <br>
-[www.andechs.de](http://www.andechs.de) 
-
+[www.andechs.de](http://www.andechs.de)  <br>
+{:.brewery}
 
 
 ##### Apfeltrang 
 
 
-Landgasthof Hubertus -   {.brewery}  <br>
-Apfeltrang // 
+Landgasthof Hubertus -   <br>
+Apfeltrang //  <br>
+{:.brewery}
 
 
 ##### Appendorf 
 
 
-Brauerei Mazour-Fößel -   {.brewery}  <br>
-96169 Appendorf // Baunacher Straße 28 
+Brauerei Mazour-Fößel -   <br>
+96169 Appendorf // Baunacher Straße 28  <br>
+{:.brewery}
 
 
 ##### Arnschwang 
 
 
-Mühlbauer Brauerei -   {.brewery}  <br>
-Arnschwang // 
+Mühlbauer Brauerei -   <br>
+Arnschwang //  <br>
+{:.brewery}
 
 
 ##### Arnstein 
 
 
-Arnsteiner Brauerei Max Bender -   {.brewery}  <br>
-Arnstein // 
+Arnsteiner Brauerei Max Bender -   <br>
+Arnstein //  <br>
+{:.brewery}
 
 
 ##### Arnstorf 
 
 
-Schlossbrauerei Arnstorf Josef Graf von Deym -   {.brewery}  <br>
-Arnstorf // 
+Schlossbrauerei Arnstorf Josef Graf von Deym -   <br>
+Arnstorf //  <br>
+{:.brewery}
 
 
 ##### Arnstorf-Mariakirchen 
 
 
-Schlossbräu Mariakirchen -   {.brewery}  <br>
-Arnstorf-Mariakirchen // 
+Schlossbräu Mariakirchen -   <br>
+Arnstorf-Mariakirchen //  <br>
+{:.brewery}
 
 
 ##### Aschaffenburg-Schweinheim 
 
 
-Schwind-Bräu -   {.brewery}  <br>
-Aschaffenburg-Schweinheim // 
+Schwind-Bräu -   <br>
+Aschaffenburg-Schweinheim //  <br>
+{:.brewery}
 
 
 ##### Aschau 
 
 
-Brauerei Ametsbichler -   {.brewery}  <br>
-Aschau // 
+Brauerei Ametsbichler -   <br>
+Aschau //  <br>
+{:.brewery}
 
 
 ##### Au in der Hallertau 
 
 
-Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz -   {.brewery}  <br>
-Au in der Hallertau // 
+Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz -   <br>
+Au in der Hallertau //  <br>
+{:.brewery}
 
 
-##### Aufseß  (3) 
+##### Aufseß  _(3)_{:.count} 
 
 
-Aufsesser Brauerei -   {.brewery}  <br>
-91347 Aufseß // Im Tal 70b 
+Aufsesser Brauerei -   <br>
+91347 Aufseß // Im Tal 70b  <br>
+{:.brewery}
 
 
-Brauereigasthof Reichold -   {.brewery}  <br>
-91347 Aufseß // Hochstahl 24 
+Brauereigasthof Reichold -   <br>
+91347 Aufseß // Hochstahl 24  <br>
+{:.brewery}
 
 
-Kathi Bräu Heckenhof -   {.brewery}  <br>
-91347 Aufseß // Heckenhof 1 
+Kathi Bräu Heckenhof -   <br>
+91347 Aufseß // Heckenhof 1  <br>
+{:.brewery}
 
 
-##### Augsburg  (5) 
+##### Augsburg  _(5)_{:.count} 
 
 
-Brauerei Thorbräu - 1582  {.brewery}  <br>
+Brauerei Thorbräu - 1582  <br>
 86152 Augsburg // Wertachbrucker-Tor-Straße 9  <br>
-[www.thorbraeu.de](http://www.thorbraeu.de) 
+[www.thorbraeu.de](http://www.thorbraeu.de)  <br>
+{:.brewery}
 
 
-
-Augusta Brauerei - 1488  {.brewery}  <br>
+Augusta Brauerei - 1488  <br>
 86152 Augsburg // Lauterlech 10-14  <br>
-[www.augusta-brauerei.de](http://www.augusta-brauerei.de) 
+[www.augusta-brauerei.de](http://www.augusta-brauerei.de)  <br>
+{:.brewery}
 
 
-
-Hasen-Bräu - 1464  {.brewery}  <br>
+Hasen-Bräu - 1464  <br>
 86179 Augsburg // Unterer Talweg 87  <br>
-[www.hasen-braeu.de](http://www.hasen-braeu.de) 
+[www.hasen-braeu.de](http://www.hasen-braeu.de)  <br>
+{:.brewery}
 
 
-
-Brauhaus Riegele - 1386  {.brewery}  <br>
+Brauhaus Riegele - 1386  <br>
 86150 Augsburg // Frölichstraße 26  <br>
-[www.riegele.de](http://www.riegele.de) 
+[www.riegele.de](http://www.riegele.de)  <br>
+{:.brewery}
 
 
-
-König von Flandern -   {.brewery}  <br>
+König von Flandern -   <br>
 86150 Augsburg // Karolinenstraße 12  <br>
-[www.koenigvonflandern.de](http://www.koenigvonflandern.de) 
-
+[www.koenigvonflandern.de](http://www.koenigvonflandern.de)  <br>
+{:.brewery}
 
 
 ##### Aying 
 
 
-Brauerei Aying -   {.brewery}  <br>
-Aying // 
+Brauerei Aying -   <br>
+Aying //  <br>
+{:.brewery}
 
 
 ##### Baar 
 
 
-Schlossbrauerei Unterbaar -   {.brewery}  <br>
-Baar // 
+Schlossbrauerei Unterbaar -   <br>
+Baar //  <br>
+{:.brewery}
 
 
 ##### Bad Abbach-Oberndorf 
 
 
-Brauerei Berghammer -   {.brewery}  <br>
-Bad Abbach-Oberndorf // 
+Brauerei Berghammer -   <br>
+Bad Abbach-Oberndorf //  <br>
+{:.brewery}
 
 
 ##### Bad Kissingen-Arnshausen 
 
 
-Wittelsbacher Turm Bräu -   {.brewery}  <br>
-Bad Kissingen-Arnshausen // 
+Wittelsbacher Turm Bräu -   <br>
+Bad Kissingen-Arnshausen //  <br>
+{:.brewery}
 
 
 ##### Bad Kissingen-Garitz 
 
 
-Museums Brau Gasthaus Jägersruh -   {.brewery}  <br>
-Bad Kissingen-Garitz // 
+Museums Brau Gasthaus Jägersruh -   <br>
+Bad Kissingen-Garitz //  <br>
+{:.brewery}
 
 
 ##### Bad Kötzting 
 
 
-Lindner Bräu -   {.brewery}  <br>
-Bad Kötzting // 
+Lindner Bräu -   <br>
+Bad Kötzting //  <br>
+{:.brewery}
 
 
 ##### Bad Reichenhall 
 
 
-Bürgerbräu Bad Reichenhall August Röhm & Söhne -   {.brewery}  <br>
-Bad Reichenhall // 
+Bürgerbräu Bad Reichenhall August Röhm & Söhne -   <br>
+Bad Reichenhall //  <br>
+{:.brewery}
 
 
 ##### Bad Rodach 
 
 
-Gemeinschaftsbrauerei Roßfeld -   {.brewery}  <br>
-96476 Bad Rodach // Streufdorfer Straße 3 
+Gemeinschaftsbrauerei Roßfeld -   <br>
+96476 Bad Rodach // Streufdorfer Straße 3  <br>
+{:.brewery}
 
 
 ##### Bad Staffelstein-Frauendorf 
 
 
-Brauerei Hetzel -   {.brewery}  <br>
-96231 Bad Staffelstein-Frauendorf // Frauendorf 11 
+Brauerei Hetzel -   <br>
+96231 Bad Staffelstein-Frauendorf // Frauendorf 11  <br>
+{:.brewery}
 
 
 ##### Bad Staffelstein-Loffeld 
 
 
-Staffelberg-Bräu -   {.brewery}  <br>
-96231 Bad Staffelstein-Loffeld // Mühlteich 4 
+Staffelberg-Bräu -   <br>
+96231 Bad Staffelstein-Loffeld // Mühlteich 4  <br>
+{:.brewery}
 
 
 ##### Bad Staffelstein-Nedensdorf 
 
 
-Brauerei Reblitz -   {.brewery}  <br>
-96231 Bad Staffelstein-Nedensdorf // Am Mahlberg 1 
+Brauerei Reblitz -   <br>
+96231 Bad Staffelstein-Nedensdorf // Am Mahlberg 1  <br>
+{:.brewery}
 
 
-##### Bad Staffelstein-Stublang  (2) 
+##### Bad Staffelstein-Stublang  _(2)_{:.count} 
 
 
-Brauerei Dinkel -   {.brewery}  <br>
-96231 Bad Staffelstein-Stublang // Am Dorfbrunnen 19 
+Brauerei Dinkel -   <br>
+96231 Bad Staffelstein-Stublang // Am Dorfbrunnen 19  <br>
+{:.brewery}
 
 
-Brauerei Gasthof Hennemann -   {.brewery}  <br>
-96231 Bad Staffelstein-Stublang // Am Dorfbrunnen 13 
+Brauerei Gasthof Hennemann -   <br>
+96231 Bad Staffelstein-Stublang // Am Dorfbrunnen 13  <br>
+{:.brewery}
 
 
 ##### Bad Staffelstein-Uetzing 
 
 
-Hausbrauerei Reichert -   {.brewery}  <br>
-96231 Bad Staffelstein-Uetzing // Stublanger Straße 2 
+Hausbrauerei Reichert -   <br>
+96231 Bad Staffelstein-Uetzing // Stublanger Straße 2  <br>
+{:.brewery}
 
 
 ##### Bad Staffelstein-Vierzehnheiligen 
 
 
-Brauerei Trunk Alte Klosterbrauerei -   {.brewery}  <br>
-96231 Bad Staffelstein-Vierzehnheiligen // Vierzehnheiligen 3 
+Brauerei Trunk Alte Klosterbrauerei -   <br>
+96231 Bad Staffelstein-Vierzehnheiligen // Vierzehnheiligen 3  <br>
+{:.brewery}
 
 
-##### Bad Staffelstein-Wiesen  (2) 
+##### Bad Staffelstein-Wiesen  _(2)_{:.count} 
 
 
-Brauerei Gasthof Hellmuth -   {.brewery}  <br>
-96231 Bad Staffelstein-Wiesen // Wiesen 14 
+Brauerei Gasthof Hellmuth -   <br>
+96231 Bad Staffelstein-Wiesen // Wiesen 14  <br>
+{:.brewery}
 
 
-Brauerei Gaststätte Thomann -   {.brewery}  <br>
-96231 Bad Staffelstein-Wiesen // Altmainstraße 5 
+Brauerei Gaststätte Thomann -   <br>
+96231 Bad Staffelstein-Wiesen // Altmainstraße 5  <br>
+{:.brewery}
 
 
-##### Bad Tölz  (2) 
+##### Bad Tölz  _(2)_{:.count} 
 
 
-Mühlfeldbräu -   {.brewery}  <br>
-Bad Tölz // 
+Mühlfeldbräu -   <br>
+Bad Tölz //  <br>
+{:.brewery}
 
 
-Tölzer Mühlfeldbräu -   {.brewery}  <br>
-Bad Tölz // 
+Tölzer Mühlfeldbräu -   <br>
+Bad Tölz //  <br>
+{:.brewery}
 
 
-##### Bad Windsheim  (3) 
+##### Bad Windsheim  _(3)_{:.count} 
 
 
-Brauereigasthof Bürgerbräustuben "Schalander" -   {.brewery}  <br>
-Bad Windsheim  // 
+Brauereigasthof Bürgerbräustuben "Schalander" -   <br>
+Bad Windsheim  //  <br>
+{:.brewery}
 
 
-Brauhaus Döbler -   {.brewery}  <br>
-Bad Windsheim // 
+Brauhaus Döbler -   <br>
+Bad Windsheim //  <br>
+{:.brewery}
 
 
-Fränkisches Freilandmuseum Bad Windsheim -   {.brewery}  <br>
-Bad Windsheim // 
+Fränkisches Freilandmuseum Bad Windsheim -   <br>
+Bad Windsheim //  <br>
+{:.brewery}
 
 
 ##### Bad Wörishofen 
 
 
-Bad Wörishofer Löwenbräu -   {.brewery}  <br>
-Bad Wörishofen // 
+Bad Wörishofer Löwenbräu -   <br>
+Bad Wörishofen //  <br>
+{:.brewery}
 
 
-##### Bamberg  (10) 
+##### Bamberg  _(10)_{:.count} 
 
 
-Ambräusianum (1. Gasthausbrauerei in Bamberg) - 2004  {.brewery}  <br>
+Ambräusianum (1. Gasthausbrauerei in Bamberg) - 2004  <br>
 96049 Bamberg // Dominikanerstraße 10  <br>
-[www.ambraeusianum.de](http://www.ambraeusianum.de) 
+[www.ambraeusianum.de](http://www.ambraeusianum.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Fässla - 1649  {.brewery}  <br>
+Brauerei Fässla - 1649  <br>
 96052 Bamberg // Obere Königstraße 19-21  <br>
-[www.faessla.de](http://www.faessla.de) 
+[www.faessla.de](http://www.faessla.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Greifenklau - 1719  {.brewery}  <br>
+Brauerei Greifenklau - 1719  <br>
 96049 Bamberg // Laurenziplatz 20  <br>
-[www.greifenklau.de](http://www.greifenklau.de) 
+[www.greifenklau.de](http://www.greifenklau.de)  <br>
+{:.brewery}
 
 
-
-Kaiserdom Specialitäten-Brauerei - 1718  {.brewery}  <br>
+Kaiserdom Specialitäten-Brauerei - 1718  <br>
 96049 Bamberg // Breitäckerstraße 9  <br>
-[www.kaiserdom.de](http://www.kaiserdom.de) 
+[www.kaiserdom.de](http://www.kaiserdom.de)  <br>
+{:.brewery}
 
 
+Brauerei Keesmann - 1867  <br>
+96050 Bamberg // Wunderburg 5  <br>
+{:.brewery}
 
-Brauerei Keesmann - 1867  {.brewery}  <br>
-96050 Bamberg // Wunderburg 5 
 
-
-Klosterbräu Bamberg - 1533  {.brewery}  <br>
+Klosterbräu Bamberg - 1533  <br>
 96049 Bamberg // Obere Mühlbrücke 3  <br>
-[www.klosterbraeu.de](http://www.klosterbraeu.de) 
+[www.klosterbraeu.de](http://www.klosterbraeu.de)  <br>
+{:.brewery}
 
 
-
-Mahrs-Bräu Bamberg - 1602  {.brewery}  <br>
+Mahrs-Bräu Bamberg - 1602  <br>
 96050 Bamberg // Wunderburg 10  <br>
-[www.mahrs.de](http://www.mahrs.de) 
+[www.mahrs.de](http://www.mahrs.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Schlenkerla - 1405  {.brewery}  <br>
+Brauerei Schlenkerla - 1405  <br>
 96049 Bamberg // Dominikanerstraße 6  <br>
-[www.schlenkerla.de](http://www.schlenkerla.de) 
+[www.schlenkerla.de](http://www.schlenkerla.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Spezial - 1536  {.brewery}  <br>
+Brauerei Spezial - 1536  <br>
 96052 Bamberg // Obere Königstraße 10  <br>
-[www.brauerei-spezial.de](http://www.brauerei-spezial.de) 
+[www.brauerei-spezial.de](http://www.brauerei-spezial.de)  <br>
+{:.brewery}
 
 
-
-Weyermann Braumanufaktur - 1903  {.brewery}  <br>
+Weyermann Braumanufaktur - 1903  <br>
 96052 Bamberg // Brennerstraße 17/19  <br>
-[www.weyermann.de](http://www.weyermann.de) 
+[www.weyermann.de](http://www.weyermann.de)  <br>
+{:.brewery}
 
 
-
-##### Bayreuth  (6) 
-
-
-Bayreuther Bierbrauerei (Maisel) - 1857  {.brewery}  <br>
-Bayreuth // 
+##### Bayreuth  _(6)_{:.count} 
 
 
-Bayreuther Bio-Brauer (Maisel) -   {.brewery}  <br>
-Bayreuth // 
+Bayreuther Bierbrauerei (Maisel) - 1857  <br>
+Bayreuth //  <br>
+{:.brewery}
 
 
-Becher Bräu - 1781  {.brewery}  <br>
+Bayreuther Bio-Brauer (Maisel) -   <br>
+Bayreuth //  <br>
+{:.brewery}
+
+
+Becher Bräu - 1781  <br>
 95445 Bayreuth // St.-Nikolaus-Straße 25  <br>
-[www.becherbraeu.de](http://www.becherbraeu.de) 
+[www.becherbraeu.de](http://www.becherbraeu.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Gebr. Maisel -   {.brewery}  <br>
-95445 Bayreuth // Hindenburgstraße 9 
-
-
-Buschenschänke Lang -   {.brewery}  <br>
-95444 Bayreuth // Jean-Paul-Straße 7 
+Brauerei Gebr. Maisel -   <br>
+95445 Bayreuth // Hindenburgstraße 9  <br>
+{:.brewery}
 
 
-Brauerei Gebrüder Maisel - 1887  {.brewery}  <br>
-Bayreuth // 
+Buschenschänke Lang -   <br>
+95444 Bayreuth // Jean-Paul-Straße 7  <br>
+{:.brewery}
+
+
+Brauerei Gebrüder Maisel - 1887  <br>
+Bayreuth //  <br>
+{:.brewery}
 
 
 ##### Berching 
 
 
-Schuller -   {.brewery}  <br>
-Berching // 
+Schuller -   <br>
+Berching //  <br>
+{:.brewery}
 
 
 ##### Berchtesgaden 
 
 
-Hofbräuhaus Berchtesgaden -   {.brewery}  <br>
-Berchtesgaden // 
+Hofbräuhaus Berchtesgaden -   <br>
+Berchtesgaden //  <br>
+{:.brewery}
 
 
 ##### Bergen-Thalmannsfeld 
 
 
-W. Gloßner -   {.brewery}  <br>
-Bergen-Thalmannsfeld  // 
+W. Gloßner -   <br>
+Bergen-Thalmannsfeld  //  <br>
+{:.brewery}
 
 
 ##### Biberach 
 
 
-Biberacher Brauerei Schmid -   {.brewery}  <br>
-Biberach // 
+Biberacher Brauerei Schmid -   <br>
+Biberach //  <br>
+{:.brewery}
 
 
 ##### Bichl 
 
 
-Wampenbräu -   {.brewery}  <br>
-Bichl // 
+Wampenbräu -   <br>
+Bichl //  <br>
+{:.brewery}
 
 
 ##### Bischberg 
 
 
-Brauerei-Gasthof Zur Sonne -   {.brewery}  <br>
-96120 Bischberg // Regnitzstraße 2 
+Brauerei-Gasthof Zur Sonne -   <br>
+96120 Bischberg // Regnitzstraße 2  <br>
+{:.brewery}
 
 
 ##### Bischofsheim an der Rhön 
 
 
-Klosterbrauerei Kreuzberg -   {.brewery}  <br>
-Bischofsheim an der Rhön // 
+Klosterbrauerei Kreuzberg -   <br>
+Bischofsheim an der Rhön //  <br>
+{:.brewery}
 
 
 ##### Bockhorn (Oberbayern)-Grünbach 
 
 
-Schloßbrauerei Grünbach bei Erding -   {.brewery}  <br>
-Bockhorn (Oberbayern)-Grünbach // 
+Schloßbrauerei Grünbach bei Erding -   <br>
+Bockhorn (Oberbayern)-Grünbach //  <br>
+{:.brewery}
 
 
 ##### Bodenkirchen 
 
 
-Bodenkirchener -   {.brewery}  <br>
-Bodenkirchen // 
+Bodenkirchener -   <br>
+Bodenkirchen //  <br>
+{:.brewery}
 
 
 ##### Bodenmais 
 
 
-Adam-Bräu -   {.brewery}  <br>
+Adam-Bräu -   <br>
 94249 Bodenmais // Bahnhofstrasse 49-53  <br>
-[www.adam-braeu.de](http://www.adam-braeu.de) 
-
+[www.adam-braeu.de](http://www.adam-braeu.de)  <br>
+{:.brewery}
 
 
 ##### Bodenwöhr 
 
 
-Jacob -   {.brewery}  <br>
-Bodenwöhr // 
+Jacob -   <br>
+Bodenwöhr //  <br>
+{:.brewery}
 
 
 ##### Breitengüßbach 
 
 
-Brauhaus Binkert -   {.brewery}  <br>
-96149 Breitengüßbach // Westring 5 
+Brauhaus Binkert -   <br>
+96149 Breitengüßbach // Westring 5  <br>
+{:.brewery}
 
 
-##### Bruckberg  (2) 
+##### Bruckberg  _(2)_{:.count} 
 
 
-Brauerei Wimmer -   {.brewery}  <br>
-Bruckberg // 
+Brauerei Wimmer -   <br>
+Bruckberg //  <br>
+{:.brewery}
 
 
-Dornbräu -   {.brewery}  <br>
-Bruckberg // 
+Dornbräu -   <br>
+Bruckberg //  <br>
+{:.brewery}
 
 
 ##### Bruckmühl 
 
 
-Brauerei Starkmeth -   {.brewery}  <br>
-Bruckmühl // 
+Brauerei Starkmeth -   <br>
+Bruckmühl //  <br>
+{:.brewery}
 
 
-##### Burgebrach  (2) 
+##### Burgebrach  _(2)_{:.count} 
 
 
-Brauerei Gasthof Schwan -   {.brewery}  <br>
-96138 Burgebrach // Hauptstraße 16 
+Brauerei Gasthof Schwan -   <br>
+96138 Burgebrach // Hauptstraße 16  <br>
+{:.brewery}
 
 
-Brauerei Kaiser -   {.brewery}  <br>
-96138 Burgebrach // Grasmannsdorf 9 
+Brauerei Kaiser -   <br>
+96138 Burgebrach // Grasmannsdorf 9  <br>
+{:.brewery}
 
 
 ##### Burgebrach-Ampferbach 
 
 
-Brauerei Herrmann -   {.brewery}  <br>
-96138 Burgebrach-Ampferbach // Brückenstraße 3 
+Brauerei Herrmann -   <br>
+96138 Burgebrach-Ampferbach // Brückenstraße 3  <br>
+{:.brewery}
 
 
 ##### Burgkunstadt 
 
 
-Günther-Bräu -   {.brewery}  <br>
-96224 Burgkunstadt // In der Au 27 
+Günther-Bräu -   <br>
+96224 Burgkunstadt // In der Au 27  <br>
+{:.brewery}
 
 
-##### Buttenheim  (3) 
+##### Buttenheim  _(3)_{:.count} 
 
 
-Löwenbräu Buttenheim - 1880  {.brewery}  <br>
+Löwenbräu Buttenheim - 1880  <br>
 96155 Buttenheim // Marktstrasse 8  <br>
-[www.loewenbraeu-buttenheim.de](http://www.loewenbraeu-buttenheim.de) 
+[www.loewenbraeu-buttenheim.de](http://www.loewenbraeu-buttenheim.de)  <br>
+{:.brewery}
 
 
+Meusel-Bräu Ottmar Meusel - 1579  <br>
+96155 Buttenheim // Dreuschendorf 27  <br>
+{:.brewery}
 
-Meusel-Bräu Ottmar Meusel - 1579  {.brewery}  <br>
-96155 Buttenheim // Dreuschendorf 27 
 
-
-St. Georgen Bräu Buttenheim - 1624  {.brewery}  <br>
+St. Georgen Bräu Buttenheim - 1624  <br>
 96155 Buttenheim // Marktstraße 12  <br>
-[www.kellerbier.de](http://www.kellerbier.de) 
-
+[www.kellerbier.de](http://www.kellerbier.de)  <br>
+{:.brewery}
 
 
 ##### Böbrach 
 
 
-Brauerei Gasthof Hotel Eck -   {.brewery}  <br>
-Böbrach // 
+Brauerei Gasthof Hotel Eck -   <br>
+Böbrach //  <br>
+{:.brewery}
 
 
-##### Cham  (2) 
+##### Cham  _(2)_{:.count} 
 
 
-Alfons Hintereder -   {.brewery}  <br>
-Cham // 
+Alfons Hintereder -   <br>
+Cham //  <br>
+{:.brewery}
 
 
-Zur Luitpoldhöhe -   {.brewery}  <br>
-Cham // 
+Zur Luitpoldhöhe -   <br>
+Cham //  <br>
+{:.brewery}
 
 
 ##### Cham-Thierlstein 
 
 
-Sauer -   {.brewery}  <br>
-Cham-Thierlstein // 
+Sauer -   <br>
+Cham-Thierlstein //  <br>
+{:.brewery}
 
 
 ##### Creussen-Lindenhardt 
 
 
-Brauerei & Gasthof Kürzdörfer -   {.brewery}  <br>
-95473 Creussen-Lindenhardt // Brauhausgasse 3 
+Brauerei & Gasthof Kürzdörfer -   <br>
+95473 Creussen-Lindenhardt // Brauhausgasse 3  <br>
+{:.brewery}
 
 
 ##### Debring 
 
 
-Brauerei Müller Debring -   {.brewery}  <br>
-96135 Debring // Würzburger Straße 1 
+Brauerei Müller Debring -   <br>
+96135 Debring // Würzburger Straße 1  <br>
+{:.brewery}
 
 
 ##### Deuerling 
 
 
-Goss -   {.brewery}  <br>
-Deuerling // 
+Goss -   <br>
+Deuerling //  <br>
+{:.brewery}
 
 
 ##### Dingolfing 
 
 
-Brauerei Xaver Wasserburger -   {.brewery}  <br>
-Dingolfing  // 
+Brauerei Xaver Wasserburger -   <br>
+Dingolfing  //  <br>
+{:.brewery}
 
 
-##### Dinkelsbühl  (3) 
+##### Dinkelsbühl  _(3)_{:.count} 
 
 
-Brauerei Hauf -   {.brewery}  <br>
-Dinkelsbühl // 
+Brauerei Hauf -   <br>
+Dinkelsbühl //  <br>
+{:.brewery}
 
 
-Brauerei Stefansbräu -   {.brewery}  <br>
-Dinkelsbühl // 
+Brauerei Stefansbräu -   <br>
+Dinkelsbühl //  <br>
+{:.brewery}
 
 
-Weib's Brauhaus Dinkelsbühl -   {.brewery}  <br>
-Dinkelsbühl // 
+Weib's Brauhaus Dinkelsbühl -   <br>
+Dinkelsbühl //  <br>
+{:.brewery}
 
 
-##### Dorfen  (2) 
+##### Dorfen  _(2)_{:.count} 
 
 
-Bräu z'Loh -   {.brewery}  <br>
-Dorfen // 
+Bräu z'Loh -   <br>
+Dorfen //  <br>
+{:.brewery}
 
 
-Brauerei Bachmayer -   {.brewery}  <br>
-Dorfen // 
+Brauerei Bachmayer -   <br>
+Dorfen //  <br>
+{:.brewery}
 
 
-##### Drachselsried  (2) 
+##### Drachselsried  _(2)_{:.count} 
 
 
-Drachselsrieder Schlossbräu -   {.brewery}  <br>
-Drachselsried // 
+Drachselsrieder Schlossbräu -   <br>
+Drachselsried //  <br>
+{:.brewery}
 
 
-Falterbräu -   {.brewery}  <br>
-Drachselsried // 
+Falterbräu -   <br>
+Drachselsried //  <br>
+{:.brewery}
 
 
-##### Ebensfeld  (2) 
+##### Ebensfeld  _(2)_{:.count} 
 
 
-Brauerei Leicht -   {.brewery}  <br>
-96250 Ebensfeld // Pferdsfeld 22 
+Brauerei Leicht -   <br>
+96250 Ebensfeld // Pferdsfeld 22  <br>
+{:.brewery}
 
 
-Ebensfelder Brauhaus -   {.brewery}  <br>
-96250 Ebensfeld // Oberer Kellbachdamm 7 
+Ebensfelder Brauhaus -   <br>
+96250 Ebensfeld // Oberer Kellbachdamm 7  <br>
+{:.brewery}
 
 
 ##### Ebing 
 
 
-Brauerei Schwanen-Bräu -   {.brewery}  <br>
-96179 Ebing // Marktplatz 11 
+Brauerei Schwanen-Bräu -   <br>
+96179 Ebing // Marktplatz 11  <br>
+{:.brewery}
 
 
 ##### Edelsfeld 
 
 
-Heldrich -   {.brewery}  <br>
-Edelsfeld // 
+Heldrich -   <br>
+Edelsfeld //  <br>
+{:.brewery}
 
 
 ##### Eggenfelden-Spanberg 
 
 
-Brunner Bräu -   {.brewery}  <br>
-Eggenfelden-Spanberg // 
+Brunner Bräu -   <br>
+Eggenfelden-Spanberg //  <br>
+{:.brewery}
 
 
 ##### Eggolsheim 
 
 
-Brauerei Först -   {.brewery}  <br>
-91330 Eggolsheim // Drügendorf 26 
+Brauerei Först -   <br>
+91330 Eggolsheim // Drügendorf 26  <br>
+{:.brewery}
 
 
 ##### Eggolsheim-Weigelshofen 
 
 
-Brauerei Gasthof Pfister -   {.brewery}  <br>
-91330 Eggolsheim-Weigelshofen // Eggerbachstraße 22 
+Brauerei Gasthof Pfister -   <br>
+91330 Eggolsheim-Weigelshofen // Eggerbachstraße 22  <br>
+{:.brewery}
 
 
 ##### Eichendorf-Adldorf 
 
 
-Gräfliche Brauerei Arco-Valley -   {.brewery}  <br>
-Eichendorf-Adldorf // 
+Gräfliche Brauerei Arco-Valley -   <br>
+Eichendorf-Adldorf //  <br>
+{:.brewery}
 
 
 ##### Eichstätt 
 
 
-Privatbrauerei Hofmühl -   {.brewery}  <br>
-Eichstätt // 
+Privatbrauerei Hofmühl -   <br>
+Eichstätt //  <br>
+{:.brewery}
 
 
 ##### Eitting 
 
 
-Eittinger Fischerbräu -   {.brewery}  <br>
-Eitting // 
+Eittinger Fischerbräu -   <br>
+Eitting //  <br>
+{:.brewery}
 
 
 ##### Ellingen 
 
 
-Fürstliches Brauhaus Ellingen -   {.brewery}  <br>
-Ellingen // 
+Fürstliches Brauhaus Ellingen -   <br>
+Ellingen //  <br>
+{:.brewery}
 
 
 ##### Elsendorf-Horneck 
 
 
-Brauerei Horneck -   {.brewery}  <br>
-Elsendorf-Horneck // 
+Brauerei Horneck -   <br>
+Elsendorf-Horneck //  <br>
+{:.brewery}
 
 
 ##### Eltmann-Eschenbach 
 
 
-Eschenbacher Privatbrauerei -   {.brewery}  <br>
-Eltmann-Eschenbach // 
+Eschenbacher Privatbrauerei -   <br>
+Eltmann-Eschenbach //  <br>
+{:.brewery}
 
 
 ##### Eltmann-Roßstadt 
 
 
-Weiß Rössl Bräu -   {.brewery}  <br>
-Eltmann-Roßstadt  // 
+Weiß Rössl Bräu -   <br>
+Eltmann-Roßstadt  //  <br>
+{:.brewery}
 
 
-##### Erding  (2) 
+##### Erding  _(2)_{:.count} 
 
 
-Privatbrauerei Erdinger Weißbräu - 1886  {.brewery}  <br>
+Privatbrauerei Erdinger Weißbräu - 1886  <br>
 85435 Erding // Franz-Brombach-Straße 1  <br>
-[www.erdinger.de](http://www.erdinger.de) 
+[www.erdinger.de](http://www.erdinger.de)  <br>
+{:.brewery}
 
 
-
-Stiftungsbrauerei Fischer -   {.brewery}  <br>
-Erding // 
+Stiftungsbrauerei Fischer -   <br>
+Erding //  <br>
+{:.brewery}
 
 
 ##### Erharting 
 
 
-Brauerei Erharting Jakob Röhrl -   {.brewery}  <br>
-Erharting // 
+Brauerei Erharting Jakob Röhrl -   <br>
+Erharting //  <br>
+{:.brewery}
 
 
-##### Erlangen  (2) 
+##### Erlangen  _(2)_{:.count} 
 
 
-Kitzmann-Bräu -   {.brewery}  <br>
-Erlangen // 
+Kitzmann-Bräu -   <br>
+Erlangen //  <br>
+{:.brewery}
 
 
-Spezialitätenbrauerei Steinbach Bräu -   {.brewery}  <br>
-Erlangen // 
+Spezialitätenbrauerei Steinbach Bräu -   <br>
+Erlangen //  <br>
+{:.brewery}
 
 
 ##### Eslarn 
 
 
-Brauerei Bauriedl -   {.brewery}  <br>
-Eslarn // 
+Brauerei Bauriedl -   <br>
+Eslarn //  <br>
+{:.brewery}
 
 
 ##### Essing 
 
 
-Josef Schneider's Kleines Brauhaus -   {.brewery}  <br>
-Essing // 
+Josef Schneider's Kleines Brauhaus -   <br>
+Essing //  <br>
+{:.brewery}
 
 
 ##### Ettal 
 
 
-Ettaler Klosterbrauerei -   {.brewery}  <br>
-Ettal // 
+Ettaler Klosterbrauerei -   <br>
+Ettal //  <br>
+{:.brewery}
 
 
 ##### Etzelwang 
 
 
-Pürner -   {.brewery}  <br>
-Etzelwang // 
+Pürner -   <br>
+Etzelwang //  <br>
+{:.brewery}
 
 
 ##### Eurasburg 
 
 
-Landhausbräu Koller -   {.brewery}  <br>
-Eurasburg // 
+Landhausbräu Koller -   <br>
+Eurasburg //  <br>
+{:.brewery}
 
 
 ##### Feldkirchen-Riem 
 
 
-Di Gastro Fliegerbräu -   {.brewery}  <br>
-Feldkirchen-Riem // 
+Di Gastro Fliegerbräu -   <br>
+Feldkirchen-Riem //  <br>
+{:.brewery}
 
 
 ##### Flughafen München 
 
 
-Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH -   {.brewery}  <br>
-Flughafen München // 
+Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH -   <br>
+Flughafen München //  <br>
+{:.brewery}
 
 
-##### Forchheim  (4) 
+##### Forchheim  _(4)_{:.count} 
 
 
-Brauerei Hebendanz -   {.brewery}  <br>
-91301 Forchheim // Sattlertorstraße 14 
+Brauerei Hebendanz -   <br>
+91301 Forchheim // Sattlertorstraße 14  <br>
+{:.brewery}
 
 
-Brauerei Josef Greif -   {.brewery}  <br>
-91301 Forchheim // Serlbacher Straße 10 
+Brauerei Josef Greif -   <br>
+91301 Forchheim // Serlbacher Straße 10  <br>
+{:.brewery}
 
 
-Brauerei Neder -   {.brewery}  <br>
-91301 Forchheim // Sattlertorstraße 10 
+Brauerei Neder -   <br>
+91301 Forchheim // Sattlertorstraße 10  <br>
+{:.brewery}
 
 
-Privatbrauerei Eichhorn -   {.brewery}  <br>
-91301 Forchheim // Bamberger Straße 9 
+Privatbrauerei Eichhorn -   <br>
+91301 Forchheim // Bamberger Straße 9  <br>
+{:.brewery}
 
 
 ##### Frammersbach 
 
 
-Waldschloss-Brauerei -   {.brewery}  <br>
-Frammersbach // 
+Waldschloss-Brauerei -   <br>
+Frammersbach //  <br>
+{:.brewery}
 
 
 ##### Freilassing 
 
 
-Brauerei Gasthof Weißbräu -   {.brewery}  <br>
-Freilassing // 
+Brauerei Gasthof Weißbräu -   <br>
+Freilassing //  <br>
+{:.brewery}
 
 
-##### Freising  (2) 
+##### Freising  _(2)_{:.count} 
 
 
-Bayrische Staatsbrauerei Weihenstephan - 1040  {.brewery}  <br>
+Bayrische Staatsbrauerei Weihenstephan - 1040  <br>
 285354 Freising // Alte Akademie  <br>
-[www.brauerei-weihenstephan.de](http://www.brauerei-weihenstephan.de) 
+[www.brauerei-weihenstephan.de](http://www.brauerei-weihenstephan.de)  <br>
+{:.brewery}
 
 Weihenstephaner Hefeweissbier   • Weihenstephaner Hefeweissbier Dunkel   • Weihenstephaner Kristallweissbier   • Weihenstephaner Original Bayrisch Mild   • Weihenstephaner Infinium   • Weihenstephaner Hefeweissbier Leicht   • Weihenstephaner Pilsner   • Weihenstephaner Tradition   • Weihenstephaner Festbier  
+{:.beers}
 
-Gräfliches Hofbrauhaus Freising GmbH -   {.brewery}  <br>
-Freising // 
+Gräfliches Hofbrauhaus Freising GmbH -   <br>
+Freising //  <br>
+{:.brewery}
 
 
 ##### Frensdorf-Reundorf 
 
 
-Brauerei Müller -   {.brewery}  <br>
-96158 Frensdorf-Reundorf // Lange Straße 2 
+Brauerei Müller -   <br>
+96158 Frensdorf-Reundorf // Lange Straße 2  <br>
+{:.brewery}
 
 
 ##### Frensdorf-Untergreuth 
 
 
-Brauerei Büttner -   {.brewery}  <br>
-96158 Frensdorf-Untergreuth // Untergreuth 8 
+Brauerei Büttner -   <br>
+96158 Frensdorf-Untergreuth // Untergreuth 8  <br>
+{:.brewery}
 
 
 ##### Freudenberg 
 
 
-Brauerei Märkl -   {.brewery}  <br>
-Freudenberg // 
+Brauerei Märkl -   <br>
+Freudenberg //  <br>
+{:.brewery}
 
 
 ##### Freystadt 
 
 
-Katzerer -   {.brewery}  <br>
-Freystadt // 
+Katzerer -   <br>
+Freystadt //  <br>
+{:.brewery}
 
 
 ##### Freyung 
 
 
-Lang-Bräu -   {.brewery}  <br>
-Freyung // 
+Lang-Bräu -   <br>
+Freyung //  <br>
+{:.brewery}
 
 
 ##### Fridolfing 
 
 
-Stadler-Bräu -   {.brewery}  <br>
-Fridolfing // 
+Stadler-Bräu -   <br>
+Fridolfing //  <br>
+{:.brewery}
 
 
 ##### Friedberg 
 
 
-Brauereigasthof St. Afra im Felde -   {.brewery}  <br>
-Friedberg // 
+Brauereigasthof St. Afra im Felde -   <br>
+Friedberg //  <br>
+{:.brewery}
 
 
 ##### Friedenfels 
 
 
-Schlossbrauerei Friedenfels -   {.brewery}  <br>
-Friedenfels // 
+Schlossbrauerei Friedenfels -   <br>
+Friedenfels //  <br>
+{:.brewery}
 
 
-##### Frontenhausen  (2) 
+##### Frontenhausen  _(2)_{:.count} 
 
 
-Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen -   {.brewery}  <br>
-Frontenhausen  // 
+Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen -   <br>
+Frontenhausen  //  <br>
+{:.brewery}
 
 
-Postbrauerei Renkl -   {.brewery}  <br>
-Frontenhausen // 
+Postbrauerei Renkl -   <br>
+Frontenhausen //  <br>
+{:.brewery}
 
 
 ##### Furth 
 
 
-Further Klosterbier -   {.brewery}  <br>
-Furth // 
+Further Klosterbier -   <br>
+Furth //  <br>
+{:.brewery}
 
 
-##### Furth im Wald  (2) 
+##### Furth im Wald  _(2)_{:.count} 
 
 
-Dimpflbräu -   {.brewery}  <br>
-Furth im Wald // 
+Dimpflbräu -   <br>
+Furth im Wald //  <br>
+{:.brewery}
 
 
-Späth Bräu -   {.brewery}  <br>
-Furth im Wald // 
+Späth Bräu -   <br>
+Furth im Wald //  <br>
+{:.brewery}
 
 
 ##### Fürstenfeldbruck 
 
 
-König Ludwig Brauerei -   {.brewery}  <br>
+König Ludwig Brauerei -   <br>
 82256 Fürstenfeldbruck // Augsburger Straße 41  <br>
-[www.koenig-ludwig-brauerei.com](http://www.koenig-ludwig-brauerei.com) 
-
+[www.koenig-ludwig-brauerei.com](http://www.koenig-ludwig-brauerei.com)  <br>
+{:.brewery}
 
 
 ##### Gangkofen-Seemannshausen 
 
 
-Klosterbräu Seemannshausen -   {.brewery}  <br>
-Gangkofen-Seemannshausen // 
+Klosterbräu Seemannshausen -   <br>
+Gangkofen-Seemannshausen //  <br>
+{:.brewery}
 
 
 ##### Geiselhöring 
 
 
-Brauerei Ludwig Erl -   {.brewery}  <br>
-Geiselhöring // 
+Brauerei Ludwig Erl -   <br>
+Geiselhöring //  <br>
+{:.brewery}
 
 
 ##### Gessertshausen 
 
 
-Schimpfle -   {.brewery}  <br>
-Gessertshausen // 
+Schimpfle -   <br>
+Gessertshausen //  <br>
+{:.brewery}
 
 
 ##### Glonn 
 
 
-Herrmannsdorfer Schweinsbräu (Naturtrübbrauerei) -   {.brewery}  <br>
-Glonn // 
+Herrmannsdorfer Schweinsbräu (Naturtrübbrauerei) -   <br>
+Glonn //  <br>
+{:.brewery}
 
 
 ##### Gnodstadt 
 
 
-Brauerei Düll -   {.brewery}  <br>
-Gnodstadt // 
+Brauerei Düll -   <br>
+Gnodstadt //  <br>
+{:.brewery}
 
 
 ##### Grafenau 
 
 
-Bucher Bräu Grafenau -   {.brewery}  <br>
-Grafenau // 
+Bucher Bräu Grafenau -   <br>
+Grafenau //  <br>
+{:.brewery}
 
 
 ##### Grafing bei München 
 
 
-Wildbräu Grafing -   {.brewery}  <br>
-Grafing bei München // 
+Wildbräu Grafing -   <br>
+Grafing bei München //  <br>
+{:.brewery}
 
 
 ##### Großheirath-Rossach 
 
 
-Kommunbrauhaus Rossach -   {.brewery}  <br>
-96269 Großheirath-Rossach // Coburger Straße 
+Kommunbrauhaus Rossach -   <br>
+96269 Großheirath-Rossach // Coburger Straße  <br>
+{:.brewery}
 
 
 ##### Großostheim 
 
 
-Eder & Heylands Brauerei -   {.brewery}  <br>
-Großostheim // 
+Eder & Heylands Brauerei -   <br>
+Großostheim //  <br>
+{:.brewery}
 
 
-##### Gräfenberg  (4) 
+##### Gräfenberg  _(4)_{:.count} 
 
 
-Brauerei Friedmann -   {.brewery}  <br>
-91322 Gräfenberg // Jägersberg 16 
+Brauerei Friedmann -   <br>
+91322 Gräfenberg // Jägersberg 16  <br>
+{:.brewery}
 
 
-Brauerei-Gasthof Lindenbräu -   {.brewery}  <br>
-91322 Gräfenberg // Am Bach 3 
+Brauerei-Gasthof Lindenbräu -   <br>
+91322 Gräfenberg // Am Bach 3  <br>
+{:.brewery}
 
 
-Brauereigasthof Hofmann -   {.brewery}  <br>
-91322 Gräfenberg // Hohenschwärz 16 
+Brauereigasthof Hofmann -   <br>
+91322 Gräfenberg // Hohenschwärz 16  <br>
+{:.brewery}
 
 
-Elch-Bräu -   {.brewery}  <br>
-91322 Gräfenberg // Thuisbrunn 11 
+Elch-Bräu -   <br>
+91322 Gräfenberg // Thuisbrunn 11  <br>
+{:.brewery}
 
 
 ##### Gunzendorf 
 
 
-Gunzendorfer Bier - 1612  {.brewery}  <br>
-96155 Gunzendorf // Jurastraße 30 
+Gunzendorfer Bier - 1612  <br>
+96155 Gunzendorf // Jurastraße 30  <br>
+{:.brewery}
 
 
 ##### Gunzenhausen 
 
 
-Schorschbräu -   {.brewery}  <br>
-Gunzenhausen // 
+Schorschbräu -   <br>
+Gunzenhausen //  <br>
+{:.brewery}
 
 
 ##### Gutenstetten 
 
 
-Brauerei Windsheimer -   {.brewery}  <br>
-Gutenstetten // 
+Brauerei Windsheimer -   <br>
+Gutenstetten //  <br>
+{:.brewery}
 
 
-##### Günzburg  (2) 
+##### Günzburg  _(2)_{:.count} 
 
 
-Münzbrauerei -   {.brewery}  <br>
-Günzburg // 
+Münzbrauerei -   <br>
+Günzburg //  <br>
+{:.brewery}
 
 
-Radbrauerei -   {.brewery}  <br>
-Günzburg // 
+Radbrauerei -   <br>
+Günzburg //  <br>
+{:.brewery}
 
 
 ##### Haag in Oberbayern 
 
 
-Unertl Weißbier -   {.brewery}  <br>
+Unertl Weißbier -   <br>
 83527 Haag in Oberbayern // Lerchenberger Straße 6  <br>
-[www.unertl.de](http://www.unertl.de) 
-
+[www.unertl.de](http://www.unertl.de)  <br>
+{:.brewery}
 
 
 ##### Haimhausen 
 
 
-Schlossbrauerei Haimhausen -   {.brewery}  <br>
-Haimhausen // 
+Schlossbrauerei Haimhausen -   <br>
+Haimhausen //  <br>
+{:.brewery}
 
 
 ##### Halfing 
 
 
-Brauerei Rothmoos A.Kirnberger -   {.brewery}  <br>
-Halfing // 
+Brauerei Rothmoos A.Kirnberger -   <br>
+Halfing //  <br>
+{:.brewery}
 
 
-##### Hallerndorf  (6) 
+##### Hallerndorf  _(6)_{:.count} 
 
 
-Brauerei Gasthaus Roppelt -   {.brewery}  <br>
-91352 Hallerndorf // Stiebarlimbach 9 
+Brauerei Gasthaus Roppelt -   <br>
+91352 Hallerndorf // Stiebarlimbach 9  <br>
+{:.brewery}
 
 
-Brauerei Lieberth -   {.brewery}  <br>
-91352 Hallerndorf // Forchheimer Straße 2 
+Brauerei Lieberth -   <br>
+91352 Hallerndorf // Forchheimer Straße 2  <br>
+{:.brewery}
 
 
-Brauerei Rittmayer Hallerndorf -   {.brewery}  <br>
-91352 Hallerndorf // An der Mark 1 
+Brauerei Rittmayer Hallerndorf -   <br>
+91352 Hallerndorf // An der Mark 1  <br>
+{:.brewery}
 
 
-Brauereigaststätte Witzgall -   {.brewery}  <br>
-91352 Hallerndorf // Schlammersdorfer Straße 17 
+Brauereigaststätte Witzgall -   <br>
+91352 Hallerndorf // Schlammersdorfer Straße 17  <br>
+{:.brewery}
 
 
-Brauhaus am Kreuzberg (Friedels Keller) -   {.brewery}  <br>
-91352 Hallerndorf // Kreuzberg 1 
+Brauhaus am Kreuzberg (Friedels Keller) -   <br>
+91352 Hallerndorf // Kreuzberg 1  <br>
+{:.brewery}
 
 
-Gänstaller Bräu Hallerndorf -   {.brewery}  <br>
-91352 Hallerndorf // Schnaid 10 
+Gänstaller Bräu Hallerndorf -   <br>
+91352 Hallerndorf // Schnaid 10  <br>
+{:.brewery}
 
 
 ##### Hallstadt 
 
 
-Brauerei Eichhorn Schwarzer Adler -   {.brewery}  <br>
+Brauerei Eichhorn Schwarzer Adler -   <br>
 96103 Hallstadt // Dörfleinser Straße 43  <br>
-[www.brauerei-eichhorn.de](http://www.brauerei-eichhorn.de) 
-
+[www.brauerei-eichhorn.de](http://www.brauerei-eichhorn.de)  <br>
+{:.brewery}
 
 
 ##### Hausen-Herrnwahlthann 
 
 
-Gasthausbrauerei Stanglbräu -   {.brewery}  <br>
-Hausen-Herrnwahlthann // 
+Gasthausbrauerei Stanglbräu -   <br>
+Hausen-Herrnwahlthann //  <br>
+{:.brewery}
 
 
-##### Heiligenstadt  (2) 
+##### Heiligenstadt  _(2)_{:.count} 
 
 
-Brauerei Gasthof Ott - 1678  {.brewery}  <br>
+Brauerei Gasthof Ott - 1678  <br>
 91332 Heiligenstadt // Oberleinleiter 6  <br>
-[www.brauerei-ott.de](http://www.brauerei-ott.de) 
+[www.brauerei-ott.de](http://www.brauerei-ott.de)  <br>
+{:.brewery}
 
 
-
-Gasthaus Brauerei Aichinger - 1870  {.brewery}  <br>
-91332 Heiligenstadt // Marktplatz 5 
+Gasthaus Brauerei Aichinger - 1870  <br>
+91332 Heiligenstadt // Marktplatz 5  <br>
+{:.brewery}
 
 
 ##### Heimenkirch 
 
 
-Meckatzer Löwenbräu -   {.brewery}  <br>
-Heimenkirch // 
+Meckatzer Löwenbräu -   <br>
+Heimenkirch //  <br>
+{:.brewery}
 
 
 ##### Hemau 
 
 
-Brauereigasthof Donhauser -   {.brewery}  <br>
-Hemau // 
+Brauereigasthof Donhauser -   <br>
+Hemau //  <br>
+{:.brewery}
 
 
 ##### Herrngiersdorf 
 
 
-Schlossbrauerei Herrngiersdorf -   {.brewery}  <br>
-Herrngiersdorf // 
+Schlossbrauerei Herrngiersdorf -   <br>
+Herrngiersdorf //  <br>
+{:.brewery}
 
 
 ##### Hersbruck 
 
 
-Bürgerbräu Hersbruck Deinlein -   {.brewery}  <br>
-Hersbruck // 
+Bürgerbräu Hersbruck Deinlein -   <br>
+Hersbruck //  <br>
+{:.brewery}
 
 
 ##### Herzogenaurach 
 
 
-Brauerei Heller -   {.brewery}  <br>
-Herzogenaurach // 
+Brauerei Heller -   <br>
+Herzogenaurach //  <br>
+{:.brewery}
 
 
 ##### Hirschaid 
 
 
-Brauerei-Gasthof Georg und Barbara Kraus - 1845  {.brewery}  <br>
+Brauerei-Gasthof Georg und Barbara Kraus - 1845  <br>
 96114 Hirschaid // Luitpoldstraße 11  <br>
-[www.brauerei-kraus.de](http://www.brauerei-kraus.de) 
-
+[www.brauerei-kraus.de](http://www.brauerei-kraus.de)  <br>
+{:.brewery}
 
 
 ##### Hirschau 
 
 
-Schlossbrauerei Hirschau -   {.brewery}  <br>
-Hirschau // 
+Schlossbrauerei Hirschau -   <br>
+Hirschau //  <br>
+{:.brewery}
 
 
-##### Hof  (2) 
+##### Hof  _(2)_{:.count} 
 
 
-Familienbrauerei Georg Meinel -   {.brewery}  <br>
-95028 Hof // Alte Plauener Straße 24 
+Familienbrauerei Georg Meinel -   <br>
+95028 Hof // Alte Plauener Straße 24  <br>
+{:.brewery}
 
 
-Scherdel Bier -   {.brewery}  <br>
-95028 Hof // Unterkotzauer Weg 14 
+Scherdel Bier -   <br>
+95028 Hof // Unterkotzauer Weg 14  <br>
+{:.brewery}
 
 
 ##### Hofheim 
 
 
-Privatbrauerei Michael Raab -   {.brewery}  <br>
-Hofheim // 
+Privatbrauerei Michael Raab -   <br>
+Hofheim //  <br>
+{:.brewery}
 
 
 ##### Hohenthann 
 
 
-Schlossbrauerei Hohenthann -   {.brewery}  <br>
-Hohenthann // 
+Schlossbrauerei Hohenthann -   <br>
+Hohenthann //  <br>
+{:.brewery}
 
 
 ##### Holzhausen bei Buchloe 
 
 
-Brauereigasthaus Holzhausen -   {.brewery}  <br>
-Holzhausen bei Buchloe // 
+Brauereigasthaus Holzhausen -   <br>
+Holzhausen bei Buchloe //  <br>
+{:.brewery}
 
 
 ##### Holzheim-Neuhausen 
 
 
-Bärenbrauerei Neuhausen -   {.brewery}  <br>
-Holzheim-Neuhausen // 
+Bärenbrauerei Neuhausen -   <br>
+Holzheim-Neuhausen //  <br>
+{:.brewery}
 
 
 ##### Holzkirchen 
 
 
-Holzkirchner Oberbräu -   {.brewery}  <br>
-Holzkirchen // 
+Holzkirchner Oberbräu -   <br>
+Holzkirchen //  <br>
+{:.brewery}
 
 
 ##### Hutthurm 
 
 
-Hutthurmer Bayerwald-Brauerei -   {.brewery}  <br>
-Hutthurm // 
+Hutthurmer Bayerwald-Brauerei -   <br>
+Hutthurm //  <br>
+{:.brewery}
 
 
 ##### Höchstadt 
 
 
-Brauhaus Höchstadt -   {.brewery}  <br>
-Höchstadt // 
+Brauhaus Höchstadt -   <br>
+Höchstadt //  <br>
+{:.brewery}
 
 
 ##### Höchstadt an der Aisch-Greuth 
 
 
-Brauerei Fischer -   {.brewery}  <br>
-Höchstadt an der Aisch-Greuth // 
+Brauerei Fischer -   <br>
+Höchstadt an der Aisch-Greuth //  <br>
+{:.brewery}
 
 
-##### Ichenhausen-Autenried  (2) 
+##### Ichenhausen-Autenried  _(2)_{:.count} 
 
 
-Autenrieder Brauereigasthof -   {.brewery}  <br>
-Ichenhausen-Autenried // 
+Autenrieder Brauereigasthof -   <br>
+Ichenhausen-Autenried //  <br>
+{:.brewery}
 
 
-Schlossbrauerei Autenried -   {.brewery}  <br>
-Ichenhausen-Autenried // 
+Schlossbrauerei Autenried -   <br>
+Ichenhausen-Autenried //  <br>
+{:.brewery}
 
 
 ##### Illerberg 
 
 
-Kronbräu Illerberg -   {.brewery}  <br>
-Illerberg // 
+Kronbräu Illerberg -   <br>
+Illerberg //  <br>
+{:.brewery}
 
 
 ##### Illertissen 
 
 
-Illertisser Schlossbräu -   {.brewery}  <br>
-Illertissen // 
+Illertisser Schlossbräu -   <br>
+Illertissen //  <br>
+{:.brewery}
 
 
-##### Ingolstadt  (5) 
+##### Ingolstadt  _(5)_{:.count} 
 
 
-Herrnbräu -   {.brewery}  <br>
-Ingolstadt // 
+Herrnbräu -   <br>
+Ingolstadt //  <br>
+{:.brewery}
 
 
-Nordbräu -   {.brewery}  <br>
-Ingolstadt // 
+Nordbräu -   <br>
+Ingolstadt //  <br>
+{:.brewery}
 
 
-Schöffbräu -   {.brewery}  <br>
-Ingolstadt // 
+Schöffbräu -   <br>
+Ingolstadt //  <br>
+{:.brewery}
 
 
-Schwalbenbräu -   {.brewery}  <br>
-Ingolstadt // 
+Schwalbenbräu -   <br>
+Ingolstadt //  <br>
+{:.brewery}
 
 
-Westparkbräu/Brauhaus 1516 -   {.brewery}  <br>
-Ingolstadt // 
+Westparkbräu/Brauhaus 1516 -   <br>
+Ingolstadt //  <br>
+{:.brewery}
 
 
 ##### Irlbach 
 
 
-Frhr. v. Poschinger-Bray'sche Schlossbrauerei Irlbach -   {.brewery}  <br>
-Irlbach // 
+Frhr. v. Poschinger-Bray'sche Schlossbrauerei Irlbach -   <br>
+Irlbach //  <br>
+{:.brewery}
 
 
 ##### Irsee 
 
 
-Irseer Klosterbräu -   {.brewery}  <br>
-Irsee // 
+Irseer Klosterbräu -   <br>
+Irsee //  <br>
+{:.brewery}
 
 
 ##### Itzgrund 
 
 
-Brauerei Schleicher -   {.brewery}  <br>
-96274 Itzgrund // Coburger Straße 22 
+Brauerei Schleicher -   <br>
+96274 Itzgrund // Coburger Straße 22  <br>
+{:.brewery}
 
 
 ##### Jandelsbrunn 
 
 
-Privatbrauerei Josef Lang -   {.brewery}  <br>
-Jandelsbrunn // 
+Privatbrauerei Josef Lang -   <br>
+Jandelsbrunn //  <br>
+{:.brewery}
 
 
 ##### Jochsberg bei Leutershausen 
 
 
-Brauerei Gasthof Reindler Bräu -   {.brewery}  <br>
-Jochsberg bei Leutershausen // 
+Brauerei Gasthof Reindler Bräu -   <br>
+Jochsberg bei Leutershausen //  <br>
+{:.brewery}
 
 
 ##### Kammerstein-Barthelmesaurach 
 
 
-Brauerei Gundel -   {.brewery}  <br>
-Kammerstein-Barthelmesaurach // 
+Brauerei Gundel -   <br>
+Kammerstein-Barthelmesaurach //  <br>
+{:.brewery}
 
 
 ##### Karlstadt-Stadelhofen 
 
 
-Pfarrbräu -   {.brewery}  <br>
-Karlstadt-Stadelhofen // 
+Pfarrbräu -   <br>
+Karlstadt-Stadelhofen //  <br>
+{:.brewery}
 
 
-##### Kaufbeuren  (2) 
+##### Kaufbeuren  _(2)_{:.count} 
 
 
-Aktienbrauerei Kaufbeuren - 1308  {.brewery}  <br>
+Aktienbrauerei Kaufbeuren - 1308  <br>
 87600 Kaufbeuren // Hohe Buchleuthe 3  <br>
-[www.aktien-brauerei.de](http://www.aktien-brauerei.de) 
+[www.aktien-brauerei.de](http://www.aktien-brauerei.de)  <br>
+{:.brewery}
 
 
-
-Communebrauerei Kaufbeuren -   {.brewery}  <br>
+Communebrauerei Kaufbeuren -   <br>
 87600 Kaufbeuren // Kappeneck 1  <br>
-[www.communebrauerei-kaufbeuren.de](http://www.communebrauerei-kaufbeuren.de) 
+[www.communebrauerei-kaufbeuren.de](http://www.communebrauerei-kaufbeuren.de)  <br>
+{:.brewery}
 
 
+##### Kelheim  _(2)_{:.count} 
 
-##### Kelheim  (2) 
 
-
-Weisses Bräuhaus G. Schneider & Sohn -   {.brewery}  <br>
+Weisses Bräuhaus G. Schneider & Sohn -   <br>
 93309 Kelheim // Emil-Ott-Straße 5  <br>
-[www.schneider-weisse.de](http://www.schneider-weisse.de) 
+[www.schneider-weisse.de](http://www.schneider-weisse.de)  <br>
+{:.brewery}
 
 
-
-Brauerei und Gasthof Frischeisen -   {.brewery}  <br>
-Kelheim // 
+Brauerei und Gasthof Frischeisen -   <br>
+Kelheim //  <br>
+{:.brewery}
 
 
 ##### Kelheim-Weltenburg 
 
 
-Klosterbrauerei Weltenburg -   {.brewery}  <br>
-Kelheim-Weltenburg // 
+Klosterbrauerei Weltenburg -   <br>
+Kelheim-Weltenburg //  <br>
+{:.brewery}
 
 
 ##### Kemmern 
 
 
-Wagner-Bräu -   {.brewery}  <br>
-96164 Kemmern // Hauptstraße 15 
+Wagner-Bräu -   <br>
+96164 Kemmern // Hauptstraße 15  <br>
+{:.brewery}
 
 
 ##### Kemnath 
 
 
-Klosterbrauerei Kemnath -   {.brewery}  <br>
-Kemnath // 
+Klosterbrauerei Kemnath -   <br>
+Kemnath //  <br>
+{:.brewery}
 
 
 ##### Kempten 
 
 
-Allgäuer Brauhaus - 1394  {.brewery}  <br>
+Allgäuer Brauhaus - 1394  <br>
 87435 Kempten // Beethovenstraße 7  <br>
-[www.allgaeuer-brauhaus.de](http://www.allgaeuer-brauhaus.de) 
-
+[www.allgaeuer-brauhaus.de](http://www.allgaeuer-brauhaus.de)  <br>
+{:.brewery}
 
 
 ##### Kirchenthumbach 
 
 
-Heberbräu -   {.brewery}  <br>
-Kirchenthumbach // 
+Heberbräu -   <br>
+Kirchenthumbach //  <br>
+{:.brewery}
 
 
 ##### Konzell 
 
 
-Brauerei Klett -   {.brewery}  <br>
-Konzell // 
+Brauerei Klett -   <br>
+Konzell //  <br>
+{:.brewery}
 
 
 ##### Krautheim 
 
 
-Privatbrauerei Friedrich Düll -   {.brewery}  <br>
-Krautheim  // 
+Privatbrauerei Friedrich Düll -   <br>
+Krautheim  //  <br>
+{:.brewery}
 
 
 ##### Kreuzwertheim 
 
 
-Spessart-Brauerei -   {.brewery}  <br>
-Kreuzwertheim // 
+Spessart-Brauerei -   <br>
+Kreuzwertheim //  <br>
+{:.brewery}
 
 
-##### Kronach  (2) 
+##### Kronach  _(2)_{:.count} 
 
 
-Kaiserhof Brauerei Gebr. Kaiser -   {.brewery}  <br>
-96317 Kronach // Friesener Straße 1 
+Kaiserhof Brauerei Gebr. Kaiser -   <br>
+96317 Kronach // Friesener Straße 1  <br>
+{:.brewery}
 
 
-Antlabräu -   {.brewery}  <br>
-96317 Kronach // Amtsgerichtsstraße 21 
+Antlabräu -   <br>
+96317 Kronach // Amtsgerichtsstraße 21  <br>
+{:.brewery}
 
 
 ##### Kronburg 
 
 
-Brauerei Kronburg -   {.brewery}  <br>
-Kronburg // 
+Brauerei Kronburg -   <br>
+Kronburg //  <br>
+{:.brewery}
 
 
-##### Kulmbach  (3) 
+##### Kulmbach  _(3)_{:.count} 
 
 
-Kulmbacher Brauerei - 1846  {.brewery}  <br>
+Kulmbacher Brauerei - 1846  <br>
 95326 Kulmbach // Lichtenfelser Straße 9  <br>
-[www.kulmbacher.de](http://www.kulmbacher.de) 
+[www.kulmbacher.de](http://www.kulmbacher.de)  <br>
+{:.brewery}
 
 
+Bayrisches Brauereimuseum Kulmbach -   <br>
+95326 Kulmbach // Hofer Straße 20  <br>
+{:.brewery}
 
-Bayrisches Brauereimuseum Kulmbach -   {.brewery}  <br>
-95326 Kulmbach // Hofer Straße 20 
 
-
-Kommunbräu Kulmbach -   {.brewery}  <br>
-95326 Kulmbach // Grünwehr 17 
+Kommunbräu Kulmbach -   <br>
+95326 Kulmbach // Grünwehr 17  <br>
+{:.brewery}
 
 
 ##### Kutzenhausen 
 
 
-Brauerei Rapp -   {.brewery}  <br>
-Kutzenhausen // 
+Brauerei Rapp -   <br>
+Kutzenhausen //  <br>
+{:.brewery}
 
 
 ##### Königsberg in Bayern-Unfinden 
 
 
-Kommunbrauhaus Unfinden -   {.brewery}  <br>
-Königsberg in Bayern-Unfinden // 
+Kommunbrauhaus Unfinden -   <br>
+Königsberg in Bayern-Unfinden //  <br>
+{:.brewery}
 
 
 ##### Königsfeld 
 
 
-Brauerei Grasser - 1503  {.brewery}  <br>
+Brauerei Grasser - 1503  <br>
 96167 Königsfeld // Huppendorf 25  <br>
-[www.huppendorfer-bier.de](http://www.huppendorfer-bier.de) 
-
+[www.huppendorfer-bier.de](http://www.huppendorfer-bier.de)  <br>
+{:.brewery}
 
 
 ##### Kößlarn 
 
 
-Weißbräu Sven Grünleitner -   {.brewery}  <br>
-Kößlarn // 
+Weißbräu Sven Grünleitner -   <br>
+Kößlarn //  <br>
+{:.brewery}
 
 
-##### Kühbach  (2) 
+##### Kühbach  _(2)_{:.count} 
 
 
-Brauerei Gasthof Peterhof -   {.brewery}  <br>
-Kühbach // 
+Brauerei Gasthof Peterhof -   <br>
+Kühbach //  <br>
+{:.brewery}
 
 
-Brauerei Kühbach -   {.brewery}  <br>
-Kühbach // 
+Brauerei Kühbach -   <br>
+Kühbach //  <br>
+{:.brewery}
 
 
 ##### Laaber 
 
 
-Privatbrauerei Plank -   {.brewery}  <br>
-Laaber // 
+Privatbrauerei Plank -   <br>
+Laaber //  <br>
+{:.brewery}
 
 
-##### Landau an der Isar  (2) 
+##### Landau an der Isar  _(2)_{:.count} 
 
 
-Kurt Landauer Brauerei -   {.brewery}  <br>
-Landau an der Isar // 
+Kurt Landauer Brauerei -   <br>
+Landau an der Isar //  <br>
+{:.brewery}
 
 
-Brauerei Wilhelm Krieger -   {.brewery}  <br>
-Landau an der Isar // 
+Brauerei Wilhelm Krieger -   <br>
+Landau an der Isar //  <br>
+{:.brewery}
 
 
-##### Landshut  (2) 
+##### Landshut  _(2)_{:.count} 
 
 
-Brauerei C. Wittmann -   {.brewery}  <br>
-Landshut // 
+Brauerei C. Wittmann -   <br>
+Landshut //  <br>
+{:.brewery}
 
 
-Landshuter Brauhaus -   {.brewery}  <br>
-Landshut // 
+Landshuter Brauhaus -   <br>
+Landshut //  <br>
+{:.brewery}
 
 
-##### Lauf an der Pegnitz  (2) 
+##### Lauf an der Pegnitz  _(2)_{:.count} 
 
 
-Brauerei Simon GmbH -   {.brewery}  <br>
-Lauf an der Pegnitz // 
+Brauerei Simon GmbH -   <br>
+Lauf an der Pegnitz //  <br>
+{:.brewery}
 
 
-Dreykorn Brauerei -   {.brewery}  <br>
-Lauf an der Pegnitz // 
+Dreykorn Brauerei -   <br>
+Lauf an der Pegnitz //  <br>
+{:.brewery}
 
 
 ##### Lauf-Neunhof 
 
 
-Brauerei Wiethaler -   {.brewery}  <br>
-Lauf-Neunhof // 
+Brauerei Wiethaler -   <br>
+Lauf-Neunhof //  <br>
+{:.brewery}
 
 
 ##### Leinburg 
 
 
-Brauerei Bub -   {.brewery}  <br>
-Leinburg // 
+Brauerei Bub -   <br>
+Leinburg //  <br>
+{:.brewery}
 
 
-##### Leipheim  (2) 
+##### Leipheim  _(2)_{:.count} 
 
 
-Brauereigasthof Hirschbräu -   {.brewery}  <br>
-Leipheim // 
+Brauereigasthof Hirschbräu -   <br>
+Leipheim //  <br>
+{:.brewery}
 
 
-Heimat- und Bauernkriegsmuseum Blaue Ente -   {.brewery}  <br>
-Leipheim // 
+Heimat- und Bauernkriegsmuseum Blaue Ente -   <br>
+Leipheim //  <br>
+{:.brewery}
 
 
-##### Leutenbach  (2) 
+##### Leutenbach  _(2)_{:.count} 
 
 
-Brauerei Alt Dietzhof -   {.brewery}  <br>
-91359 Leutenbach // Dietzhof 42 
+Brauerei Alt Dietzhof -   <br>
+91359 Leutenbach // Dietzhof 42  <br>
+{:.brewery}
 
 
-Brauerei Gasthof Drummer -   {.brewery}  <br>
-91359 Leutenbach // Dorfstraße 10 
+Brauerei Gasthof Drummer -   <br>
+91359 Leutenbach // Dorfstraße 10  <br>
+{:.brewery}
 
 
 ##### Leuterschach 
 
 
-Sailerbräu -   {.brewery}  <br>
-Leuterschach // 
+Sailerbräu -   <br>
+Leuterschach //  <br>
+{:.brewery}
 
 
 ##### Lichtenau 
 
 
-Hauff-Bräu R. Weid -   {.brewery}  <br>
-Lichtenau // 
+Hauff-Bräu R. Weid -   <br>
+Lichtenau //  <br>
+{:.brewery}
 
 
 ##### Lichtenberg 
 
 
-Sonnenbräu Lichtenberg -   {.brewery}  <br>
-95192 Lichtenberg // Nailaer Straße 20 
+Sonnenbräu Lichtenberg -   <br>
+95192 Lichtenberg // Nailaer Straße 20  <br>
+{:.brewery}
 
 
-##### Lichtenfels  (2) 
+##### Lichtenfels  _(2)_{:.count} 
 
 
-Brauerei-Gasthof Wichert -   {.brewery}  <br>
-96215 Lichtenfels // Alte Reichsstrasse 50 
+Brauerei-Gasthof Wichert -   <br>
+96215 Lichtenfels // Alte Reichsstrasse 50  <br>
+{:.brewery}
 
 
-Braumanufaktur Lippert -   {.brewery}  <br>
-96215 Lichtenfels // Wittelsbacher Straße 8 
+Braumanufaktur Lippert -   <br>
+96215 Lichtenfels // Wittelsbacher Straße 8  <br>
+{:.brewery}
 
 
-##### Litzendorf-Lohndorf  (2) 
+##### Litzendorf-Lohndorf  _(2)_{:.count} 
 
 
-Brauerei Reh - 1901  {.brewery}  <br>
+Brauerei Reh - 1901  <br>
 96123 Litzendorf-Lohndorf // Ellertalstraße 36  <br>
-[www.reh-bier.de](http://www.reh-bier.de) 
+[www.reh-bier.de](http://www.reh-bier.de)  <br>
+{:.brewery}
 
 
-
-Brauereigaststätte Hölzlein - 1781  {.brewery}  <br>
-96123 Litzendorf-Lohndorf // Ellertalstraße 13 
+Brauereigaststätte Hölzlein - 1781  <br>
+96123 Litzendorf-Lohndorf // Ellertalstraße 13  <br>
+{:.brewery}
 
 
 ##### Litzendorf-Melkendorf 
 
 
-Brauereigasthof Winkler - 1889  {.brewery}  <br>
+Brauereigasthof Winkler - 1889  <br>
 96123 Litzendorf-Melkendorf // Otterbachstraße 13  <br>
-[www.brauereigasthof-winkler.de](http://www.brauereigasthof-winkler.de) 
-
+[www.brauereigasthof-winkler.de](http://www.brauereigasthof-winkler.de)  <br>
+{:.brewery}
 
 
 ##### Litzendorf-Tiefenellern 
 
 
-Brauerei Hönig (Gasthof zur Post) - 1478  {.brewery}  <br>
+Brauerei Hönig (Gasthof zur Post) - 1478  <br>
 96123 Litzendorf-Tiefenellern // Ellerbergstraße 15  <br>
-[www.brauerei-hoenig.de](http://www.brauerei-hoenig.de) 
-
+[www.brauerei-hoenig.de](http://www.brauerei-hoenig.de)  <br>
+{:.brewery}
 
 
 ##### Mainburg 
 
 
-Ziegler Bräu -   {.brewery}  <br>
-Mainburg // 
+Ziegler Bräu -   <br>
+Mainburg //  <br>
+{:.brewery}
 
 
 ##### Maisach 
 
 
-Privatbrauerei J. Sedlmayr -   {.brewery}  <br>
-Maisach // 
+Privatbrauerei J. Sedlmayr -   <br>
+Maisach //  <br>
+{:.brewery}
 
 
 ##### Malgersdorf-Heilmfurt 
 
 
-Brauerei Büchner -   {.brewery}  <br>
-Malgersdorf-Heilmfurt // 
+Brauerei Büchner -   <br>
+Malgersdorf-Heilmfurt //  <br>
+{:.brewery}
 
 
 ##### Mallersdorf 
 
 
-Klosterbrauerei Mallersdorf -   {.brewery}  <br>
-Mallersdorf // 
+Klosterbrauerei Mallersdorf -   <br>
+Mallersdorf //  <br>
+{:.brewery}
 
 
 ##### Markt Schwaben 
 
 
-Privatbrauerei Schweiger -   {.brewery}  <br>
-Markt Schwaben // 
+Privatbrauerei Schweiger -   <br>
+Markt Schwaben //  <br>
+{:.brewery}
 
 
 ##### Marktheidenfeld 
 
 
-Martinsbräu Georg Mayr -   {.brewery}  <br>
-Marktheidenfeld // 
+Martinsbräu Georg Mayr -   <br>
+Marktheidenfeld //  <br>
+{:.brewery}
 
 
 ##### Marktredwitz 
 
 
-Brauerei Nothhaft -   {.brewery}  <br>
-95615 Marktredwitz // Ottostraße 30 
+Brauerei Nothhaft -   <br>
+95615 Marktredwitz // Ottostraße 30  <br>
+{:.brewery}
 
 
 ##### Marktsteft 
 
 
-Privatbrauerei Kesselring -   {.brewery}  <br>
-Marktsteft // 
+Privatbrauerei Kesselring -   <br>
+Marktsteft //  <br>
+{:.brewery}
 
 
 ##### Maroldsweisach 
 
 
-Brauerei Hartleb -   {.brewery}  <br>
-Maroldsweisach // 
+Brauerei Hartleb -   <br>
+Maroldsweisach //  <br>
+{:.brewery}
 
 
 ##### Maxlrain 
 
 
-Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen -   {.brewery}  <br>
-Maxlrain // 
+Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen -   <br>
+Maxlrain //  <br>
+{:.brewery}
 
 
-##### Memmelsdorf  (2) 
+##### Memmelsdorf  _(2)_{:.count} 
 
 
-Brauerei Gasthof Höhn - 1783  {.brewery}  <br>
+Brauerei Gasthof Höhn - 1783  <br>
 96117 Memmelsdorf // Hauptstrasse 11  <br>
-[www.gasthof-hoehn.de](http://www.gasthof-hoehn.de) 
+[www.gasthof-hoehn.de](http://www.gasthof-hoehn.de)  <br>
+{:.brewery}
 
 
-
-Brauerei-Gasthof Drei Kronen - 1457  {.brewery}  <br>
+Brauerei-Gasthof Drei Kronen - 1457  <br>
 96117 Memmelsdorf // Hauptstraße 19  <br>
-[www.drei-kronen.de](http://www.drei-kronen.de) 
-
+[www.drei-kronen.de](http://www.drei-kronen.de)  <br>
+{:.brewery}
 
 
 ##### Memmelsdorf-Drosendorf 
 
 
-Brauerei und Gasthof Göller - 1865  {.brewery}  <br>
+Brauerei und Gasthof Göller - 1865  <br>
 96117 Memmelsdorf-Drosendorf // Scheßlitzer Straße 7  <br>
-[www.goeller-brauerei.de](http://www.goeller-brauerei.de) 
-
+[www.goeller-brauerei.de](http://www.goeller-brauerei.de)  <br>
+{:.brewery}
 
 
 ##### Memmelsdorf-Merkendorf 
 
 
-Brauerei Hummel - 1556  {.brewery}  <br>
+Brauerei Hummel - 1556  <br>
 96117 Memmelsdorf-Merkendorf // Lindenstraße 9  <br>
-[www.brauerei-hummel.de](http://www.brauerei-hummel.de) 
-
+[www.brauerei-hummel.de](http://www.brauerei-hummel.de)  <br>
+{:.brewery}
 
 
 ##### Memmingen 
 
 
-Memminger Brauerei -   {.brewery}  <br>
-Memmingen // 
+Memminger Brauerei -   <br>
+Memmingen //  <br>
+{:.brewery}
 
 
 ##### Merkendorf 
 
 
-Brauerei Wagner Merkendorf - 1797  {.brewery}  <br>
+Brauerei Wagner Merkendorf - 1797  <br>
 96117 Merkendorf // Pointstraße 1  <br>
-[www.wagner-merkendorf.de](http://www.wagner-merkendorf.de) 
-
+[www.wagner-merkendorf.de](http://www.wagner-merkendorf.de)  <br>
+{:.brewery}
 
 
 ##### Meßhofen 
 
 
-Brauerei Kolb -   {.brewery}  <br>
-Meßhofen // 
+Brauerei Kolb -   <br>
+Meßhofen //  <br>
+{:.brewery}
 
 
 ##### Michelsneukirchen 
 
 
-Schröttinger Bräu -   {.brewery}  <br>
-Michelsneukirchen // 
+Schröttinger Bräu -   <br>
+Michelsneukirchen //  <br>
+{:.brewery}
 
 
 ##### Miesbach 
 
 
-Weißbierbrauerei Hopf - 1892  {.brewery}  <br>
+Weißbierbrauerei Hopf - 1892  <br>
 83714 Miesbach // Schützenstraße 8+10  <br>
-[www.hopfweisse.de](http://www.hopfweisse.de) 
+[www.hopfweisse.de](http://www.hopfweisse.de)  <br>
+{:.brewery}
 
 Hopf Helle Weiße   • Hopf Dunkle Weiße  
+{:.beers}
 
 ##### Miltenberg 
 
 
-Brauhaus Faust -   {.brewery}  <br>
-Miltenberg // 
+Brauhaus Faust -   <br>
+Miltenberg //  <br>
+{:.brewery}
 
 
 ##### Mindelheim 
 
 
-Lindenbrauerei -   {.brewery}  <br>
-Mindelheim // 
+Lindenbrauerei -   <br>
+Mindelheim //  <br>
+{:.brewery}
 
 
 ##### Missen 
 
 
-Schäffler-Bräu -   {.brewery}  <br>
-Missen // 
+Schäffler-Bräu -   <br>
+Missen //  <br>
+{:.brewery}
 
 
 ##### Mittenwald 
 
 
-Brauerei Mittenwald Johann Neuner -   {.brewery}  <br>
-Mittenwald // 
+Brauerei Mittenwald Johann Neuner -   <br>
+Mittenwald //  <br>
+{:.brewery}
 
 
-##### Mitterteich  (2) 
+##### Mitterteich  _(2)_{:.count} 
 
 
-Hösl Brauerei -   {.brewery}  <br>
-Mitterteich // 
+Hösl Brauerei -   <br>
+Mitterteich //  <br>
+{:.brewery}
 
 
-Kommunbrauhaus -   {.brewery}  <br>
-Mitterteich // 
+Kommunbrauhaus -   <br>
+Mitterteich //  <br>
+{:.brewery}
 
 
 ##### Mitwitz 
 
 
-Franken Bräu Lorenz Bauer -   {.brewery}  <br>
-96268 Mitwitz // Neundorf 41-43 
+Franken Bräu Lorenz Bauer -   <br>
+96268 Mitwitz // Neundorf 41-43  <br>
+{:.brewery}
 
 
 ##### Moos 
 
 
-Arcobräu Gräfliches Brauhaus -   {.brewery}  <br>
-Moos // 
+Arcobräu Gräfliches Brauhaus -   <br>
+Moos //  <br>
+{:.brewery}
 
 
 ##### Moosbach 
 
 
-Moosbacher Brauerei -   {.brewery}  <br>
-Moosbach // 
+Moosbacher Brauerei -   <br>
+Moosbach //  <br>
+{:.brewery}
 
 
 ##### Motten 
 
 
-Will Bräu - Hochstiftliches Brauhaus in Bayern -   {.brewery}  <br>
-Motten // 
+Will Bräu - Hochstiftliches Brauhaus in Bayern -   <br>
+Motten //  <br>
+{:.brewery}
 
 
 ##### Murnau 
 
 
-Brauerei Karg -   {.brewery}  <br>
-Murnau // 
+Brauerei Karg -   <br>
+Murnau //  <br>
+{:.brewery}
 
 
 ##### Murnau am Staffelsee 
 
 
-Brauerei Griesbräu zu Murnau -   {.brewery}  <br>
-Murnau am Staffelsee // 
+Brauerei Griesbräu zu Murnau -   <br>
+Murnau am Staffelsee //  <br>
+{:.brewery}
 
 
 ##### Mönchsambach 
 
 
-Brauerei Zehendner -   {.brewery}  <br>
-96138 Mönchsambach // Haus Nr. 18 
+Brauerei Zehendner -   <br>
+96138 Mönchsambach // Haus Nr. 18  <br>
+{:.brewery}
 
 
-##### Mühldorf am Inn  (2) 
+##### Mühldorf am Inn  _(2)_{:.count} 
 
 
-Weißbräu Unertl -   {.brewery}  <br>
-Mühldorf am Inn // 
+Weißbräu Unertl -   <br>
+Mühldorf am Inn //  <br>
+{:.brewery}
 
 
-Zum Steer -   {.brewery}  <br>
-Mühldorf am Inn // 
+Zum Steer -   <br>
+Mühldorf am Inn //  <br>
+{:.brewery}
 
 
 ##### Mühlhausen 
 
 
-Bender -   {.brewery}  <br>
-Mühlhausen // 
+Bender -   <br>
+Mühlhausen //  <br>
+{:.brewery}
 
 
-##### München  (9) 
+##### München  _(9)_{:.count} 
 
 
-Augustiner Bräu München - 1328  {.brewery}  <br>
+Augustiner Bräu München - 1328  <br>
 80339 München // Landsberger Straße 31‎  <br>
-[www.augustiner-braeu.de](http://www.augustiner-braeu.de) 
+[www.augustiner-braeu.de](http://www.augustiner-braeu.de)  <br>
+{:.brewery}
 
 Augustiner Lagerbier Hell   • Augustiner Edelstoff   • Augustiner Weißbier   • Augustiner Oktoberfestbier   • Augustiner Dunkel   • Augustiner Pils   • Augustiner Maximator  
+{:.beers}
 
-Paulaner Brauerei - 1634  {.brewery}  <br>
+Paulaner Brauerei - 1634  <br>
 81541 München // Hochstraße 75‎  <br>
-[www.paulaner.de](http://www.paulaner.de) 
+[www.paulaner.de](http://www.paulaner.de)  <br>
+{:.brewery}
 
 Paulaner Hefe-Weißbier Naturtrüb   • Paulaner Original Münchner Hell   • Paulaner Hefe-Weißbier Leicht   • Paulaner Salvator   • Paulaner Original Münchner Urtyp   • Paulaner Weißbier Kristallklar   • Paulaner Münchner Hell Leicht   • Paulaner Premium Pils   • Paulaner Original Münchner Dunkel   • Paulaner Hefe-Weißbier Dunkel   • Paulaner Oktoberfestbier  
+{:.beers}
 
-Hacker-Pschorr Bräu - 1417  {.brewery}  <br>
+Hacker-Pschorr Bräu - 1417  <br>
 81541 München // Hochstraße 75‎  <br>
-[www.hacker-pschorr.de](http://www.hacker-pschorr.de) 
+[www.hacker-pschorr.de](http://www.hacker-pschorr.de)  <br>
+{:.brewery}
 
 Hacker-Pschorr Münchner Hell   • Hacker-Pschorr Oktoberfest Märzen   • Hacker-Pschorr Anno 1417   • Hacker-Pschorr Hefe Weisse   • Hacker-Pschorr Leichte Weisse   • Hacker-Pschorr Superior   • Hacker-Pschorr Münchener Gold   • Hacker-Pschorr Münchner Dunkel   • Hacker-Pschorr Braumeister Pils   • Hacker-Pschorr Animator   • Hacker-Pschorr Dunkle Weisse   • Hacker-Pschorr Sternweisse  
+{:.beers}
 
-Spaten-Franziskaner-Bräu - 1397  {.brewery}  <br>
+Spaten-Franziskaner-Bräu - 1397  <br>
 München //  <br>
-[www.spatenbraeu.de](http://www.spatenbraeu.de) 
+[www.spatenbraeu.de](http://www.spatenbraeu.de)  <br>
+{:.brewery}
 
 
-
-Löwenbräu - 1383  {.brewery}  <br>
+Löwenbräu - 1383  <br>
 80335 München // Nymphenburger Straße 7‎  <br>
-[www.loewenbraeu.de](http://www.loewenbraeu.de) 
+[www.loewenbraeu.de](http://www.loewenbraeu.de)  <br>
+{:.brewery}
 
 
-
-Hofbräu München - 1589  {.brewery}  <br>
+Hofbräu München - 1589  <br>
 81829 München // Hofbräuallee 1  <br>
-[www.hofbraeu-muenchen.de](http://www.hofbraeu-muenchen.de) 
+[www.hofbraeu-muenchen.de](http://www.hofbraeu-muenchen.de)  <br>
+{:.brewery}
 
 
-
-CREW AleWerkstatt -   {.brewery}  <br>
-München // 
-
-
-Forschungsbrauerei Jakob -   {.brewery}  <br>
-München // 
+CREW AleWerkstatt -   <br>
+München //  <br>
+{:.brewery}
 
 
-Giesinger Bräu -   {.brewery}  <br>
-München // 
+Forschungsbrauerei Jakob -   <br>
+München //  <br>
+{:.brewery}
+
+
+Giesinger Bräu -   <br>
+München //  <br>
+{:.brewery}
 
 
 ##### München-Neuhausen 
 
 
-Richelbräu -   {.brewery}  <br>
-München-Neuhausen // 
+Richelbräu -   <br>
+München-Neuhausen //  <br>
+{:.brewery}
 
 
 ##### Münchsteinach 
 
 
-Brauerei Loscher -   {.brewery}  <br>
-Münchsteinach // 
+Brauerei Loscher -   <br>
+Münchsteinach //  <br>
+{:.brewery}
 
 
 ##### Naila 
 
 
-Frankenwälder Brauhaus -   {.brewery}  <br>
-95119 Naila // Hofer Straße 21 
+Frankenwälder Brauhaus -   <br>
+95119 Naila // Hofer Straße 21  <br>
+{:.brewery}
 
 
 ##### Nennslingen 
 
 
-Ritter St. Georgenbrauerei -   {.brewery}  <br>
-Nennslingen // 
+Ritter St. Georgenbrauerei -   <br>
+Nennslingen //  <br>
+{:.brewery}
 
 
 ##### Nesselwang 
 
 
-Postbrauerei Nesselwang -   {.brewery}  <br>
-Nesselwang // 
+Postbrauerei Nesselwang -   <br>
+Nesselwang //  <br>
+{:.brewery}
 
 
 ##### Neu-Ulm 
 
 
-Barfüßer -   {.brewery}  <br>
-Neu-Ulm // 
+Barfüßer -   <br>
+Neu-Ulm //  <br>
+{:.brewery}
 
 
 ##### Neu-Ulm-Offenhausen 
 
 
-Privatbrauerei Schlössle -   {.brewery}  <br>
-Neu-Ulm-Offenhausen // 
+Privatbrauerei Schlössle -   <br>
+Neu-Ulm-Offenhausen //  <br>
+{:.brewery}
 
 
 ##### Neu-Ulm-Reutti 
 
 
-Roberts GenussBräu -   {.brewery}  <br>
-Neu-Ulm-Reutti // 
+Roberts GenussBräu -   <br>
+Neu-Ulm-Reutti //  <br>
+{:.brewery}
 
 
 ##### Neuburg an der Donau 
 
 
-Juliusbräu -   {.brewery}  <br>
-Neuburg an der Donau // 
+Juliusbräu -   <br>
+Neuburg an der Donau //  <br>
+{:.brewery}
 
 
-##### Neuhaus an der Pegnitz  (3) 
+##### Neuhaus an der Pegnitz  _(3)_{:.count} 
 
 
-Kaiser Bräu -   {.brewery}  <br>
-Neuhaus an der Pegnitz // 
+Kaiser Bräu -   <br>
+Neuhaus an der Pegnitz //  <br>
+{:.brewery}
 
 
-Kommunbräu -   {.brewery}  <br>
-Neuhaus an der Pegnitz // 
+Kommunbräu -   <br>
+Neuhaus an der Pegnitz //  <br>
+{:.brewery}
 
 
-Veldensteiner Kaiser Bräu -   {.brewery}  <br>
-Neuhaus an der Pegnitz // 
+Veldensteiner Kaiser Bräu -   <br>
+Neuhaus an der Pegnitz //  <br>
+{:.brewery}
 
 
 ##### Neukirchen bei Sulzbach-Rosenberg 
 
 
-Schlossbrauerei Holnstein -   {.brewery}  <br>
-Neukirchen bei Sulzbach-Rosenberg // 
+Schlossbrauerei Holnstein -   <br>
+Neukirchen bei Sulzbach-Rosenberg //  <br>
+{:.brewery}
 
 
 ##### Neumarkt 
 
 
-Neumarkter Lammsbräu -   {.brewery}  <br>
+Neumarkter Lammsbräu -   <br>
 92318 Neumarkt // Amberger Straße 1  <br>
-[www.lammsbraeu.de](http://www.lammsbraeu.de) 
+[www.lammsbraeu.de](http://www.lammsbraeu.de)  <br>
+{:.brewery}
 
 Neumarkter Lammsbräu Zzzisch Edelpils   • Neumarkter Lammsbräu Urstoff   • Neumarkter Lammsbräu Weisse   • Neumarkter Lammsbräu Schwarze  
+{:.beers}
 
-##### Neumarkt in der Oberpfalz  (2) 
-
-
-Oberer Ganskeller -   {.brewery}  <br>
-Neumarkt in der Oberpfalz // 
+##### Neumarkt in der Oberpfalz  _(2)_{:.count} 
 
 
-Glossner -   {.brewery}  <br>
-Neumarkt in der Oberpfalz // 
+Oberer Ganskeller -   <br>
+Neumarkt in der Oberpfalz //  <br>
+{:.brewery}
+
+
+Glossner -   <br>
+Neumarkt in der Oberpfalz //  <br>
+{:.brewery}
 
 
 ##### Neunburg vorm Wald 
 
 
-Weisses Brauhaus Mehringer -   {.brewery}  <br>
-Neunburg vorm Wald // 
+Weisses Brauhaus Mehringer -   <br>
+Neunburg vorm Wald //  <br>
+{:.brewery}
 
 
 ##### Neunkirchen am Brand 
 
 
-Vasold & Schmitt Privatbrauerei -   {.brewery}  <br>
-91077 Neunkirchen am Brand // Schellenberger Weg 3 
+Vasold & Schmitt Privatbrauerei -   <br>
+91077 Neunkirchen am Brand // Schellenberger Weg 3  <br>
+{:.brewery}
 
 
 ##### Neunkirchen am Sand 
 
 
-Wolfshöher Privatbrauerei K. u. F. Weber -   {.brewery}  <br>
-Neunkirchen am Sand // 
+Wolfshöher Privatbrauerei K. u. F. Weber -   <br>
+Neunkirchen am Sand //  <br>
+{:.brewery}
 
 
 ##### Neureichenau-Riedelsbach 
 
 
-Gut Riedelsbach Familie Bernhard Sitter -   {.brewery}  <br>
-Neureichenau-Riedelsbach // 
+Gut Riedelsbach Familie Bernhard Sitter -   <br>
+Neureichenau-Riedelsbach //  <br>
+{:.brewery}
 
 
 ##### Neustadt an der Aisch 
 
 
-Hausbrauerei Kohlenmühle -   {.brewery}  <br>
-Neustadt an der Aisch // 
+Hausbrauerei Kohlenmühle -   <br>
+Neustadt an der Aisch //  <br>
+{:.brewery}
 
 
 ##### Neusäß-Steppach 
 
 
-Brauereigasthof Fuchs -   {.brewery}  <br>
-Neusäß-Steppach // 
+Brauereigasthof Fuchs -   <br>
+Neusäß-Steppach //  <br>
+{:.brewery}
 
 
 ##### Nittenau 
 
 
-Brauhaus Nittenau -   {.brewery}  <br>
-Nittenau // 
+Brauhaus Nittenau -   <br>
+Nittenau //  <br>
+{:.brewery}
 
 
 ##### Nittendorf 
 
 
-Schlossbrauerei Eichhofen -   {.brewery}  <br>
-Nittendorf // 
+Schlossbrauerei Eichhofen -   <br>
+Nittendorf //  <br>
+{:.brewery}
 
 
-##### Nördlingen  (2) 
+##### Nördlingen  _(2)_{:.count} 
 
 
-Anker Bräu -   {.brewery}  <br>
-Nördlingen // 
+Anker Bräu -   <br>
+Nördlingen //  <br>
+{:.brewery}
 
 
-Maierbier -   {.brewery}  <br>
-Nördlingen // 
+Maierbier -   <br>
+Nördlingen //  <br>
+{:.brewery}
 
 
-##### Nürnberg  (5) 
+##### Nürnberg  _(5)_{:.count} 
 
 
-Hausbrauerei Barfüßer -   {.brewery}  <br>
-Nürnberg // 
+Hausbrauerei Barfüßer -   <br>
+Nürnberg //  <br>
+{:.brewery}
 
 
-Lederer Bräu -   {.brewery}  <br>
-Nürnberg // 
+Lederer Bräu -   <br>
+Nürnberg //  <br>
+{:.brewery}
 
 
-Nürnberger Altstadthof -   {.brewery}  <br>
-Nürnberg // 
+Nürnberger Altstadthof -   <br>
+Nürnberg //  <br>
+{:.brewery}
 
 
-Schanzenbräu -   {.brewery}  <br>
-Nürnberg // 
+Schanzenbräu -   <br>
+Nürnberg //  <br>
+{:.brewery}
 
 
-Tucher Bräu -   {.brewery}  <br>
-Nürnberg // 
+Tucher Bräu -   <br>
+Nürnberg //  <br>
+{:.brewery}
 
 
 ##### Oberammergau 
 
 
-Ammergauer Maxbräu -   {.brewery}  <br>
-Oberammergau // 
+Ammergauer Maxbräu -   <br>
+Oberammergau //  <br>
+{:.brewery}
 
 
 ##### Oberaurach-Trossenfurt 
 
 
-Brauerei Roppelt -   {.brewery}  <br>
-Oberaurach-Trossenfurt // 
+Brauerei Roppelt -   <br>
+Oberaurach-Trossenfurt //  <br>
+{:.brewery}
 
 
 ##### Oberelsbach 
 
 
-Pax Bräu -   {.brewery}  <br>
-Oberelsbach // 
+Pax Bräu -   <br>
+Oberelsbach //  <br>
+{:.brewery}
 
 
 ##### Oberhaching-Deisenhofen 
 
 
-Weißbräu Bartholomäus Gmeineder -   {.brewery}  <br>
-Oberhaching-Deisenhofen // 
+Weißbräu Bartholomäus Gmeineder -   <br>
+Oberhaching-Deisenhofen //  <br>
+{:.brewery}
 
 
-##### Oberhaid  (2) 
+##### Oberhaid  _(2)_{:.count} 
 
 
-Brauerei Hertlein - 1870  {.brewery}  <br>
-96173 Oberhaid // Hallstadter Straße 12 
+Brauerei Hertlein - 1870  <br>
+96173 Oberhaid // Hallstadter Straße 12  <br>
+{:.brewery}
 
 
-Brauerei Wagner - 1550  {.brewery}  <br>
+Brauerei Wagner - 1550  <br>
 96173 Oberhaid // Bamberger Straße 2  <br>
-[www.brauerei-wagner-oberhaid.de](http://www.brauerei-wagner-oberhaid.de) 
-
+[www.brauerei-wagner-oberhaid.de](http://www.brauerei-wagner-oberhaid.de)  <br>
+{:.brewery}
 
 
 ##### Oberkotzau-Fattigau 
 
 
-Schlossbrauerei Stelzer -   {.brewery}  <br>
-95145 Oberkotzau-Fattigau // Hauptstrasse 3 
+Schlossbrauerei Stelzer -   <br>
+95145 Oberkotzau-Fattigau // Hauptstrasse 3  <br>
+{:.brewery}
 
 
 ##### Oberreichenbach 
 
 
-Brauerei Geyer Landgasthof -   {.brewery}  <br>
-Oberreichenbach // 
+Brauerei Geyer Landgasthof -   <br>
+Oberreichenbach //  <br>
+{:.brewery}
 
 
 ##### Obertaufkirchen 
 
 
-Brauerei Stierberg -   {.brewery}  <br>
-Obertaufkirchen // 
+Brauerei Stierberg -   <br>
+Obertaufkirchen //  <br>
+{:.brewery}
 
 
-##### Ochsenfurt  (2) 
+##### Ochsenfurt  _(2)_{:.count} 
 
 
-Kauzen-Bräu -   {.brewery}  <br>
-Ochsenfurt // 
+Kauzen-Bräu -   <br>
+Ochsenfurt //  <br>
+{:.brewery}
 
 
-Privatbrauerei Oechsner -   {.brewery}  <br>
-Ochsenfurt // 
+Privatbrauerei Oechsner -   <br>
+Ochsenfurt //  <br>
+{:.brewery}
 
 
 ##### Odelzhausen 
 
 
-Schlossbrauerei Odelzhausen -   {.brewery}  <br>
-Odelzhausen // 
+Schlossbrauerei Odelzhausen -   <br>
+Odelzhausen //  <br>
+{:.brewery}
 
 
 ##### Oettingen 
 
 
-Oettinger Brauerei - 1731  {.brewery}  <br>
+Oettinger Brauerei - 1731  <br>
 86732 Oettingen // Brauhausstraße 8  <br>
-[www.oettinger-bier.de](http://www.oettinger-bier.de) 
-
+[www.oettinger-bier.de](http://www.oettinger-bier.de)  <br>
+{:.brewery}
 
 
 ##### Osterberg 
 
 
-Deilbräu -   {.brewery}  <br>
-Osterberg // 
+Deilbräu -   <br>
+Osterberg //  <br>
+{:.brewery}
 
 
-##### Ostheim vor der Rhön  (2) 
+##### Ostheim vor der Rhön  _(2)_{:.count} 
 
 
-Privatbrauerei Peter -   {.brewery}  <br>
-Ostheim vor der Rhön // 
+Privatbrauerei Peter -   <br>
+Ostheim vor der Rhön //  <br>
+{:.brewery}
 
 
-Streck-Bräu -   {.brewery}  <br>
-Ostheim vor der Rhön // 
+Streck-Bräu -   <br>
+Ostheim vor der Rhön //  <br>
+{:.brewery}
 
 
 ##### Ottobeuren 
 
 
-Hotel Hirsch Gasthausbrauerei -   {.brewery}  <br>
-Ottobeuren // 
+Hotel Hirsch Gasthausbrauerei -   <br>
+Ottobeuren //  <br>
+{:.brewery}
 
 
 ##### Pahres 
 
 
-Privatbrauerei Hofmann -   {.brewery}  <br>
-Pahres // 
+Privatbrauerei Hofmann -   <br>
+Pahres //  <br>
+{:.brewery}
 
 
 ##### Pappenheim-Bieswang 
 
 
-F. Wurm -   {.brewery}  <br>
-Pappenheim-Bieswang  // 
+F. Wurm -   <br>
+Pappenheim-Bieswang  //  <br>
+{:.brewery}
 
 
 ##### Pappenheim-Zimmern 
 
 
-Hechtbräu Zimmern -   {.brewery}  <br>
-Pappenheim-Zimmern // 
+Hechtbräu Zimmern -   <br>
+Pappenheim-Zimmern //  <br>
+{:.brewery}
 
 
-##### Passau  (2) 
+##### Passau  _(2)_{:.count} 
 
 
-Brauerei Hacklberg -   {.brewery}  <br>
-Passau // 
+Brauerei Hacklberg -   <br>
+Passau //  <br>
+{:.brewery}
 
 
-Innstadt Brauerei Bierspezialitäten -   {.brewery}  <br>
-Passau // 
+Innstadt Brauerei Bierspezialitäten -   <br>
+Passau //  <br>
+{:.brewery}
 
 
 ##### Passau-Ries 
 
 
-Weizenbierbrauerei Andorfer -   {.brewery}  <br>
-Passau-Ries // 
+Weizenbierbrauerei Andorfer -   <br>
+Passau-Ries //  <br>
+{:.brewery}
 
 
-##### Pegnitz  (3) 
+##### Pegnitz  _(3)_{:.count} 
 
 
-Brauer-Vereinigung Pegnitz -   {.brewery}  <br>
-91257 Pegnitz // Am Buchauer Berg 4 
+Brauer-Vereinigung Pegnitz -   <br>
+91257 Pegnitz // Am Buchauer Berg 4  <br>
+{:.brewery}
 
 
-Brauerei Gradl -   {.brewery}  <br>
-91257 Pegnitz // Leups 6 
+Brauerei Gradl -   <br>
+91257 Pegnitz // Leups 6  <br>
+{:.brewery}
 
 
-Jura Bräu -   {.brewery}  <br>
-91257 Pegnitz // Buchauer Berg 8-10 
+Jura Bräu -   <br>
+91257 Pegnitz // Buchauer Berg 8-10  <br>
+{:.brewery}
 
 
 ##### Pegnitz-Büchenbach 
 
 
-Brauerei Gasthof Herold -   {.brewery}  <br>
-91257 Pegnitz-Büchenbach // Marktstraße 29 
+Brauerei Gasthof Herold -   <br>
+91257 Pegnitz-Büchenbach // Marktstraße 29  <br>
+{:.brewery}
 
 
 ##### Pettendorf 
 
 
-Prösslbräu in Adlersberg -   {.brewery}  <br>
-Pettendorf // 
+Prösslbräu in Adlersberg -   <br>
+Pettendorf //  <br>
+{:.brewery}
 
 
 ##### Petting/Schönram 
 
 
-Brauerei Schönram -   {.brewery}  <br>
+Brauerei Schönram -   <br>
 83367 Petting/Schönram // Salzburger Str. 17  <br>
-[www.brauerei-schoenram.de](http://www.brauerei-schoenram.de) 
-
+[www.brauerei-schoenram.de](http://www.brauerei-schoenram.de)  <br>
+{:.brewery}
 
 
 ##### Pfaffenberg 
 
 
-Privatbrauerei Stöttner -   {.brewery}  <br>
-Pfaffenberg // 
+Privatbrauerei Stöttner -   <br>
+Pfaffenberg //  <br>
+{:.brewery}
 
 
-##### Pfaffenhofen an der Ilm  (2) 
+##### Pfaffenhofen an der Ilm  _(2)_{:.count} 
 
 
-Müllerbräu -   {.brewery}  <br>
-Pfaffenhofen an der Ilm // 
+Müllerbräu -   <br>
+Pfaffenhofen an der Ilm //  <br>
+{:.brewery}
 
 
-Urbanusbräu - Brauhaus Pfaffenhofen -   {.brewery}  <br>
-Pfaffenhofen an der Ilm // 
+Urbanusbräu - Brauhaus Pfaffenhofen -   <br>
+Pfaffenhofen an der Ilm //  <br>
+{:.brewery}
 
 
 ##### Pfaffing-Forsting 
 
 
-Brauerei Gut Forsting -   {.brewery}  <br>
-Pfaffing-Forsting // 
+Brauerei Gut Forsting -   <br>
+Pfaffing-Forsting //  <br>
+{:.brewery}
 
 
-##### Pfeffenhausen  (2) 
+##### Pfeffenhausen  _(2)_{:.count} 
 
 
-Anton Pöllinger Brauerei -   {.brewery}  <br>
-Pfeffenhausen // 
+Anton Pöllinger Brauerei -   <br>
+Pfeffenhausen //  <br>
+{:.brewery}
 
 
-Brauerei Reder -   {.brewery}  <br>
-Pfeffenhausen // 
+Brauerei Reder -   <br>
+Pfeffenhausen //  <br>
+{:.brewery}
 
 
 ##### Pfronten 
 
 
-Braugasthof Falkenstein -   {.brewery}  <br>
-Pfronten // 
+Braugasthof Falkenstein -   <br>
+Pfronten //  <br>
+{:.brewery}
 
 
 ##### Pilsting-Großköllnbach 
 
 
-Privatbrauerei H. Egerer -   {.brewery}  <br>
-Pilsting-Großköllnbach // 
+Privatbrauerei H. Egerer -   <br>
+Pilsting-Großköllnbach //  <br>
+{:.brewery}
 
 
 ##### Pirk 
 
 
-Pirker Brauhaus -   {.brewery}  <br>
-Pirk // 
+Pirker Brauhaus -   <br>
+Pirk //  <br>
+{:.brewery}
 
 
 ##### Plattling 
 
 
-Schaubrauerei Bräu zur Isar -   {.brewery}  <br>
-Plattling // 
+Schaubrauerei Bräu zur Isar -   <br>
+Plattling //  <br>
+{:.brewery}
 
 
 ##### Plößberg 
 
 
-Brauerei Hans Riedl -   {.brewery}  <br>
-Plößberg // 
+Brauerei Hans Riedl -   <br>
+Plößberg //  <br>
+{:.brewery}
 
 
 ##### Pommersfelden 
 
 
-Brauerei Hennemann -   {.brewery}  <br>
-96178 Pommersfelden // Sambach 33 
+Brauerei Hennemann -   <br>
+96178 Pommersfelden // Sambach 33  <br>
+{:.brewery}
 
 
-##### Pottenstein  (3) 
+##### Pottenstein  _(3)_{:.count} 
 
 
-Brauerei Mager -   {.brewery}  <br>
-91278 Pottenstein // Hauptstraße 15 
+Brauerei Mager -   <br>
+91278 Pottenstein // Hauptstraße 15  <br>
+{:.brewery}
 
 
-Bruckmayer's Urbräu Fränkisches Wirtshaus -   {.brewery}  <br>
-91278 Pottenstein // Nürnberger Straße 10 
+Bruckmayer's Urbräu Fränkisches Wirtshaus -   <br>
+91278 Pottenstein // Nürnberger Straße 10  <br>
+{:.brewery}
 
 
-Gasthausbrauerei Hufeisen -   {.brewery}  <br>
-91278 Pottenstein // Hauptstraße 38 
+Gasthausbrauerei Hufeisen -   <br>
+91278 Pottenstein // Hauptstraße 38  <br>
+{:.brewery}
 
 
-##### Pretzfeld  (3) 
+##### Pretzfeld  _(3)_{:.count} 
 
 
-Brauerei Gasthof Georg Meister -   {.brewery}  <br>
-91362 Pretzfeld // Unterzaunsbach 8 
+Brauerei Gasthof Georg Meister -   <br>
+91362 Pretzfeld // Unterzaunsbach 8  <br>
+{:.brewery}
 
 
-Brauerei Penning-Zeissler -   {.brewery}  <br>
-91362 Pretzfeld // Hetzelsdorf 9 
+Brauerei Penning-Zeissler -   <br>
+91362 Pretzfeld // Hetzelsdorf 9  <br>
+{:.brewery}
 
 
-Nikl Bräu -   {.brewery}  <br>
-91362 Pretzfeld // Egloffsteiner Straße 19 
+Nikl Bräu -   <br>
+91362 Pretzfeld // Egloffsteiner Straße 19  <br>
+{:.brewery}
 
 
 ##### Priesendorf 
 
 
-Brauerei Schrüfer Priesendorf -   {.brewery}  <br>
-96170 Priesendorf // Hauptstraße 31 
+Brauerei Schrüfer Priesendorf -   <br>
+96170 Priesendorf // Hauptstraße 31  <br>
+{:.brewery}
 
 
 ##### Pullach-Großhesselohe 
 
 
-Di Gastro Isarbräu -   {.brewery}  <br>
-Pullach-Großhesselohe // 
+Di Gastro Isarbräu -   <br>
+Pullach-Großhesselohe //  <br>
+{:.brewery}
 
 
 ##### Pörnbach 
 
 
-Bayrische Graf zu Toerring-Jettenbach-Brauereien -   {.brewery}  <br>
-Pörnbach // 
+Bayrische Graf zu Toerring-Jettenbach-Brauereien -   <br>
+Pörnbach //  <br>
+{:.brewery}
 
 
 ##### Pösing 
 
 
-Drexler Bräu -   {.brewery}  <br>
-Pösing // 
+Drexler Bräu -   <br>
+Pösing //  <br>
+{:.brewery}
 
 
 ##### Raigering 
 
 
-Privatbrauerei Sterk -   {.brewery}  <br>
-Raigering // 
+Privatbrauerei Sterk -   <br>
+Raigering //  <br>
+{:.brewery}
 
 
 ##### Rammingen 
 
 
-Häpfenbräu -   {.brewery}  <br>
-Rammingen // 
+Häpfenbräu -   <br>
+Rammingen //  <br>
+{:.brewery}
 
 
-##### Rattelsdorf  (2) 
+##### Rattelsdorf  _(2)_{:.count} 
 
 
-Brauerei Zum Goldenen Adler -   {.brewery}  <br>
-96179 Rattelsdorf // Höfen 21 
+Brauerei Zum Goldenen Adler -   <br>
+96179 Rattelsdorf // Höfen 21  <br>
+{:.brewery}
 
 
-Freudenecker Fischer-Bräu -   {.brewery}  <br>
-96179 Rattelsdorf // Freudeneck 2 
+Freudenecker Fischer-Bräu -   <br>
+96179 Rattelsdorf // Freudeneck 2  <br>
+{:.brewery}
 
 
 ##### Rauhenebrach-Theinheim 
 
 
-Zum grünen Baum -   {.brewery}  <br>
-Rauhenebrach-Theinheim // 
+Zum grünen Baum -   <br>
+Rauhenebrach-Theinheim //  <br>
+{:.brewery}
 
 
-##### Reckendorf  (2) 
+##### Reckendorf  _(2)_{:.count} 
 
 
-Brauerei Gasthof Schroll -   {.brewery}  <br>
-96182 Reckendorf // Hauptstraße 38 
+Brauerei Gasthof Schroll -   <br>
+96182 Reckendorf // Hauptstraße 38  <br>
+{:.brewery}
 
 
-Schlossbrauerei Reckendorf - 1597  {.brewery}  <br>
+Schlossbrauerei Reckendorf - 1597  <br>
 96182 Reckendorf // Mühlweg 16  <br>
-[www.recken.de](http://www.recken.de) 
-
+[www.recken.de](http://www.recken.de)  <br>
+{:.brewery}
 
 
 ##### Regen 
 
 
-Privatbrauerei J. B. Falter -   {.brewery}  <br>
-Regen // 
+Privatbrauerei J. B. Falter -   <br>
+Regen //  <br>
+{:.brewery}
 
 
-##### Regensburg  (4) 
+##### Regensburg  _(4)_{:.count} 
 
 
-Brauerei Bischofshof -   {.brewery}  <br>
-Regensburg // 
+Brauerei Bischofshof -   <br>
+Regensburg //  <br>
+{:.brewery}
 
 
-Fürstliches Brauhaus Thurn und Taxis -   {.brewery}  <br>
-Regensburg // 
+Fürstliches Brauhaus Thurn und Taxis -   <br>
+Regensburg //  <br>
+{:.brewery}
 
 
-Kneitinger -   {.brewery}  <br>
-Regensburg // 
+Kneitinger -   <br>
+Regensburg //  <br>
+{:.brewery}
 
 
-Spitalbrauerei -   {.brewery}  <br>
-Regensburg // 
+Spitalbrauerei -   <br>
+Regensburg //  <br>
+{:.brewery}
 
 
 ##### Rehling 
 
 
-Schlossbrauerei Scherneck -   {.brewery}  <br>
-Rehling // 
+Schlossbrauerei Scherneck -   <br>
+Rehling //  <br>
+{:.brewery}
 
 
 ##### Reischach 
 
 
-Brauerei Berger -   {.brewery}  <br>
-Reischach // 
+Brauerei Berger -   <br>
+Reischach //  <br>
+{:.brewery}
 
 
-##### Rettenberg  (2) 
+##### Rettenberg  _(2)_{:.count} 
 
 
-Brauerei Zötler -   {.brewery}  <br>
-Rettenberg // 
+Brauerei Zötler -   <br>
+Rettenberg //  <br>
+{:.brewery}
 
 
-Engelbräu -   {.brewery}  <br>
-Rettenberg // 
+Engelbräu -   <br>
+Rettenberg //  <br>
+{:.brewery}
 
 
 ##### Reuth bei Erbendorf 
 
 
-Schloßbrauerei Reuth -   {.brewery}  <br>
-Reuth bei Erbendorf // 
+Schloßbrauerei Reuth -   <br>
+Reuth bei Erbendorf //  <br>
+{:.brewery}
 
 
 ##### Ried bei Markt Indersdorf 
 
 
-Tobiasbräu -   {.brewery}  <br>
-Ried bei Markt Indersdorf // 
+Tobiasbräu -   <br>
+Ried bei Markt Indersdorf //  <br>
+{:.brewery}
 
 
-##### Riedenburg  (2) 
+##### Riedenburg  _(2)_{:.count} 
 
 
-Riedenburger Brauhaus - 1866  {.brewery}  <br>
+Riedenburger Brauhaus - 1866  <br>
 93339 Riedenburg // Hammerweg 5  <br>
-[www.riedenburger.de](http://www.riedenburger.de) 
+[www.riedenburger.de](http://www.riedenburger.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Friedrich Riemhofer -   {.brewery}  <br>
-Riedenburg // 
-
-
-##### Rosenheim  (3) 
+Brauerei Friedrich Riemhofer -   <br>
+Riedenburg //  <br>
+{:.brewery}
 
 
-Auerbräu -   {.brewery}  <br>
-Rosenheim // 
+##### Rosenheim  _(3)_{:.count} 
 
 
-Chiemgauer Brauhaus -   {.brewery}  <br>
-Rosenheim // 
+Auerbräu -   <br>
+Rosenheim //  <br>
+{:.brewery}
 
 
-Flötzinger Bräu (Privatbrauerei Franz Steegmüller) -   {.brewery}  <br>
-Rosenheim // 
+Chiemgauer Brauhaus -   <br>
+Rosenheim //  <br>
+{:.brewery}
+
+
+Flötzinger Bräu (Privatbrauerei Franz Steegmüller) -   <br>
+Rosenheim //  <br>
+{:.brewery}
 
 
 ##### Roth vor der Rhön 
 
 
-Rother Bräu -   {.brewery}  <br>
-Roth vor der Rhön // 
+Rother Bräu -   <br>
+Roth vor der Rhön //  <br>
+{:.brewery}
 
 
 ##### Roßdorf am Forst 
 
 
-Brauerei Sauer Roßdorf - 1784  {.brewery}  <br>
+Brauerei Sauer Roßdorf - 1784  <br>
 96129 Roßdorf am Forst // Sutte 5  <br>
-[www.brauerei-sauer.de](http://www.brauerei-sauer.de) 
-
+[www.brauerei-sauer.de](http://www.brauerei-sauer.de)  <br>
+{:.brewery}
 
 
 ##### Ruderatshofen 
 
 
-Kirnach Stuben -   {.brewery}  <br>
-Ruderatshofen // 
+Kirnach Stuben -   <br>
+Ruderatshofen //  <br>
+{:.brewery}
 
 
 ##### Runding 
 
 
-Schlossbrauerei Brandl -   {.brewery}  <br>
-Runding // 
+Schlossbrauerei Brandl -   <br>
+Runding //  <br>
+{:.brewery}
 
 
 ##### Röbersdorf 
 
 
-Brauerei Weber - 1800  {.brewery}  <br>
-96114 Röbersdorf // Ringstraße 46 
+Brauerei Weber - 1800  <br>
+96114 Röbersdorf // Ringstraße 46  <br>
+{:.brewery}
 
 
 ##### Rödental 
 
 
-Brauerei Gasthof Grosch -   {.brewery}  <br>
-96472 Rödental // Oeslauerstraße 115 
+Brauerei Gasthof Grosch -   <br>
+96472 Rödental // Oeslauerstraße 115  <br>
+{:.brewery}
 
 
 ##### Röttenbach (bei Erlangen) 
 
 
-Brauerei Sauer -   {.brewery}  <br>
-Röttenbach (bei Erlangen) // 
+Brauerei Sauer -   <br>
+Röttenbach (bei Erlangen) //  <br>
+{:.brewery}
 
 
 ##### Rötz 
 
 
-Genossenschaftsbrauerei -   {.brewery}  <br>
-Rötz // 
+Genossenschaftsbrauerei -   <br>
+Rötz //  <br>
+{:.brewery}
 
 
 ##### Rüdenhausen 
 
 
-Brauerei Wolf -   {.brewery}  <br>
-Rüdenhausen // 
+Brauerei Wolf -   <br>
+Rüdenhausen //  <br>
+{:.brewery}
 
 
 ##### Saal an der Saale-Waltershausen 
 
 
-Privatbrauerei Lang -   {.brewery}  <br>
-Saal an der Saale-Waltershausen // 
+Privatbrauerei Lang -   <br>
+Saal an der Saale-Waltershausen //  <br>
+{:.brewery}
 
 
 ##### Sachsendorf 
 
 
-Brauerei-Gasthof Stadter - 1884  {.brewery}  <br>
-91347 Sachsendorf // Hauptstr. 26 
+Brauerei-Gasthof Stadter - 1884  <br>
+91347 Sachsendorf // Hauptstr. 26  <br>
+{:.brewery}
 
 
 ##### Sachsenkam-Reutberg 
 
 
-Genossenschaftsbrauerei Reutberg -   {.brewery}  <br>
-Sachsenkam-Reutberg // 
+Genossenschaftsbrauerei Reutberg -   <br>
+Sachsenkam-Reutberg //  <br>
+{:.brewery}
 
 
 ##### Salz 
 
 
-Karmeliter Bräu -   {.brewery}  <br>
-Salz // 
+Karmeliter Bräu -   <br>
+Salz //  <br>
+{:.brewery}
 
 
 ##### Sandersdorf 
 
 
-de Bassus Schlossbrauerei zu Sandersdorf -   {.brewery}  <br>
-Sandersdorf // 
+de Bassus Schlossbrauerei zu Sandersdorf -   <br>
+Sandersdorf //  <br>
+{:.brewery}
 
 
 ##### Sankt Wolfgang 
 
 
-Brauerei Bauer -   {.brewery}  <br>
-Sankt Wolfgang // 
+Brauerei Bauer -   <br>
+Sankt Wolfgang //  <br>
+{:.brewery}
 
 
 ##### Schammelsdorf 
 
 
-Brauerei Knoblach - 1880  {.brewery}  <br>
+Brauerei Knoblach - 1880  <br>
 96129 Schammelsdorf // Kremmeldorfer Straße 1  <br>
-[www.brauerei-knoblach.de](http://www.brauerei-knoblach.de) 
-
+[www.brauerei-knoblach.de](http://www.brauerei-knoblach.de)  <br>
+{:.brewery}
 
 
 ##### Scheyern 
 
 
-Klosterbrauerei Scheyern -   {.brewery}  <br>
-Scheyern // 
+Klosterbrauerei Scheyern -   <br>
+Scheyern //  <br>
+{:.brewery}
 
 
-##### Scheßlitz  (2) 
+##### Scheßlitz  _(2)_{:.count} 
 
 
-Brauerei Drei Kronen - 1749  {.brewery}  <br>
+Brauerei Drei Kronen - 1749  <br>
 96110 Scheßlitz // Hauptstraße 39  <br>
-[www.kronabier.de](http://www.kronabier.de) 
+[www.kronabier.de](http://www.kronabier.de)  <br>
+{:.brewery}
 
 
-
-Brauereigaststätte Hoh - 1775  {.brewery}  <br>
-96110 Scheßlitz // Köttensdorf 4 
+Brauereigaststätte Hoh - 1775  <br>
+96110 Scheßlitz // Köttensdorf 4  <br>
+{:.brewery}
 
 
 ##### Schierling 
 
 
-Spezialbrauerei Schierling -   {.brewery}  <br>
-Schierling // 
+Spezialbrauerei Schierling -   <br>
+Schierling //  <br>
+{:.brewery}
 
 
 ##### Schlammersdorf 
 
 
-Püttner -   {.brewery}  <br>
-Schlammersdorf // 
+Püttner -   <br>
+Schlammersdorf //  <br>
+{:.brewery}
 
 
 ##### Schloss Haselbach 
 
 
-Bayerische Löwenbrauerei Franz Stockbauer (Schlossbrauerei Haselbach) -   {.brewery}  <br>
-Schloss Haselbach // 
+Bayerische Löwenbrauerei Franz Stockbauer (Schlossbrauerei Haselbach) -   <br>
+Schloss Haselbach //  <br>
+{:.brewery}
 
 
-##### Schlüsselfeld  (3) 
+##### Schlüsselfeld  _(3)_{:.count} 
 
 
-Brauerei und Gasthof Adler-Bräu Schwarzer Adler -   {.brewery}  <br>
-96132 Schlüsselfeld // Marktplatz 6 
+Brauerei und Gasthof Adler-Bräu Schwarzer Adler -   <br>
+96132 Schlüsselfeld // Marktplatz 6  <br>
+{:.brewery}
 
 
-Brauereigasthof Günter Scheubel Sternbräu -   {.brewery}  <br>
-96132 Schlüsselfeld // Kirchplatz 12 
+Brauereigasthof Günter Scheubel Sternbräu -   <br>
+96132 Schlüsselfeld // Kirchplatz 12  <br>
+{:.brewery}
 
 
-Braumanufaktur Hertl -   {.brewery}  <br>
-96132 Schlüsselfeld // Thüngfeld 61 
+Braumanufaktur Hertl -   <br>
+96132 Schlüsselfeld // Thüngfeld 61  <br>
+{:.brewery}
 
 
 ##### Schnaitsee 
 
 
-Baderbräu -   {.brewery}  <br>
-Schnaitsee // 
+Baderbräu -   <br>
+Schnaitsee //  <br>
+{:.brewery}
 
 
-##### Schnaittach  (2) 
+##### Schnaittach  _(2)_{:.count} 
 
 
-Brauerei Kanone Löhr -   {.brewery}  <br>
-Schnaittach // 
+Brauerei Kanone Löhr -   <br>
+Schnaittach //  <br>
+{:.brewery}
 
 
-Brauerei Schaffer -   {.brewery}  <br>
-Schnaittach // 
+Brauerei Schaffer -   <br>
+Schnaittach //  <br>
+{:.brewery}
 
 
 ##### Schnaittach-Enzenreuth 
 
 
-Brauerei Enzensteiner -   {.brewery}  <br>
-Schnaittach-Enzenreuth // 
+Brauerei Enzensteiner -   <br>
+Schnaittach-Enzenreuth //  <br>
+{:.brewery}
 
 
 ##### Schonungen-Hausen 
 
 
-Brauerei Martin (Privatbrauerei Ulrich Martin) -   {.brewery}  <br>
+Brauerei Martin (Privatbrauerei Ulrich Martin) -   <br>
 97453 Schonungen-Hausen // Hausener Hauptstraße 5  <br>
-[www.brauerei-martin.de](http://www.brauerei-martin.de) 
-
+[www.brauerei-martin.de](http://www.brauerei-martin.de)  <br>
+{:.brewery}
 
 
 ##### Schwandorf 
 
 
-Schlossbrauerei Naabeck - 1620  {.brewery}  <br>
+Schlossbrauerei Naabeck - 1620  <br>
 Schwandorf //  <br>
-[www.naabecker.de](http://www.naabecker.de) 
-
+[www.naabecker.de](http://www.naabecker.de)  <br>
+{:.brewery}
 
 
 ##### Schwangau 
 
 
-Schlossbrauhaus Schwangau -   {.brewery}  <br>
-Schwangau // 
+Schlossbrauhaus Schwangau -   <br>
+Schwangau //  <br>
+{:.brewery}
 
 
 ##### Schwarzach 
 
 
-Bräuhaus Schwarzach -   {.brewery}  <br>
-Schwarzach // 
+Bräuhaus Schwarzach -   <br>
+Schwarzach //  <br>
+{:.brewery}
 
 
-##### Schweinfurt  (2) 
+##### Schweinfurt  _(2)_{:.count} 
 
 
-Brauerei Roth -   {.brewery}  <br>
-Schweinfurt // 
+Brauerei Roth -   <br>
+Schweinfurt //  <br>
+{:.brewery}
 
 
-Brauhaus Schweinfurt -   {.brewery}  <br>
-Schweinfurt // 
+Brauhaus Schweinfurt -   <br>
+Schweinfurt //  <br>
+{:.brewery}
 
 
 ##### Schöllkrippen 
 
 
-Brauhaus Barbarossa -   {.brewery}  <br>
-Schöllkrippen // 
+Brauhaus Barbarossa -   <br>
+Schöllkrippen //  <br>
+{:.brewery}
 
 
 ##### Schönbrunn-Zettmannsdorf 
 
 
-Seelmann Bräu - 1608  {.brewery}  <br>
+Seelmann Bräu - 1608  <br>
 96185 Schönbrunn-Zettmannsdorf // Zettmannsdorfer Hauptstraße 18  <br>
-[www.brauerei-seelmann.de](http://www.brauerei-seelmann.de) 
-
+[www.brauerei-seelmann.de](http://www.brauerei-seelmann.de)  <br>
+{:.brewery}
 
 
 ##### Schönthal 
 
 
-Rhaner Bräu -   {.brewery}  <br>
-Schönthal // 
+Rhaner Bräu -   <br>
+Schönthal //  <br>
+{:.brewery}
 
 
 ##### Seinsheim 
 
 
-Seinsheimer Kellerbräu -   {.brewery}  <br>
-Seinsheim // 
+Seinsheimer Kellerbräu -   <br>
+Seinsheim //  <br>
+{:.brewery}
 
 
 ##### Selb 
 
 
-Gasthausbrauerei Ploß -   {.brewery}  <br>
-95100 Selb // Schillerstraße 23 
+Gasthausbrauerei Ploß -   <br>
+95100 Selb // Schillerstraße 23  <br>
+{:.brewery}
 
 
 ##### Seßlach 
 
 
-Kommunbrauhaus Seßlach -   {.brewery}  <br>
-96145 Seßlach // Pfarrgasse 1 
+Kommunbrauhaus Seßlach -   <br>
+96145 Seßlach // Pfarrgasse 1  <br>
+{:.brewery}
 
 
 ##### Seßlach-Heilgersdorf 
 
 
-Brauerei - Gastwirtschaft Scharpf -   {.brewery}  <br>
-96145 Seßlach-Heilgersdorf // Hauptstraße 16 
+Brauerei - Gastwirtschaft Scharpf -   <br>
+96145 Seßlach-Heilgersdorf // Hauptstraße 16  <br>
+{:.brewery}
 
 
 ##### Siegenburg 
 
 
-Schmidmayer Bräu -   {.brewery}  <br>
-Siegenburg // 
+Schmidmayer Bräu -   <br>
+Siegenburg //  <br>
+{:.brewery}
 
 
 ##### Solnhofen-Hochholz 
 
 
-Hochholzer Brauhaus -   {.brewery}  <br>
-Solnhofen-Hochholz // 
+Hochholzer Brauhaus -   <br>
+Solnhofen-Hochholz //  <br>
+{:.brewery}
 
 
 ##### Sonthofen 
 
 
-Hirschbräu Privatbrauerei Höss -   {.brewery}  <br>
-Sonthofen // 
+Hirschbräu Privatbrauerei Höss -   <br>
+Sonthofen //  <br>
+{:.brewery}
 
 
 ##### Spalt 
 
 
-Stadtbrauerei Spalt -   {.brewery}  <br>
-Spalt // 
+Stadtbrauerei Spalt -   <br>
+Spalt //  <br>
+{:.brewery}
 
 
 ##### Speiden 
 
 
-Kössel-Bräu -   {.brewery}  <br>
-Speiden // 
+Kössel-Bräu -   <br>
+Speiden //  <br>
+{:.brewery}
 
 
 ##### Spiegelau-Klingenbrunn 
 
 
-Klingenbrunner -   {.brewery}  <br>
-Spiegelau-Klingenbrunn // 
+Klingenbrunner -   <br>
+Spiegelau-Klingenbrunn //  <br>
+{:.brewery}
 
 
 ##### Stadelhofen 
 
 
-Hübner Bräu - 1720  {.brewery}  <br>
+Hübner Bräu - 1720  <br>
 96187 Stadelhofen // Steinfeld 69  <br>
-[www.huebner-braeu.de](http://www.huebner-braeu.de) 
-
+[www.huebner-braeu.de](http://www.huebner-braeu.de)  <br>
+{:.brewery}
 
 
 ##### Stadelhofen-Schederndorf 
 
 
-Brauerei Will - 1742  {.brewery}  <br>
+Brauerei Will - 1742  <br>
 96187 Stadelhofen-Schederndorf // Haus Nr. 19  <br>
-[www.schederndorf.de](http://www.schederndorf.de) 
-
+[www.schederndorf.de](http://www.schederndorf.de)  <br>
+{:.brewery}
 
 
 ##### Stadtsteinach 
 
 
-Brauerei Leonhard Schübel -   {.brewery}  <br>
-95346 Stadtsteinach // Knollenstraße 12 
+Brauerei Leonhard Schübel -   <br>
+95346 Stadtsteinach // Knollenstraße 12  <br>
+{:.brewery}
 
 
 ##### Stegaurach 
 
 
-Hausbräu Stegaurach -   {.brewery}  <br>
-96135 Stegaurach // Ruhlstrasse 6 
+Hausbräu Stegaurach -   <br>
+96135 Stegaurach // Ruhlstrasse 6  <br>
+{:.brewery}
 
 
 ##### Stegaurach-Mühlendorf 
 
 
-Mühlenbräu Mühlendorf - 1875  {.brewery}  <br>
-96135 Stegaurach-Mühlendorf // Brückenstraße 19 
+Mühlenbräu Mühlendorf - 1875  <br>
+96135 Stegaurach-Mühlendorf // Brückenstraße 19  <br>
+{:.brewery}
 
 
 ##### Stein an der Traun 
 
 
-Schlossbrauerei Stein Wiskott -   {.brewery}  <br>
-Stein an der Traun // 
+Schlossbrauerei Stein Wiskott -   <br>
+Stein an der Traun //  <br>
+{:.brewery}
 
 
 ##### Steinfeld-Waldzell 
 
 
-Hausbrauerei Höpfl -   {.brewery}  <br>
-Steinfeld-Waldzell // 
+Hausbrauerei Höpfl -   <br>
+Steinfeld-Waldzell //  <br>
+{:.brewery}
 
 
 ##### Steinsfeld-Reichelshofen 
 
 
-Landwehr-Bräu Wörner -   {.brewery}  <br>
-Steinsfeld-Reichelshofen // 
+Landwehr-Bräu Wörner -   <br>
+Steinsfeld-Reichelshofen //  <br>
+{:.brewery}
 
 
 ##### Stettfeld 
 
 
-Adler-Bräu -   {.brewery}  <br>
-Stettfeld // 
+Adler-Bräu -   <br>
+Stettfeld //  <br>
+{:.brewery}
 
 
-##### Straubing  (2) 
+##### Straubing  _(2)_{:.count} 
 
 
-Brauerei Gebrüder Röhrl -   {.brewery}  <br>
-Straubing // 
+Brauerei Gebrüder Röhrl -   <br>
+Straubing //  <br>
+{:.brewery}
 
 
-Karmelitenbrauerei Karl Sturm -   {.brewery}  <br>
-Straubing // 
+Karmelitenbrauerei Karl Sturm -   <br>
+Straubing //  <br>
+{:.brewery}
 
 
 ##### Straßkirchen (Salzweg) 
 
 
-Gutsbräu Straßkirchen -   {.brewery}  <br>
-Straßkirchen (Salzweg) // 
+Gutsbräu Straßkirchen -   <br>
+Straßkirchen (Salzweg) //  <br>
+{:.brewery}
 
 
-##### Strullendorf-Geisfeld  (2) 
+##### Strullendorf-Geisfeld  _(2)_{:.count} 
 
 
-Brauerei Gasthof Krug - 1820  {.brewery}  <br>
+Brauerei Gasthof Krug - 1820  <br>
 96129 Strullendorf-Geisfeld // Alte Dorfstraße 11  <br>
-[www.brauerei-krug.de](http://www.brauerei-krug.de) 
+[www.brauerei-krug.de](http://www.brauerei-krug.de)  <br>
+{:.brewery}
 
 
-
-Brauerei-Gasthof Griess - 1872  {.brewery}  <br>
+Brauerei-Gasthof Griess - 1872  <br>
 96129 Strullendorf-Geisfeld // Magdalenenstraße 6  <br>
-[www.brauerei-griess.de](http://www.brauerei-griess.de) 
+[www.brauerei-griess.de](http://www.brauerei-griess.de)  <br>
+{:.brewery}
 
 
+##### Sulzbach-Rosenberg  _(2)_{:.count} 
 
-##### Sulzbach-Rosenberg  (2) 
 
-
-Brauerei Fuchsbeck - 1834  {.brewery}  <br>
+Brauerei Fuchsbeck - 1834  <br>
 92237 Sulzbach-Rosenberg // Hagtor 1  <br>
-[www.fuchsbeck.de](http://www.fuchsbeck.de) 
+[www.fuchsbeck.de](http://www.fuchsbeck.de)  <br>
+{:.brewery}
 
 
-
-Sperber -   {.brewery}  <br>
-Sulzbach-Rosenberg // 
+Sperber -   <br>
+Sulzbach-Rosenberg //  <br>
+{:.brewery}
 
 
 ##### Tacherting 
 
 
-Weissbräu Schwendl -   {.brewery}  <br>
-Tacherting // 
+Weissbräu Schwendl -   <br>
+Tacherting //  <br>
+{:.brewery}
 
 
 ##### Taufkirchen (Vils) 
 
 
-Guts- und Brauereigenossenschaft Taufkirchen -   {.brewery}  <br>
-Taufkirchen (Vils) // 
+Guts- und Brauereigenossenschaft Taufkirchen -   <br>
+Taufkirchen (Vils) //  <br>
+{:.brewery}
 
 
 ##### Tegernsee 
 
 
-Herzoglich Bayerisches Brauhaus Tegernsee -   {.brewery}  <br>
+Herzoglich Bayerisches Brauhaus Tegernsee -   <br>
 83684 Tegernsee // Schloßplatz 1  <br>
-[www.braustuberl.de](http://www.braustuberl.de) 
-
+[www.braustuberl.de](http://www.braustuberl.de)  <br>
+{:.brewery}
 
 
 ##### Teisendorf 
 
 
-Privatbrauerei M. C. Wieninger -   {.brewery}  <br>
-Teisendorf // 
+Privatbrauerei M. C. Wieninger -   <br>
+Teisendorf //  <br>
+{:.brewery}
 
 
 ##### Teisnach 
 
 
-Ettl-Bräu -   {.brewery}  <br>
-Teisnach // 
+Ettl-Bräu -   <br>
+Teisnach //  <br>
+{:.brewery}
 
 
 ##### Teunz 
 
 
-Fuchsberger Schlossbrauerei -   {.brewery}  <br>
-Teunz // 
+Fuchsberger Schlossbrauerei -   <br>
+Teunz //  <br>
+{:.brewery}
 
 
 ##### Thalmässing-Pyras 
 
 
-Pyraser Landbrauerei -   {.brewery}  <br>
-Thalmässing-Pyras // 
+Pyraser Landbrauerei -   <br>
+Thalmässing-Pyras //  <br>
+{:.brewery}
 
 
 ##### Thannhausen 
 
 
-Postbräu -   {.brewery}  <br>
-Thannhausen // 
+Postbräu -   <br>
+Thannhausen //  <br>
+{:.brewery}
 
 
 ##### Thüngen 
 
 
-Burgbrauerei Herzog von Franken -   {.brewery}  <br>
-Thüngen // 
+Burgbrauerei Herzog von Franken -   <br>
+Thüngen //  <br>
+{:.brewery}
 
 
 ##### Titting 
 
 
-Brauerei Fritz Gutmann -   {.brewery}  <br>
-Titting // 
+Brauerei Fritz Gutmann -   <br>
+Titting //  <br>
+{:.brewery}
 
 
 ##### Trabelsdorf 
 
 
-Beck-Bräu -   {.brewery}  <br>
-96170 Trabelsdorf // Steigerwaldstraße 6-8 
+Beck-Bräu -   <br>
+96170 Trabelsdorf // Steigerwaldstraße 6-8  <br>
+{:.brewery}
 
 
 ##### Traitsching-Loifling 
 
 
-Hofmark Brauerei -   {.brewery}  <br>
-Traitsching-Loifling // 
+Hofmark Brauerei -   <br>
+Traitsching-Loifling //  <br>
+{:.brewery}
 
 
-##### Traunstein  (4) 
+##### Traunstein  _(4)_{:.count} 
 
 
-Brauhaus Jacob Wochinger & Sohn -   {.brewery}  <br>
-Traunstein // 
+Brauhaus Jacob Wochinger & Sohn -   <br>
+Traunstein //  <br>
+{:.brewery}
 
 
-Hofbräuhaus Traunstein Josef Sailer -   {.brewery}  <br>
-Traunstein // 
+Hofbräuhaus Traunstein Josef Sailer -   <br>
+Traunstein //  <br>
+{:.brewery}
 
 
-Maximiliansbräu GmbH -   {.brewery}  <br>
-Traunstein // 
+Maximiliansbräu GmbH -   <br>
+Traunstein //  <br>
+{:.brewery}
 
 
-Privatbrauerei Schnitzlbaumer -   {.brewery}  <br>
-Traunstein // 
+Privatbrauerei Schnitzlbaumer -   <br>
+Traunstein //  <br>
+{:.brewery}
 
 
 ##### Trebgast 
 
 
-Brauerei Haberstumpf -   {.brewery}  <br>
-95367 Trebgast // Bergstraße 31 
+Brauerei Haberstumpf -   <br>
+95367 Trebgast // Bergstraße 31  <br>
+{:.brewery}
 
 
 ##### Triefenstein-Homburg 
 
 
-Homburger Bräuscheuere -   {.brewery}  <br>
-Triefenstein-Homburg // 
+Homburger Bräuscheuere -   <br>
+Triefenstein-Homburg //  <br>
+{:.brewery}
 
 
 ##### Truchtlaching 
 
 
-Camba Bavaria -   {.brewery}  <br>
-Truchtlaching // 
+Camba Bavaria -   <br>
+Truchtlaching //  <br>
+{:.brewery}
 
 
 ##### Tüßling 
 
 
-Bräu im Moos -   {.brewery}  <br>
-Tüßling // 
+Bräu im Moos -   <br>
+Tüßling //  <br>
+{:.brewery}
 
 
-##### Uehlfeld  (2) 
+##### Uehlfeld  _(2)_{:.count} 
 
 
-Brauerei Zwanzger -   {.brewery}  <br>
-Uehlfeld // 
+Brauerei Zwanzger -   <br>
+Uehlfeld //  <br>
+{:.brewery}
 
 
-Brauerei-Gasthof Prechtel -   {.brewery}  <br>
-Uehlfeld // 
+Brauerei-Gasthof Prechtel -   <br>
+Uehlfeld //  <br>
+{:.brewery}
 
 
 ##### Unterneukirchen 
 
 
-Brauerei Leidmann -   {.brewery}  <br>
-Unterneukirchen // 
+Brauerei Leidmann -   <br>
+Unterneukirchen //  <br>
+{:.brewery}
 
 
 ##### Untersiemau 
 
 
-Brauerei Murmann -   {.brewery}  <br>
-96253 Untersiemau // Coburger Straße 6 
+Brauerei Murmann -   <br>
+96253 Untersiemau // Coburger Straße 6  <br>
+{:.brewery}
 
 
 ##### Untersiemau-Birkach am Forst 
 
 
-Brauerei Eller -   {.brewery}  <br>
-96253 Untersiemau-Birkach am Forst // Brunnenstraße 10 
+Brauerei Eller -   <br>
+96253 Untersiemau-Birkach am Forst // Brunnenstraße 10  <br>
+{:.brewery}
 
 
 ##### Ursberg 
 
 
-Klosterbrauerei Ursberg -   {.brewery}  <br>
-Ursberg // 
+Klosterbrauerei Ursberg -   <br>
+Ursberg //  <br>
+{:.brewery}
 
 
 ##### Ustersbach 
 
 
-Ustersbacher -   {.brewery}  <br>
-Ustersbach // 
+Ustersbacher -   <br>
+Ustersbach //  <br>
+{:.brewery}
 
 
 ##### Velburg-Lengenfeld 
 
 
-Winkler Bräu -   {.brewery}  <br>
+Winkler Bräu -   <br>
 92355 Velburg-Lengenfeld // St.-Martin-Straße 6  <br>
-[www.winkler-braeu.de](http://www.winkler-braeu.de) 
-
+[www.winkler-braeu.de](http://www.winkler-braeu.de)  <br>
+{:.brewery}
 
 
 ##### Velden 
 
 
-Brauerei Hans Stammler -   {.brewery}  <br>
-Velden // 
+Brauerei Hans Stammler -   <br>
+Velden //  <br>
+{:.brewery}
 
 
 ##### Viechtach 
 
 
-Gesellschaftsbrauerei Viechtach -   {.brewery}  <br>
-Viechtach // 
+Gesellschaftsbrauerei Viechtach -   <br>
+Viechtach //  <br>
+{:.brewery}
 
 
-##### Viereth-Trunstadt  (2) 
+##### Viereth-Trunstadt  _(2)_{:.count} 
 
 
-Brauerei Gasthof Kundmüller -   {.brewery}  <br>
-96191 Viereth-Trunstadt // Weiher 13 
+Brauerei Gasthof Kundmüller -   <br>
+96191 Viereth-Trunstadt // Weiher 13  <br>
+{:.brewery}
 
 
-Brauerei-Gasthof Mainlust Bayer -   {.brewery}  <br>
-96191 Viereth-Trunstadt // Hauptstraße 9 
+Brauerei-Gasthof Mainlust Bayer -   <br>
+96191 Viereth-Trunstadt // Hauptstraße 9  <br>
+{:.brewery}
 
 
 ##### Vilseck 
 
 
-Schlichter Winkler Bräu - 1528  {.brewery}  <br>
+Schlichter Winkler Bräu - 1528  <br>
 92249 Vilseck // Winklergasse 1  <br>
-[www.winklerbier.de](http://www.winklerbier.de) 
-
+[www.winklerbier.de](http://www.winklerbier.de)  <br>
+{:.brewery}
 
 
 ##### Vilshofen an der Donau 
 
 
-Brauerei Wolferstetter Georg Huber -   {.brewery}  <br>
-Vilshofen an der Donau // 
+Brauerei Wolferstetter Georg Huber -   <br>
+Vilshofen an der Donau //  <br>
+{:.brewery}
 
 
 ##### Vohenstrauß 
 
 
-Behringer Weissbierbrauerei -   {.brewery}  <br>
-Vohenstrauß // 
+Behringer Weissbierbrauerei -   <br>
+Vohenstrauß //  <br>
+{:.brewery}
 
 
-##### Waischenfeld  (3) 
+##### Waischenfeld  _(3)_{:.count} 
 
 
-Brauerei Heckel -   {.brewery}  <br>
-91344 Waischenfeld // Vorstadt 3 
+Brauerei Heckel -   <br>
+91344 Waischenfeld // Vorstadt 3  <br>
+{:.brewery}
 
 
-Brauerei-Gaststätte Schroll Zum Weißen Lamm -   {.brewery}  <br>
-91344 Waischenfeld // Nankendorf 41 
+Brauerei-Gaststätte Schroll Zum Weißen Lamm -   <br>
+91344 Waischenfeld // Nankendorf 41  <br>
+{:.brewery}
 
 
-Konrad Krug Brauerei -   {.brewery}  <br>
-91344 Waischenfeld // Breitenlesau 1b 
+Konrad Krug Brauerei -   <br>
+91344 Waischenfeld // Breitenlesau 1b  <br>
+{:.brewery}
 
 
 ##### Walkertshofen 
 
 
-Staudenbräu -   {.brewery}  <br>
-Walkertshofen // 
+Staudenbräu -   <br>
+Walkertshofen //  <br>
+{:.brewery}
 
 
 ##### Wallerstein 
 
 
-Wallersteiner Fürstenbier -   {.brewery}  <br>
-Wallerstein // 
+Wallersteiner Fürstenbier -   <br>
+Wallerstein //  <br>
+{:.brewery}
 
 
 ##### Warmensteinach 
 
 
-Brauerei Hütten Michael Trassl -   {.brewery}  <br>
-95485 Warmensteinach // Hütten 6-8 
+Brauerei Hütten Michael Trassl -   <br>
+95485 Warmensteinach // Hütten 6-8  <br>
+{:.brewery}
 
 
 ##### Wartenberg 
 
 
-Reiter Bräu -   {.brewery}  <br>
-Wartenberg // 
+Reiter Bräu -   <br>
+Wartenberg //  <br>
+{:.brewery}
 
 
 ##### Wassertrüdingen-Fürnheim 
 
 
-Forstquell-Brauerei -   {.brewery}  <br>
-Wassertrüdingen-Fürnheim // 
+Forstquell-Brauerei -   <br>
+Wassertrüdingen-Fürnheim //  <br>
+{:.brewery}
 
 
-##### Wattendorf  (2) 
+##### Wattendorf  _(2)_{:.count} 
 
 
-Brauerei Gaststätte Dremel - 1773  {.brewery}  <br>
+Brauerei Gaststätte Dremel - 1773  <br>
 96196 Wattendorf // Hauptstraße 21  <br>
-[www.brauerei-dremel.de](http://www.brauerei-dremel.de) 
+[www.brauerei-dremel.de](http://www.brauerei-dremel.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Hübner - 1806  {.brewery}  <br>
+Brauerei Hübner - 1806  <br>
 96196 Wattendorf // Hauptstraße 28  <br>
-[www.brauerei-huebner.de](http://www.brauerei-huebner.de) 
-
+[www.brauerei-huebner.de](http://www.brauerei-huebner.de)  <br>
+{:.brewery}
 
 
 ##### Weiden in der Oberpfalz 
 
 
-Gambrinus -   {.brewery}  <br>
-Weiden in der Oberpfalz // 
+Gambrinus -   <br>
+Weiden in der Oberpfalz //  <br>
+{:.brewery}
 
 
 ##### Weihmichl 
 
 
-Brauerei Josef Weinzierl -   {.brewery}  <br>
-Weihmichl // 
+Brauerei Josef Weinzierl -   <br>
+Weihmichl //  <br>
+{:.brewery}
 
 
 ##### Weiler-Simmerberg 
 
 
-Aktienbrauerei Simmerberg -   {.brewery}  <br>
-Weiler-Simmerberg // 
+Aktienbrauerei Simmerberg -   <br>
+Weiler-Simmerberg //  <br>
+{:.brewery}
 
 
 ##### Weilheim in Oberbayern 
 
 
-Dachsbräu -   {.brewery}  <br>
-Weilheim in Oberbayern // 
+Dachsbräu -   <br>
+Weilheim in Oberbayern //  <br>
+{:.brewery}
 
 
 ##### Weismain 
 
 
-Weismainer Püls-Bräu -   {.brewery}  <br>
-96260 Weismain // Burgkunstadter Straße 41-43 
+Weismainer Püls-Bräu -   <br>
+96260 Weismain // Burgkunstadter Straße 41-43  <br>
+{:.brewery}
 
 
 ##### Weissenstadt 
 
 
-Brauerei Hermann Michael -   {.brewery}  <br>
-95163 Weissenstadt // Kirchenlamitzer Straße 64-66 
+Brauerei Hermann Michael -   <br>
+95163 Weissenstadt // Kirchenlamitzer Straße 64-66  <br>
+{:.brewery}
 
 
 ##### Weißenbrunn 
 
 
-Gampert Bräu Gebr. Gampert -   {.brewery}  <br>
-96369 Weißenbrunn // Braustraße 2-4 
+Gampert Bräu Gebr. Gampert -   <br>
+96369 Weißenbrunn // Braustraße 2-4  <br>
+{:.brewery}
 
 
-##### Weißenburg in Bayern  (2) 
+##### Weißenburg in Bayern  _(2)_{:.count} 
 
 
-Schneider Bräu -   {.brewery}  <br>
-Weißenburg in Bayern  // 
+Schneider Bräu -   <br>
+Weißenburg in Bayern  //  <br>
+{:.brewery}
 
 
-Brauerei Sigwart -   {.brewery}  <br>
-Weißenburg in Bayern // 
+Brauerei Sigwart -   <br>
+Weißenburg in Bayern //  <br>
+{:.brewery}
 
 
 ##### Weißenohe 
 
 
-Klosterbrauerei Weissenohe -   {.brewery}  <br>
-91367 Weißenohe // Klosterstraße 20 
+Klosterbrauerei Weissenohe -   <br>
+91367 Weißenohe // Klosterstraße 20  <br>
+{:.brewery}
 
 
 ##### Werneck 
 
 
-Wernecker Brauerei -   {.brewery}  <br>
-Werneck // 
+Wernecker Brauerei -   <br>
+Werneck //  <br>
+{:.brewery}
 
 
 ##### Wertingen 
 
 
-Schwanenbräu -   {.brewery}  <br>
-Wertingen // 
+Schwanenbräu -   <br>
+Wertingen //  <br>
+{:.brewery}
 
 
 ##### Wettelsheim 
 
 
-Brauerei Strauß -   {.brewery}  <br>
-Wettelsheim // 
+Brauerei Strauß -   <br>
+Wettelsheim //  <br>
+{:.brewery}
 
 
 ##### Weyarn 
 
 
-Dietl Bräu -   {.brewery}  <br>
-Weyarn // 
+Dietl Bräu -   <br>
+Weyarn //  <br>
+{:.brewery}
 
 
 ##### Wiesen 
 
 
-Bürgerliches Brauhaus Wiesen -   {.brewery}  <br>
-Wiesen // 
+Bürgerliches Brauhaus Wiesen -   <br>
+Wiesen //  <br>
+{:.brewery}
 
 
 ##### Wildenberg 
 
 
-Gasthausbrauerei Frühmorgen -   {.brewery}  <br>
-Wildenberg // 
+Gasthausbrauerei Frühmorgen -   <br>
+Wildenberg //  <br>
+{:.brewery}
 
 
 ##### Windischeschenbach 
 
 
-Würth Brauerei -   {.brewery}  <br>
-Windischeschenbach // 
+Würth Brauerei -   <br>
+Windischeschenbach //  <br>
+{:.brewery}
 
 
 ##### Wolnzach 
 
 
-Bürgerbräu Wolnzach -   {.brewery}  <br>
-Wolnzach // 
+Bürgerbräu Wolnzach -   <br>
+Wolnzach //  <br>
+{:.brewery}
 
 
 ##### Wunsiedel 
 
 
-Hönicka-Bräu -   {.brewery}  <br>
-95632 Wunsiedel // Hofer Straße 31 
+Hönicka-Bräu -   <br>
+95632 Wunsiedel // Hofer Straße 31  <br>
+{:.brewery}
 
 
 ##### Wunsiedel-Schönbrunn 
 
 
-Lang-Bräu Schönbrunn -   {.brewery}  <br>
-95632 Wunsiedel-Schönbrunn // Bayreuther Straße 19 
+Lang-Bräu Schönbrunn -   <br>
+95632 Wunsiedel-Schönbrunn // Bayreuther Straße 19  <br>
+{:.brewery}
 
 
 ##### Würgau 
 
 
-Brauerei Gasthof Hartmann - 1550  {.brewery}  <br>
+Brauerei Gasthof Hartmann - 1550  <br>
 96110 Würgau // Fränkische-Schweiz-Straße 26  <br>
-[www.brauerei-hartmann.de](http://www.brauerei-hartmann.de) 
+[www.brauerei-hartmann.de](http://www.brauerei-hartmann.de)  <br>
+{:.brewery}
 
 
-
-##### Würzburg  (2) 
-
-
-Goldene Gans -   {.brewery}  <br>
-Würzburg // 
+##### Würzburg  _(2)_{:.count} 
 
 
-Würzburger Hofbräu -   {.brewery}  <br>
-Würzburg // 
+Goldene Gans -   <br>
+Würzburg //  <br>
+{:.brewery}
+
+
+Würzburger Hofbräu -   <br>
+Würzburg //  <br>
+{:.brewery}
 
 
 ##### Zeil am Main 
 
 
-Brauerei Göller -   {.brewery}  <br>
-Zeil am Main // 
+Brauerei Göller -   <br>
+Zeil am Main //  <br>
+{:.brewery}
 
 
 ##### Zentbechhofen-Höchstadt 
 
 
-Brauerei Friedel -   {.brewery}  <br>
-Zentbechhofen-Höchstadt // 
+Brauerei Friedel -   <br>
+Zentbechhofen-Höchstadt //  <br>
+{:.brewery}
 
 
 ##### Zirndorf 
 
 
-Zirndorfer Brauerei -   {.brewery}  <br>
-Zirndorf // 
+Zirndorfer Brauerei -   <br>
+Zirndorf //  <br>
+{:.brewery}
 
 
-##### Zwiesel  (2) 
+##### Zwiesel  _(2)_{:.count} 
 
 
-1. Dampfbierbrauerei Zwiesel -   {.brewery}  <br>
+1. Dampfbierbrauerei Zwiesel -   <br>
 94227 Zwiesel // Regener Straße 9  <br>
-[www.dampfbier.de](http://www.dampfbier.de) 
+[www.dampfbier.de](http://www.dampfbier.de)  <br>
+{:.brewery}
+
+
+Janka Bräu -   <br>
+Zwiesel //  <br>
+{:.brewery}
 
 
 
-Janka Bräu -   {.brewery}  <br>
-Zwiesel // 
+
+
+### Berlin _(21)_{:.count} {#be}
 
 
 
+##### Berlin  _(21)_{:.count} 
 
 
-### Berlin (21) {#be}
-
-[Berlin](#berlin) (21)
-
-##### Berlin  (21) 
-
-
-Berliner-Kindl-Schultheiss-Brauerei - 1870  {.brewery}  <br>
+Berliner-Kindl-Schultheiss-Brauerei - 1870  <br>
 13053 Berlin // Indira-Gandhi-Straße 66  <br>
-[www.berliner-kindl.de](http://www.berliner-kindl.de) 
+[www.berliner-kindl.de](http://www.berliner-kindl.de)  <br>
+{:.brewery}
 
 
-
-Berliner Bürgerbräu - 1869  {.brewery}  <br>
-Berlin // 
-
-
-Bier-Company -   {.brewery}  <br>
+Berliner Bürgerbräu - 1869  <br>
 Berlin //  <br>
-[www.bier-company.de](http://www.bier-company.de) 
+{:.brewery}
 
 
-
-Bolzen Bier -   {.brewery}  <br>
+Bier-Company -   <br>
 Berlin //  <br>
-[www.bolzen-bier.de](http://www.bolzen-bier.de) 
+[www.bier-company.de](http://www.bier-company.de)  <br>
+{:.brewery}
 
 
-
-Brauhaus Bohnsdorf -   {.brewery}  <br>
+Bolzen Bier -   <br>
 Berlin //  <br>
-[www.brauhaus-bohnsdorf.com](http://www.brauhaus-bohnsdorf.com) 
+[www.bolzen-bier.de](http://www.bolzen-bier.de)  <br>
+{:.brewery}
 
 
-
-Brauhaus Georgbräu - 1992  {.brewery}  <br>
-Berlin // 
-
-
-Brauhaus in Rixdorf -   {.brewery}  <br>
+Brauhaus Bohnsdorf -   <br>
 Berlin //  <br>
-[www.brauhaus-rixdorf.de](http://www.brauhaus-rixdorf.de) 
+[www.brauhaus-bohnsdorf.com](http://www.brauhaus-bohnsdorf.com)  <br>
+{:.brewery}
 
 
-
-Brauhaus in Spandau -   {.brewery}  <br>
+Brauhaus Georgbräu - 1992  <br>
 Berlin //  <br>
-[www.brauhaus-spandau.de](http://www.brauhaus-spandau.de) 
+{:.brewery}
 
 
-
-Brauhaus Südstern -   {.brewery}  <br>
+Brauhaus in Rixdorf -   <br>
 Berlin //  <br>
-[www.brauhaus-suedstern.de](http://www.brauhaus-suedstern.de) 
+[www.brauhaus-rixdorf.de](http://www.brauhaus-rixdorf.de)  <br>
+{:.brewery}
 
 
+Brauhaus in Spandau -   <br>
+Berlin //  <br>
+[www.brauhaus-spandau.de](http://www.brauhaus-spandau.de)  <br>
+{:.brewery}
 
-BrewBaker -   {.brewery}  <br>
+
+Brauhaus Südstern -   <br>
+Berlin //  <br>
+[www.brauhaus-suedstern.de](http://www.brauhaus-suedstern.de)  <br>
+{:.brewery}
+
+
+BrewBaker -   <br>
 10551 Berlin // Arminiusstr. 2-4  <br>
-[www.brewbaker.de](http://www.brewbaker.de) 
+[www.brewbaker.de](http://www.brewbaker.de)  <br>
+{:.brewery}
 
 
-
-Flessa Bräu -   {.brewery}  <br>
+Flessa Bräu -   <br>
 Berlin //  <br>
-[www.brauerei-flessa.de](http://www.brauerei-flessa.de) 
+[www.brauerei-flessa.de](http://www.brauerei-flessa.de)  <br>
+{:.brewery}
 
 
-
-Fucking Hell -   {.brewery}  <br>
+Fucking Hell -   <br>
 Berlin //  <br>
-[www.fucking-hell.de](http://www.fucking-hell.de) 
+[www.fucking-hell.de](http://www.fucking-hell.de)  <br>
+{:.brewery}
 
 
-
-Bären-Bräu (Getränkezukunft) -   {.brewery}  <br>
+Bären-Bräu (Getränkezukunft) -   <br>
 Berlin //  <br>
-[www.berlinerbaerenbraeu.de](http://www.berlinerbaerenbraeu.de) 
+[www.berlinerbaerenbraeu.de](http://www.berlinerbaerenbraeu.de)  <br>
+{:.brewery}
 
 
-
-Hausbrauerei Eschenbräu -   {.brewery}  <br>
+Hausbrauerei Eschenbräu -   <br>
 Berlin //  <br>
-[www.eschenbraeu.de](http://www.eschenbraeu.de) 
+[www.eschenbraeu.de](http://www.eschenbraeu.de)  <br>
+{:.brewery}
 
 
-
-Microbrauerei Barkowsky - 2000  {.brewery}  <br>
+Microbrauerei Barkowsky - 2000  <br>
 Berlin //  <br>
-[www.brau-dein-bier.de](http://www.brau-dein-bier.de) 
+[www.brau-dein-bier.de](http://www.brau-dein-bier.de)  <br>
+{:.brewery}
 
 
-
-Privatbrauerei Am Rollberg -   {.brewery}  <br>
+Privatbrauerei Am Rollberg -   <br>
 Berlin //  <br>
-[www.rollberger.de](http://www.rollberger.de) 
+[www.rollberger.de](http://www.rollberger.de)  <br>
+{:.brewery}
 
 
+Schlossplatz Brauerei Cöpenick -   <br>
+Berlin //  <br>
+{:.brewery}
 
-Schlossplatz Brauerei Cöpenick -   {.brewery}  <br>
-Berlin // 
 
-
-Vagabund Brauerei - 2011  {.brewery}  <br>
+Vagabund Brauerei - 2011  <br>
 13353 Berlin // Antwerpenerstr. 3  <br>
-[www.vagabundbrauerei.com](http://www.vagabundbrauerei.com) 
+[www.vagabundbrauerei.com](http://www.vagabundbrauerei.com)  <br>
+{:.brewery}
 
 
-
-Schoppe Bräu - 1990  {.brewery}  <br>
+Schoppe Bräu - 1990  <br>
 10967 Berlin // Hasenheide 69  <br>
-[www.schoppebraeu.de](http://www.schoppebraeu.de) 
+[www.schoppebraeu.de](http://www.schoppebraeu.de)  <br>
+{:.brewery}
 
 
-
-Hops & Barley Hausbrauerei - 2008  {.brewery}  <br>
+Hops & Barley Hausbrauerei - 2008  <br>
 10245 Berlin // Wühlischstraße 22-23  <br>
-[www.hopsandbarley-berlin.de](http://www.hopsandbarley-berlin.de) 
+[www.hopsandbarley-berlin.de](http://www.hopsandbarley-berlin.de)  <br>
+{:.brewery}
+
+
+Schalander Hausbrauerei - 2009  <br>
+Berlin //  <br>
+{:.brewery}
 
 
 
-Schalander Hausbrauerei - 2009  {.brewery}  <br>
-Berlin // 
 
 
+### Brandenburg _(14)_{:.count} {#bb}
 
-
-
-### Brandenburg (14) {#bb}
-
-[Brandenburg a.d. Havel](#brandenburgadhavel) • [Drebkau](#drebkau) • [Finsterwalde](#finsterwalde) • [Luckau](#luckau) • [Lübbenau](#luebbenau) • [Müncheberg](#muencheberg) • [Neuzelle](#neuzelle) • [Potsdam](#potsdam) (3) • [Rathenow](#rathenow) • [Schlepzig](#schlepzig) • [Wusterhausen](#wusterhausen)
+[Brandenburg a.d. Havel](#brandenburgadhavel) • [Drebkau](#drebkau) • [Finsterwalde](#finsterwalde) • [Luckau](#luckau) • [Lübbenau](#luebbenau) • [Müncheberg](#muencheberg) • [Neuzelle](#neuzelle) • [Potsdam](#potsdam) _(3)_{:.count} • [Rathenow](#rathenow) • [Schlepzig](#schlepzig) • [Wusterhausen](#wusterhausen)
 
 ##### Brandenburg a.d. Havel 
 
 
-Bräuhaus Kneipe Pur -   {.brewery}  <br>
+Bräuhaus Kneipe Pur -   <br>
 Brandenburg a.d. Havel //  <br>
-[www.kneipepur.de](http://www.kneipepur.de) 
-
+[www.kneipepur.de](http://www.kneipepur.de)  <br>
+{:.brewery}
 
 
 ##### Drebkau 
 
 
-Kircher Brauhaus -   {.brewery}  <br>
+Kircher Brauhaus -   <br>
 Drebkau //  <br>
-[www.kircher-brauhaus.de](http://www.kircher-brauhaus.de) 
-
+[www.kircher-brauhaus.de](http://www.kircher-brauhaus.de)  <br>
+{:.brewery}
 
 
 ##### Finsterwalde 
 
 
-Radigks Brauhaus Finsterwalde - 1997  {.brewery}  <br>
-Finsterwalde // 
+Radigks Brauhaus Finsterwalde - 1997  <br>
+Finsterwalde //  <br>
+{:.brewery}
 
 
 ##### Luckau 
 
 
-Schlossbrauerei Fürstlich Drehna - 1745  {.brewery}  <br>
-Luckau // 
+Schlossbrauerei Fürstlich Drehna - 1745  <br>
+Luckau //  <br>
+{:.brewery}
 
 
 ##### Lübbenau 
 
 
-Brauhaus und Pension Babben -   {.brewery}  <br>
+Brauhaus und Pension Babben -   <br>
 Lübbenau //  <br>
-[www.babben-bier.de](http://www.babben-bier.de) 
-
+[www.babben-bier.de](http://www.babben-bier.de)  <br>
+{:.brewery}
 
 
 ##### Müncheberg 
 
 
-Pilgerbier -   {.brewery}  <br>
+Pilgerbier -   <br>
 Müncheberg //  <br>
-[www.pilgerbier.com](http://www.pilgerbier.com) 
-
+[www.pilgerbier.com](http://www.pilgerbier.com)  <br>
+{:.brewery}
 
 
 ##### Neuzelle 
 
 
-Klosterbrauerei Neuzelle - 1589  {.brewery}  <br>
-Neuzelle // 
+Klosterbrauerei Neuzelle - 1589  <br>
+Neuzelle //  <br>
+{:.brewery}
 
 
-##### Potsdam  (3) 
+##### Potsdam  _(3)_{:.count} 
 
 
-Braumanufaktur Forsthaus Templin -   {.brewery}  <br>
+Braumanufaktur Forsthaus Templin -   <br>
 14473 Potsdam // Templiner Straße 102  <br>
-[www.braumanufaktur.de](http://www.braumanufaktur.de) 
+[www.braumanufaktur.de](http://www.braumanufaktur.de)  <br>
+{:.brewery}
 
 
-
-Laggner Krongut Bornstedt -   {.brewery}  <br>
+Laggner Krongut Bornstedt -   <br>
 Potsdam //  <br>
-[www.krongut-bornstedt.de](http://www.krongut-bornstedt.de) 
+[www.krongut-bornstedt.de](http://www.krongut-bornstedt.de)  <br>
+{:.brewery}
 
 
-
-Gasthausbrauerei Meierei im Neuen Garten -   {.brewery}  <br>
+Gasthausbrauerei Meierei im Neuen Garten -   <br>
 Potsdam //  <br>
-[www.meierei-potsdam.de](http://www.meierei-potsdam.de) 
-
+[www.meierei-potsdam.de](http://www.meierei-potsdam.de)  <br>
+{:.brewery}
 
 
 ##### Rathenow 
 
 
-Märkische Bierstuben -   {.brewery}  <br>
+Märkische Bierstuben -   <br>
 Rathenow //  <br>
-[www.maerkische-bierstuben.de](http://www.maerkische-bierstuben.de) 
-
+[www.maerkische-bierstuben.de](http://www.maerkische-bierstuben.de)  <br>
+{:.brewery}
 
 
 ##### Schlepzig 
 
 
-Spreewälder Privatbrauerei - 1788  {.brewery}  <br>
-Schlepzig // 
+Spreewälder Privatbrauerei - 1788  <br>
+Schlepzig //  <br>
+{:.brewery}
 
 
 ##### Wusterhausen 
 
 
-Schlossbrauerei Dessow -   {.brewery}  <br>
-Wusterhausen // 
+Schlossbrauerei Dessow -   <br>
+Wusterhausen //  <br>
+{:.brewery}
 
 
 
 
 
-### Bremen (4) {#hb}
-
-[Bremen](#bremen) (4)
-
-##### Bremen  (4) 
+### Bremen _(4)_{:.count} {#hb}
 
 
-Brauerei Beck - 1873  {.brewery}  <br>
+
+##### Bremen  _(4)_{:.count} 
+
+
+Brauerei Beck - 1873  <br>
 28199 Bremen // Am Deich 18/19  <br>
-[www.becks.de](http://www.becks.de) 
+[www.becks.de](http://www.becks.de)  <br>
+{:.brewery}
 
 
-
-Haake-Beck Brauerei - 1826  {.brewery}  <br>
+Haake-Beck Brauerei - 1826  <br>
 28199 Bremen // Am Deich 18/19  <br>
-[www.haake-beck.de](http://www.haake-beck.de) 
+[www.haake-beck.de](http://www.haake-beck.de)  <br>
+{:.brewery}
 
 
-
-Schüttinger Gasthausbrauerei (Erste Bremer Gasthausbrauerei) - 1990  {.brewery}  <br>
+Schüttinger Gasthausbrauerei (Erste Bremer Gasthausbrauerei) - 1990  <br>
 Bremen //  <br>
-[www.schuettinger.de](http://www.schuettinger.de) 
+[www.schuettinger.de](http://www.schuettinger.de)  <br>
+{:.brewery}
 
 
-
-Borgfelder Landhaus -   {.brewery}  <br>
+Borgfelder Landhaus -   <br>
 Bremen //  <br>
-[www.borgfelder-landhaus.de](http://www.borgfelder-landhaus.de) 
+[www.borgfelder-landhaus.de](http://www.borgfelder-landhaus.de)  <br>
+{:.brewery}
 
 
 
 
 
-
-### Hamburg (6) {#hh}
-
-[Hamburg](#hamburg) (6)
-
-##### Hamburg  (6) 
+### Hamburg _(6)_{:.count} {#hh}
 
 
-Holsten Brauerei - 1879  {.brewery}  <br>
+
+##### Hamburg  _(6)_{:.count} 
+
+
+Holsten Brauerei - 1879  <br>
 22765 Hamburg (Altona-Nord) // Holstenstraße 224  <br>
-[www.holsten-pilsener.de](http://www.holsten-pilsener.de) 
+[www.holsten-pilsener.de](http://www.holsten-pilsener.de)  <br>
+{:.brewery}
 
 
-
-Gröninger Privatbrauerei - 1982  {.brewery}  <br>
+Gröninger Privatbrauerei - 1982  <br>
 20457 Hamburg (Altstadt) // Willy-Brandt-Straße 47  <br>
-[www.groeninger-hamburg.de](http://www.groeninger-hamburg.de) 
+[www.groeninger-hamburg.de](http://www.groeninger-hamburg.de)  <br>
+{:.brewery}
 
 
-
-Gröninger Braukeller -   {.brewery}  <br>
-Hamburg // 
-
-
-Gröninger Brauhaus -   {.brewery}  <br>
-Hamburg // 
+Gröninger Braukeller -   <br>
+Hamburg //  <br>
+{:.brewery}
 
 
-Ratsherrn Brauerei - 2010  {.brewery}  <br>
+Gröninger Brauhaus -   <br>
+Hamburg //  <br>
+{:.brewery}
+
+
+Ratsherrn Brauerei - 2010  <br>
 20357 Hamburg (St. Pauli) // Lagerstraße 30A  <br>
-[www.ratsherrn.de](http://www.ratsherrn.de) 
+[www.ratsherrn.de](http://www.ratsherrn.de)  <br>
+{:.brewery}
+
+
+Premium Kollektiv -   <br>
+20539 Hamburg // Vierländer Damm 56  <br>
+{:.brewery}
 
 
 
-Premium Kollektiv -   {.brewery}  <br>
-20539 Hamburg // Vierländer Damm 56 
 
 
+### Hessen [Hesse] _(28)_{:.count} {#he}
 
-
-
-### Hessen [Hesse] (28) {#he}
-
-[Alsfeld](#alsfeld) • [Babenhausen](#babenhausen) • [Bad Orb](#badorb) • [Baunatal](#baunatal) (2) • [Darmstadt](#darmstadt) (2) • [Erbach im Odenwald](#erbachimodenwald) • [Eschwege](#eschwege) (2) • [Frankfurt](#frankfurt) (2) • [Frankfurt / Main](#frankfurtmain) • [Frankfurt am Main](#frankfurtammain) (2) • [Frankfurt-Sachsenhausen-Süd](#frankfurtsachsenhausensued) • [Fulda](#fulda) (2) • [Kassel](#kassel) • [Lich](#lich) • [Michelstadt](#michelstadt) (3) • [Mossautal](#mossautal) • [Offenbach am Main](#offenbachammain) • [Pfungstadt](#pfungstadt) • [Seligenstadt](#seligenstadt) • [Willingen](#willingen) • [Witzenhausen](#witzenhausen)
+[Alsfeld](#alsfeld) • [Babenhausen](#babenhausen) • [Bad Orb](#badorb) • [Baunatal](#baunatal) _(2)_{:.count} • [Darmstadt](#darmstadt) _(2)_{:.count} • [Erbach im Odenwald](#erbachimodenwald) • [Eschwege](#eschwege) _(2)_{:.count} • [Frankfurt](#frankfurt) _(2)_{:.count} • [Frankfurt / Main](#frankfurtmain) • [Frankfurt am Main](#frankfurtammain) _(2)_{:.count} • [Frankfurt-Sachsenhausen-Süd](#frankfurtsachsenhausensued) • [Fulda](#fulda) _(2)_{:.count} • [Kassel](#kassel) • [Lich](#lich) • [Michelstadt](#michelstadt) _(3)_{:.count} • [Mossautal](#mossautal) • [Offenbach am Main](#offenbachammain) • [Pfungstadt](#pfungstadt) • [Seligenstadt](#seligenstadt) • [Willingen](#willingen) • [Witzenhausen](#witzenhausen)
 
 ##### Alsfeld 
 
 
-Brauerei Alsfeld - 1858  {.brewery}  <br>
+Brauerei Alsfeld - 1858  <br>
 Alsfeld //  <br>
-[www.alsfelder.de](http://www.alsfelder.de) 
-
+[www.alsfelder.de](http://www.alsfelder.de)  <br>
+{:.brewery}
 
 
 ##### Babenhausen 
 
 
-Privatbrauerei Michelsbräu - 1707  {.brewery}  <br>
-Babenhausen // 
+Privatbrauerei Michelsbräu - 1707  <br>
+Babenhausen //  <br>
+{:.brewery}
 
 
 ##### Bad Orb 
 
 
-Kärrners Hausbrauerei -   {.brewery}  <br>
+Kärrners Hausbrauerei -   <br>
 63619 Bad Orb // Kurparkstraße 7  <br>
-[www.kaerrners.de](http://www.kaerrners.de) 
+[www.kaerrners.de](http://www.kaerrners.de)  <br>
+{:.brewery}
 
 
+##### Baunatal  _(2)_{:.count} 
 
-##### Baunatal  (2) 
 
-
-Hütt-Brauerei - 1752  {.brewery}  <br>
+Hütt-Brauerei - 1752  <br>
 34225 Baunatal // Knallhütte  <br>
-[www.huett.de](http://www.huett.de) 
+[www.huett.de](http://www.huett.de)  <br>
+{:.brewery}
 
 
-
-Hessische Löwenbier Brauerei - 1870  {.brewery}  <br>
+Hessische Löwenbier Brauerei - 1870  <br>
 Baunatal //  <br>
-[www.hessisches-loewenbier.de](http://www.hessisches-loewenbier.de) 
+[www.hessisches-loewenbier.de](http://www.hessisches-loewenbier.de)  <br>
+{:.brewery}
 
 
+##### Darmstadt  _(2)_{:.count} 
 
-##### Darmstadt  (2) 
 
-
-Darmstädter Privatbrauerei - 1847  {.brewery}  <br>
+Darmstädter Privatbrauerei - 1847  <br>
 64293 Darmstadt // Goebelstraße 7  <br>
-[www.darmstaedter.de](http://www.darmstaedter.de) 
+[www.darmstaedter.de](http://www.darmstaedter.de)  <br>
+{:.brewery}
 
 
-
-Brauerei Grohe -   {.brewery}  <br>
+Brauerei Grohe -   <br>
 64283 Darmstadt // Nieder-Ramstädter Straße 3  <br>
-[www.brauerei-grohe.de](http://www.brauerei-grohe.de) 
-
+[www.brauerei-grohe.de](http://www.brauerei-grohe.de)  <br>
+{:.brewery}
 
 
 ##### Erbach im Odenwald 
 
 
-Erbacher Brauhaus - 1786  {.brewery}  <br>
+Erbacher Brauhaus - 1786  <br>
 64711 Erbach im Odenwald // Jahnstr.1  <br>
-[www.brauereiausschank.de](http://www.brauereiausschank.de) 
+[www.brauereiausschank.de](http://www.brauereiausschank.de)  <br>
+{:.brewery}
 
 
-
-##### Eschwege  (2) 
-
-
-Eschweger Klosterbrauerei - 1839  {.brewery}  <br>
-Eschwege // 
+##### Eschwege  _(2)_{:.count} 
 
 
-Duff Beer -   {.brewery}  <br>
+Eschweger Klosterbrauerei - 1839  <br>
+Eschwege //  <br>
+{:.brewery}
+
+
+Duff Beer -   <br>
 37269 Eschwege // Thüringer Straße 19  <br>
-[www.duff-bier.de](http://www.duff-bier.de) 
+[www.duff-bier.de](http://www.duff-bier.de)  <br>
+{:.brewery}
 
 
-
-##### Frankfurt  (2) 
-
-
-Frankfurter Brauhaus - 1988  {.brewery}  <br>
-Frankfurt (Oder) // 
+##### Frankfurt  _(2)_{:.count} 
 
 
-Schöfferhofer Weizenbier -   {.brewery}  <br>
+Frankfurter Brauhaus - 1988  <br>
+Frankfurt (Oder) //  <br>
+{:.brewery}
+
+
+Schöfferhofer Weizenbier -   <br>
 Frankfurt //  <br>
-[www.schoefferhofer.de](http://www.schoefferhofer.de) 
-
+[www.schoefferhofer.de](http://www.schoefferhofer.de)  <br>
+{:.brewery}
 
 
 ##### Frankfurt / Main 
 
 
-Braufactum -   {.brewery}  <br>
+Braufactum -   <br>
 Frankfurt / Main //  <br>
-[www.brau-manufacturen.de](http://www.brau-manufacturen.de) 
+[www.brau-manufacturen.de](http://www.brau-manufacturen.de)  <br>
+{:.brewery}
 
 
+##### Frankfurt am Main  _(2)_{:.count} 
 
-##### Frankfurt am Main  (2) 
 
-
-Die Internationale Brau-Manufacturen -   {.brewery}  <br>
+Die Internationale Brau-Manufacturen -   <br>
 Frankfurt am Main //  <br>
-[www.brau-manufacturen.de](http://www.brau-manufacturen.de) 
+[www.brau-manufacturen.de](http://www.brau-manufacturen.de)  <br>
+{:.brewery}
 
 
-
-Henninger Bräu - 1655  {.brewery}  <br>
-Frankfurt am Main // 
+Henninger Bräu - 1655  <br>
+Frankfurt am Main //  <br>
+{:.brewery}
 
 
 ##### Frankfurt-Sachsenhausen-Süd 
 
 
-Binding-Brauerei - 1870  {.brewery}  <br>
+Binding-Brauerei - 1870  <br>
 60598 Frankfurt-Sachsenhausen-Süd // Darmstädter Landstr. 185  <br>
-[www.binding.de](http://www.binding.de) 
+[www.binding.de](http://www.binding.de)  <br>
+{:.brewery}
 
 
-
-##### Fulda  (2) 
-
-
-Föllsch Brauerei - 2011  {.brewery}  <br>
-Fulda // 
+##### Fulda  _(2)_{:.count} 
 
 
-Hochstiftliches Brauhaus Fulda - 1848  {.brewery}  <br>
+Föllsch Brauerei - 2011  <br>
+Fulda //  <br>
+{:.brewery}
+
+
+Hochstiftliches Brauhaus Fulda - 1848  <br>
 36037 Fulda // Leipziger Straße 12  <br>
-[www.hochstift.de](http://www.hochstift.de) 
-
+[www.hochstift.de](http://www.hochstift.de)  <br>
+{:.brewery}
 
 
 ##### Kassel 
 
 
-Martini Brauerei - 1859  {.brewery}  <br>
-Kassel // 
+Martini Brauerei - 1859  <br>
+Kassel //  <br>
+{:.brewery}
 
 
 ##### Lich 
 
 
-Licher Privatbrauerei 1854 -   {.brewery}  <br>
-Lich // 
+Licher Privatbrauerei 1854 -   <br>
+Lich //  <br>
+{:.brewery}
 
 
-##### Michelstadt  (3) 
+##### Michelstadt  _(3)_{:.count} 
 
 
-Brauerei Dörr -   {.brewery}  <br>
+Brauerei Dörr -   <br>
 Michelstadt //  <br>
-[www.michelstaedterbier.de](http://www.michelstaedterbier.de) 
+[www.michelstaedterbier.de](http://www.michelstaedterbier.de)  <br>
+{:.brewery}
 
 
-
-Braukunstkeller -   {.brewery}  <br>
+Braukunstkeller -   <br>
 Michelstadt //  <br>
-[www.braukunstkeller.de](http://www.braukunstkeller.de) 
+[www.braukunstkeller.de](http://www.braukunstkeller.de)  <br>
+{:.brewery}
 
 
-
-Michelstädter Rathausbräu -   {.brewery}  <br>
+Michelstädter Rathausbräu -   <br>
 Michelstadt //  <br>
-[www.rathausbraeu.de](http://www.rathausbraeu.de) 
-
+[www.rathausbraeu.de](http://www.rathausbraeu.de)  <br>
+{:.brewery}
 
 
 ##### Mossautal 
 
 
-Privat-Brauerei Schmucker - 1780  {.brewery}  <br>
-Mossautal // 
+Privat-Brauerei Schmucker - 1780  <br>
+Mossautal //  <br>
+{:.brewery}
 
 
 ##### Offenbach am Main 
 
 
-Wäldches Bräu -   {.brewery}  <br>
+Wäldches Bräu -   <br>
 Offenbach am Main //  <br>
-[www.waeldches.de](http://www.waeldches.de) 
-
+[www.waeldches.de](http://www.waeldches.de)  <br>
+{:.brewery}
 
 
 ##### Pfungstadt 
 
 
-Pfungstädter Brauerei - 1831  {.brewery}  <br>
-Pfungstadt // 
+Pfungstädter Brauerei - 1831  <br>
+Pfungstadt //  <br>
+{:.brewery}
 
 
 ##### Seligenstadt 
 
 
-Glaabsbräu - 1744  {.brewery}  <br>
-Seligenstadt // 
+Glaabsbräu - 1744  <br>
+Seligenstadt //  <br>
+{:.brewery}
 
 
 ##### Willingen 
 
 
-Willinger Brauhaus www.willinger-brauhaus.de -   {.brewery}  <br>
-34508 Willingen // In den Kämpen 2 
+Willinger Brauhaus www.willinger-brauhaus.de -   <br>
+34508 Willingen // In den Kämpen 2  <br>
+{:.brewery}
 
 
 ##### Witzenhausen 
 
 
-Schinkels Brauhaus -   {.brewery}  <br>
+Schinkels Brauhaus -   <br>
 37213 Witzenhausen // Burgstraße 20  <br>
-[www.schinkels-brauhaus.de](http://www.schinkels-brauhaus.de) 
+[www.schinkels-brauhaus.de](http://www.schinkels-brauhaus.de)  <br>
+{:.brewery}
 
 
 
 
 
-
-### Mecklenburg-Vorpommern (7) {#mv}
+### Mecklenburg-Vorpommern _(7)_{:.count} {#mv}
 
 [Dargun](#dargun) • [Groß Gievitz](#grossgievitz) • [Hansestadt Stralsund](#hansestadtstralsund) • [Lübz](#luebz) • [Mellenthin](#mellenthin) • [Rostock](#rostock) • [Vielank](#vielank)
 
 ##### Dargun 
 
 
-Darguner Brauerei - 1991  {.brewery}  <br>
+Darguner Brauerei - 1991  <br>
 17159 Dargun // Brauereistraße 3  <br>
-[www.brauerei-dargun.de](http://www.brauerei-dargun.de) 
-
+[www.brauerei-dargun.de](http://www.brauerei-dargun.de)  <br>
+{:.brewery}
 
 
 ##### Groß Gievitz 
 
 
-Eick Bräu -   {.brewery}  <br>
+Eick Bräu -   <br>
 Groß Gievitz //  <br>
-[www.eickbraeu.de](http://www.eickbraeu.de) 
-
+[www.eickbraeu.de](http://www.eickbraeu.de)  <br>
+{:.brewery}
 
 
 ##### Hansestadt Stralsund 
 
 
-Stralsunder Brauerei - 1827  {.brewery}  <br>
+Stralsunder Brauerei - 1827  <br>
 18439 Hansestadt Stralsund // Greifswalder Chaussee 84-85  <br>
-[www.stralsunder.de](http://www.stralsunder.de) 
-
+[www.stralsunder.de](http://www.stralsunder.de)  <br>
+{:.brewery}
 
 
 ##### Lübz 
 
 
-Mecklenburgische Brauerei Lübz - 1877  {.brewery}  <br>
+Mecklenburgische Brauerei Lübz - 1877  <br>
 19386 Lübz // Eisenbeissstraße 1  <br>
-[www.luebzer.de](http://www.luebzer.de) 
-
+[www.luebzer.de](http://www.luebzer.de)  <br>
+{:.brewery}
 
 
 ##### Mellenthin 
 
 
-Wasserschloss Mellenthin Brauerei - 2011  {.brewery}  <br>
-Mellenthin // 
+Wasserschloss Mellenthin Brauerei - 2011  <br>
+Mellenthin //  <br>
+{:.brewery}
 
 
 ##### Rostock 
 
 
-Hanseatische Brauerei Rostock - 1878  {.brewery}  <br>
+Hanseatische Brauerei Rostock - 1878  <br>
 18057 Rostock // Doberaner Straße 27  <br>
-[www.rostocker.de](http://www.rostocker.de) 
-
+[www.rostocker.de](http://www.rostocker.de)  <br>
+{:.brewery}
 
 
 ##### Vielank 
 
 
-Vielanker Brauhaus -   {.brewery}  <br>
+Vielanker Brauhaus -   <br>
 Vielank //  <br>
-[www.vielanker-brauhaus.de](http://www.vielanker-brauhaus.de) 
+[www.vielanker-brauhaus.de](http://www.vielanker-brauhaus.de)  <br>
+{:.brewery}
 
 
 
 
 
+### Niedersachsen [Lower Saxony] _(25)_{:.count} {#ni}
 
-### Niedersachsen [Lower Saxony] (25) {#ni}
+[Braunschweig](#braunschweig) _(3)_{:.count} • [Celle](#celle) • [Dahlenburg](#dahlenburg) • [Einbeck](#einbeck) • [Großefehn](#grossefehn) • [Großefehn-Bagband](#grossefehnbagband) • [Hannover](#hannover) _(2)_{:.count} • [Hannover-Altstadt](#hannoveraltstadt) • [Holzminden](#holzminden) • [Jever](#jever) • [Langeoog](#langeoog) • [Lauenau](#lauenau) • [Lüneburg](#lueneburg) • [Lünne](#luenne) • [Nortrup](#nortrup) • [Nörten-Hardenberg](#noertenhardenberg) • [Osnabrück](#osnabrueck) • [Peine](#peine) • [Stadthagen](#stadthagen) • [Uslar](#uslar) • [Varel](#varel) • [Wittingen](#wittingen)
 
-[Braunschweig](#braunschweig) (3) • [Celle](#celle) • [Dahlenburg](#dahlenburg) • [Einbeck](#einbeck) • [Großefehn](#grossefehn) • [Großefehn-Bagband](#grossefehnbagband) • [Hannover](#hannover) (2) • [Hannover-Altstadt](#hannoveraltstadt) • [Holzminden](#holzminden) • [Jever](#jever) • [Langeoog](#langeoog) • [Lauenau](#lauenau) • [Lüneburg](#lueneburg) • [Lünne](#luenne) • [Nortrup](#nortrup) • [Nörten-Hardenberg](#noertenhardenberg) • [Osnabrück](#osnabrueck) • [Peine](#peine) • [Stadthagen](#stadthagen) • [Uslar](#uslar) • [Varel](#varel) • [Wittingen](#wittingen)
-
-##### Braunschweig  (3) 
+##### Braunschweig  _(3)_{:.count} 
 
 
-5,0 Biervertrieb -   {.brewery}  <br>
+5,0 Biervertrieb -   <br>
 38102 Braunschweig // Böcklerstrasse 31  <br>
-[www.5-0-original.de](http://www.5-0-original.de) 
+[www.5-0-original.de](http://www.5-0-original.de)  <br>
+{:.brewery}
 
 
-
-Hofbrauhaus Wolters -   {.brewery}  <br>
+Hofbrauhaus Wolters -   <br>
 Braunschweig //  <br>
-[www.hofbrauhaus-wolters.de](http://www.hofbrauhaus-wolters.de) 
+[www.hofbrauhaus-wolters.de](http://www.hofbrauhaus-wolters.de)  <br>
+{:.brewery}
 
 
-
-Mumme Brauerei -   {.brewery}  <br>
+Mumme Brauerei -   <br>
 Braunschweig //  <br>
-[www.bs-mumme.de](http://www.bs-mumme.de) 
-
+[www.bs-mumme.de](http://www.bs-mumme.de)  <br>
+{:.brewery}
 
 
 ##### Celle 
 
 
-Brauerei Carl Betz - 1893  {.brewery}  <br>
-Celle // 
+Brauerei Carl Betz - 1893  <br>
+Celle //  <br>
+{:.brewery}
 
 
 ##### Dahlenburg 
 
 
-Sommerbecker Brauerei -   {.brewery}  <br>
+Sommerbecker Brauerei -   <br>
 Dahlenburg //  <br>
-[www.sommerbecker-dachs.de](http://www.sommerbecker-dachs.de) 
-
+[www.sommerbecker-dachs.de](http://www.sommerbecker-dachs.de)  <br>
+{:.brewery}
 
 
 ##### Einbeck 
 
 
-Einbecker Brauhaus - 1378  {.brewery}  <br>
-Einbeck // 
+Einbecker Brauhaus - 1378  <br>
+Einbeck //  <br>
+{:.brewery}
 
 
 ##### Großefehn 
 
 
-Friesenbräu Privat Brauerei -   {.brewery}  <br>
-Großefehn // 
+Friesenbräu Privat Brauerei -   <br>
+Großefehn //  <br>
+{:.brewery}
 
 
 ##### Großefehn-Bagband 
 
 
-Ostfriesen Bräu -   {.brewery}  <br>
+Ostfriesen Bräu -   <br>
 Großefehn-Bagband //  <br>
-[www.ostfriesenbraeu.de](http://www.ostfriesenbraeu.de) 
+[www.ostfriesenbraeu.de](http://www.ostfriesenbraeu.de)  <br>
+{:.brewery}
 
 
+##### Hannover  _(2)_{:.count} 
 
-##### Hannover  (2) 
 
-
-Gilde Brauerei -   {.brewery}  <br>
+Gilde Brauerei -   <br>
 Hannover //  <br>
-[www.gildebrau.de](http://www.gildebrau.de) 
+[www.gildebrau.de](http://www.gildebrau.de)  <br>
+{:.brewery}
 
 
-
-Privatbrauerei Herrenhausen - 1868  {.brewery}  <br>
-Hannover // 
+Privatbrauerei Herrenhausen - 1868  <br>
+Hannover //  <br>
+{:.brewery}
 
 
 ##### Hannover-Altstadt 
 
 
-Brauhaus Ernst August - 1986  {.brewery}  <br>
-Hannover-Altstadt // 
+Brauhaus Ernst August - 1986  <br>
+Hannover-Altstadt //  <br>
+{:.brewery}
 
 
 ##### Holzminden 
 
 
-Brauerei Allersheim - 1854  {.brewery}  <br>
-Holzminden // 
+Brauerei Allersheim - 1854  <br>
+Holzminden //  <br>
+{:.brewery}
 
 
 ##### Jever 
 
 
-Friesisches Brauhaus zu Jever - 1848  {.brewery}  <br>
-26441 Jever // Elisabethufer 18 
+Friesisches Brauhaus zu Jever - 1848  <br>
+26441 Jever // Elisabethufer 18  <br>
+{:.brewery}
+
 Jever Pilsener  
+{:.beers}
 
 ##### Langeoog 
 
 
-Langeooger Inselbrauerei - 2007  {.brewery}  <br>
-Langeoog // 
+Langeooger Inselbrauerei - 2007  <br>
+Langeoog //  <br>
+{:.brewery}
 
 
 ##### Lauenau 
 
 
-Rupp-Bräu - 1861  {.brewery}  <br>
-Lauenau // 
+Rupp-Bräu - 1861  <br>
+Lauenau //  <br>
+{:.brewery}
 
 
 ##### Lüneburg 
 
 
-Gasthausbrauerei Nolte - 1906  {.brewery}  <br>
-Lüneburg // 
+Gasthausbrauerei Nolte - 1906  <br>
+Lüneburg //  <br>
+{:.brewery}
 
 
 ##### Lünne 
 
 
-Landhaus Brauerei Borchert -   {.brewery}  <br>
+Landhaus Brauerei Borchert -   <br>
 Lünne //  <br>
-[www.landhaus-brauerei.de](http://www.landhaus-brauerei.de) 
-
+[www.landhaus-brauerei.de](http://www.landhaus-brauerei.de)  <br>
+{:.brewery}
 
 
 ##### Nortrup 
 
 
-Artland Brauerei -   {.brewery}  <br>
+Artland Brauerei -   <br>
 Nortrup //  <br>
-[www.artland-brauerei.de](http://www.artland-brauerei.de) 
-
+[www.artland-brauerei.de](http://www.artland-brauerei.de)  <br>
+{:.brewery}
 
 
 ##### Nörten-Hardenberg 
 
 
-Hardenberg-Wilthen -   {.brewery}  <br>
+Hardenberg-Wilthen -   <br>
 Nörten-Hardenberg //  <br>
-[www.hardenberg-wilthen.de](http://www.hardenberg-wilthen.de) 
-
+[www.hardenberg-wilthen.de](http://www.hardenberg-wilthen.de)  <br>
+{:.brewery}
 
 
 ##### Osnabrück 
 
 
-Hausbrauerei Rampendahl -   {.brewery}  <br>
-Osnabrück // 
+Hausbrauerei Rampendahl -   <br>
+Osnabrück //  <br>
+{:.brewery}
 
 
 ##### Peine 
 
 
-Privatbrauerei Härke -   {.brewery}  <br>
+Privatbrauerei Härke -   <br>
 Peine //  <br>
-[www.haerke-brauerei.de](http://www.haerke-brauerei.de) 
-
+[www.haerke-brauerei.de](http://www.haerke-brauerei.de)  <br>
+{:.brewery}
 
 
 ##### Stadthagen 
 
 
-Schaumburger Privat-Brauerei - 1873  {.brewery}  <br>
-Stadthagen // 
+Schaumburger Privat-Brauerei - 1873  <br>
+Stadthagen //  <br>
+{:.brewery}
 
 
 ##### Uslar 
 
 
-Privatbrauerei Haffner - 1868  {.brewery}  <br>
-Uslar // 
+Privatbrauerei Haffner - 1868  <br>
+Uslar //  <br>
+{:.brewery}
 
 
 ##### Varel 
 
 
-Vareler Brauhaus -   {.brewery}  <br>
+Vareler Brauhaus -   <br>
 Varel //  <br>
-[www.vareler-brauhaus.de](http://www.vareler-brauhaus.de) 
-
+[www.vareler-brauhaus.de](http://www.vareler-brauhaus.de)  <br>
+{:.brewery}
 
 
 ##### Wittingen 
 
 
-Privatbrauerei Wittingen - 1429  {.brewery}  <br>
-Wittingen // 
+Privatbrauerei Wittingen - 1429  <br>
+Wittingen //  <br>
+{:.brewery}
 
 
 
 
 
-### Nordrhein-Westfalen [North Rhine-Westphalia] (9) {#nw}
+### Nordrhein-Westfalen [North Rhine-Westphalia] _(9)_{:.count} {#nw}
 
-[Dortmund (Hafen)](#dortmund) (3) • [Hagen (Dahl)](#hagen) • [Kreuztal](#kreuztal) • [Köln](#koeln) (2) • [Meschede](#meschede) • [Warstein](#warstein)
+[Dortmund (Hafen)](#dortmund) _(3)_{:.count} • [Hagen (Dahl)](#hagen) • [Kreuztal](#kreuztal) • [Köln](#koeln) _(2)_{:.count} • [Meschede](#meschede) • [Warstein](#warstein)
 
-##### Dortmund (Hafen)  (3) 
+##### Dortmund (Hafen)  _(3)_{:.count} 
 
 
-Dortmunder Actien-Brauerei (DAB) - 1875  {.brewery}  <br>
+Dortmunder Actien-Brauerei (DAB) - 1875  <br>
 44145 Dortmund (Nordmarkt) // Steigerstraße 20  <br>
-[www.dab.de](http://www.dab.de) 
+[www.dab.de](http://www.dab.de)  <br>
+{:.brewery}
 
 
-
-Hövels Hausbrauerei - 1854  {.brewery}  <br>
+Hövels Hausbrauerei - 1854  <br>
 44137 Dortmund (City) // Hoher Wall 5  <br>
-[www.hoevels-hausbrauerei.de](http://www.hoevels-hausbrauerei.de) 
+[www.hoevels-hausbrauerei.de](http://www.hoevels-hausbrauerei.de)  <br>
+{:.brewery}
 
 
-
-Bergmann Brauerei - 2010  {.brewery}  <br>
+Bergmann Brauerei - 2010  <br>
 44137 Dortmund (Hafen) // Ritterstraße 18  <br>
-[www.bergmann-brauerei.de](http://www.bergmann-brauerei.de) 
-
+[www.bergmann-brauerei.de](http://www.bergmann-brauerei.de)  <br>
+{:.brewery}
 
 
 ##### Hagen (Dahl) 
 
 
-Vormann Brauerei - 1877  {.brewery}  <br>
+Vormann Brauerei - 1877  <br>
 58091 Hagen (Dahl) // Braugasse 5  <br>
-[www.vormann-brauerei.de](http://www.vormann-brauerei.de) 
+[www.vormann-brauerei.de](http://www.vormann-brauerei.de)  <br>
+{:.brewery}
 
 Vormann Pils   • Alt aus Dahl   • Vormann Malz   • Sauerländer Weizenbier   • Vormann Doppelbock   • Vormann Vorderbier   • Dahler Urbräu  
+{:.beers}
 
 ##### Kreuztal 
 
 
-Krombacher Brauerei - 1803  {.brewery}  <br>
+Krombacher Brauerei - 1803  <br>
 57223 Kreuztal // Hagener Straße 261  <br>
-[www.krombacher.de](http://www.krombacher.de) 
+[www.krombacher.de](http://www.krombacher.de)  <br>
+{:.brewery}
 
 
+##### Köln  _(2)_{:.count} 
 
-##### Köln  (2) 
 
-
-Dom-Brauerei - 1894  {.brewery}  <br>
+Dom-Brauerei - 1894  <br>
 51149 Köln // Charlottenstraße 72  <br>
-[www.domkoelsch.de](http://www.domkoelsch.de) 
+[www.domkoelsch.de](http://www.domkoelsch.de)  <br>
+{:.brewery}
 
 
-
-Cölner Hofbräu Früh - 1904  {.brewery}  <br>
+Cölner Hofbräu Früh - 1904  <br>
 50667 Köln // Am Hof 12-18  <br>
-[www.frueh.de](http://www.frueh.de) 
-
+[www.frueh.de](http://www.frueh.de)  <br>
+{:.brewery}
 
 
 ##### Meschede 
 
 
-Brauerei C. & A. Veltins - 1824  {.brewery}  <br>
+Brauerei C. & A. Veltins - 1824  <br>
 59872 Meschede // An der Streue  <br>
-[www.veltins.de](http://www.veltins.de) 
-
+[www.veltins.de](http://www.veltins.de)  <br>
+{:.brewery}
 
 
 ##### Warstein 
 
 
-Warsteiner Brauerei - 1753  {.brewery}  <br>
+Warsteiner Brauerei - 1753  <br>
 59581 Warstein // Im Waldpark  <br>
-[www.warsteiner.de](http://www.warsteiner.de) 
+[www.warsteiner.de](http://www.warsteiner.de)  <br>
+{:.brewery}
 
 
 
 
 
+### Rheinland-Pfalz [Rhineland-Palatinate] _(17)_{:.count} {#rp}
 
-### Rheinland-Pfalz [Rhineland-Palatinate] (17) {#rp}
-
-[Bernkastel-Wehlen](#bernkastelwehlen) • [Bitburg](#bitburg) • [Hachenburg](#hachenburg) • [Kirn](#kirn) • [Koblenz](#koblenz) (3) • [Lahnstein](#lahnstein) • [Linz am Rhein](#linzamrhein) • [Mainz](#mainz) • [Mainz-Kastel](#mainzkastel) • [Naurath](#naurath) • [Pirmasens](#pirmasens) • [Ransbach-Baumbach](#ransbachbaumbach) • [Remagen](#remagen) • [Trier](#trier) • [Winnweiler](#winnweiler)
+[Bernkastel-Wehlen](#bernkastelwehlen) • [Bitburg](#bitburg) • [Hachenburg](#hachenburg) • [Kirn](#kirn) • [Koblenz](#koblenz) _(3)_{:.count} • [Lahnstein](#lahnstein) • [Linz am Rhein](#linzamrhein) • [Mainz](#mainz) • [Mainz-Kastel](#mainzkastel) • [Naurath](#naurath) • [Pirmasens](#pirmasens) • [Ransbach-Baumbach](#ransbachbaumbach) • [Remagen](#remagen) • [Trier](#trier) • [Winnweiler](#winnweiler)
 
 ##### Bernkastel-Wehlen 
 
 
-Brauhaus Kloster Machern -   {.brewery}  <br>
+Brauhaus Kloster Machern -   <br>
 54470 Bernkastel-Wehlen // An der Zeltinger Brücke  <br>
-[www.brauhaus-kloster-machern.de](http://www.brauhaus-kloster-machern.de) 
-
+[www.brauhaus-kloster-machern.de](http://www.brauhaus-kloster-machern.de)  <br>
+{:.brewery}
 
 
 ##### Bitburg 
 
 
-Bitburger Brauerei - 1817  {.brewery}  <br>
+Bitburger Brauerei - 1817  <br>
 Bitburg //  <br>
-[www.bitburger.de](http://www.bitburger.de) 
-
+[www.bitburger.de](http://www.bitburger.de)  <br>
+{:.brewery}
 
 
 ##### Hachenburg 
 
 
-Westerwald Brauerei - 1861  {.brewery}  <br>
+Westerwald Brauerei - 1861  <br>
 57627 Hachenburg // Gehlerter Weg 12  <br>
-[www.hachenburger.de](http://www.hachenburger.de) 
-
+[www.hachenburger.de](http://www.hachenburger.de)  <br>
+{:.brewery}
 
 
 ##### Kirn 
 
 
-Kirner Privatbrauerei - 1798  {.brewery}  <br>
-Kirn // 
+Kirner Privatbrauerei - 1798  <br>
+Kirn //  <br>
+{:.brewery}
 
 
-##### Koblenz  (3) 
+##### Koblenz  _(3)_{:.count} 
 
 
-Königsbacher Brauerei - 1689  {.brewery}  <br>
+Königsbacher Brauerei - 1689  <br>
 Koblenz //  <br>
-[www.koenigsbacher.de](http://www.koenigsbacher.de) 
+[www.koenigsbacher.de](http://www.koenigsbacher.de)  <br>
+{:.brewery}
 
 
-
-Koblenzer Brauerei - 1689  {.brewery}  <br>
+Koblenzer Brauerei - 1689  <br>
 56075 Koblenz // An der Königsbach 8  <br>
-[www.koblenzer-brauerei.de](http://www.koblenzer-brauerei.de) 
+[www.koblenzer-brauerei.de](http://www.koblenzer-brauerei.de)  <br>
+{:.brewery}
 
 
-
-Brauerei zur Nette - 1849  {.brewery}  <br>
+Brauerei zur Nette - 1849  <br>
 Koblenz //  <br>
-[www.nette.de](http://www.nette.de) 
-
+[www.nette.de](http://www.nette.de)  <br>
+{:.brewery}
 
 
 ##### Lahnstein 
 
 
-Lahnsteiner Brauerei - 1667  {.brewery}  <br>
+Lahnsteiner Brauerei - 1667  <br>
 56112 Lahnstein // Sandgasse 1  <br>
-[www.lahnsteiner-brauerei.de](http://www.lahnsteiner-brauerei.de) 
-
+[www.lahnsteiner-brauerei.de](http://www.lahnsteiner-brauerei.de)  <br>
+{:.brewery}
 
 
 ##### Linz am Rhein 
 
 
-Privat-Brauerei Steffens - 1866  {.brewery}  <br>
-Linz am Rhein // 
+Privat-Brauerei Steffens - 1866  <br>
+Linz am Rhein //  <br>
+{:.brewery}
 
 
 ##### Mainz 
 
 
-Eisgrub-Bräu (1. Mainzer Gasthausbrauerei) - 1989  {.brewery}  <br>
+Eisgrub-Bräu (1. Mainzer Gasthausbrauerei) - 1989  <br>
 55116 Mainz // Weissliliengasse 1a  <br>
-[www.eisgrub.de](http://www.eisgrub.de) 
-
+[www.eisgrub.de](http://www.eisgrub.de)  <br>
+{:.brewery}
 
 
 ##### Mainz-Kastel 
 
 
-Brauhaus Castel -   {.brewery}  <br>
+Brauhaus Castel -   <br>
 55252 Mainz-Kastel // Otto-Suhr-Ring 27  <br>
-[www.brauhaus-castel.de](http://www.brauhaus-castel.de) 
-
+[www.brauhaus-castel.de](http://www.brauhaus-castel.de)  <br>
+{:.brewery}
 
 
 ##### Naurath 
 
 
-Brauhaus Zils -   {.brewery}  <br>
+Brauhaus Zils -   <br>
 54340 Naurath // Waldstraße 1  <br>
-[www.brauhaus-zils.de](http://www.brauhaus-zils.de) 
-
+[www.brauhaus-zils.de](http://www.brauhaus-zils.de)  <br>
+{:.brewery}
 
 
 ##### Pirmasens 
 
 
-Park & Bellheimer - 1888  {.brewery}  <br>
-66953 Pirmasens // Zweibrücker Straße 2 
+Park & Bellheimer - 1888  <br>
+66953 Pirmasens // Zweibrücker Straße 2  <br>
+{:.brewery}
 
 
 ##### Ransbach-Baumbach 
 
 
-Privatbrauerei Fohr - 1676  {.brewery}  <br>
+Privatbrauerei Fohr - 1676  <br>
 56235 Ransbach-Baumbach // An der Brauerei  <br>
-[www.fohr.de](http://www.fohr.de) 
-
+[www.fohr.de](http://www.fohr.de)  <br>
+{:.brewery}
 
 
 ##### Remagen 
 
 
-Brauhaus Remagen -   {.brewery}  <br>
+Brauhaus Remagen -   <br>
 53424 Remagen // Rheinpromenade 44  <br>
-[www.brauhaus-remagen.de](http://www.brauhaus-remagen.de) 
-
+[www.brauhaus-remagen.de](http://www.brauhaus-remagen.de)  <br>
+{:.brewery}
 
 
 ##### Trier 
 
 
-Kraft Bräu (1. Trierer Hausbrauerei) - 1998  {.brewery}  <br>
+Kraft Bräu (1. Trierer Hausbrauerei) - 1998  <br>
 54295 Trier // Olewiger Straße 135  <br>
-[www.kraftbraeu.de](http://www.kraftbraeu.de) 
-
+[www.kraftbraeu.de](http://www.kraftbraeu.de)  <br>
+{:.brewery}
 
 
 ##### Winnweiler 
 
 
-Privatbrauerei Bischoff - 1866  {.brewery}  <br>
+Privatbrauerei Bischoff - 1866  <br>
 67722 Winnweiler // An den Hopfengärten 6  <br>
-[www.bischoff-bier.de](http://www.bischoff-bier.de) 
+[www.bischoff-bier.de](http://www.bischoff-bier.de)  <br>
+{:.brewery}
+
+
+
+
+
+### Saarland _(0)_{:.count} {#sl}
 
 
 
 
 
 
-### Saarland (0) {#sl}
+### Sachsen [Saxony] _(28)_{:.count} {#sn}
 
-
-
-
-
-
-### Sachsen [Saxony] (28) {#sn}
-
-[Bautzen](#bautzen) • [Chemnitz](#chemnitz) • [Coswig](#coswig) • [Dresden](#dresden) (3) • [Ehrenfriedersdorf](#ehrenfriedersdorf) • [Eibau](#eibau) • [Freiberg](#freiberg) • [Gersdorf](#gersdorf) • [Großröhrsdorf](#grossroehrsdorf) • [Görlitz](#goerlitz) • [Krostitz](#krostitz) • [Leipzig](#leipzig) (3) • [Löbau](#loebau) • [Meißen](#meissen) • [Penig](#penig) • [Pirna-Copitz](#pirnacopitz) • [Plauen](#plauen) • [Radeberg](#radeberg) • [Rechenberg-Bienenmühle](#rechenbergbienenmuehle) • [Scheibenberg-Oberscheibe](#scheibenbergoberscheibe) • [Torgau](#torgau) • [Wernesgrün](#wernesgruen) • [Wittichenau](#wittichenau) • [Zwickau](#zwickau)
+[Bautzen](#bautzen) • [Chemnitz](#chemnitz) • [Coswig](#coswig) • [Dresden](#dresden) _(3)_{:.count} • [Ehrenfriedersdorf](#ehrenfriedersdorf) • [Eibau](#eibau) • [Freiberg](#freiberg) • [Gersdorf](#gersdorf) • [Großröhrsdorf](#grossroehrsdorf) • [Görlitz](#goerlitz) • [Krostitz](#krostitz) • [Leipzig](#leipzig) _(3)_{:.count} • [Löbau](#loebau) • [Meißen](#meissen) • [Penig](#penig) • [Pirna-Copitz](#pirnacopitz) • [Plauen](#plauen) • [Radeberg](#radeberg) • [Rechenberg-Bienenmühle](#rechenbergbienenmuehle) • [Scheibenberg-Oberscheibe](#scheibenbergoberscheibe) • [Torgau](#torgau) • [Wernesgrün](#wernesgruen) • [Wittichenau](#wittichenau) • [Zwickau](#zwickau)
 
 ##### Bautzen 
 
 
-Bautzener Brauerei - 1847  {.brewery}  <br>
-Bautzen // 
+Bautzener Brauerei - 1847  <br>
+Bautzen //  <br>
+{:.brewery}
 
 
 ##### Chemnitz 
 
 
-Braustolz - 1868  {.brewery}  <br>
-Chemnitz // 
+Braustolz - 1868  <br>
+Chemnitz //  <br>
+{:.brewery}
 
 
 ##### Coswig 
 
 
-Adler Brauerei Coswig -   {.brewery}  <br>
+Adler Brauerei Coswig -   <br>
 Coswig //  <br>
-[www.adler-brauerei-coswig.de](http://www.adler-brauerei-coswig.de) 
+[www.adler-brauerei-coswig.de](http://www.adler-brauerei-coswig.de)  <br>
+{:.brewery}
 
 
+##### Dresden  _(3)_{:.count} 
 
-##### Dresden  (3) 
 
-
-Feldschlößchen -   {.brewery}  <br>
+Feldschlößchen -   <br>
 Dresden //  <br>
-[www.feldschloesschen.de](http://www.feldschloesschen.de) 
+[www.feldschloesschen.de](http://www.feldschloesschen.de)  <br>
+{:.brewery}
 
 
-
-Hausbrauerei Laubegast -   {.brewery}  <br>
+Hausbrauerei Laubegast -   <br>
 Dresden //  <br>
-[www.hausbrauerei-laubegast.de](http://www.hausbrauerei-laubegast.de) 
+[www.hausbrauerei-laubegast.de](http://www.hausbrauerei-laubegast.de)  <br>
+{:.brewery}
 
 
-
-Neustädter Hausbrauerei -   {.brewery}  <br>
+Neustädter Hausbrauerei -   <br>
 Dresden //  <br>
-[www.obergaerig.de](http://www.obergaerig.de) 
-
+[www.obergaerig.de](http://www.obergaerig.de)  <br>
+{:.brewery}
 
 
 ##### Ehrenfriedersdorf 
 
 
-Privatbrauerei Specht - 1844  {.brewery}  <br>
-Ehrenfriedersdorf // 
+Privatbrauerei Specht - 1844  <br>
+Ehrenfriedersdorf //  <br>
+{:.brewery}
 
 
 ##### Eibau 
 
 
-Privatbrauerei Eibau - 1810  {.brewery}  <br>
-Eibau // 
+Privatbrauerei Eibau - 1810  <br>
+Eibau //  <br>
+{:.brewery}
 
 
 ##### Freiberg 
 
 
-Freiberger Brauhaus - 1850  {.brewery}  <br>
-Freiberg // 
+Freiberger Brauhaus - 1850  <br>
+Freiberg //  <br>
+{:.brewery}
 
 
 ##### Gersdorf 
 
 
-Glückauf-Brauerei - 1880  {.brewery}  <br>
-Gersdorf // 
+Glückauf-Brauerei - 1880  <br>
+Gersdorf //  <br>
+{:.brewery}
 
 
 ##### Großröhrsdorf 
 
 
-Böhmisch Brauhaus Großröhrsdorf - 1887  {.brewery}  <br>
-Großröhrsdorf // 
+Böhmisch Brauhaus Großröhrsdorf - 1887  <br>
+Großröhrsdorf //  <br>
+{:.brewery}
 
 
 ##### Görlitz 
 
 
-Landskron Brauerei Görlitz - 1869  {.brewery}  <br>
-Görlitz // 
+Landskron Brauerei Görlitz - 1869  <br>
+Görlitz //  <br>
+{:.brewery}
 
 
 ##### Krostitz 
 
 
-Krostitzer Brauerei - 1534  {.brewery}  <br>
-Krostitz // 
+Krostitzer Brauerei - 1534  <br>
+Krostitz //  <br>
+{:.brewery}
 
 
-##### Leipzig  (3) 
+##### Leipzig  _(3)_{:.count} 
 
 
-Leipziger Brauhaus zu Reudnitz -   {.brewery}  <br>
-04317 Leipzig // Mühlstraße 13 
+Leipziger Brauhaus zu Reudnitz -   <br>
+04317 Leipzig // Mühlstraße 13  <br>
+{:.brewery}
 
 
-Bayerischer Bahnhof -   {.brewery}  <br>
+Bayerischer Bahnhof -   <br>
 Leipzig //  <br>
-[www.bayerischer-bahnhof.de](http://www.bayerischer-bahnhof.de) 
+[www.bayerischer-bahnhof.de](http://www.bayerischer-bahnhof.de)  <br>
+{:.brewery}
 
 
-
-Brauerei an der Thomaskirche -   {.brewery}  <br>
+Brauerei an der Thomaskirche -   <br>
 Leipzig //  <br>
-[www.brauhaus-thomaskirche.de](http://www.brauhaus-thomaskirche.de) 
-
+[www.brauhaus-thomaskirche.de](http://www.brauhaus-thomaskirche.de)  <br>
+{:.brewery}
 
 
 ##### Löbau 
 
 
-Bergquell-Brauerei Löbau - 1846  {.brewery}  <br>
-Löbau // 
+Bergquell-Brauerei Löbau - 1846  <br>
+Löbau //  <br>
+{:.brewery}
 
 
 ##### Meißen 
 
 
-Privatbrauerei Schwerter Meißen - 1460  {.brewery}  <br>
-Meißen // 
+Privatbrauerei Schwerter Meißen - 1460  <br>
+Meißen //  <br>
+{:.brewery}
 
 
 ##### Penig 
 
 
-Peniger Spezialitäten Brauerei - 1706  {.brewery}  <br>
-Penig // 
+Peniger Spezialitäten Brauerei - 1706  <br>
+Penig //  <br>
+{:.brewery}
 
 
 ##### Pirna-Copitz 
 
 
-Brauhaus Pirna -   {.brewery}  <br>
+Brauhaus Pirna -   <br>
 Pirna-Copitz //  <br>
-[www.brauhaus-pirna.de](http://www.brauhaus-pirna.de) 
-
+[www.brauhaus-pirna.de](http://www.brauhaus-pirna.de)  <br>
+{:.brewery}
 
 
 ##### Plauen 
 
 
-Sternquell-Brauerei - 1857  {.brewery}  <br>
-Plauen // 
+Sternquell-Brauerei - 1857  <br>
+Plauen //  <br>
+{:.brewery}
 
 
 ##### Radeberg 
 
 
-Radeberger Exportbierbrauerei - 1872  {.brewery}  <br>
-Radeberg // 
+Radeberger Exportbierbrauerei - 1872  <br>
+Radeberg //  <br>
+{:.brewery}
 
 
 ##### Rechenberg-Bienenmühle 
 
 
-Private Traditionsbrauerei Meyer -   {.brewery}  <br>
+Private Traditionsbrauerei Meyer -   <br>
 Rechenberg-Bienenmühle //  <br>
-[www.rechenberger.com](http://www.rechenberger.com) 
-
+[www.rechenberger.com](http://www.rechenberger.com)  <br>
+{:.brewery}
 
 
 ##### Scheibenberg-Oberscheibe 
 
 
-Privatbrauerei Christian Fiedler - 1813  {.brewery}  <br>
-Scheibenberg-Oberscheibe // 
+Privatbrauerei Christian Fiedler - 1813  <br>
+Scheibenberg-Oberscheibe //  <br>
+{:.brewery}
 
 
 ##### Torgau 
 
 
-Neue Torgauer Brauhaus -   {.brewery}  <br>
+Neue Torgauer Brauhaus -   <br>
 Torgau //  <br>
-[www.torgauer.de](http://www.torgauer.de) 
-
+[www.torgauer.de](http://www.torgauer.de)  <br>
+{:.brewery}
 
 
 ##### Wernesgrün 
 
 
-Wernesgrüner Brauerei -   {.brewery}  <br>
+Wernesgrüner Brauerei -   <br>
 Wernesgrün //  <br>
-[www.wernesgruener.de](http://www.wernesgruener.de) 
-
+[www.wernesgruener.de](http://www.wernesgruener.de)  <br>
+{:.brewery}
 
 
 ##### Wittichenau 
 
 
-Stadtbrauerei Wittichenau - 1356  {.brewery}  <br>
-Wittichenau // 
+Stadtbrauerei Wittichenau - 1356  <br>
+Wittichenau //  <br>
+{:.brewery}
 
 
 ##### Zwickau 
 
 
-Mauritius Brauerei Zwickau - 1859  {.brewery}  <br>
-Zwickau // 
+Mauritius Brauerei Zwickau - 1859  <br>
+Zwickau //  <br>
+{:.brewery}
 
 
 
 
 
-### Sachsen-Anhalt [Saxony-Anhalt] (10) {#st}
+### Sachsen-Anhalt [Saxony-Anhalt] _(10)_{:.count} {#st}
 
 [Bitterfeld-Wolfen](#bitterfeldwolfen) • [Gardelegen](#gardelegen) • [Köthen](#koethen) • [Landsberg](#landsberg) • [Lutherstadt Wittenberg](#lutherstadtwittenberg) • [Magdeburg](#magdeburg) • [Neuendorf](#neuendorf) • [Sangerhausen / Wippra](#sangerhausenwippra) • [Schkopau OT Röglitz](#schkopauotroeglitz) • [Wernigerode](#wernigerode)
 
 ##### Bitterfeld-Wolfen 
 
 
-Bitterfelder Brauerei - 1880  {.brewery}  <br>
-Bitterfeld-Wolfen // 
+Bitterfelder Brauerei - 1880  <br>
+Bitterfeld-Wolfen //  <br>
+{:.brewery}
 
 
 ##### Gardelegen 
 
 
-Garley Traditionsbrauhaus - 1314  {.brewery}  <br>
-Gardelegen // 
+Garley Traditionsbrauhaus - 1314  <br>
+Gardelegen //  <br>
+{:.brewery}
 
 
 ##### Köthen 
 
 
-Köthener Brauerei - 1861  {.brewery}  <br>
-Köthen // 
+Köthener Brauerei - 1861  <br>
+Köthen //  <br>
+{:.brewery}
 
 
 ##### Landsberg 
 
 
-Brauerei Landsberg - 1996  {.brewery}  <br>
-Landsberg // 
+Brauerei Landsberg - 1996  <br>
+Landsberg //  <br>
+{:.brewery}
 
 
 ##### Lutherstadt Wittenberg 
 
 
-Brauhaus Wittenberg -   {.brewery}  <br>
+Brauhaus Wittenberg -   <br>
 Lutherstadt Wittenberg //  <br>
-[www.brauhaus-wittenberg.de](http://www.brauhaus-wittenberg.de) 
-
+[www.brauhaus-wittenberg.de](http://www.brauhaus-wittenberg.de)  <br>
+{:.brewery}
 
 
 ##### Magdeburg 
 
 
-Diamant Brauhaus -   {.brewery}  <br>
+Diamant Brauhaus -   <br>
 Magdeburg //  <br>
-[www.diamant-brauhaus.de](http://www.diamant-brauhaus.de) 
-
+[www.diamant-brauhaus.de](http://www.diamant-brauhaus.de)  <br>
+{:.brewery}
 
 
 ##### Neuendorf 
 
 
-Demmert-Bräu -   {.brewery}  <br>
+Demmert-Bräu -   <br>
 Neuendorf //  <br>
-[www.demmert-brauerei.de](http://www.demmert-brauerei.de) 
-
+[www.demmert-brauerei.de](http://www.demmert-brauerei.de)  <br>
+{:.brewery}
 
 
 ##### Sangerhausen / Wippra 
 
 
-Museums- und Traditionsbrauerei Wippra -   {.brewery}  <br>
+Museums- und Traditionsbrauerei Wippra -   <br>
 Sangerhausen / Wippra //  <br>
-[www.wippra-bier.de](http://www.wippra-bier.de) 
-
+[www.wippra-bier.de](http://www.wippra-bier.de)  <br>
+{:.brewery}
 
 
 ##### Schkopau OT Röglitz 
 
 
-Brauhaus zu Röglitz - 2010  {.brewery}  <br>
-Schkopau OT Röglitz // 
+Brauhaus zu Röglitz - 2010  <br>
+Schkopau OT Röglitz //  <br>
+{:.brewery}
 
 
 ##### Wernigerode 
 
 
-Hasseröder Brauerei -   {.brewery}  <br>
+Hasseröder Brauerei -   <br>
 Wernigerode //  <br>
-[www.hasseroeder.de](http://www.hasseroeder.de) 
+[www.hasseroeder.de](http://www.hasseroeder.de)  <br>
+{:.brewery}
 
 
 
 
 
+### Schleswig-Holstein _(13)_{:.count} {#sh}
 
-### Schleswig-Holstein (13) {#sh}
-
-[Eutin](#eutin) • [Flensburg](#flensburg) (3) • [Husum](#husum) • [Kiel](#kiel) (2) • [Lübeck](#luebeck) • [Marne](#marne) • [Neustadt in Holstein](#neustadtinholstein) • [Rickling](#rickling) • [Schenefeld](#schenefeld) • [Schillsdorf](#schillsdorf)
+[Eutin](#eutin) • [Flensburg](#flensburg) _(3)_{:.count} • [Husum](#husum) • [Kiel](#kiel) _(2)_{:.count} • [Lübeck](#luebeck) • [Marne](#marne) • [Neustadt in Holstein](#neustadtinholstein) • [Rickling](#rickling) • [Schenefeld](#schenefeld) • [Schillsdorf](#schillsdorf)
 
 ##### Eutin 
 
 
-Brauhaus Eutin -   {.brewery}  <br>
+Brauhaus Eutin -   <br>
 Eutin //  <br>
-[www.brauhaus-eutin.de](http://www.brauhaus-eutin.de) 
+[www.brauhaus-eutin.de](http://www.brauhaus-eutin.de)  <br>
+{:.brewery}
 
 
+##### Flensburg  _(3)_{:.count} 
 
-##### Flensburg  (3) 
 
-
-Flensburger Brauerei - 1888  {.brewery}  <br>
+Flensburger Brauerei - 1888  <br>
 Flensburg //  <br>
-[www.flens.de](http://www.flens.de) 
+[www.flens.de](http://www.flens.de)  <br>
+{:.brewery}
 
 
-
-Westindien Compagnie -   {.brewery}  <br>
+Westindien Compagnie -   <br>
 24939 Flensburg // Brauereiweg 21  <br>
-[www.westindien.com](http://www.westindien.com) 
+[www.westindien.com](http://www.westindien.com)  <br>
+{:.brewery}
 
 
-
-Hansens Brauerei -   {.brewery}  <br>
+Hansens Brauerei -   <br>
 Flensburg //  <br>
-[www.hansensbrauerei.de](http://www.hansensbrauerei.de) 
-
+[www.hansensbrauerei.de](http://www.hansensbrauerei.de)  <br>
+{:.brewery}
 
 
 ##### Husum 
 
 
-Husums Brauhaus -   {.brewery}  <br>
+Husums Brauhaus -   <br>
 Husum //  <br>
-[www.husums-brauhaus.de](http://www.husums-brauhaus.de) 
+[www.husums-brauhaus.de](http://www.husums-brauhaus.de)  <br>
+{:.brewery}
 
 
+##### Kiel  _(2)_{:.count} 
 
-##### Kiel  (2) 
 
-
-Kieler Brauerei am Alten Markt - 1988  {.brewery}  <br>
+Kieler Brauerei am Alten Markt - 1988  <br>
 24103 Kiel // Alter Markt 9  <br>
-[www.kieler-brauerei.de](http://www.kieler-brauerei.de) 
+[www.kieler-brauerei.de](http://www.kieler-brauerei.de)  <br>
+{:.brewery}
 
 
-
-Bartels-Langness -   {.brewery}  <br>
+Bartels-Langness -   <br>
 Kiel //  <br>
-[www.hofgut-gutes-essen.de](http://www.hofgut-gutes-essen.de) 
-
+[www.hofgut-gutes-essen.de](http://www.hofgut-gutes-essen.de)  <br>
+{:.brewery}
 
 
 ##### Lübeck 
 
 
-Brauberger zu Lübeck - 1450  {.brewery}  <br>
-Lübeck // 
+Brauberger zu Lübeck - 1450  <br>
+Lübeck //  <br>
+{:.brewery}
 
 
 ##### Marne 
 
 
-Dithmarscher Brauerei -   {.brewery}  <br>
+Dithmarscher Brauerei -   <br>
 Marne //  <br>
-[www.dithmarscher.de](http://www.dithmarscher.de) 
-
+[www.dithmarscher.de](http://www.dithmarscher.de)  <br>
+{:.brewery}
 
 
 ##### Neustadt in Holstein 
 
 
-Klüver's Brauhaus -   {.brewery}  <br>
+Klüver's Brauhaus -   <br>
 Neustadt in Holstein //  <br>
-[www.kluevers-brauhaus.de](http://www.kluevers-brauhaus.de) 
-
+[www.kluevers-brauhaus.de](http://www.kluevers-brauhaus.de)  <br>
+{:.brewery}
 
 
 ##### Rickling 
 
 
-Ricklinger Landbrauerei (Zur Alten Försterei) -   {.brewery}  <br>
+Ricklinger Landbrauerei (Zur Alten Försterei) -   <br>
 24635 Rickling // Grüner Weg 1  <br>
-[www.ricklinger-landbrauerei.de](http://www.ricklinger-landbrauerei.de) 
-
+[www.ricklinger-landbrauerei.de](http://www.ricklinger-landbrauerei.de)  <br>
+{:.brewery}
 
 
 ##### Schenefeld 
 
 
-Hannen Brauerei -   {.brewery}  <br>
+Hannen Brauerei -   <br>
 Schenefeld //  <br>
-[www.hannen.de](http://www.hannen.de) 
-
+[www.hannen.de](http://www.hannen.de)  <br>
+{:.brewery}
 
 
 ##### Schillsdorf 
 
 
-Landbrauerei Kirschenholz -   {.brewery}  <br>
+Landbrauerei Kirschenholz -   <br>
 24637 Schillsdorf // Hauptstraße 4  <br>
-[www.kirschenholz.de](http://www.kirschenholz.de) 
+[www.kirschenholz.de](http://www.kirschenholz.de)  <br>
+{:.brewery}
 
 
 
 
 
+### Thüringen [Thuringia] _(15)_{:.count} {#th}
 
-### Thüringen [Thuringia] (15) {#th}
-
-[Altenburg](#altenburg) • [Apolda](#apolda) • [Bad Blankenburg](#badblankenburg) • [Bad Köstritz](#badkoestritz) • [Dingsleben](#dingsleben) • [Eisenach](#eisenach) • [Erfurt](#erfurt) (2) • [Greiz](#greiz) • [Kaltennordheim](#kaltennordheim) • [Leinefelde-Worbis](#leinefeldeworbis) • [Meiningen](#meiningen) • [Pößneck](#poessneck) • [Saalfeld](#saalfeld) • [Sonneberg](#sonneberg)
+[Altenburg](#altenburg) • [Apolda](#apolda) • [Bad Blankenburg](#badblankenburg) • [Bad Köstritz](#badkoestritz) • [Dingsleben](#dingsleben) • [Eisenach](#eisenach) • [Erfurt](#erfurt) _(2)_{:.count} • [Greiz](#greiz) • [Kaltennordheim](#kaltennordheim) • [Leinefelde-Worbis](#leinefeldeworbis) • [Meiningen](#meiningen) • [Pößneck](#poessneck) • [Saalfeld](#saalfeld) • [Sonneberg](#sonneberg)
 
 ##### Altenburg 
 
 
-Altenburger Brauerei - 1871  {.brewery}  <br>
+Altenburger Brauerei - 1871  <br>
 04600 Altenburg // Brauereistraße 20  <br>
-[www.brauerei-altenburg.de](http://www.brauerei-altenburg.de) 
-
+[www.brauerei-altenburg.de](http://www.brauerei-altenburg.de)  <br>
+{:.brewery}
 
 
 ##### Apolda 
 
 
-Vereinsbrauerei Apolda - 1887  {.brewery}  <br>
+Vereinsbrauerei Apolda - 1887  <br>
 99510 Apolda // Topfmarkt 14  <br>
-[www.brauerei-apolda.de](http://www.brauerei-apolda.de) 
-
+[www.brauerei-apolda.de](http://www.brauerei-apolda.de)  <br>
+{:.brewery}
 
 
 ##### Bad Blankenburg 
 
 
-Watzdorfer Traditions- und Spezialitätenbrauerei - 1411  {.brewery}  <br>
-Bad Blankenburg // 
+Watzdorfer Traditions- und Spezialitätenbrauerei - 1411  <br>
+Bad Blankenburg //  <br>
+{:.brewery}
 
 
 ##### Bad Köstritz 
 
 
-Köstritzer Schwarzbierbrauerei - 1543  {.brewery}  <br>
+Köstritzer Schwarzbierbrauerei - 1543  <br>
 07586 Bad Köstritz // Heinrich-Schütz-Straße 16  <br>
-[www.koestritzer.de](http://www.koestritzer.de) 
-
+[www.koestritzer.de](http://www.koestritzer.de)  <br>
+{:.brewery}
 
 
 ##### Dingsleben 
 
 
-Privatbrauerei Metzler -   {.brewery}  <br>
+Privatbrauerei Metzler -   <br>
 Dingsleben //  <br>
-[www.dingslebener.de](http://www.dingslebener.de) 
-
+[www.dingslebener.de](http://www.dingslebener.de)  <br>
+{:.brewery}
 
 
 ##### Eisenach 
 
 
-Eisenacher Brauerei - 1828  {.brewery}  <br>
-Eisenach // 
+Eisenacher Brauerei - 1828  <br>
+Eisenach //  <br>
+{:.brewery}
 
 
-##### Erfurt  (2) 
+##### Erfurt  _(2)_{:.count} 
 
 
-Waldhaus -   {.brewery}  <br>
+Waldhaus -   <br>
 Erfurt //  <br>
-[www.waldhaus-erfurt.de](http://www.waldhaus-erfurt.de) 
+[www.waldhaus-erfurt.de](http://www.waldhaus-erfurt.de)  <br>
+{:.brewery}
 
 
-
-Braugold - 1888  {.brewery}  <br>
-Erfurt // 
+Braugold - 1888  <br>
+Erfurt //  <br>
+{:.brewery}
 
 
 ##### Greiz 
 
 
-Vereinsbrauerei Greiz - 1872  {.brewery}  <br>
-Greiz // 
+Vereinsbrauerei Greiz - 1872  <br>
+Greiz //  <br>
+{:.brewery}
 
 
 ##### Kaltennordheim 
 
 
-Rhönbrauerei Dittmar -   {.brewery}  <br>
+Rhönbrauerei Dittmar -   <br>
 Kaltennordheim //  <br>
-[www.rhoenbrauerei.de](http://www.rhoenbrauerei.de) 
-
+[www.rhoenbrauerei.de](http://www.rhoenbrauerei.de)  <br>
+{:.brewery}
 
 
 ##### Leinefelde-Worbis 
 
 
-Brauerei Neunspringe Worbis - 1867  {.brewery}  <br>
-Leinefelde-Worbis // 
+Brauerei Neunspringe Worbis - 1867  <br>
+Leinefelde-Worbis //  <br>
+{:.brewery}
 
 
 ##### Meiningen 
 
 
-Meininger Privatbrauerei - 1841  {.brewery}  <br>
-Meiningen // 
+Meininger Privatbrauerei - 1841  <br>
+Meiningen //  <br>
+{:.brewery}
 
 
 ##### Pößneck 
 
 
-Rosenbrauerei Pößneck - 1445  {.brewery}  <br>
+Rosenbrauerei Pößneck - 1445  <br>
 07381 Pößneck // Dr.-Wilhelm-Külz-Straße 41  <br>
-[www.rosenbrauerei.de](http://www.rosenbrauerei.de) 
-
+[www.rosenbrauerei.de](http://www.rosenbrauerei.de)  <br>
+{:.brewery}
 
 
 ##### Saalfeld 
 
 
-Bürgerliches Brauhaus Saalfeld - 1892  {.brewery}  <br>
+Bürgerliches Brauhaus Saalfeld - 1892  <br>
 07318 Saalfeld // Pößnecker Straße 55  <br>
-[www.brauhaus-saalfeld.de](http://www.brauhaus-saalfeld.de) 
-
+[www.brauhaus-saalfeld.de](http://www.brauhaus-saalfeld.de)  <br>
+{:.brewery}
 
 
 ##### Sonneberg 
 
 
-Privatbrauerei Gessner - 1622  {.brewery}  <br>
-Sonneberg // 
+Privatbrauerei Gessner - 1622  <br>
+Sonneberg //  <br>
+{:.brewery}
 
 
 

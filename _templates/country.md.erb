@@ -28,7 +28,7 @@ title: <%= country.title %> (<%= country.code %>)
 <% breweries_missing_regions = country.breweries.where( 'region_id is null' ) %>
 <% if breweries_missing_regions.count > 0 %>
 
-### Uncategorized (<%= breweries_missing_regions.count %>)
+### Uncategorized _(<%= breweries_missing_regions.count %>)_{:.count}
 
   <%= render_breweries( breweries_missing_regions ) %>
 <% end %>
@@ -38,7 +38,7 @@ title: <%= country.title %> (<%= country.code %>)
 <% country.regions.each do |region| %>
 
 ### <%= region.title_w_synonyms %>  ++
-    (<%= region.breweries.count %>) ++
+    _(<%= region.breweries.count %>)_{:.count} ++
     {#<%= region.key %>}
 
  .. <!-- add intra-page cities for regions links here -->
@@ -50,7 +50,8 @@ title: <%= country.title %> (<%= country.code %>)
 <% uncategorized_breweries = region.breweries.where( 'city_id is null' ) %>
 <% if uncategorized_breweries.count > 0 %>
 
-##### Uncategorized (<%= uncategorized_breweries.count %>)
+.. <!-- fix: use count helper -->
+##### Uncategorized _(<%= uncategorized_breweries.count %>)_{:.count}
 
   <%= render_breweries( uncategorized_breweries ) %>
 <% end %>

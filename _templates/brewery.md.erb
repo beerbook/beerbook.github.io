@@ -1,11 +1,17 @@
 ..
 
-<%= brewery.title %> - <%= brewery.founded %> <%#= render_brewery_tags( brewery ) %> ++
-  {.brewery}  <br>
-<%= brewery.address %> ++
-<% if brewery.web.present? %> <br>
-  <%= link_to brewery.web, "http://#{brewery.web}" %> <!-- fix: use link_to_brewery_website -->
+<%= brewery.title %> - <%= brewery.founded %> <%#= render_brewery_tags( brewery ) %> <br>
+<% if brewery.address.present? %>
+  <%= brewery.address %>  <br>
 <% end %>
+<% if brewery.web.present? %>
+  <%= link_to brewery.web, "http://#{brewery.web}" %>  <br><!-- fix: use link_to_brewery_website -->
+<% end %>
+{:.brewery}
 
-<%= render_beers( brewery.beers ) %>
-
+<% if brewery.beers.count > 0 %>
+  .. <!-- fix: make sure render_beers ends with a newline? why? why not?? -->
+  .. <!--  do all render_xxx return a line e.g. ending with newline or just a string (span) without newline??? -->
+  <%= render_beers( brewery.beers ) %>
+  {:.beers}
+<% end %>

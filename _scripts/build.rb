@@ -20,6 +20,7 @@ require 'logutils/db'
 
 require_relative 'helpers/link'
 require_relative 'helpers/markdown'
+require_relative 'helpers/navbar'
 require_relative 'helpers/part'
 
 

@@ -2,6 +2,6 @@
 ..
 
 ##### <%= city.title %>  ++
-      <% if city.breweries.count > 1 then %> (<%= city.breweries.count %>) <% end %>
+      <% if city.breweries.count > 1 then %> _(<%= city.breweries.count %>)_{:.count} <% end %>
 
 <%= render_breweries( city.breweries ) %>
