@@ -3,13 +3,13 @@ layout: default
 title: <%= country.title %> (<%= country.code %>)
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Philippines (PHI) - 2 Beers, 0 Breweries {#ph}
 
 
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+San Miguel Dark   • San Miguel Pale Pilsen  
 
 
 

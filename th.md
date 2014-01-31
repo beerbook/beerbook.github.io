@@ -3,13 +3,13 @@ layout: default
 title: <%= country.title %> (<%= country.code %>)
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Thailand (THA) - 2 Beers, 0 Breweries {#th}
 
 
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+Singha   • Chang  
 
 
 

@@ -3,13 +3,13 @@ layout: default
 title: <%= country.title %> (<%= country.code %>)
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Puerto Rico (PUR) - 1 Beers, 0 Breweries {#pr}
 
 
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+Medalla Light  
 
 
 

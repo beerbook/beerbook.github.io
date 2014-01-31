@@ -3,13 +3,13 @@ layout: default
 title: <%= country.title %> (<%= country.code %>)
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Peru (PER) - 2 Beers, 0 Breweries {#pe}
 
 
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+Cusqueña   • Cusqueña Malta  
 
 
 

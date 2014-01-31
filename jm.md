@@ -3,13 +3,13 @@ layout: default
 title: <%= country.title %> (<%= country.code %>)
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Jamaica (JAM) - 2 Beers, 0 Breweries {#jm}
 
 
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+Dragon Stout   • Red Stripe  
 
 
 

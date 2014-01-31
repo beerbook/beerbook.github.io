@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Croatia (CRO)
+title: <%= country.title %> (<%= country.code %>)
 ---
 
-
-## Croatia (CRO) - 3 Beers, 0 Breweries
+## Croatia (CRO) - 3 Beers, 0 Breweries {#hr}
 
 
 

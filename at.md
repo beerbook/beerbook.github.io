@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Austria (AUT)
+title: <%= country.title %> (<%= country.code %>)
 ---
 
+## Austria (AUT) - 215 Beers, 88 Breweries {#at}
 
-## Austria (AUT) - 215 Beers, 88 Breweries
-
-[Burgenland](#b) _(2)_{:.count} • [Niederösterreich [Lower Austria]](#n) _(19)_{:.count} • [Wien [Vienna]](#w) _(1)_{:.count} • [Steiermark [Styria]](#st) _(15)_{:.count} • [Kärnten [Carinthia]](#k) _(5)_{:.count} • [Oberösterreich [Upper Austria]](#o) _(28)_{:.count} • [Salzburg](#s) _(6)_{:.count} • [Tirol [Tyrol]](#t) _(8)_{:.count} • [Vorarlberg](#v) _(4)_{:.count}
+[Burgenland](#at-b) _(2)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(19)_{:.count} • [Wien [Vienna]](#at-w) _(1)_{:.count} • [Steiermark [Styria]](#at-st) _(15)_{:.count} • [Kärnten [Carinthia]](#at-k) _(5)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(28)_{:.count} • [Salzburg](#at-s) _(6)_{:.count} • [Tirol [Tyrol]](#at-t) _(8)_{:.count} • [Vorarlberg](#at-v) _(4)_{:.count}
 
 ### Uncategorized Beers
 
@@ -15,7 +14,7 @@ Fiaker Bräu Bock Hell   • Fiaker Bräu Märzen   • Fiaker Bräu Pils   • 
 
 
 
-### Burgenland _(2)_{:.count} {#b}
+### Burgenland _(2)_{:.count} {#at-b}
 
 [Gols](#gols) • [Kobersdorf](#kobersdorf)
 
@@ -42,7 +41,7 @@ Kobersdorfer Schlossbräu -   <br>
 
 
 
-### Niederösterreich [Lower Austria] _(19)_{:.count} {#n}
+### Niederösterreich [Lower Austria] _(19)_{:.count} {#at-n}
 
 [Brunn am Gebirge](#brunnamgebirge) • [Gablitz](#gablitz) • [Gaming](#gaming) _(2)_{:.count} • [Hainfeld](#hainfeld) • [Korneuburg](#korneuburg) • [Krumbach](#krumbach) • [Laa/Thaya](#laathaya) • [Schottwien](#schottwien) • [Schrems](#schrems) • [Schwechat](#schwechat) • [Thernberg](#thernberg) • [Unterradlberg](#unterradlberg) • [Untersiebenbrunn](#untersiebenbrunn) • [Warth](#warth) • [Weitra](#weitra) • [Wieselburg](#wieselburg) • [Winzendorf](#winzendorf) • [Zwettl](#zwettl)
 
@@ -242,7 +241,7 @@ Zwettler Original   • Zwettler Export Lager   • Zwettler Pils   • Zwettler
 
 
 
-### Wien [Vienna] _(1)_{:.count} {#w}
+### Wien [Vienna] _(1)_{:.count} {#at-w}
 
 
 
@@ -260,7 +259,7 @@ Ottakringer Helles   • Ottakringer Gold Fassl Spezial   • Ottakringer (Gold 
 
 
 
-### Steiermark [Styria] _(15)_{:.count} {#st}
+### Steiermark [Styria] _(15)_{:.count} {#at-st}
 
 [Bad Radkersburg](#badradkersburg) • [Ebersdorf](#ebersdorf) • [Eisenerz](#eisenerz) • [Fürstenfeld](#fuerstenfeld) • [Graz](#graz) • [Göss/Leoben](#goessleoben) • [Kaindorf](#kaindorf) • [Kalsdorf](#kalsdorf) • [Leutschach](#leutschach) • [Murau](#murau) • [Schladming](#schladming) • [St. Marein](#stmarein) • [St. Nikolai i. S.](#stnikolaiis) • [Weinburg](#weinburg) • [Wundschuh](#wundschuh)
 
@@ -419,7 +418,7 @@ Herzog Hofbräu -   <br>
 
 
 
-### Kärnten [Carinthia] _(5)_{:.count} {#k}
+### Kärnten [Carinthia] _(5)_{:.count} {#at-k}
 
 [Klagenfurt](#klagenfurt) • [Kraig](#kraig) • [Kötschach-Mauthen](#koetschachmauthen) • [Micheldorf](#micheldorf) • [Villach](#villach)
 
@@ -479,7 +478,7 @@ Villacher Brauerei (Vereinigte Kärntner Brauereien) -   <br>
 
 
 
-### Oberösterreich [Upper Austria] _(28)_{:.count} {#o}
+### Oberösterreich [Upper Austria] _(28)_{:.count} {#at-o}
 
 [Altheim](#altheim) _(2)_{:.count} • [Ampflwang](#ampflwang) • [Attersee](#attersee) • [Braunau](#braunau) • [Eggelsberg](#eggelsberg) • [Engelhartszell](#engelhartszell) • [Frankenmarkt](#frankenmarkt) _(2)_{:.count} • [Freistadt](#freistadt) • [Grieskirchen](#grieskirchen) • [Linz](#linz) • [Neufelden](#neufelden) • [Neumarkt/Hausruck](#neumarkthausruck) • [Ried/Innkreis](#riedinnkreis) _(2)_{:.count} • [Schlägl](#schlaegl) • [Schwertberg](#schwertberg) • [Schärding](#schaerding) _(2)_{:.count} • [Schörfling (am Attersee)](#schoerfling) • [St. Martin](#stmartin) • [St. Stefan am Walde](#ststefanamwalde) • [Straß (i. Attergau)](#strass) • [Uttendorf](#uttendorf) • [Vorchdorf](#vorchdorf) • [Wilhering](#wilhering) • [Zipf](#zipf)
 
@@ -752,7 +751,7 @@ Zipfer Urtyp   • Zipfer Urtyp Medium   • Zipfer Märzen   • Zipfer Pils   
 
 
 
-### Salzburg _(6)_{:.count} {#s}
+### Salzburg _(6)_{:.count} {#at-s}
 
 [Hallein-Kaltenhausen](#halleinkaltenhausen) • [Obertrum](#obertrum) • [Salzburg](#salzburg) _(4)_{:.count}
 
@@ -814,7 +813,7 @@ Die Weisse Brauerei - 1901  <br>
 
 
 
-### Tirol [Tyrol] _(8)_{:.count} {#t}
+### Tirol [Tyrol] _(8)_{:.count} {#at-t}
 
 [Alpach](#alpach) • [Innsbruck](#innsbruck) • [Lienz](#lienz) • [St. Johann](#stjohann) • [Tarrenz](#tarrenz) • [Unterperfuß/Innsbruck](#unterperfussinnsbruck) • [Vils](#vils) • [Zell am Ziller](#zellamziller)
 
@@ -894,7 +893,7 @@ Zillertal Märzen   • Zillertal Pils   • Zillertal Schwarzes
 
 
 
-### Vorarlberg _(4)_{:.count} {#v}
+### Vorarlberg _(4)_{:.count} {#at-v}
 
 [Bludenz](#bludenz) • [Dornbirn](#dornbirn) • [Egg](#egg) • [Frastanz](#frastanz)
 

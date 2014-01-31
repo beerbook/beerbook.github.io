@@ -3,13 +3,13 @@ layout: default
 title: <%= country.title %> (<%= country.code %>)
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Hungary (HUN) - 3 Beers, 0 Breweries {#hu}
 
 
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+‹Dreher› Classic   • ‹Dreher› Bak   • ‹Soproni›  
 
 
 

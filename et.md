@@ -1,9 +1,16 @@
+---
+layout: default
+title: <%= country.title %> (<%= country.code %>)
+---
+
+## Ethiopia (ETH) - 2 Beers, 0 Breweries {#et}
 
 
-## Ethiopia (ETH) - 2 Beers, 0 Breweries
+
+### Uncategorized Beers
+
+Hakim Stout   • Meta Beer  
 
 
 
-
-
-
+ 

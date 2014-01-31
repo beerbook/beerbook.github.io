@@ -1,12 +1,11 @@
 ---
 layout: default
-title: México [Mexico] (MEX)
+title: <%= country.title %> (<%= country.code %>)
 ---
 
+## México [Mexico] (MEX) - 179 Beers, 45 Breweries {#mx}
 
-## México [Mexico] (MEX) - 179 Beers, 45 Breweries
-
-[Aguascalientes](#ag) _(0)_{:.count} • [Baja California](#bc) _(9)_{:.count} • [Baja California Sur](#bs) _(1)_{:.count} • [Campeche](#cm) _(0)_{:.count} • [Chiapas](#cs) _(0)_{:.count} • [Chihuahua](#ch) _(0)_{:.count} • [Coahuila](#co) _(0)_{:.count} • [Colima](#cl) _(0)_{:.count} • [Distrito Federal](#df) _(6)_{:.count} • [Durango](#dg) _(0)_{:.count} • [Guanajuato](#gt) _(0)_{:.count} • [Guerrero](#gr) _(0)_{:.count} • [Hidalgo](#hg) _(3)_{:.count} • [Jalisco](#ja) _(3)_{:.count} • [México](#me) _(2)_{:.count} • [Michoacán](#mi) _(0)_{:.count} • [Morelos](#mo) _(0)_{:.count} • [Nayarit](#na) _(0)_{:.count} • [Nuevo León](#nl) _(4)_{:.count} • [Oaxaca](#oa) _(2)_{:.count} • [Puebla](#pb) _(2)_{:.count} • [Querétaro](#qe) _(3)_{:.count} • [Quintana Roo](#qr) _(0)_{:.count} • [San Luis Potosí](#sl) _(0)_{:.count} • [Sinaloa](#si) _(1)_{:.count} • [Sonora](#so) _(0)_{:.count} • [Tabasco](#tb) _(0)_{:.count} • [Tamaulipas](#tm) _(0)_{:.count} • [Tlaxcala](#tl) _(0)_{:.count} • [Veracruz](#ve) _(2)_{:.count} • [Yucatán](#yu) _(0)_{:.count} • [Zacatecas](#za) _(0)_{:.count} • **Uncategorized** _(7)_{:.count}
+[Aguascalientes](#mx-ag) _(0)_{:.count} • [Baja California](#mx-bc) _(9)_{:.count} • [Baja California Sur](#mx-bs) _(1)_{:.count} • [Campeche](#mx-cm) _(0)_{:.count} • [Chiapas](#mx-cs) _(0)_{:.count} • [Chihuahua](#mx-ch) _(0)_{:.count} • [Coahuila](#mx-co) _(0)_{:.count} • [Colima](#mx-cl) _(0)_{:.count} • [Distrito Federal](#mx-df) _(6)_{:.count} • [Durango](#mx-dg) _(0)_{:.count} • [Guanajuato](#mx-gt) _(0)_{:.count} • [Guerrero](#mx-gr) _(0)_{:.count} • [Hidalgo](#mx-hg) _(3)_{:.count} • [Jalisco](#mx-ja) _(3)_{:.count} • [México](#mx-me) _(2)_{:.count} • [Michoacán](#mx-mi) _(0)_{:.count} • [Morelos](#mx-mo) _(0)_{:.count} • [Nayarit](#mx-na) _(0)_{:.count} • [Nuevo León](#mx-nl) _(4)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(2)_{:.count} • [Querétaro](#mx-qe) _(3)_{:.count} • [Quintana Roo](#mx-qr) _(0)_{:.count} • [San Luis Potosí](#mx-sl) _(0)_{:.count} • [Sinaloa](#mx-si) _(1)_{:.count} • [Sonora](#mx-so) _(0)_{:.count} • [Tabasco](#mx-tb) _(0)_{:.count} • [Tamaulipas](#mx-tm) _(0)_{:.count} • [Tlaxcala](#mx-tl) _(0)_{:.count} • [Veracruz](#mx-ve) _(2)_{:.count} • [Yucatán](#mx-yu) _(0)_{:.count} • [Zacatecas](#mx-za) _(0)_{:.count} • **Uncategorized** _(7)_{:.count}
 
 ### Uncategorized Beers
 
@@ -57,14 +56,14 @@ Wiesnbier   • Brown Ale   • Porter   • Trippel
 
 
 
-### Aguascalientes _(0)_{:.count} {#ag}
+### Aguascalientes _(0)_{:.count} {#mx-ag}
 
 
 
 
 
 
-### Baja California _(9)_{:.count} {#bc}
+### Baja California _(9)_{:.count} {#mx-bc}
 
 
 
@@ -135,7 +134,7 @@ Kudos Strawberry Wheat   • Kudos Hefeweizen   • Kudos Mild Brown   • Kudos
 
 
 
-### Baja California Sur _(1)_{:.count} {#bs}
+### Baja California Sur _(1)_{:.count} {#mx-bs}
 
 
 
@@ -152,42 +151,42 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 
 
 
-### Campeche _(0)_{:.count} {#cm}
+### Campeche _(0)_{:.count} {#mx-cm}
 
 
 
 
 
 
-### Chiapas _(0)_{:.count} {#cs}
+### Chiapas _(0)_{:.count} {#mx-cs}
 
 
 
 
 
 
-### Chihuahua _(0)_{:.count} {#ch}
+### Chihuahua _(0)_{:.count} {#mx-ch}
 
 
 
 
 
 
-### Coahuila _(0)_{:.count} {#co}
+### Coahuila _(0)_{:.count} {#mx-co}
 
 
 
 
 
 
-### Colima _(0)_{:.count} {#cl}
+### Colima _(0)_{:.count} {#mx-cl}
 
 
 
 
 
 
-### Distrito Federal _(6)_{:.count} {#df}
+### Distrito Federal _(6)_{:.count} {#mx-df}
 
 [México](#mexico) • **Uncategorized** _(5)_{:.count}
 
@@ -243,28 +242,28 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 
 
 
-### Durango _(0)_{:.count} {#dg}
+### Durango _(0)_{:.count} {#mx-dg}
 
 
 
 
 
 
-### Guanajuato _(0)_{:.count} {#gt}
+### Guanajuato _(0)_{:.count} {#mx-gt}
 
 
 
 
 
 
-### Guerrero _(0)_{:.count} {#gr}
+### Guerrero _(0)_{:.count} {#mx-gr}
 
 
 
 
 
 
-### Hidalgo _(3)_{:.count} {#hg}
+### Hidalgo _(3)_{:.count} {#mx-hg}
 
 
 
@@ -294,7 +293,7 @@ Cerveza Benévolo - 2010  <br>
 
 
 
-### Jalisco _(3)_{:.count} {#ja}
+### Jalisco _(3)_{:.count} {#mx-ja}
 
 
 
@@ -319,7 +318,7 @@ Cervecería Ale & Ale -   <br>
 
 
 
-### México _(2)_{:.count} {#me}
+### México _(2)_{:.count} {#mx-me}
 
 
 
@@ -341,28 +340,28 @@ Jack Alebrije   • Jack Stout   • Jack Chocolate Sweet Stout   • Jack Clown
 
 
 
-### Michoacán _(0)_{:.count} {#mi}
+### Michoacán _(0)_{:.count} {#mx-mi}
 
 
 
 
 
 
-### Morelos _(0)_{:.count} {#mo}
+### Morelos _(0)_{:.count} {#mx-mo}
 
 
 
 
 
 
-### Nayarit _(0)_{:.count} {#na}
+### Nayarit _(0)_{:.count} {#mx-na}
 
 
 
 
 
 
-### Nuevo León _(4)_{:.count} {#nl}
+### Nuevo León _(4)_{:.count} {#mx-nl}
 
 [Monterrey](#monterrey) • **Uncategorized** _(3)_{:.count}
 
@@ -397,7 +396,7 @@ Sierra Madre Brewing Co. - 1996  <br>
 
 
 
-### Oaxaca _(2)_{:.count} {#oa}
+### Oaxaca _(2)_{:.count} {#mx-oa}
 
 
 
@@ -420,7 +419,7 @@ Montejo
 
 
 
-### Puebla _(2)_{:.count} {#pb}
+### Puebla _(2)_{:.count} {#mx-pb}
 
 
 
@@ -440,7 +439,7 @@ Cervecería Cholula -   <br>
 
 
 
-### Querétaro _(3)_{:.count} {#qe}
+### Querétaro _(3)_{:.count} {#mx-qe}
 
 
 
@@ -467,21 +466,21 @@ Cervecería Josefa - 2011  <br>
 
 
 
-### Quintana Roo _(0)_{:.count} {#qr}
+### Quintana Roo _(0)_{:.count} {#mx-qr}
 
 
 
 
 
 
-### San Luis Potosí _(0)_{:.count} {#sl}
+### San Luis Potosí _(0)_{:.count} {#mx-sl}
 
 
 
 
 
 
-### Sinaloa _(1)_{:.count} {#si}
+### Sinaloa _(1)_{:.count} {#mx-si}
 
 
 
@@ -498,35 +497,35 @@ Pacifico   • Pacifico Light
 
 
 
-### Sonora _(0)_{:.count} {#so}
+### Sonora _(0)_{:.count} {#mx-so}
 
 
 
 
 
 
-### Tabasco _(0)_{:.count} {#tb}
+### Tabasco _(0)_{:.count} {#mx-tb}
 
 
 
 
 
 
-### Tamaulipas _(0)_{:.count} {#tm}
+### Tamaulipas _(0)_{:.count} {#mx-tm}
 
 
 
 
 
 
-### Tlaxcala _(0)_{:.count} {#tl}
+### Tlaxcala _(0)_{:.count} {#mx-tl}
 
 
 
 
 
 
-### Veracruz _(2)_{:.count} {#ve}
+### Veracruz _(2)_{:.count} {#mx-ve}
 
 
 
@@ -545,14 +544,14 @@ Cerveza Criolla -   <br>
 
 
 
-### Yucatán _(0)_{:.count} {#yu}
+### Yucatán _(0)_{:.count} {#mx-yu}
 
 
 
 
 
 
-### Zacatecas _(0)_{:.count} {#za}
+### Zacatecas _(0)_{:.count} {#mx-za}
 
 
 

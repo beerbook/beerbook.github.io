@@ -3,13 +3,13 @@ layout: default
 title: <%= country.title %> (<%= country.code %>)
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Belarus (BLR) - 3 Beers, 0 Breweries {#by}
 
 
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+Krinitsa Porter   • Olivaria Beloe Zoloto   • Olivaria Porter  
 
 
 
