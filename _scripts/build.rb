@@ -6,15 +6,26 @@
 #   $ ruby _scripts/build.rb
 
 
-# ruby std libs
+# -- ruby std libs
 
 require 'erb'
 
-# 3rd party gems
+# -- 3rd party gems
 
 require 'worlddb'   ### NB: for local testing use rake -I ./lib dev:test e.g. do NOT forget to add -I ./lib
 require 'beerdb'
 require 'logutils/db'
+
+# -- custom code
+
+require_relative 'helpers/link'
+require_relative 'helpers/markdown'
+require_relative 'helpers/part'
+
+
+require_relative 'filters'
+require_relative 'utils'
+
 
 
 puts 'Welcome'
@@ -49,103 +60,22 @@ Country   = WorldDb::Model::Country
 
 
 
-def render_erb_template( tmpl, ctx )
-
-# note: erb offers the following trim modes:
-#  1) <> omit newline for lines starting with <% and ending in %>
-#  2)  >  omit newline for lines ending in %>
-#  3)  omit blank lines ending in -%>
-  ## run filters
-  tmpl = remove_html_comments( tmpl )
-  tmpl = remove_blanks( tmpl )
-  tmpl = remove_leading_spaces( tmpl )
-  tmpl = concat_lines( tmpl )
-
-  text = ERB.new( tmpl, nil, '<>' ).result( ctx )
-
-  ### text = cleanup_newlines( text )
-  text
-end
-
-
-### markdown helpers
-
-def link_to( title, link )
-  "[#{title}](#{link})"
-end
-
-
-
-### filters
-#
-#  todo: move to textutils for reuse !!!
-
-def remove_html_comments( text )
-  text.gsub( /<!--.+?-->/, '' )
-end
-
-def remove_leading_spaces( text )
-  # remove leading spaces if less than four !!!
-  text.gsub( /^[ \t]+(?![ \t])/, '' )    # use negative regex lookahead e.g. (?!)
-end
-
-def remove_blanks( text )
-  # remove lines only with  ..
-  text.gsub( /^[ \t]*\.{2}[ \t]*\n/, '' )
-end
-
-def cleanup_newlines( text )
-  # remove all blank lines that go over three
-  text.gsub( /\n{4,}/, "\n\n\n" )
-end
-
-
-def concat_lines( text )
-  #  lines ending with  ++  will get newlines get removed
-  # e.g.
-  # >|   hello1 ++
-  # >1   hello2
-  #  becomes
-  # >|   hello1 hello2
-  
-  #
-  # note: do NOT use \s - will include \n (newline) ??
-  
-  text.gsub( /[ \t]+\+{2}[ \t]*\n[ \t]*/, ' ' )  # note: replace with single space
-end
-
-
 
 ### generate table of contents (toc)
 
-toc_countries_tmpl = File.read_utf8( '_templates/toc_countries.md.erb' )
+toc_tmpl = File.read_utf8( '_templates/toc.md.erb' )
 country_tmpl       = File.read_utf8( '_templates/country.md.erb' )
 
 
-toc_countries_text = render_erb_template( toc_countries_tmpl, binding )
+toc_text = render_erb_template( toc_tmpl, binding )
 
 
 File.open( 'index.md', 'w+') do |file|
-  file.write toc_countries_text
+  file.write toc_text
 end
 
 
 ### generate pages for countries
-
-
-###
-# part helpers
-
-def render_breweries_table_rows_for_region( region )
-  "<tr>#{region.title}</tr>\n"
-end
-
-
-def render_breweries( breweries )
-  breweries_tmpl       = File.read_utf8( '_templates/breweries.md.erb' )
-  render_erb_template( breweries_tmpl, binding )
-end
-
 
 country_count=0
 Country.where( "key in ('at','mx','hr')" ).each do |country|
@@ -164,7 +94,3 @@ end
 
 
 puts 'Done. Bye.'
-
-
-
-

@@ -1,0 +1,9 @@
+..
+<%= brewery.title %> | <%= brewery.founded %> <%#= render_brewery_tags( brewery ) %> <br>
+<%= brewery.address %> ++
+<% if brewery.web.present? %> <br>
+  <<%= brewery.web %>>
+<% end %>
+
+<%= render_beers( brewery.beers ) %>
+

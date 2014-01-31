@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contents
+title: <%= country.title %>(<%= country.code %>)
 ---
 
 
@@ -10,32 +10,20 @@ title: Contents
    <%= country.beers.count %> Beers, ++
    <%= country.breweries.count %> Breweries
 
- .. <!-- add intra-page links here -->
-<% country.regions.each_with_index do |region,i| %>
-  <%= ' • ' if i > 0 %><%= link_to region.title, "##{region.key}" %> ++
-  (<%= region.breweries.count %>)<%= '' %>
-<% end %>
+ .. <!-- add intra-page links for regions here -->
+ <%= regions_navbar( country.regions ) %>
 
 
 <% country.regions.each do |region| %>
 
 ### <%= region.title_w_synonyms %>  ++
-    (<%= region.breweries.count %>)
+    (<%= region.breweries.count %>) ++
+    {#<%= region.key %>}
 
-<!-- fix: add list of cities here first -->
+ .. <!-- add intra-page cities for regions links here -->
+ <%= cities_navbar( region.cities.order(:title) ) %>
 
-<%#= render_breweries_table_rows_for_region( region ) %>
- 
-<% region.cities.order(:title).each do |city| %>
-  <% city_breweries_count = city.breweries.count %>
-  <% if city_breweries_count > 0 %>
-##### <%= city.title %>  ++
-      <%= "(#{city_breweries_count})" if city_breweries_count > 1 %>
-     ..
-     <%= render_breweries( city.breweries ) %>
-  <% end %>
-<% end %>
-
+ <%= render_cities( region.cities.order(:title) ) %>
 
 
 <% end %> <!-- each region -->

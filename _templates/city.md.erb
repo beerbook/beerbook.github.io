@@ -1,0 +1,7 @@
+..
+..
+
+##### <%= city.title %>  ++
+      <% if city.breweries.count > 1 then %> (<%= city.breweries.count %>) <% end %>
+
+<%= render_breweries( city.breweries ) %>

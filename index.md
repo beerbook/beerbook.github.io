@@ -4,13 +4,13 @@ title: Contents
 ---
 
 
-
 # Contents
 
-[Europe](#uefa) • [South America](#conmebol) • [North America](#concacaf.nafu) • [Central America](#concacaf.uncaf) • [Caribbean](#concacaf.cfu) • [Africa](#caf) • [Middle East](#afc.waff) • [Asia & Australia](#afc) • [Pacific](#ofc) • [Others](#others)
+[Europe](#europe) • [South America](#south-america) • [North America](#north-america) • [Central America](#central-america) • [Caribbean](#caribbean) • [Africa](#africa) • [Middle East](#middle-east) • [Asia & Australia](#asia--australia) • [Pacific](#pacific) • [Others](#others)
 
 
-### Europe  {#uefa}
+
+### Europe  {#europe}
 
 [Albania](al.html) (ALB) - 1 Beers, 0 Breweries <br>
 [Austria](at.html) (AUT) - 215 Beers, 88 Breweries <br>
@@ -52,7 +52,8 @@ title: Contents
 [Ukraine](ua.html) (UKR) - 1 Beers, 0 Breweries <br>
 
 
-### South America  {#conmebol}
+
+### South America  {#south-america}
 
 [Argentina](ar.html) (ARG) - 10 Beers, 1 Breweries <br>
 [Brazil](br.html) (BRA) - 10 Beers, 1 Breweries <br>
@@ -60,18 +61,21 @@ title: Contents
 [Venezuela](ve.html) (VEN) - 1 Beers, 0 Breweries <br>
 
 
-### North America  {#concacaf.nafu}
+
+### North America  {#north-america}
 
 [Canada](ca.html) (CAN) - 7 Beers, 10 Breweries <br>
 [México [Mexico]](mx.html) (MEX) - 179 Beers, 45 Breweries <br>
 [United States](us.html) (USA) - 61 Beers, 138 Breweries <br>
 
 
-### Central America  {#concacaf.uncaf}
+
+### Central America  {#central-america}
 
 
 
-### Caribbean  {#concacaf.cfu}
+
+### Caribbean  {#caribbean}
 
 [Cuba](cu.html) (CUB) - 4 Beers, 0 Breweries <br>
 [Jamaica](jm.html) (JAM) - 2 Beers, 0 Breweries <br>
@@ -79,7 +83,8 @@ title: Contents
 [Trinidad and Tobago](tt.html) (TRI) - 2 Beers, 0 Breweries <br>
 
 
-### Africa  {#caf}
+
+### Africa  {#africa}
 
 [Egypt](eg.html) (EGY) - 3 Beers, 0 Breweries <br>
 [Ethiopia](et.html) (ETH) - 2 Beers, 0 Breweries <br>
@@ -89,11 +94,13 @@ title: Contents
 [South Africa](za.html) (RSA) - 6 Beers, 0 Breweries <br>
 
 
-### Middle East  {#afc.waff}
+
+### Middle East  {#middle-east}
 
 
 
-### Asia & Australia  {#afc}
+
+### Asia & Australia  {#asia--australia}
 
 [Australia](au.html) (AUS) - 51 Beers, 13 Breweries <br>
 [Cambodia](kh.html) (CAM) - 10 Beers, 0 Breweries <br>
@@ -107,10 +114,13 @@ title: Contents
 [Vietnam](vn.html) (VIE) - 1 Beers, 0 Breweries <br>
 
 
-### Pacific  {#ofc}
+
+### Pacific  {#pacific}
 
 [New Zealand](nz.html) (NZL) - 17 Beers, 0 Breweries <br>
 
 
+
 ### Others  {#others}
+
 

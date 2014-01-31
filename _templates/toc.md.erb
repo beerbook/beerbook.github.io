@@ -1,0 +1,19 @@
+---
+layout: default
+title: Contents
+---
+
+
+# Contents
+
+<%= continents_navbar %>
+
+
+<% Continent.all.each do |continent| %>
+
+
+### <%= continent.title %>  {#<%= urlify( continent.title ) %>}
+
+  <%= render_toc_countries( continent.countries.order(:title) ) %>
+
+<% end %><!-- each continent -->
