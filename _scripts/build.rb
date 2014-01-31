@@ -78,7 +78,7 @@ end
 ### generate pages for countries
 
 country_count=0
-Country.where( "key in ('at','mx','hr')" ).each do |country|
+Country.where( "key in ('at','mx','hr', 'de', 'be', 'nl', 'cz')" ).each do |country|
   beers_count     = country.beers.count
   breweries_count = country.breweries.count
   if beers_count > 0 || breweries_count > 0
@@ -89,7 +89,7 @@ Country.where( "key in ('at','mx','hr')" ).each do |country|
       file.write country_text
     end
   end
-  break if country_count == 3    # note: for testing only build three country pages
+  ## break if country_count == 3    # note: for testing only build three country pages
 end
 
 

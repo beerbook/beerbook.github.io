@@ -1,8 +1,9 @@
 ..
+
 <%= brewery.title %> | <%= brewery.founded %> <%#= render_brewery_tags( brewery ) %> <br>
 <%= brewery.address %> ++
 <% if brewery.web.present? %> <br>
-  <<%= brewery.web %>>
+  <%= link_to brewery.web, "http://#{brewery.web}" %> <!-- fix: use link_to_brewery_website -->
 <% end %>
 
 <%= render_beers( brewery.beers ) %>

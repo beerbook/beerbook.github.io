@@ -13,20 +13,33 @@ def continents_navbar    # use render? or just call method/helper continent_navb
   buf
 end
 
-def regions_navbar( regions )
+def regions_navbar_for_country( country )
   buf = ''
-  regions.each_with_index do |region,i|
-    buf << ' • '  if i > 0
+  region_count = 0
+  country.regions.each do |region|
+    buf << ' • '  if region_count > 0
     buf << link_to( region.title, "##{region.key}" )
-    buf << "(#{region.breweries.count})"
+    buf << " (#{region.breweries.count})"
+    region_count += 1
   end
+
+  # check for uncategorized breweries (no region)
+  uncategorized_breweries_count = country.breweries.where( 'region_id is null' ).count
+  if uncategorized_breweries_count > 0
+    buf << ' • '  if region_count > 0
+    buf << '** Uncategorized **'
+    buf << " (#{uncategorized_breweries_count})"
+  end
+
   buf
 end
 
-def cities_navbar( cities )
+
+
+def cities_navbar_for_region( region )
   buf = ''
   city_count=0
-  cities.each do |city|
+  region.cities.order(:title).each do |city|
     city_breweries_count = city.breweries.count
     if city_breweries_count > 0
       buf << ' • '  if city_count > 0
@@ -35,6 +48,15 @@ def cities_navbar( cities )
       city_count += 1
     end
   end
+
+  # check for uncategorized breweries (no city)
+  uncategorized_breweries_count = region.breweries.where( 'city_id is null' ).count
+  if uncategorized_breweries_count > 0
+    buf << ' • '  if city_count > 0
+    buf << '** Uncategorized **'
+    buf << " (#{uncategorized_breweries_count})"
+  end
+
   buf
 end
 
