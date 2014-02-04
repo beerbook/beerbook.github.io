@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Canada (CAN)
+permalink: /ca.html
 ---
 
 ## Canada (CAN) - 7 Beers, 10 Breweries {#ca}

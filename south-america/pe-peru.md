@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Peru (PER)
+permalink: /pe.html
 ---
 
 ## Peru (PER) - 2 Beers, 0 Breweries {#pe}

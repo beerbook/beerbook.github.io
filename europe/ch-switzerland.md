@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Switzerland (SUI)
+permalink: /ch.html
 ---
 
 ## Switzerland (SUI) - 0 Beers, 23 Breweries {#ch}

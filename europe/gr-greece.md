@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Greece (GRE)
+permalink: /gr.html
 ---
 
 ## Greece (GRE) - 3 Beers, 0 Breweries {#gr}

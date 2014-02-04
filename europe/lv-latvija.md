@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Latvija [Latvia] (LVA)
+permalink: /lv.html
 ---
 
 ## Latvija [Latvia] (LVA) - 1 Beers, 0 Breweries {#lv}

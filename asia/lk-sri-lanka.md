@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Sri Lanka (SRI)
+permalink: /lk.html
 ---
 
 ## Sri Lanka (SRI) - 1 Beers, 0 Breweries {#lk}

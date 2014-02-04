@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Finland (FIN)
+permalink: /fi.html
 ---
 
 ## Finland (FIN) - 6 Beers, 0 Breweries {#fi}

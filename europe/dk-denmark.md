@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Denmark (DEN)
+permalink: /dk.html
 ---
 
 ## Denmark (DEN) - 15 Beers, 0 Breweries {#dk}

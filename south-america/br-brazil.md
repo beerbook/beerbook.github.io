@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Brazil (BRA)
+permalink: /br.html
 ---
 
 ## Brazil (BRA) - 10 Beers, 1 Breweries {#br}

@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Spain (ESP)
+permalink: /es.html
 ---
 
 ## Spain (ESP) - 14 Beers, 0 Breweries {#es}

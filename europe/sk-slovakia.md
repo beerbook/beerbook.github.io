@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Slovakia (SVK)
+permalink: /sk.html
 ---
 
 ## Slovakia (SVK) - 23 Beers, 16 Breweries {#sk}

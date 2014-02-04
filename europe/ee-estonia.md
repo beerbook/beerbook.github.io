@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Estonia (EST)
+permalink: /ee.html
 ---
 
 ## Estonia (EST) - 2 Beers, 0 Breweries {#ee}

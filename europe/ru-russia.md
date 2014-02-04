@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Russia (RUS)
+permalink: /ru.html
 ---
 
 ## Russia (RUS) - 1 Beers, 0 Breweries {#ru}

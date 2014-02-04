@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Sweden (SWE)
+permalink: /se.html
 ---
 
 ## Sweden (SWE) - 7 Beers, 0 Breweries {#se}

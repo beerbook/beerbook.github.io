@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Argentina (ARG)
+permalink: /ar.html
 ---
 
 ## Argentina (ARG) - 10 Beers, 1 Breweries {#ar}

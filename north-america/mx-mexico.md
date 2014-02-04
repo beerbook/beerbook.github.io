@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     México [Mexico] (MEX)
+permalink: /mx.html
 ---
 
 ## México [Mexico] (MEX) - 179 Beers, 45 Breweries {#mx}

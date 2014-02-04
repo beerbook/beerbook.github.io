@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     United States (USA)
+permalink: /us.html
 ---
 
 ## United States (USA) - 61 Beers, 138 Breweries {#us}

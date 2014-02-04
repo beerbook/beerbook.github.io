@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Netherlands (NED)
+permalink: /nl.html
 ---
 
 ## Netherlands (NED) - 2 Beers, 33 Breweries {#nl}

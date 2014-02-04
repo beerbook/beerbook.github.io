@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Montenegro (MNE)
+permalink: /me.html
 ---
 
 ## Montenegro (MNE) - 2 Beers, 0 Breweries {#me}

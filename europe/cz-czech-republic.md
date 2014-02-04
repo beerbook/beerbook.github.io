@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Czech Republic (CZE)
+permalink: /cz.html
 ---
 
 ## Czech Republic (CZE) - 68 Beers, 43 Breweries {#cz}

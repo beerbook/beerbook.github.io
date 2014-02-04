@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Turkey (TUR)
+permalink: /tr.html
 ---
 
 ## Turkey (TUR) - 1 Beers, 0 Breweries {#tr}

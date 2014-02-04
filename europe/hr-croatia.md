@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Croatia (CRO)
+permalink: /hr.html
 ---
 
 ## Croatia (CRO) - 3 Beers, 0 Breweries {#hr}

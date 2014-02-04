@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Belarus (BLR)
+permalink: /by.html
 ---
 
 ## Belarus (BLR) - 3 Beers, 0 Breweries {#by}

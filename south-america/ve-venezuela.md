@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Venezuela (VEN)
+permalink: /ve.html
 ---
 
 ## Venezuela (VEN) - 1 Beers, 0 Breweries {#ve}

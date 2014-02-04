@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Lithuania (LTU)
+permalink: /lt.html
 ---
 
 ## Lithuania (LTU) - 5 Beers, 0 Breweries {#lt}

@@ -124,9 +124,9 @@ Country.all.each do |country|
   puts "build country page #{country.key}..."
   country_text = <<EOS
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     #{country.title} (#{country.code})
+permalink: /#{country.key}.html
 ---
 
 EOS

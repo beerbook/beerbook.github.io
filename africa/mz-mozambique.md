@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Mozambique (MOZ)
+permalink: /mz.html
 ---
 
 ## Mozambique (MOZ) - 1 Beers, 0 Breweries {#mz}

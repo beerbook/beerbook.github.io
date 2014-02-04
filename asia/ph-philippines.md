@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Philippines (PHI)
+permalink: /ph.html
 ---
 
 ## Philippines (PHI) - 2 Beers, 0 Breweries {#ph}

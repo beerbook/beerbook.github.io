@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Romania (ROU)
+permalink: /ro.html
 ---
 
 ## Romania (ROU) - 24 Beers, 5 Breweries {#ro}

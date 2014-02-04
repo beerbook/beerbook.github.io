@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Egypt (EGY)
+permalink: /eg.html
 ---
 
 ## Egypt (EGY) - 3 Beers, 0 Breweries {#eg}

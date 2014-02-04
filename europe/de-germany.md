@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Germany (GER)
+permalink: /de.html
 ---
 
 ## Germany (GER) - 133 Beers, 770 Breweries {#de}

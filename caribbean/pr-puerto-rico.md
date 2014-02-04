@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Puerto Rico (PUR)
+permalink: /pr.html
 ---
 
 ## Puerto Rico (PUR) - 1 Beers, 0 Breweries {#pr}

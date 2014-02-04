@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Slovenia (SVN)
+permalink: /si.html
 ---
 
 ## Slovenia (SVN) - 3 Beers, 0 Breweries {#si}

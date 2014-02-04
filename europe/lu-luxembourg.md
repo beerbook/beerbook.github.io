@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Luxembourg (LUX)
+permalink: /lu.html
 ---
 
 ## Luxembourg (LUX) - 2 Beers, 0 Breweries {#lu}

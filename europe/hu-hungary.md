@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Hungary (HUN)
+permalink: /hu.html
 ---
 
 ## Hungary (HUN) - 3 Beers, 0 Breweries {#hu}

@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Italy (ITA)
+permalink: /it.html
 ---
 
 ## Italy (ITA) - 60 Beers, 0 Breweries {#it}

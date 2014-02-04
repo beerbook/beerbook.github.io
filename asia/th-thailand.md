@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Thailand (THA)
+permalink: /th.html
 ---
 
 ## Thailand (THA) - 2 Beers, 0 Breweries {#th}

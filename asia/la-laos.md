@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Laos (LAO)
+permalink: /la.html
 ---
 
 ## Laos (LAO) - 2 Beers, 0 Breweries {#la}

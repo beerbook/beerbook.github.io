@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     England (ENG)
+permalink: /en.html
 ---
 
 ## England (ENG) - 9 Beers, 1 Breweries {#en}

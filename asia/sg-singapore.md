@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Singapore (SIN)
+permalink: /sg.html
 ---
 
 ## Singapore (SIN) - 3 Beers, 0 Breweries {#sg}

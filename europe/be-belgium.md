@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Belgium (BEL)
+permalink: /be.html
 ---
 
 ## Belgium (BEL) - 66 Beers, 85 Breweries {#be}

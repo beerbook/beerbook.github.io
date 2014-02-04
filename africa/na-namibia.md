@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Namibia (NAM)
+permalink: /na.html
 ---
 
 ## Namibia (NAM) - 2 Beers, 0 Breweries {#na}

@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Irland (IRL)
+permalink: /ie.html
 ---
 
 ## Irland (IRL) - 11 Beers, 4 Breweries {#ie}

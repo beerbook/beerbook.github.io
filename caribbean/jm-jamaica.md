@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Jamaica (JAM)
+permalink: /jm.html
 ---
 
 ## Jamaica (JAM) - 2 Beers, 0 Breweries {#jm}

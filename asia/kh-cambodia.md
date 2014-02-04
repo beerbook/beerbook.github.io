@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Cambodia (CAM)
+permalink: /kh.html
 ---
 
 ## Cambodia (CAM) - 10 Beers, 0 Breweries {#kh}

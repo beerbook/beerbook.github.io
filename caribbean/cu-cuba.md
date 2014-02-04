@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Cuba (CUB)
+permalink: /cu.html
 ---
 
 ## Cuba (CUB) - 4 Beers, 0 Breweries {#cu}

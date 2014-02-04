@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Kenya (KEN)
+permalink: /ke.html
 ---
 
 ## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}

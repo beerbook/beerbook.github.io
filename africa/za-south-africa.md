@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     South Africa (RSA)
+permalink: /za.html
 ---
 
 ## South Africa (RSA) - 6 Beers, 0 Breweries {#za}

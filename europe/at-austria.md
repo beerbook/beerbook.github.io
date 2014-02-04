@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Austria (AUT)
+permalink: /at.html
 ---
 
 ## Austria (AUT) - 215 Beers, 88 Breweries {#at}

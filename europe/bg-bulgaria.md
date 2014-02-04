@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Bulgaria (BUL)
+permalink: /bg.html
 ---
 
 ## Bulgaria (BUL) - 3 Beers, 0 Breweries {#bg}

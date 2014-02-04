@@ -1,7 +1,7 @@
 ---
-layout: default
-title: <%= country.title %> (<%= country.code %>)
-permalink: /<%= country.code %>.html
+layout:    default
+title:     Norway (NOR)
+permalink: /no.html
 ---
 
 ## Norway (NOR) - 6 Beers, 0 Breweries {#no}
