@@ -64,6 +64,34 @@ Country   = WorldDb::Model::Country
 ####################################
 # 1) generate multi-page version
 
+def country_to_md_path( country )
+
+  country_title = country.title.downcase
+  country_title = country_title.gsub( /\[[^\]]+\]/, '' ) ## e.g. remove [Mexico] etc.
+  country_title = country_title.gsub( 'é', 'e' )  ## todo/fix: use a generic version for accents
+  country_title = country_title.strip
+  country_title = country_title.gsub(' ', '-')
+  country_title = country_title.gsub('-and-', '-n-')
+
+  country_path = ""
+  country_path << country.key
+  country_path << '-'
+  country_path << country_title
+
+  ### quick hack: patch Asia & Australia to => Asia
+  # fix: do NOT use sport.db.admin e.g. FIFA continents for beerdb
+  if country.key == 'au'
+    path = "pacific/#{country_path}.md"
+  elsif country.continent.title == 'Asia & Australia'
+    path = "asia/#{country_path}.md"
+  else
+    path = "#{country.continent.title.downcase.gsub(' ', '-')}/#{country_path}.md"
+  end
+
+  path
+end
+
+
 def build_book
 
 ### generate table of contents (toc)
@@ -98,15 +126,19 @@ Country.all.each do |country|
 ---
 layout: default
 title: <%= country.title %> (<%= country.code %>)
+permalink: /<%= country.code %>.html
 ---
 
 EOS
-  
+
   country_text += render_country( country )
-  File.open( "#{country.key}.md", 'w+') do |file|
+
+  path = country_to_md_path( country )
+  puts "path=#{path}"
+  File.open( path, 'w+') do |file|
     file.write country_text
   end
- 
+
   ## break if country_count == 3    # note: for testing only build three country pages
 end
 

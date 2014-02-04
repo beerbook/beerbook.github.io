@@ -1,5 +1,4 @@
 
-## markdown: redcarpet
 
 markdown: kramdown
 
@@ -8,4 +7,11 @@ exclude: ['README.md']
 
 safe: true
 lsi: false
+
+# In Jekyll v1.0, we introduced absolute permalinks for pages in subdirectories.
+# Until v2.0, it is opt-in. Starting with v2.0, however, absolute permalinks will become opt-out,
+#  meaning Jekyll will default to using absolute permalinks instead of relative permalinks.
+
+relative_permalinks: false
+
 
