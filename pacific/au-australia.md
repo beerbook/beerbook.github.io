@@ -52,7 +52,7 @@ permalink: /au.html
 
 
 
- Hahn Brewery  - 1986   <br>
+ Hahn Brewery  - 1986   `#hahn`{:.key} <br>
 Camperdown //  <br>
 {: .brewery #hahn }
 
@@ -61,7 +61,7 @@ Camperdown //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
- Tooheys  - 1869   <br>
+ Tooheys  - 1869   `#tooheys`{:.key} <br>
 {: .brewery #tooheys }
 
 
@@ -78,7 +78,7 @@ Camperdown //  <br>
 
 
 
- Castlemaine Perkins  - 1878   <br>
+ Castlemaine Perkins  - 1878   `#castlemaine`{:.key} <br>
 {: .brewery #castlemaine }
 
 **XXXX**  _lager_{:.tags} 
@@ -88,7 +88,7 @@ Camperdown //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
- Burleigh Brewing Company  - 2006   <br>
+ Burleigh Brewing Company  - 2006   `#burleigh`{:.key} <br>
 {: .brewery #burleigh }
 
 
@@ -105,7 +105,7 @@ Camperdown //  <br>
 
 
 
- Coopers Brewery  - 1862   <br>
+ Coopers Brewery  - 1862   `#coopers`{:.key} <br>
 Regency Park //  <br>
 {: .brewery #coopers }
 
@@ -121,7 +121,7 @@ Regency Park //  <br>
 **Coopers Extra Strong Vintage Ale** (7.5%) _strong ale_{:.tags} 
 {: .beers }
 
- South Australian Brewing Co. • South Australian Brewing Company  - 1859   <br>
+ South Australian Brewing Co. • South Australian Brewing Company  - 1859   `#sa`{:.key} <br>
 Thebarton //  <br>
 {: .brewery #sa }
 
@@ -140,7 +140,7 @@ Thebarton //  <br>
 
 
 
- Cascade Brewery  - 1824   <br>
+ Cascade Brewery  - 1824   `#cascade`{:.key} <br>
 {: .brewery #cascade }
 
 **Cascade Premium Lager**  _lager_{:.tags}  • 
@@ -158,7 +158,7 @@ Thebarton //  <br>
 
 
 
- J. Boag & Sons  - 1883   <br>
+ J. Boag & Sons  - 1883   `#boags`{:.key} <br>
 {: .brewery #boags }
 
 
@@ -176,7 +176,7 @@ Thebarton //  <br>
 
 
 
- Carlton and United Breweries  - 1907   <br>
+ Carlton and United Breweries  - 1907   `#carlton`{:.key} <br>
 Abbotsford //  <br>
 {: .brewery #carlton }
 
@@ -199,21 +199,21 @@ Abbotsford //  <br>
 ##### Uncategorized _(4)_{:.count}
 
 
- Swan Brewery  - 1837   <br>
+ Swan Brewery  - 1837   `#swan`{:.key} <br>
 {: .brewery #swan }
 
 
- Bluetongue Brewery  - 2003   <br>
+ Bluetongue Brewery  - 2003   `#bluetongue`{:.key} <br>
 {: .brewery #bluetongue }
 
 **Bluetongue Traditional Pilsner** (5.8%) _pils_{:.tags} 
 {: .beers }
 
- Bootleg Brewery  - 1994   <br>
+ Bootleg Brewery  - 1994   `#bootleg`{:.key} <br>
 {: .brewery #bootleg }
 
 
- Little Creatures Brewery  - 2000   <br>
+ Little Creatures Brewery  - 2000   `#creatures`{:.key} <br>
 {: .brewery #creatures }
 
 **Little Creatures Pale Ale** (5.2%) _pale ale_{:.tags}  • 

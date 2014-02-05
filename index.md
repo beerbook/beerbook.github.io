@@ -137,6 +137,7 @@ title: Contents
 
 ### Index
 
-Breweries _(1279)_{: .count} <br>
+
+[Breweries](breweries.html) _(1279)_{: .count} <br>
 Brands _()_{: .count} <br>
 Beers _()_{: .count}  <br>

@@ -14,7 +14,7 @@ permalink: /ro.html
 ### Uncategorized _(4)_{:.count}
 
 
- Heineken Romania  - 1998  _heineken_{:.tags} <br>
+ Heineken Romania  - 1998  _heineken_{:.tags} `#heinekenro`{:.key} <br>
 [www.heinekenromania.ro](http://www.heinekenromania.ro)  <br>
 {: .brewery #heinekenro }
 
@@ -29,7 +29,7 @@ permalink: /ro.html
 **Hategana** (4.5%) _pale lager_{:.tags} 
 {: .beers }
 
- Ursus Breweries  _sabmiller_{:.tags} <br>
+ Ursus Breweries  _sabmiller_{:.tags} `#ursus`{:.key} <br>
 [www.ursus-breweries.ro](http://www.ursus-breweries.ro)  <br>
 {: .brewery #ursus }
 
@@ -43,7 +43,7 @@ permalink: /ro.html
 **Ciucaș** (4.6%, 10.6°)  
 {: .beers }
 
- Bergenbier • Bergenbier S.A.  - 1994  _molsoncoors_{:.tags} <br>
+ Bergenbier • Bergenbier S.A.  - 1994  _molsoncoors_{:.tags} `#bergenbier`{:.key} <br>
 {: .brewery #bergenbier }
 
 **‹Bergenbier›** (5.0%, 11.0°) _pale lager_{:.tags}  • 
@@ -51,7 +51,7 @@ permalink: /ro.html
 **Noroc (Blondă)** (4.5%, 10.2°) _blonde pale lager_{:.tags} 
 {: .beers }
 
- Romaqua Group Borsec  - 1999   <br>
+ Romaqua Group Borsec  - 1999   `#romaqua`{:.key} <br>
 [www.romaqua-group.ro](http://www.romaqua-group.ro)  <br>
 {: .brewery #romaqua }
 
@@ -441,7 +441,7 @@ permalink: /ro.html
 
 
 
- Berarium / Clinica de Bere  - 2011   <br>
+ Berarium / Clinica de Bere  - 2011   `#berarium`{:.key} <br>
 {: .brewery #berarium }
 
 **Terapia Platin**  _weizen_{:.tags}  • 

@@ -260,7 +260,7 @@ permalink: /br.html
 ##### Uncategorized _(1)_{:.count}
 
 
- Cervejaria Brahma • Companhia Cervejaria Brahma  - 1888  _ab inbev_{:.tags} <br>
+ Cervejaria Brahma • Companhia Cervejaria Brahma  - 1888  _ab inbev_{:.tags} `#brahma`{:.key} <br>
 {: .brewery #brahma }
 
 **‹Brahma›** (5.0%) _pale lager_{:.tags} 

@@ -14,14 +14,18 @@
 ## {{ letter }}
 
 {% Brewery.where( "key like '#{letter.downcase}%'").order(:key).each do |brewery| %}
-  `{{ brewery.key }}`{:.key} {{ brewery.title }} ++
+  {{ brewery.title }} ++
+  {{ brewery_stars( brewery ) }} ++
    .. <!-- fix: add brewery synonims if exit -->
    .. <!-- fix: add brewery tags here -->
    ( ++
    {{ brewery.country.title }} ++
    {% if brewery.region_id.present? %} › {{ brewery.region.title }} {% end %} ++
    {% if brewery.city_id.present? %} › {{ brewery.city.title }} {% end %} ++
-   ) <br>
+   ) ++
+   {{ brewery_tags( brewery ) }} ++ 
+   `#{{ brewery.key }}`{:.key} ++ 
+   <br>
 {% end %}
 
 {% end %}

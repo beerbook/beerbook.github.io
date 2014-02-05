@@ -36,7 +36,7 @@ permalink: /ar.html
 ##### Uncategorized _(1)_{:.count}
 
 
- Cervecería y Maltería Quilmes  - 1888  _abinbev_{:.tags} <br>
+ Cervecería y Maltería Quilmes  - 1888  _abinbev_{:.tags} `#quilmes`{:.key} <br>
 Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 {: .brewery #quilmes }
 

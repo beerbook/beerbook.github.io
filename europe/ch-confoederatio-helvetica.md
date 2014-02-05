@@ -86,100 +86,100 @@ permalink: /ch.html
 ##### Uncategorized _(17)_{:.count}
 
 
- Brauerei Sudwerk  - 2010   <br>
+ Brauerei Sudwerk  - 2010   `#sudwerk`{:.key} <br>
 Speckstrasse 3 // 8330 Pfäffikon (ZH)  <br>
 [www.sudwerk.ch](http://www.sudwerk.ch)  <br>
 {: .brewery #sudwerk }
 
 
- Brauerei Uster  - 2007   <br>
+ Brauerei Uster  - 2007   `#uster`{:.key} <br>
 Brauereistrasse 16 // 8610 Uster  <br>
 [www.brauereiuster.ch](http://www.brauereiuster.ch)  <br>
 {: .brewery #uster }
 
 
- Doppelleu Brauwerkstatt  - 2012   <br>
+ Doppelleu Brauwerkstatt  - 2012   `#doppelleu`{:.key} <br>
 Industriestrasse 40b // 8404 Winterthur  <br>
 [www.doppelleu.ch](http://www.doppelleu.ch)  <br>
 {: .brewery #doppelleu }
 
 
- Euelbräu • Brauerei zur Euelwies  - 2007   <br>
+ Euelbräu • Brauerei zur Euelwies  - 2007   `#euelbraeu`{:.key} <br>
 In der Euelwies 7a // 8408 Winterthur  <br>
 [www.euelbraeu.ch](http://www.euelbraeu.ch)  <br>
 {: .brewery #euelbraeu }
 
 
- Stadtguet  - 2002   <br>
+ Stadtguet  - 2002   `#stadtguet`{:.key} <br>
 Industriestrasse 35 // 8400 Winterthur  <br>
 [www.stadtguet.ch](http://www.stadtguet.ch)  <br>
 {: .brewery #stadtguet }
 
 
- Turbinen Bräu  - 1997   <br>
+ Turbinen Bräu  - 1997   `#turbinenbraeu`{:.key} <br>
 Badenerstrasse 571 // 8048 Zürich  <br>
 [www.turbinenbraeu.ch](http://www.turbinenbraeu.ch)  <br>
 {: .brewery #turbinenbraeu }
 
 
- Wädi Bräu  - 1992   <br>
+ Wädi Bräu  - 1992   `#waedibraeu`{:.key} <br>
 Florhofstrasse 13 // 8820 Wädenswil  <br>
 [www.waedenswiler.ch](http://www.waedenswiler.ch)  <br>
 {: .brewery #waedibraeu }
 
 
- Brauerei Brauwerk  - 2010   <br>
+ Brauerei Brauwerk  - 2010   `#brauwerk`{:.key} <br>
 In der Längelen 3 // 8165 Oberweningen  <br>
 {: .brewery #brauwerk }
 
 
- Brauerei Gambrinus / Rüedel  - 2005   <br>
+ Brauerei Gambrinus / Rüedel  - 2005   `#rueedel`{:.key} <br>
 Adlergasse 5 // 8245 Feuerthalen  <br>
 [www.rueedel.ch](http://www.rueedel.ch)  <br>
 {: .brewery #rueedel }
 
 
- Brauerei Gutknecht's Hammer-Bier  - 2004   <br>
+ Brauerei Gutknecht's Hammer-Bier  - 2004   `#gutknecht`{:.key} <br>
 In den Linden 29 // 8153 Rümlang  <br>
 {: .brewery #gutknecht }
 
 
- Chasperlibräu  - 2012   <br>
+ Chasperlibräu  - 2012   `#chasperlibraeu`{:.key} <br>
 // 8049 Zürich  <br>
 {: .brewery #chasperlibraeu }
 
 
- Brauverein Fischenthal • Hörnlibräu  - 2006   <br>
+ Brauverein Fischenthal • Hörnlibräu  - 2006   `#fischenthal`{:.key} <br>
 Bahnhofstrasse 5 // 8497 Fischenthal  <br>
 [www.brauverein-fischenthal.ch](http://www.brauverein-fischenthal.ch)  <br>
 {: .brewery #fischenthal }
 
 
- Brauerei Ladus  - 2013   <br>
+ Brauerei Ladus  - 2013   `#ladus`{:.key} <br>
 Neufeldstrasse 3 // 8154 Oberglatt (ZH)  <br>
 [www.ladus.ch](http://www.ladus.ch)  <br>
 {: .brewery #ladus }
 
 
- ECM Bräu • Brauerei Flüegass  - 2005   <br>
+ ECM Bräu • Brauerei Flüegass  - 2005   `#ecmbraeu`{:.key} <br>
 Flühgasse 8 // 8008 Zürich  <br>
 [www.sbier.ch](http://www.sbier.ch)  <br>
 {: .brewery #ecmbraeu }
 
 
- Brauerei Drachenbräu  - 2006   <br>
+ Brauerei Drachenbräu  - 2006   `#drachenbraeu`{:.key} <br>
 Bickelstrasse 22 // 8942 Oberrieden  <br>
 [www.drachenbraeu.ch](http://www.drachenbraeu.ch)  <br>
 {: .brewery #drachenbraeu }
 
 
- Restaurant Steinfels  - 2007   <br>
+ Restaurant Steinfels  - 2007   `#steinfels`{:.key} <br>
 Heinrichstrasse 267 // 8005 Zürich  <br>
 [www.steinfels-zuerich.ch](http://www.steinfels-zuerich.ch)  <br>
 {: .brewery #steinfels }
 
 
- Brauerei Feldhof  - 2009   <br>
+ Brauerei Feldhof  - 2009   `#feldhof`{:.key} <br>
 Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 [www.brauereifeldhof.ch](http://www.brauereifeldhof.ch)  <br>
 {: .brewery #feldhof }
@@ -251,34 +251,34 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
- Brauerei Luusbueb  - 2010   <br>
+ Brauerei Luusbueb  - 2010   `#luusbueb`{:.key} <br>
 // 4054 Basel  <br>
 {: .brewery #luusbueb }
 
 
- Brauerei Bîrtel  - 2012   <br>
+ Brauerei Bîrtel  - 2012   `#birtel`{:.key} <br>
 Flughafenstrasse 31 // 4056 Basel  <br>
 [www.birtel.ch](http://www.birtel.ch)  <br>
 {: .brewery #birtel }
 
 
- Brauerei Basiliske Bier  - 2013   <br>
+ Brauerei Basiliske Bier  - 2013   `#basiliske`{:.key} <br>
 Wiesenschanzweg 34 // 4057 Basel  <br>
 [www.basiliskebier.ch](http://www.basiliskebier.ch)  <br>
 {: .brewery #basiliske }
 
 
- Brauerei Käppelijoch  - 1996   <br>
+ Brauerei Käppelijoch  - 1996   `#kaeppelijoch`{:.key} <br>
 Colmarerstrasse 16 // 4055 Basel  <br>
 {: .brewery #kaeppelijoch }
 
 
- Brauerei zur grünen Amsel  - 2010   <br>
+ Brauerei zur grünen Amsel  - 2010   `#zurgruenenamsel`{:.key} <br>
 Schmiedgasse 30 // 4125 Riehen  <br>
 {: .brewery #zurgruenenamsel }
 
 
- Brauerei Fischerstube • Ueli Bier  - 1974   <br>
+ Brauerei Fischerstube • Ueli Bier  - 1974   `#uelibier`{:.key} <br>
 Rheingasse 45 // 4058 Basel  <br>
 [www.uelibier.ch](http://www.uelibier.ch)  <br>
 {: .brewery #uelibier }

@@ -55,7 +55,7 @@ permalink: /nl.html
 ##### Uncategorized _(1)_{:.count}
 
 
- Berghoeve • Berghoeve Brouwerij   <br>
+ Berghoeve • Berghoeve Brouwerij   `#berghoeve`{:.key} <br>
 // Den Ham  <br>
 {: .brewery #berghoeve }
 
@@ -90,24 +90,24 @@ permalink: /nl.html
 ##### Uncategorized _(4)_{:.count}
 
 
- De Leckere • Brouwerij De Leckere  - 1997   <br>
+ De Leckere • Brouwerij De Leckere  - 1997   `#deleckere`{:.key} <br>
 // Utrecht  <br>
 [www.deleckere.nl](http://www.deleckere.nl)  <br>
 {: .brewery #deleckere }
 
 
- De Eem • Bierbrouwerij De Eem   <br>
+ De Eem • Bierbrouwerij De Eem   `#deeem`{:.key} <br>
 // Amersfoort  <br>
 {: .brewery #deeem }
 
 
- Maximus • Brouwerij Maximus  - 2011   <br>
+ Maximus • Brouwerij Maximus  - 2011   `#maximus`{:.key} <br>
 // Leidsche Rijn  <br>
 [www.brouwerijmaximus.nl](http://www.brouwerijmaximus.nl)  <br>
 {: .brewery #maximus }
 
 
- Duits & Lauret • Speciaalbierbrouwerij Duits & Lauret  - 2009   <br>
+ Duits & Lauret • Speciaalbierbrouwerij Duits & Lauret  - 2009   `#duitslauret`{:.key} <br>
 // Vleuten  <br>
 [www.duitslauret.com](http://www.duitslauret.com)  <br>
 {: .brewery #duitslauret }
@@ -125,58 +125,58 @@ permalink: /nl.html
 ##### Uncategorized _(13)_{:.count}
 
 
- De 7 Deugden • Brouwerij De 7 Deugden  - 2010   <br>
+ De 7 Deugden • Brouwerij De 7 Deugden  - 2010   `#dezevendeugden`{:.key} <br>
 // Amsterdam  <br>
 [www.de7deugden.nl](http://www.de7deugden.nl)  <br>
 {: .brewery #dezevendeugden }
 
 
- Breugems • Breugems Brouwerij  - 2007   <br>
+ Breugems • Breugems Brouwerij  - 2007   `#breugems`{:.key} <br>
 // Zaandam  <br>
 {: .brewery #breugems }
 
 
- De Boei • Bierbrouwerij De Boei   <br>
+ De Boei • Bierbrouwerij De Boei   `#deboei`{:.key} <br>
 {: .brewery #deboei }
 
 
- Dampegheest • Brouwerij Dampegheest   <br>
+ Dampegheest • Brouwerij Dampegheest   `#dampegheest`{:.key} <br>
 {: .brewery #dampegheest }
 
 
- Egmond • Brouwerij Egmond   <br>
+ Egmond • Brouwerij Egmond   `#egmond`{:.key} <br>
 {: .brewery #egmond }
 
 
- Florindia • Brouwerij Florindia   <br>
+ Florindia • Brouwerij Florindia   `#florindia`{:.key} <br>
 {: .brewery #florindia }
 
 
- Gooische Bierbrouwerij   <br>
+ Gooische Bierbrouwerij   `#gooische`{:.key} <br>
 {: .brewery #gooische }
 
 
- Heyloo • Brouwerij Heyloo   <br>
+ Heyloo • Brouwerij Heyloo   `#heyloo`{:.key} <br>
 {: .brewery #heyloo }
 
 
- 't IJ • Brouwerij 't IJ   <br>
+ 't IJ • Brouwerij 't IJ   `#tij`{:.key} <br>
 {: .brewery #tij }
 
 
- Jopen   <br>
+ Jopen   `#jopen`{:.key} <br>
 {: .brewery #jopen }
 
 
- Brouwerij De Prael   <br>
+ Brouwerij De Prael   `#deprael`{:.key} <br>
 {: .brewery #deprael }
 
 
- SNAB   <br>
+ SNAB   `#snab`{:.key} <br>
 {: .brewery #snab }
 
 
- Texelse Bierbrouwerij   <br>
+ Texelse Bierbrouwerij   `#texelse`{:.key} <br>
 {: .brewery #texelse }
 
 
@@ -210,42 +210,42 @@ permalink: /nl.html
 ##### Uncategorized _(7)_{:.count}
 
 
- Budels • Budelse Brouwerij  - 1870   <br>
+ Budels • Budelse Brouwerij  - 1870   `#budels`{:.key} <br>
 // Budel  <br>
 [www.budels.nl](http://www.budels.nl)  <br>
 {: .brewery #budels }
 
 
- De 3 Horne • Brouwerij De 3 Horne  - 1990   <br>
+ De 3 Horne • Brouwerij De 3 Horne  - 1990   `#dedriehorne`{:.key} <br>
 // Kaatsheuvel  <br>
 [www.de3horne.nl](http://www.de3horne.nl)  <br>
 {: .brewery #dedriehorne }
 
 
- Bavaria • Bavaria Brouwerij  - 1680   <br>
+ Bavaria • Bavaria Brouwerij  - 1680   `#bavaria`{:.key} <br>
 // Lieshout  <br>
 [www.bavaria.nl](http://www.bavaria.nl)  <br>
 {: .brewery #bavaria }
 
 
- Dommelsch • Dommelsche Bierbrouwerij  - 1744  _abinbev_{:.tags} <br>
+ Dommelsch • Dommelsche Bierbrouwerij  - 1744  _abinbev_{:.tags} `#dommelsch`{:.key} <br>
 // Dommelen  <br>
 [www.dommelsch.nl](http://www.dommelsch.nl)  <br>
 {: .brewery #dommelsch }
 
 
- De Koningshoeven • Bierbrouwerij De Koningshoeven  _trappisten_{:.tags} <br>
+ De Koningshoeven • Bierbrouwerij De Koningshoeven  _trappisten_{:.tags} `#dekoningshoeven`{:.key} <br>
 [www.latrappe.nl](http://www.latrappe.nl)  <br>
 {: .brewery #dekoningshoeven }
 
 
- Oijen • Speciaalbierbrouwerij Oijen   <br>
+ Oijen • Speciaalbierbrouwerij Oijen   `#oijen`{:.key} <br>
 // Oijen (Oss)  <br>
 [www.speciaalbierbrouwerij.nl](http://www.speciaalbierbrouwerij.nl)  <br>
 {: .brewery #oijen }
 
 
- De Roos • Museumbrouwerij De Roos   <br>
+ De Roos • Museumbrouwerij De Roos   `#deroos`{:.key} <br>
 [www.museumbrouwerij.nl](http://www.museumbrouwerij.nl)  <br>
 {: .brewery #deroos }
 
@@ -262,39 +262,39 @@ permalink: /nl.html
 ##### Uncategorized _(8)_{:.count}
 
 
- Alfa • Alfa Brouwerij  - 1870   <br>
+ Alfa • Alfa Brouwerij  - 1870   `#alfa`{:.key} <br>
 // Thull (Schinnen)  <br>
 [www.alfabier.nl](http://www.alfabier.nl)  <br>
 {: .brewery #alfa }
 
 
- Brand • Brand Bierbrouwerij  _heineken_{:.tags} <br>
+ Brand • Brand Bierbrouwerij  _heineken_{:.tags} `#brand`{:.key} <br>
 // Wijlre  <br>
 [www.brand.nl](http://www.brand.nl)  <br>
 {: .brewery #brand }
 
 
- Brouwerij Sint Christoffel   <br>
+ Brouwerij Sint Christoffel   `#stchristoffel`{:.key} <br>
 {: .brewery #stchristoffel }
 
 
- Brouwerij De Fontein   <br>
+ Brouwerij De Fontein   `#defontein`{:.key} <br>
 {: .brewery #defontein }
 
 
- · Gulpener Bierbrouwerij   <br>
+ · Gulpener Bierbrouwerij   `#gulpener`{:.key} <br>
 {: .brewery #gulpener }
 
 
- Hertog Jan Brouwerij   <br>
+ Hertog Jan Brouwerij   `#hertogjan`{:.key} <br>
 {: .brewery #hertogjan }
 
 
- Bierbrouwerij Lindeboom   <br>
+ Bierbrouwerij Lindeboom   `#lindeboom`{:.key} <br>
 {: .brewery #lindeboom }
 
 
- Mongozo   <br>
+ Mongozo   `#mongozo`{:.key} <br>
 {: .brewery #mongozo }
 
 

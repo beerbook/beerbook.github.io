@@ -24,7 +24,7 @@ permalink: /ie.html
 ### Uncategorized _(1)_{:.count}
 
 
- The Porterhouse Brewing Co.  - 1996   <br>
+ The Porterhouse Brewing Co.  - 1996   `#porterhouse`{:.key} <br>
 Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 [www.porterhousebrewco.com](http://www.porterhousebrewco.com)  <br>
 {: .brewery #porterhouse }
@@ -160,7 +160,7 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
- St. James's Gate Brewery / Guinness Brewery • Arthur Guinness Son & Co.  - 1759  _diageo_{:.tags} <br>
+ St. James's Gate Brewery / Guinness Brewery • Arthur Guinness Son & Co.  - 1759  _diageo_{:.tags} `#guinness`{:.key} <br>
 Saint James's Gate // Dublin 8  <br>
 [www.guinness.com](http://www.guinness.com)  <br>
 {: .brewery #guinness }
@@ -252,7 +252,7 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
- St. Francis Abbey Brewery • E. Smithwick and Sons Ltd.  - 1710  _diageo guinness_{:.tags} <br>
+ St. Francis Abbey Brewery • E. Smithwick and Sons Ltd.  - 1710  _diageo guinness_{:.tags} `#kilkenny`{:.key} <br>
 Parliament St // Kilkenny  <br>
 {: .brewery #kilkenny }
 
@@ -292,7 +292,7 @@ Parliament St // Kilkenny  <br>
 
 
 
- Murphy Brewery  - 1856  _heineken_{:.tags} <br>
+ Murphy Brewery  - 1856  _heineken_{:.tags} `#murphy`{:.key} <br>
 Lady's Well // Leitrim St. // Cork  <br>
 [www.murphys.com](http://www.murphys.com)  <br>
 {: .brewery #murphy }
