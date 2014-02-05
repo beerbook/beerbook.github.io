@@ -82,6 +82,15 @@ def country_to_md_path( country )
   # fix: do NOT use sport.db.admin e.g. FIFA continents for beerdb
   if country.key == 'au'
     path = "pacific/#{country_path}.md"
+  elsif country.key == 'de'
+    # use deutschland NOT germany (same as domain country code)
+    path = "europe/de-deutschland.md"  # deutsch/german (de)
+  elsif country.key == 'es'
+    # use espana NOT spain (same as domain country code)
+    path = "europe/es-espana.md"   # spanish/espanol (es)
+  elsif country.key == 'ch'
+    # use confoederatio helvetica NOT switzerland (same as domain country code)
+    path = "europe/ch-confoederatio-helvetica.md" # latin
   elsif country.continent.title == 'Asia & Australia'
     path = "asia/#{country_path}.md"
   else
