@@ -12,16 +12,35 @@ end
 
 def render_toc( opts={} )
   toc_tmpl = File.read_utf8( '_templates/toc.md.erb' )
-  render_erb_template( toc_tmpl, binding )
+  text = ''
+  text << opts[:frontmatter]  if opts[:frontmatter]
+  text << render_erb_template( toc_tmpl, binding )
+  text
 end
 
 def render_idx_breweries( opts={} )
   idx_tmpl = File.read_utf8( '_templates/idx-breweries.md.erb' )
-  render_erb_template( idx_tmpl, binding )
+  text = ''
+  text << opts[:frontmatter]  if opts[:frontmatter]
+  text << render_erb_template( idx_tmpl, binding )
+  text
 end
 
+def render_idx_beers( opts={} )
+  idx_tmpl = File.read_utf8( '_templates/idx-beers.md.erb' )
+  text = ''
+  text << opts[:frontmatter]  if opts[:frontmatter]
+  text << render_erb_template( idx_tmpl, binding )
+  text
+end
 
-
+def render_idx_brands( opts={} )
+  idx_tmpl = File.read_utf8( '_templates/idx-brands.md.erb' )
+  text = ''
+  text << opts[:frontmatter]  if opts[:frontmatter]
+  text << render_erb_template( idx_tmpl, binding )
+  text
+end
 
 
 #####

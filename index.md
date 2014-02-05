@@ -135,9 +135,10 @@ title: Contents
 
 
 
-### Index
+## Index
 
 
 [Breweries](breweries.html) _(1279)_{: .count} <br>
-Brands _()_{: .count} <br>
-Beers _()_{: .count}  <br>
+[Brands](brands.html) _(114)_{: .count} <br>
+[Beers](beers.html) _(1157)_{: .count}  <br>
+

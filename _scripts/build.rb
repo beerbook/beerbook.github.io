@@ -61,6 +61,8 @@ BeerDb.tables
 Continent = WorldDb::Model::Continent
 Country   = WorldDb::Model::Country
 Brewery   = BeerDb::Model::Brewery
+Brand     = BeerDb::Model::Brand
+Beer      = BeerDb::Model::Beer
 
 
 
@@ -108,35 +110,53 @@ def build_book
 
 ### generate breweries index
 
-breweries_text = <<EOS
+File.open( 'breweries.md', 'w+') do |file|
+  file.write render_idx_breweries( frontmatter: <<EOS )
 ---
 layout: default
 title: Breweries Index
 ---
 
 EOS
+end
 
-breweries_text += render_idx_breweries()
 
-File.open( 'breweries.md', 'w+') do |file|
-  file.write breweries_text
+### generate beers index
+
+File.open( 'beers.md', 'w+') do |file|
+  file.write render_idx_beers( frontmatter: <<EOS )
+---
+layout: default
+title: Beers Index
+---
+
+EOS
+end
+
+
+### generate brands index
+
+File.open( 'brands.md', 'w+') do |file|
+  file.write render_idx_brands( frontmatter: <<EOS )
+---
+layout: default
+title: Brands Index
+---
+
+EOS
 end
 
 
 ### generate table of contents (toc)
 
-toc_text = <<EOS
+File.open( 'index.md', 'w+') do |file|
+  file.write render_toc( frontmatter: <<EOS )
 ---
 layout: default
 title: Contents
 ---
 
 EOS
-
-toc_text += render_toc()
-
-File.open( 'index.md', 'w+') do |file|
-  file.write toc_text
 end
 
 
