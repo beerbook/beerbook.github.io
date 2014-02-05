@@ -12,7 +12,7 @@ permalink: /vn.html
 
 ### Uncategorized Beers
 
-Hue Beer  
+**Hue Beer** (5.0%) _lager_{:.tags} 
 
 
 

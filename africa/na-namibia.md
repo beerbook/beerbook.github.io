@@ -12,7 +12,8 @@ permalink: /na.html
 
 ### Uncategorized Beers
 
-Tafel   • Windhoek Lager  
+**Tafel** (4.0%) _lager_{:.tags}  • 
+**Windhoek Lager** (4.0%) _lager_{:.tags} 
 
 
 

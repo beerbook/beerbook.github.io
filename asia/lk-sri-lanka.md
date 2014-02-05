@@ -12,7 +12,7 @@ permalink: /lk.html
 
 ### Uncategorized Beers
 
-Lion Stout  
+**Lion Stout** (8.0%) _stout_{:.tags} 
 
 
 

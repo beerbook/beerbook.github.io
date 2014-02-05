@@ -12,7 +12,7 @@ permalink: /ba.html
 
 ### Uncategorized Beers
 
-Sarajevsko Pivo  
+**Sarajevsko Pivo** (4.9%) _lager_{:.tags} 
 
 
 

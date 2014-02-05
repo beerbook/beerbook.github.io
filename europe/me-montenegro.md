@@ -12,7 +12,8 @@ permalink: /me.html
 
 ### Uncategorized Beers
 
-Nikšićko Pivo   • Nikšićko Tamno  
+**Nikšićko Pivo** (5.0%) _lager_{:.tags}  • 
+**Nikšićko Tamno** (6.2%) _stout_{:.tags} 
 
 
 

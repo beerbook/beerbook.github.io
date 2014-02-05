@@ -13,7 +13,8 @@ permalink: /ch.html
 
 
 
-### Glarus _(0)_{:.count} {: #ch-gl }
+### Glarus _(0)_{:.count}
+{: #ch-gl }
 
 
 
@@ -21,7 +22,8 @@ permalink: /ch.html
 
 
 
-### Schaffhausen _(0)_{:.count} {: #ch-sh }
+### Schaffhausen _(0)_{:.count}
+{: #ch-sh }
 
 
 
@@ -29,7 +31,8 @@ permalink: /ch.html
 
 
 
-### Appenzell Ausserrhoden | Ap. Ausserrhoden _(0)_{:.count} {: #ch-ar }
+### Appenzell Ausserrhoden | Ap. Ausserrhoden _(0)_{:.count}
+{: #ch-ar }
 
 
 
@@ -37,7 +40,8 @@ permalink: /ch.html
 
 
 
-### Appenzell Innerrhoden | Ap. Innerrhoden _(0)_{:.count} {: #ch-ai }
+### Appenzell Innerrhoden | Ap. Innerrhoden _(0)_{:.count}
+{: #ch-ai }
 
 
 
@@ -45,7 +49,8 @@ permalink: /ch.html
 
 
 
-### St. Gallen _(0)_{:.count} {: #ch-sg }
+### St. Gallen _(0)_{:.count}
+{: #ch-sg }
 
 
 
@@ -53,7 +58,8 @@ permalink: /ch.html
 
 
 
-### Graubünden _(0)_{:.count} {: #ch-gr }
+### Graubünden _(0)_{:.count}
+{: #ch-gr }
 
 
 
@@ -61,7 +67,8 @@ permalink: /ch.html
 
 
 
-### Thurgau _(0)_{:.count} {: #ch-tg }
+### Thurgau _(0)_{:.count}
+{: #ch-tg }
 
 
 
@@ -69,7 +76,8 @@ permalink: /ch.html
 
 
 
-### Zürich _(17)_{:.count} {: #ch-zh }
+### Zürich _(17)_{:.count}
+{: #ch-zh }
 
 
 
@@ -78,116 +86,109 @@ permalink: /ch.html
 ##### Uncategorized _(17)_{:.count}
 
 
-Brauerei Sudwerk - 2010  <br>
+ Brauerei Sudwerk  - 2010   <br>
 Speckstrasse 3 // 8330 Pfäffikon (ZH)  <br>
 [www.sudwerk.ch](http://www.sudwerk.ch)  <br>
-{:.brewery}
+{: .brewery #sudwerk }
 
 
-Brauerei Uster - 2007  <br>
+ Brauerei Uster  - 2007   <br>
 Brauereistrasse 16 // 8610 Uster  <br>
 [www.brauereiuster.ch](http://www.brauereiuster.ch)  <br>
-{:.brewery}
+{: .brewery #uster }
 
 
-Doppelleu Brauwerkstatt - 2012  <br>
+ Doppelleu Brauwerkstatt  - 2012   <br>
 Industriestrasse 40b // 8404 Winterthur  <br>
 [www.doppelleu.ch](http://www.doppelleu.ch)  <br>
-{:.brewery}
+{: .brewery #doppelleu }
 
 
-Euelbräu - 2007  <br>
+ Euelbräu • Brauerei zur Euelwies  - 2007   <br>
 In der Euelwies 7a // 8408 Winterthur  <br>
 [www.euelbraeu.ch](http://www.euelbraeu.ch)  <br>
-{:.brewery}
+{: .brewery #euelbraeu }
 
 
-Stadtguet - 2002  <br>
+ Stadtguet  - 2002   <br>
 Industriestrasse 35 // 8400 Winterthur  <br>
 [www.stadtguet.ch](http://www.stadtguet.ch)  <br>
-{:.brewery}
+{: .brewery #stadtguet }
 
 
-Turbinen Bräu - 1997  <br>
+ Turbinen Bräu  - 1997   <br>
 Badenerstrasse 571 // 8048 Zürich  <br>
 [www.turbinenbraeu.ch](http://www.turbinenbraeu.ch)  <br>
-{:.brewery}
+{: .brewery #turbinenbraeu }
 
 
-Wädi Bräu - 1992  <br>
+ Wädi Bräu  - 1992   <br>
 Florhofstrasse 13 // 8820 Wädenswil  <br>
 [www.waedenswiler.ch](http://www.waedenswiler.ch)  <br>
-{:.brewery}
+{: .brewery #waedibraeu }
 
 
-Brauerei Brauwerk - 2010  <br>
+ Brauerei Brauwerk  - 2010   <br>
 In der Längelen 3 // 8165 Oberweningen  <br>
-{:.brewery}
+{: .brewery #brauwerk }
 
 
-Brauerei Gambrinus / Rüedel - 2005  <br>
+ Brauerei Gambrinus / Rüedel  - 2005   <br>
 Adlergasse 5 // 8245 Feuerthalen  <br>
 [www.rueedel.ch](http://www.rueedel.ch)  <br>
-{:.brewery}
+{: .brewery #rueedel }
 
 
-Brauerei Gutknecht's Hammer-Bier - 2004  <br>
+ Brauerei Gutknecht's Hammer-Bier  - 2004   <br>
 In den Linden 29 // 8153 Rümlang  <br>
-{:.brewery}
+{: .brewery #gutknecht }
 
 
-Chasperlibräu - 2012  <br>
+ Chasperlibräu  - 2012   <br>
 // 8049 Zürich  <br>
-{:.brewery}
+{: .brewery #chasperlibraeu }
 
 
-Brauverein Fischenthal - 2006  <br>
+ Brauverein Fischenthal • Hörnlibräu  - 2006   <br>
 Bahnhofstrasse 5 // 8497 Fischenthal  <br>
 [www.brauverein-fischenthal.ch](http://www.brauverein-fischenthal.ch)  <br>
-{:.brewery}
+{: .brewery #fischenthal }
 
 
-Brauerei Ladus - 2013  <br>
+ Brauerei Ladus  - 2013   <br>
 Neufeldstrasse 3 // 8154 Oberglatt (ZH)  <br>
 [www.ladus.ch](http://www.ladus.ch)  <br>
-{:.brewery}
+{: .brewery #ladus }
 
 
-ECM Bräu - 2005  <br>
+ ECM Bräu • Brauerei Flüegass  - 2005   <br>
 Flühgasse 8 // 8008 Zürich  <br>
 [www.sbier.ch](http://www.sbier.ch)  <br>
-{:.brewery}
+{: .brewery #ecmbraeu }
 
 
-Brauerei Drachenbräu - 2006  <br>
+ Brauerei Drachenbräu  - 2006   <br>
 Bickelstrasse 22 // 8942 Oberrieden  <br>
 [www.drachenbraeu.ch](http://www.drachenbraeu.ch)  <br>
-{:.brewery}
+{: .brewery #drachenbraeu }
 
 
-Restaurant Steinfels - 2007  <br>
+ Restaurant Steinfels  - 2007   <br>
 Heinrichstrasse 267 // 8005 Zürich  <br>
 [www.steinfels-zuerich.ch](http://www.steinfels-zuerich.ch)  <br>
-{:.brewery}
+{: .brewery #steinfels }
 
 
-Brauerei Feldhof - 2009  <br>
+ Brauerei Feldhof  - 2009   <br>
 Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 [www.brauereifeldhof.ch](http://www.brauereifeldhof.ch)  <br>
-{:.brewery}
+{: .brewery #feldhof }
 
 
 
 
-### Luzern _(0)_{:.count} {: #ch-lu }
-
-
-
-
-
-
-
-### Uri _(0)_{:.count} {: #ch-ur }
+### Luzern _(0)_{:.count}
+{: #ch-lu }
 
 
 
@@ -195,7 +196,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Schwyz _(0)_{:.count} {: #ch-sz }
+### Uri _(0)_{:.count}
+{: #ch-ur }
 
 
 
@@ -203,7 +205,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Obwalden _(0)_{:.count} {: #ch-ow }
+### Schwyz _(0)_{:.count}
+{: #ch-sz }
 
 
 
@@ -211,7 +214,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Nidwalden _(0)_{:.count} {: #ch-nw }
+### Obwalden _(0)_{:.count}
+{: #ch-ow }
 
 
 
@@ -219,7 +223,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Zug _(0)_{:.count} {: #ch-zg }
+### Nidwalden _(0)_{:.count}
+{: #ch-nw }
 
 
 
@@ -227,7 +232,17 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Basel-Stadt _(6)_{:.count} {: #ch-bs }
+### Zug _(0)_{:.count}
+{: #ch-zg }
+
+
+
+
+
+
+
+### Basel-Stadt _(6)_{:.count}
+{: #ch-bs }
 
 
 
@@ -236,42 +251,43 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
-Brauerei Luusbueb - 2010  <br>
+ Brauerei Luusbueb  - 2010   <br>
 // 4054 Basel  <br>
-{:.brewery}
+{: .brewery #luusbueb }
 
 
-Brauerei Bîrtel - 2012  <br>
+ Brauerei Bîrtel  - 2012   <br>
 Flughafenstrasse 31 // 4056 Basel  <br>
 [www.birtel.ch](http://www.birtel.ch)  <br>
-{:.brewery}
+{: .brewery #birtel }
 
 
-Brauerei Basiliske Bier - 2013  <br>
+ Brauerei Basiliske Bier  - 2013   <br>
 Wiesenschanzweg 34 // 4057 Basel  <br>
 [www.basiliskebier.ch](http://www.basiliskebier.ch)  <br>
-{:.brewery}
+{: .brewery #basiliske }
 
 
-Brauerei Käppelijoch - 1996  <br>
+ Brauerei Käppelijoch  - 1996   <br>
 Colmarerstrasse 16 // 4055 Basel  <br>
-{:.brewery}
+{: .brewery #kaeppelijoch }
 
 
-Brauerei zur grünen Amsel - 2010  <br>
+ Brauerei zur grünen Amsel  - 2010   <br>
 Schmiedgasse 30 // 4125 Riehen  <br>
-{:.brewery}
+{: .brewery #zurgruenenamsel }
 
 
-Brauerei Fischerstube - 1974  <br>
+ Brauerei Fischerstube • Ueli Bier  - 1974   <br>
 Rheingasse 45 // 4058 Basel  <br>
 [www.uelibier.ch](http://www.uelibier.ch)  <br>
-{:.brewery}
+{: .brewery #uelibier }
 
 
 
 
-### Basel-Landschaft _(0)_{:.count} {: #ch-bl }
+### Basel-Landschaft _(0)_{:.count}
+{: #ch-bl }
 
 
 
@@ -279,7 +295,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Aargau _(0)_{:.count} {: #ch-ag }
+### Aargau _(0)_{:.count}
+{: #ch-ag }
 
 
 
@@ -287,7 +304,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Bern _(0)_{:.count} {: #ch-be }
+### Bern _(0)_{:.count}
+{: #ch-be }
 
 
 
@@ -295,7 +313,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Fribourg | Freiburg _(0)_{:.count} {: #ch-fr }
+### Fribourg | Freiburg _(0)_{:.count}
+{: #ch-fr }
 
 
 
@@ -303,7 +322,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Solothurn _(0)_{:.count} {: #ch-so }
+### Solothurn _(0)_{:.count}
+{: #ch-so }
 
 
 
@@ -311,7 +331,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Neuchâtel | Neuenburg _(0)_{:.count} {: #ch-ne }
+### Neuchâtel | Neuenburg _(0)_{:.count}
+{: #ch-ne }
 
 
 
@@ -319,7 +340,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Jura _(0)_{:.count} {: #ch-ju }
+### Jura _(0)_{:.count}
+{: #ch-ju }
 
 
 
@@ -327,7 +349,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Vaud | Waadt _(0)_{:.count} {: #ch-vd }
+### Vaud | Waadt _(0)_{:.count}
+{: #ch-vd }
 
 
 
@@ -335,7 +358,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Valais | Wallis _(0)_{:.count} {: #ch-vs }
+### Valais | Wallis _(0)_{:.count}
+{: #ch-vs }
 
 
 
@@ -343,7 +367,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Genève | Genf _(0)_{:.count} {: #ch-ge }
+### Genève | Genf _(0)_{:.count}
+{: #ch-ge }
 
 
 
@@ -351,7 +376,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Ticino | Tessin _(0)_{:.count} {: #ch-ti }
+### Ticino | Tessin _(0)_{:.count}
+{: #ch-ti }
 
 
 

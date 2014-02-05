@@ -12,7 +12,9 @@ permalink: /by.html
 
 ### Uncategorized Beers
 
-Krinitsa Porter   • Olivaria Beloe Zoloto   • Olivaria Porter  
+**Krinitsa Porter** (8.0%) _porter_{:.tags}  • 
+**Olivaria Beloe Zoloto** (5.0%) _weizenbier_{:.tags}  • 
+**Olivaria Porter** (6.8%) _porter_{:.tags} 
 
 
 

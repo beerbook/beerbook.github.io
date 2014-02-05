@@ -12,124 +12,185 @@ permalink: /au.html
 
 ### Uncategorized Beers
 
-Foster's   • 3 Ravens White   • Black Wattle Original Ale   • Hef   • Moonshine   • James Boag's Premium Lager   • Knappstein Reserve Lager   • James Squire Golden Ale   • James Squire Original Amber Ale   • James Squire Pilsener   • Alpha Pale Ale   • Dogbolter Dark Lager   • Moo Brew Pilsner   • Hightal Ale   • Murray's Best Extra Porter   • Red Duck Porter   • Red Hill Christmas Ale   • Scotch Ale   • Redoak Baltic Porter   • Redoak Framboise Froment   • Redoak Special Reserve   • Southwark Old Stout   • Stone & Wood Pale Lager   • Forester Pale Ale   • Huon Dark Ale  
+**Foster's** (5.2%) _pale lager_{:.tags}  • 
+**3 Ravens White** (5.2%) _witbier_{:.tags}  • 
+**Black Wattle Original Ale** (5.8%) _ale_{:.tags}  • 
+**Hef** (5.0%) _hefeweizen_{:.tags}  • 
+**Moonshine** (8.5%) _barley wine_{:.tags}  • 
+**James Boag's Premium Lager** (5.0%) _lager_{:.tags}  • 
+**Knappstein Reserve Lager** (5.6%) _lager_{:.tags}  • 
+**James Squire Golden Ale** (4.5%) _ale_{:.tags}  • 
+**James Squire Original Amber Ale** (5.0%) _ale_{:.tags}  • 
+**James Squire Pilsener** (5.0%) _pils_{:.tags}  • 
+**Alpha Pale Ale** (5.2%) _ale_{:.tags}  • 
+**Dogbolter Dark Lager** (5.2%) _dark lager_{:.tags}  • 
+**Moo Brew Pilsner** (5.0%) _pils_{:.tags}  • 
+**Hightal Ale** (4.5%) _ale_{:.tags}  • 
+**Murray's Best Extra Porter** (8.0%) _porter_{:.tags}  • 
+**Red Duck Porter** (6.4%) _porter_{:.tags}  • 
+**Red Hill Christmas Ale** (7.5%) _kerstbier_{:.tags}  • 
+**Scotch Ale** (5.8%) _ale_{:.tags}  • 
+**Redoak Baltic Porter** (9.0%) _porter_{:.tags}  • 
+**Redoak Framboise Froment** (5.0%) _fruitbier_{:.tags}  • 
+**Redoak Special Reserve** (12.0%) _barley wine_{:.tags}  • 
+**Southwark Old Stout** (7.4%) _stout_{:.tags}  • 
+**Stone & Wood Pale Lager** (4.7%) _lager_{:.tags}  • 
+**Forester Pale Ale** (5.5%) _pale ale_{:.tags}  • 
+**Huon Dark Ale** (5.5%) _ale_{:.tags} 
 
 
 
 
-### New South Wales _(2)_{:.count} {: #au-ns }
+### New South Wales _(2)_{:.count}
+{: #au-ns }
 
 
 [Sydney](#sydney) • **Uncategorized** _(1)_{:.count}
 
-##### Sydney 
+##### Sydney   _pop 3.908.642 (4.605.992)_{:.pop}
+{: .city #sydney }
 
 
-Hahn Brewery - 1986  <br>
+
+ Hahn Brewery  - 1986   <br>
 Camperdown //  <br>
-{:.brewery}
+{: .brewery #hahn }
 
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
-Tooheys - 1869  <br>
-{:.brewery}
+ Tooheys  - 1869   <br>
+{: .brewery #tooheys }
 
 
 
 
-### Queensland _(2)_{:.count} {: #au-ql }
+### Queensland _(2)_{:.count}
+{: #au-ql }
 
 
 [Brisbane](#brisbane) • **Uncategorized** _(1)_{:.count}
 
-##### Brisbane 
+##### Brisbane   _pop 1.874.427 (2.146.577)_{:.pop}
+{: .city #brisbane }
 
 
-Castlemaine Perkins - 1878  <br>
-{:.brewery}
 
-XXXX  
-{:.beers}
+ Castlemaine Perkins  - 1878   <br>
+{: .brewery #castlemaine }
+
+**XXXX**  _lager_{:.tags} 
+{: .beers }
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
-Burleigh Brewing Company - 2006  <br>
-{:.brewery}
+ Burleigh Brewing Company  - 2006   <br>
+{: .brewery #burleigh }
 
 
 
 
-### South Australia _(2)_{:.count} {: #au-sa }
+### South Australia _(2)_{:.count}
+{: #au-sa }
 
 
 
 
-##### Adelaide  _(2)_{:.count} 
+##### Adelaide _(2)_{:.count}  _pop 1.103.979 (1.262.940)_{:.pop}
+{: .city #adelaide }
 
 
-Coopers Brewery - 1862  <br>
+
+ Coopers Brewery  - 1862   <br>
 Regency Park //  <br>
-{:.brewery}
+{: .brewery #coopers }
 
-Coopers Sparkling Ale   • Coopers Pale Ale   • Coopers Best Extra Stout   • Coopers Dark Ale   • Coopers Mild Ale   • Coopers Premium Lager   • Coopers 62 Pilsner   • Coopers Premium Light   • Coopers Clear   • Coopers Extra Strong Vintage Ale  
-{:.beers}
+**Coopers Sparkling Ale** (5.8%) _golden ale ale_{:.tags}  • 
+**Coopers Pale Ale** (4.5%) _pale ale_{:.tags}  • 
+**Coopers Best Extra Stout** (6.3%) _stout_{:.tags}  • 
+**Coopers Dark Ale** (4.5%) _brown ale_{:.tags}  • 
+**Coopers Mild Ale** (3.5%) _ale_{:.tags}  • 
+**Coopers Premium Lager** (5.0%) _lager_{:.tags}  • 
+**Coopers 62 Pilsner** (5.0%) _pilsner_{:.tags}  • 
+**Coopers Premium Light** (2.9%)   • 
+**Coopers Clear** (4.5%)   • 
+**Coopers Extra Strong Vintage Ale** (7.5%) _strong ale_{:.tags} 
+{: .beers }
 
-South Australian Brewing Co. - 1859  <br>
+ South Australian Brewing Co. • South Australian Brewing Company  - 1859   <br>
 Thebarton //  <br>
-{:.brewery}
+{: .brewery #sa }
 
 
 
 
 
-### Tasmania _(2)_{:.count} {: #au-ts }
+### Tasmania _(2)_{:.count}
+{: #au-ts }
 
 
 [Hobart](#hobart) • [Launceston](#launceston)
 
-##### Hobart 
-
-
-Cascade Brewery - 1824  <br>
-{:.brewery}
-
-Cascade Premium Lager   • Cascade Pale Ale   • Cascade Blonde   • Cascade Amber   • Cascade Draught   • Cascade Pure   • Cascade Stout   • First Harvest Ale  
-{:.beers}
-
-##### Launceston 
-
-
-J. Boag & Sons - 1883  <br>
-{:.brewery}
+##### Hobart   _pop 170.975 (216.276)_{:.pop}
+{: .city #hobart }
 
 
 
+ Cascade Brewery  - 1824   <br>
+{: .brewery #cascade }
+
+**Cascade Premium Lager**  _lager_{:.tags}  • 
+**Cascade Pale Ale**  _lager_{:.tags}  • 
+**Cascade Blonde**  _lager_{:.tags}  • 
+**Cascade Amber**  _ale_{:.tags}  • 
+**Cascade Draught**  _lager_{:.tags}  • 
+**Cascade Pure**  _lager_{:.tags}  • 
+**Cascade Stout** (5.6%) _stout_{:.tags}  • 
+**First Harvest Ale** (5.5%) _ale_{:.tags} 
+{: .beers }
+
+##### Launceston   _pop 74.085 (107.746)_{:.pop}
+{: .city #launceston }
 
 
-### Victoria _(1)_{:.count} {: #au-vi }
+
+ J. Boag & Sons  - 1883   <br>
+{: .brewery #boags }
 
 
 
 
-##### Melbourne 
+
+### Victoria _(1)_{:.count}
+{: #au-vi }
 
 
-Carlton and United Breweries - 1907  <br>
+
+
+##### Melbourne   _pop 3.707.530 (4.169.103)_{:.pop}
+{: .city #melbourne }
+
+
+
+ Carlton and United Breweries  - 1907   <br>
 Abbotsford //  <br>
-{:.brewery}
+{: .brewery #carlton }
 
-Victoria Bitter   • Crown Lager   • Carlton Draught   • Pure Blonde  
-{:.beers}
+**Victoria Bitter** (4.9%) _lager_{:.tags}  • 
+**Crown Lager** (4.9%) _lager_{:.tags}  • 
+**Carlton Draught** (4.6%) _pale lager pils_{:.tags}  • 
+**Pure Blonde** (4.6%) _low carbohydrate lager lite_{:.tags} 
+{: .beers }
 
 
 
 
-### Western Australia _(4)_{:.count} {: #au-wa }
+### Western Australia _(4)_{:.count}
+{: #au-wa }
 
 
 
@@ -138,37 +199,40 @@ Victoria Bitter   • Crown Lager   • Carlton Draught   • Pure Blonde
 ##### Uncategorized _(4)_{:.count}
 
 
-Swan Brewery - 1837  <br>
-{:.brewery}
+ Swan Brewery  - 1837   <br>
+{: .brewery #swan }
 
 
-Bluetongue Brewery - 2003  <br>
-{:.brewery}
+ Bluetongue Brewery  - 2003   <br>
+{: .brewery #bluetongue }
 
-Bluetongue Traditional Pilsner  
-{:.beers}
+**Bluetongue Traditional Pilsner** (5.8%) _pils_{:.tags} 
+{: .beers }
 
-Bootleg Brewery - 1994  <br>
-{:.brewery}
-
-
-Little Creatures Brewery - 2000  <br>
-{:.brewery}
-
-Little Creatures Pale Ale   • Rogers' Beer  
-{:.beers}
+ Bootleg Brewery  - 1994   <br>
+{: .brewery #bootleg }
 
 
+ Little Creatures Brewery  - 2000   <br>
+{: .brewery #creatures }
 
-### Australian Capital Territory _(0)_{:.count} {: #au-ct }
+**Little Creatures Pale Ale** (5.2%) _pale ale_{:.tags}  • 
+**Rogers' Beer** (3.8%) _ale_{:.tags} 
+{: .beers }
 
 
 
+### Australian Capital Territory _(0)_{:.count}
+{: #au-ct }
 
 
 
 
-### Northern Territory _(0)_{:.count} {: #au-nt }
+
+
+
+### Northern Territory _(0)_{:.count}
+{: #au-nt }
 
 
 

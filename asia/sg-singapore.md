@@ -12,7 +12,9 @@ permalink: /sg.html
 
 ### Uncategorized Beers
 
-ABC Extra Stout   • Tiger Beer   • Tiger Crystal  
+**ABC Extra Stout**  _stout_{:.tags}  • 
+**Tiger Beer** (5.0%) _pils_{:.tags}  • 
+**Tiger Crystal** (4.1%) _lager_{:.tags} 
 
 
 

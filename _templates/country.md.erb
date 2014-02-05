@@ -36,8 +36,8 @@
 {% country.regions.each do |region| %}
 
 ### {{ region.title_w_synonyms }}  ++
-    _({{ region.breweries.count }})_{:.count} ++
-    {: #{{ country.key }}-{{ region.key }} }
+    _({{ region.breweries.count }})_{:.count}
+{: #{{ country.key }}-{{ region.key }} }
 
  .. <!-- add intra-page cities for regions links here -->
  <!-- change to navbar_cities_for_region( region ) ??? -->

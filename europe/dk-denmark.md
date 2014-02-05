@@ -12,7 +12,21 @@ permalink: /dk.html
 
 ### Uncategorized Beers
 
-Odense Pilsner   • ‹Amager› IPA   • ‹Carlsberg›   • ‹Elephant› Beer   • ‹Tuborg›   • ‹Jacobson› Saaz Blonde   • ‹Jacobson› Sommer Wit   • ‹Midtfyns› Imperial Stout   • ‹Mikkeller› Beer Geek Breakfast   • ‹Mikkeller› Black   • ‹Mikkeler› From To   • Bombay Pale Ale   • Little Korkny Ale   • Julebuk   • Limfjords Porter  
+**Odense Pilsner** (4.6%) _pils_{:.tags}  • 
+**‹Amager› IPA** (7.0%) _ipa_{:.tags}  • 
+**‹Carlsberg›** (5.0%) _pils_{:.tags}  • 
+**‹Elephant› Beer** (7.2%) _pils_{:.tags}  • 
+**‹Tuborg›** (4.5%) _pils_{:.tags}  • 
+**‹Jacobson› Saaz Blonde** (7.1%) _blond_{:.tags}  • 
+**‹Jacobson› Sommer Wit** (5.1%) _witbier_{:.tags}  • 
+**‹Midtfyns› Imperial Stout** (9.5%) _stout_{:.tags}  • 
+**‹Mikkeller› Beer Geek Breakfast** (7.5%) _stout_{:.tags}  • 
+**‹Mikkeller› Black** (17.5%) _stout_{:.tags}  • 
+**‹Mikkeler› From To** (8.0%) _porter_{:.tags}  • 
+**Bombay Pale Ale** (6.5%) _ale_{:.tags}  • 
+**Little Korkny Ale** (12.25%) _ale_{:.tags}  • 
+**Julebuk** (6.3%) _kerstbier_{:.tags}  • 
+**Limfjords Porter** (7.9%) _porter_{:.tags} 
 
 
 

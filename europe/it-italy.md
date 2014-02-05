@@ -12,12 +12,72 @@ permalink: /it.html
 
 ### Uncategorized Beers
 
-Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La Rossa   • Peroni   • Nastro Azzurro   • Peroni Gran Riserva   • Poretti Premium   • La Blond Bock   • Red Bock 1877   • VIP Pils   • Forst Sixtus   • 150° Anniversario   • Oppale   • Farrotta   • Irie   • Elixir   • Erika   • Xyauyù   • Genziana   • Ke To Re Porter   • Re Ale   • Jennas   • Birra Dolomiti Doppio Malto   • Bastarda Doppia   • Nora   • Villa Pola Soci's Schwartz   • BB10   • Sella del Diavolo   • Motor Oil   • Artigian Ale   • Ley Line   • Stoner   • Formidable   • Verdi Imperial Stout   • Via Emilia   • Chocarubbica   • Amber Shock   • Bibock   • Tipopils   • Back Door Bitter   • La Petrognola   • Ghisa   • Ligera   • Montestella   • Demon Hunter   • Draco   • La Mummia   • Quarta Runa   • Panil Barriquée Sour   • Panil Enhanced   • Nivura   • Daü   • Shangrila   • Birra Ichnusa   • P.I.L.S.   • Tosta   • Rajah   • Theresianer Strong Ale  
+**Dreher (Italia)**    • 
+**Von Wunster**    • 
+**Birra Moretti**    • 
+**Baffo D'Oro** (4.8%)   • 
+**La Rossa** (7.2%) _strong amber lager strong dark lager doppelbock_{:.tags}  • 
+**Peroni** (4.7%) _lager_{:.tags}  • 
+**Nastro Azzurro** (5.1%) _premium pilsner_{:.tags}  • 
+**Peroni Gran Riserva**    • 
+**Poretti Premium**    • 
+**La Blond Bock**    • 
+**Red Bock 1877**    • 
+**VIP Pils**    • 
+**Forst Sixtus** (6.5%) _doppelbock_{:.tags}  • 
+**150° Anniversario** (4.8%) _premium lager_{:.tags}  • 
+**Oppale** (5.0%)   • 
+**Farrotta** (5.7%) _speltbier_{:.tags}  • 
+**Irie** (5.0%)   • 
+**Elixir** (10.0%)   • 
+**Erika** (9.0%) _honingbier_{:.tags}  • 
+**Xyauyù** (13.5%) _barley wine_{:.tags}  • 
+**Genziana** (6.2%)   • 
+**Ke To Re Porter** (4.6%) _porter_{:.tags}  • 
+**Re Ale** (6.4%) _ale_{:.tags}  • 
+**Jennas** (4.9%)   • 
+**Birra Dolomiti Doppio Malto** (6.7%)   • 
+**Bastarda Doppia** (8.5%) _kastanjebier_{:.tags}  • 
+**Nora** (6.8%)   • 
+**Villa Pola Soci's Schwartz** (4.0%)   • 
+**BB10** (10.0%)   • 
+**Sella del Diavolo** (6.5%)   • 
+**Motor Oil** (6.8%) _donkere lager_{:.tags}  • 
+**Artigian Ale** (6.2%) _ale_{:.tags}  • 
+**Ley Line** (5.0%)   • 
+**Stoner** (7.5%)   • 
+**Formidable** (8.0%)   • 
+**Verdi Imperial Stout** (8.199999999999999%) _stout_{:.tags}  • 
+**Via Emilia** (5.0%) _pils_{:.tags}  • 
+**Chocarubbica** (7.0%)   • 
+**Amber Shock** (7.0%) _bockbier_{:.tags}  • 
+**Bibock** (6.2%) _bockbier_{:.tags}  • 
+**Tipopils** (5.2%) _pils_{:.tags}  • 
+**Back Door Bitter** (4.8%) _bitter_{:.tags}  • 
+**La Petrognola** (5.5%) _speltbier_{:.tags}  • 
+**Ghisa** (7.0%) _stout_{:.tags}  • 
+**Ligera** (5.0%) _pale ale_{:.tags}  • 
+**Montestella** (4.9%)   • 
+**Demon Hunter** (8.5%) _ale_{:.tags}  • 
+**Draco** (11.0%) _fruitbier_{:.tags}  • 
+**La Mummia** (5.0%)   • 
+**Quarta Runa** (7.0%) _fruitbier_{:.tags}  • 
+**Panil Barriquée Sour** (8.0%) _sour ale_{:.tags}  • 
+**Panil Enhanced** (9.0%)   • 
+**Nivura** (6.5%) _pale ale_{:.tags}  • 
+**Daü** (3.9%) _saison_{:.tags}  • 
+**Shangrila** (8.5%)   • 
+**Birra Ichnusa**  _lager_{:.tags}  • 
+**P.I.L.S.** (4.2%) _pilsener_{:.tags}  • 
+**Tosta** (14.0%) _barley wine_{:.tags}  • 
+**Rajah** (5.2%) _ipa_{:.tags}  • 
+**Theresianer Strong Ale** (8.5%) _ale_{:.tags} 
 
 
 
 
-### Valle d'Aosta [Aosta Valley] _(0)_{:.count} {: #it-ao }
+### Valle d'Aosta [Aosta Valley] _(0)_{:.count}
+{: #it-ao }
 
 
 
@@ -25,7 +85,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Liguria _(0)_{:.count} {: #it-li }
+### Liguria _(0)_{:.count}
+{: #it-li }
 
 
 
@@ -33,7 +94,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Lombardia [Lombardy] _(0)_{:.count} {: #it-lo }
+### Lombardia [Lombardy] _(0)_{:.count}
+{: #it-lo }
 
 
 
@@ -41,7 +103,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Piemonte [Piedmont] _(0)_{:.count} {: #it-pi }
+### Piemonte [Piedmont] _(0)_{:.count}
+{: #it-pi }
 
 
 
@@ -49,7 +112,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Emilia-Romagna _(0)_{:.count} {: #it-er }
+### Emilia-Romagna _(0)_{:.count}
+{: #it-er }
 
 
 
@@ -57,7 +121,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Friuli-Venezia Giulia _(0)_{:.count} {: #it-fv }
+### Friuli-Venezia Giulia _(0)_{:.count}
+{: #it-fv }
 
 
 
@@ -65,7 +130,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Trentino-Alto Adige (Südtirol) _(0)_{:.count} {: #it-tr }
+### Trentino-Alto Adige (Südtirol) _(0)_{:.count}
+{: #it-tr }
 
 
 
@@ -73,7 +139,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Veneto _(0)_{:.count} {: #it-ve }
+### Veneto _(0)_{:.count}
+{: #it-ve }
 
 
 
@@ -81,7 +148,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Lazio _(0)_{:.count} {: #it-la }
+### Lazio _(0)_{:.count}
+{: #it-la }
 
 
 
@@ -89,7 +157,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Marche _(0)_{:.count} {: #it-ma }
+### Marche _(0)_{:.count}
+{: #it-ma }
 
 
 
@@ -97,7 +166,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Toscana [Tuscany] _(0)_{:.count} {: #it-to }
+### Toscana [Tuscany] _(0)_{:.count}
+{: #it-to }
 
 
 
@@ -105,7 +175,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Umbria _(0)_{:.count} {: #it-um }
+### Umbria _(0)_{:.count}
+{: #it-um }
 
 
 
@@ -113,7 +184,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Abruzzo _(0)_{:.count} {: #it-ab }
+### Abruzzo _(0)_{:.count}
+{: #it-ab }
 
 
 
@@ -121,7 +193,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Puglia [Apulia] _(0)_{:.count} {: #it-pu }
+### Puglia [Apulia] _(0)_{:.count}
+{: #it-pu }
 
 
 
@@ -129,7 +202,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Basilicata _(0)_{:.count} {: #it-ba }
+### Basilicata _(0)_{:.count}
+{: #it-ba }
 
 
 
@@ -137,7 +211,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Calabria _(0)_{:.count} {: #it-ca }
+### Calabria _(0)_{:.count}
+{: #it-ca }
 
 
 
@@ -145,7 +220,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Campania _(0)_{:.count} {: #it-cm }
+### Campania _(0)_{:.count}
+{: #it-cm }
 
 
 
@@ -153,7 +229,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Molise _(0)_{:.count} {: #it-mo }
+### Molise _(0)_{:.count}
+{: #it-mo }
 
 
 
@@ -161,7 +238,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Sardegna [Sardinia] _(0)_{:.count} {: #it-sa }
+### Sardegna [Sardinia] _(0)_{:.count}
+{: #it-sa }
 
 
 
@@ -169,7 +247,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Sicilia [Sicily] _(0)_{:.count} {: #it-si }
+### Sicilia [Sicily] _(0)_{:.count}
+{: #it-si }
 
 
 

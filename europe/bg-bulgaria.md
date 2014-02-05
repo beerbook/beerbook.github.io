@@ -12,12 +12,15 @@ permalink: /bg.html
 
 ### Uncategorized Beers
 
-Kamenitza   • Stolichno Bock   • Zagorka  
+**Kamenitza**  _lager_{:.tags}  • 
+**Stolichno Bock** (6.5%) _bockbier_{:.tags}  • 
+**Zagorka**   
 
 
 
 
-### Sofija City _(0)_{:.count} {: #bg-so }
+### Sofija City _(0)_{:.count}
+{: #bg-so }
 
 
 
@@ -25,7 +28,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Sofija Province _(0)_{:.count} {: #bg-sf }
+### Sofija Province _(0)_{:.count}
+{: #bg-sf }
 
 
 
@@ -33,7 +37,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Blagoevgrad _(0)_{:.count} {: #bg-bl }
+### Blagoevgrad _(0)_{:.count}
+{: #bg-bl }
 
 
 
@@ -41,7 +46,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Pernik _(0)_{:.count} {: #bg-pe }
+### Pernik _(0)_{:.count}
+{: #bg-pe }
 
 
 
@@ -49,7 +55,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Kyustendil _(0)_{:.count} {: #bg-ky }
+### Kyustendil _(0)_{:.count}
+{: #bg-ky }
 
 
 
@@ -57,7 +64,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Plovdiv _(0)_{:.count} {: #bg-pv }
+### Plovdiv _(0)_{:.count}
+{: #bg-pv }
 
 
 
@@ -65,7 +73,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Haskovo _(0)_{:.count} {: #bg-ha }
+### Haskovo _(0)_{:.count}
+{: #bg-ha }
 
 
 
@@ -73,7 +82,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Pazardzhik _(0)_{:.count} {: #bg-pa }
+### Pazardzhik _(0)_{:.count}
+{: #bg-pa }
 
 
 
@@ -81,7 +91,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Smolyan _(0)_{:.count} {: #bg-sm }
+### Smolyan _(0)_{:.count}
+{: #bg-sm }
 
 
 
@@ -89,7 +100,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Kardzhali _(0)_{:.count} {: #bg-ka }
+### Kardzhali _(0)_{:.count}
+{: #bg-ka }
 
 
 
@@ -97,7 +109,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Vidin _(0)_{:.count} {: #bg-vi }
+### Vidin _(0)_{:.count}
+{: #bg-vi }
 
 
 
@@ -105,7 +118,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Montana _(0)_{:.count} {: #bg-mo }
+### Montana _(0)_{:.count}
+{: #bg-mo }
 
 
 
@@ -113,7 +127,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Vratsa _(0)_{:.count} {: #bg-vr }
+### Vratsa _(0)_{:.count}
+{: #bg-vr }
 
 
 
@@ -121,7 +136,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Pleven _(0)_{:.count} {: #bg-pl }
+### Pleven _(0)_{:.count}
+{: #bg-pl }
 
 
 
@@ -129,7 +145,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Lovech _(0)_{:.count} {: #bg-lo }
+### Lovech _(0)_{:.count}
+{: #bg-lo }
 
 
 
@@ -137,7 +154,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Veliko Tarnovo _(0)_{:.count} {: #bg-ve }
+### Veliko Tarnovo _(0)_{:.count}
+{: #bg-ve }
 
 
 
@@ -145,7 +163,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Gabrovo _(0)_{:.count} {: #bg-ga }
+### Gabrovo _(0)_{:.count}
+{: #bg-ga }
 
 
 
@@ -153,7 +172,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Ruse _(0)_{:.count} {: #bg-ru }
+### Ruse _(0)_{:.count}
+{: #bg-ru }
 
 
 
@@ -161,7 +181,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Razgrad _(0)_{:.count} {: #bg-ra }
+### Razgrad _(0)_{:.count}
+{: #bg-ra }
 
 
 
@@ -169,7 +190,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Silistra _(0)_{:.count} {: #bg-si }
+### Silistra _(0)_{:.count}
+{: #bg-si }
 
 
 
@@ -177,7 +199,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Varna _(0)_{:.count} {: #bg-va }
+### Varna _(0)_{:.count}
+{: #bg-va }
 
 
 
@@ -185,7 +208,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Dobrich _(0)_{:.count} {: #bg-do }
+### Dobrich _(0)_{:.count}
+{: #bg-do }
 
 
 
@@ -193,7 +217,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Shumen _(0)_{:.count} {: #bg-sh }
+### Shumen _(0)_{:.count}
+{: #bg-sh }
 
 
 
@@ -201,7 +226,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Targovishte _(0)_{:.count} {: #bg-ta }
+### Targovishte _(0)_{:.count}
+{: #bg-ta }
 
 
 
@@ -209,7 +235,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Burgas _(0)_{:.count} {: #bg-bu }
+### Burgas _(0)_{:.count}
+{: #bg-bu }
 
 
 
@@ -217,7 +244,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Sliven _(0)_{:.count} {: #bg-sl }
+### Sliven _(0)_{:.count}
+{: #bg-sl }
 
 
 
@@ -225,7 +253,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Yambol _(0)_{:.count} {: #bg-ya }
+### Yambol _(0)_{:.count}
+{: #bg-ya }
 
 
 
@@ -233,7 +262,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Stara Zagora _(0)_{:.count} {: #bg-sz }
+### Stara Zagora _(0)_{:.count}
+{: #bg-sz }
 
 
 

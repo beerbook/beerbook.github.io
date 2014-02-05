@@ -12,12 +12,13 @@ permalink: /ar.html
 
 ### Uncategorized Beers
 
-‹Antares› Stout Imperial  
+**‹Antares› Stout Imperial** (8.5%) _stout_{:.tags} 
 
 
 
 
-### Ciudad de Buenos Aires _(0)_{:.count} {: #ar-c }
+### Ciudad de Buenos Aires _(0)_{:.count}
+{: #ar-c }
 
 
 
@@ -25,7 +26,8 @@ permalink: /ar.html
 
 
 
-### Provincia de Buenos Aires _(1)_{:.count} {: #ar-b }
+### Provincia de Buenos Aires _(1)_{:.count}
+{: #ar-b }
 
 
 
@@ -34,16 +36,25 @@ permalink: /ar.html
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervecería y Maltería Quilmes - 1888  <br>
+ Cervecería y Maltería Quilmes  - 1888  _abinbev_{:.tags} <br>
 Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
-{:.brewery}
+{: .brewery #quilmes }
 
-‹Quilmes› Cristal   • ‹Quilmes› Bock   • ‹Quilmes› Stout   • ‹Quilmes› Red Lager   • ‹Quilmes› 1890   • ‹Patagonia› Amber Lager   • ‹Patagonia› Bohemia Pilsener   • ‹Patagonia› Weisse   • Igúazu  
-{:.beers}
+**‹Quilmes› Cristal** (4.9%) _lager_{:.tags}  • 
+**‹Quilmes› Bock** (6.3%) _bock_{:.tags}  • 
+**‹Quilmes› Stout** (4.8%) _stout_{:.tags}  • 
+**‹Quilmes› Red Lager** (4.7%) _red lager_{:.tags}  • 
+**‹Quilmes› 1890** (5.4%) _pilsner_{:.tags}  • 
+**‹Patagonia› Amber Lager** (4.5%) _amber lager_{:.tags}  • 
+**‹Patagonia› Bohemia Pilsener** (5.2%) _pilsner_{:.tags}  • 
+**‹Patagonia› Weisse** (5.0%) _weisse_{:.tags}  • 
+**Igúazu** (4.9%) _lager_{:.tags} 
+{: .beers }
 
 
 
-### Catamarca _(0)_{:.count} {: #ar-k }
+### Catamarca _(0)_{:.count}
+{: #ar-k }
 
 
 
@@ -51,7 +62,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Chaco _(0)_{:.count} {: #ar-h }
+### Chaco _(0)_{:.count}
+{: #ar-h }
 
 
 
@@ -59,7 +71,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Chubut _(0)_{:.count} {: #ar-u }
+### Chubut _(0)_{:.count}
+{: #ar-u }
 
 
 
@@ -67,7 +80,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Córdoba _(0)_{:.count} {: #ar-x }
+### Córdoba _(0)_{:.count}
+{: #ar-x }
 
 
 
@@ -75,7 +89,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Corrientes _(0)_{:.count} {: #ar-w }
+### Corrientes _(0)_{:.count}
+{: #ar-w }
 
 
 
@@ -83,7 +98,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Entre Ríos _(0)_{:.count} {: #ar-e }
+### Entre Ríos _(0)_{:.count}
+{: #ar-e }
 
 
 
@@ -91,7 +107,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Formosa _(0)_{:.count} {: #ar-p }
+### Formosa _(0)_{:.count}
+{: #ar-p }
 
 
 
@@ -99,7 +116,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Jujuy _(0)_{:.count} {: #ar-y }
+### Jujuy _(0)_{:.count}
+{: #ar-y }
 
 
 
@@ -107,7 +125,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### La Pampa _(0)_{:.count} {: #ar-l }
+### La Pampa _(0)_{:.count}
+{: #ar-l }
 
 
 
@@ -115,7 +134,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### La Rioja _(0)_{:.count} {: #ar-f }
+### La Rioja _(0)_{:.count}
+{: #ar-f }
 
 
 
@@ -123,7 +143,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Mendoza _(0)_{:.count} {: #ar-m }
+### Mendoza _(0)_{:.count}
+{: #ar-m }
 
 
 
@@ -131,7 +152,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Misiones _(0)_{:.count} {: #ar-n }
+### Misiones _(0)_{:.count}
+{: #ar-n }
 
 
 
@@ -139,7 +161,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Neuquén _(0)_{:.count} {: #ar-q }
+### Neuquén _(0)_{:.count}
+{: #ar-q }
 
 
 
@@ -147,7 +170,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Río Negro _(0)_{:.count} {: #ar-r }
+### Río Negro _(0)_{:.count}
+{: #ar-r }
 
 
 
@@ -155,7 +179,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Salta _(0)_{:.count} {: #ar-a }
+### Salta _(0)_{:.count}
+{: #ar-a }
 
 
 
@@ -163,7 +188,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### San Juan _(0)_{:.count} {: #ar-j }
+### San Juan _(0)_{:.count}
+{: #ar-j }
 
 
 
@@ -171,7 +197,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### San Luis _(0)_{:.count} {: #ar-d }
+### San Luis _(0)_{:.count}
+{: #ar-d }
 
 
 
@@ -179,7 +206,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Santa Cruz _(0)_{:.count} {: #ar-z }
+### Santa Cruz _(0)_{:.count}
+{: #ar-z }
 
 
 
@@ -187,7 +215,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Santa Fe _(0)_{:.count} {: #ar-s }
+### Santa Fe _(0)_{:.count}
+{: #ar-s }
 
 
 
@@ -195,7 +224,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Santiago del Estero _(0)_{:.count} {: #ar-g }
+### Santiago del Estero _(0)_{:.count}
+{: #ar-g }
 
 
 
@@ -203,7 +233,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Tierra del Fuego (Antártida e Islas del Atlántico Sur) _(0)_{:.count} {: #ar-v }
+### Tierra del Fuego (Antártida e Islas del Atlántico Sur) _(0)_{:.count}
+{: #ar-v }
 
 
 
@@ -211,7 +242,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Tucumán _(0)_{:.count} {: #ar-t }
+### Tucumán _(0)_{:.count}
+{: #ar-t }
 
 
 

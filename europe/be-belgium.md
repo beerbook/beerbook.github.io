@@ -12,12 +12,13 @@ permalink: /be.html
 
 ### Uncategorized Beers
 
-Stella Artois  
+**Stella Artois**   
 
 
 
 
-### Bruxelles•Brussel [Brussels (Capital Region)] _(1)_{:.count} {: #be-bru }
+### Bruxelles•Brussel [Brussels (Capital Region)] _(1)_{:.count}
+{: #be-bru }
 
 
 
@@ -26,15 +27,16 @@ Stella Artois
 ##### Uncategorized _(1)_{:.count}
 
 
-Cantillon - 1900  <br>
+ Cantillon • Brouwerij Cantillon  - 1900   <br>
 Rue Gheude 56 // 1070 Bruxelles (Anderlecht)  <br>
 [www.cantillon.be](http://www.cantillon.be)  <br>
-{:.brewery}
+{: .brewery #cantillon }
 
 
 
 
-### Antwerpen [Antwerp] _(6)_{:.count} {: #be-van }
+### Antwerpen [Antwerp] _(6)_{:.count}
+{: #be-van }
 
 
 
@@ -43,46 +45,60 @@ Rue Gheude 56 // 1070 Bruxelles (Anderlecht)  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
-Achilles - 1999  <br>
+ Achilles • Microbrouwerij Achilles  - 1999   <br>
 Keizershofdijk 2 bus 2 // 2222 Itegem  <br>
 [www.serafijn-bier.be](http://www.serafijn-bier.be)  <br>
-{:.brewery}
+{: .brewery #achilles }
 
 
-Anker - 1873  <br>
+ Anker • Het Anker • Brouwerij Het Anker  - 1873   <br>
 Guido Gezellelaan 49 // 2800 Mechelen  <br>
 [www.hetanker.be](http://www.hetanker.be)  <br>
-{:.brewery}
+{: .brewery #anker }
 
-Gouden Carolus Classic   • Gouden Carolus Tripel   • Gouden Carolus Ambrio   • Gouden Carolus Hopsinjoor   • Gouden Carolus Easter   • Gouden Carolus Christmas   • Cuvée van de Keizer Blauw   • Cuvée van de Keizer Rood   • Lucifer   • Maneblusser   • Anker Lager   • Anker Herfstbok   • Boscoli   • Dentergems White  
-{:.beers}
+**Gouden Carolus Classic** (8.5%, 19.0°) _dark special_{:.tags}  • 
+**Gouden Carolus Tripel** (9.0%, 20.0°) _tripel_{:.tags}  • 
+**Gouden Carolus Ambrio** (8.0%, 18.0°) _amber_{:.tags}  • 
+**Gouden Carolus Hopsinjoor** (8.0%, 18.5°) _blonde_{:.tags}  • 
+**Gouden Carolus Easter**    • 
+**Gouden Carolus Christmas**    • 
+**Cuvée van de Keizer Blauw** (11.0%, 24.0°) _dark special_{:.tags}  • 
+**Cuvée van de Keizer Rood** (10.0%, 20.0°) _blonde special_{:.tags}  • 
+**Lucifer** (8.0%, 17.0°) _blonde special beer_{:.tags}  • 
+**Maneblusser** (6.5%, 14.2°) _blonde_{:.tags}  • 
+**Anker Lager** (5.0%, 12.5°) _lager_{:.tags}  • 
+**Anker Herfstbok** (6.5%, 15.0°) _special bock_{:.tags}  • 
+**Boscoli**    • 
+**Dentergems White** (5.0%, 11.5°) _wheat beer_{:.tags} 
+{: .beers }
 
-De Koninck - 1833  <br>
+ De Koninck • Brouwerij De Koninck  - 1833   <br>
 Mechelsesteenweg 291 // 2018 Antwerpen  <br>
 [www.dekoninck.be](http://www.dekoninck.be)  <br>
-{:.brewery}
+{: .brewery #dekoninck }
 
 
-Duvel Moortgat - 1871  <br>
+ Duvel Moortgat • Brouwerij Duvel Moortgat  - 1871   <br>
 Breendonk-Dorp 58 // 2870 Breendonk-Puurs  <br>
-{:.brewery}
+{: .brewery #duvelmoortgat }
 
 
-Pakhuis -   <br>
+ Pakhuis   <br>
 Vlaamse Kaai 76 // 2000 Antwerp  <br>
 [www.pakhuis.info](http://www.pakhuis.info)  <br>
-{:.brewery}
+{: .brewery #pakhuis }
 
 
-Westmalle - 1836  <br>
+ Westmalle • Brouwerij der Trappisten van Westmalle  - 1836  _trappist_{:.tags} <br>
 Antwerpsesteenweg 496 // 2390 Westmalle  <br>
 [www.trappistwestmalle.be](http://www.trappistwestmalle.be)  <br>
-{:.brewery}
+{: .brewery #westmalle }
 
 
 
 
-### Limburg _(2)_{:.count} {: #be-vli }
+### Limburg _(2)_{:.count}
+{: #be-vli }
 
 
 
@@ -91,23 +107,29 @@ Antwerpsesteenweg 496 // 2390 Westmalle  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Achel - 1999  <br>
+ Achel • Brouwerij de Achelse Kluis • Brouwerij der Sint-Benedictusabdij de Achelse Kluis  - 1999  _trappist_{:.tags} <br>
 De Kluis 1 // 3930 Hamont-Achel  <br>
 [www.achelsekluis.org](http://www.achelsekluis.org)  <br>
-{:.brewery}
+{: .brewery #achel }
 
-Achel Blonde 5°   • Achel Brune 5°   • Achel Blonde 8°   • Achel Brune 8°   • Achel Extra Brune   • Achel Extra Blonde  
-{:.beers}
+**Achel Blonde 5°** (5.0%)   • 
+**Achel Brune 5°** (5.0%)   • 
+**Achel Blonde 8°** (8.0%)   • 
+**Achel Brune 8°** (8.0%)   • 
+**Achel Extra Brune** (9.5%) _barley wine_{:.tags}  • 
+**Achel Extra Blonde** (9.5%)  
+{: .beers }
 
-Kerkom - 1878  <br>
+ Kerkom • Brouwerij Kerkom  - 1878   <br>
 Naamsesteenweg 469 // 3800 Sint-Truiden  <br>
 [www.brouwerijkerkom.be](http://www.brouwerijkerkom.be)  <br>
-{:.brewery}
+{: .brewery #kerkom }
 
 
 
 
-### Oost-Vlaanderen [East Flanders] _(15)_{:.count} {: #be-vov }
+### Oost-Vlaanderen [East Flanders] _(15)_{:.count}
+{: #be-vov }
 
 
 
@@ -116,103 +138,112 @@ Naamsesteenweg 469 // 3800 Sint-Truiden  <br>
 ##### Uncategorized _(15)_{:.count}
 
 
-Bosteels - 1791  <br>
+ Bosteels • Brouwerij Bosteels  - 1791   <br>
 Kerkstraat 92 // 9255 Buggenhout  <br>
 [www.bestbelgianspecialbeers.be](http://www.bestbelgianspecialbeers.be)  <br>
-{:.brewery}
+{: .brewery #bosteels }
 
-Tripel Karmeliet   • DeuS   • Pauwel Kwak  
-{:.beers}
+**Tripel Karmeliet** (8.0%) _triple_{:.tags}  • 
+**DeuS** (11.5%) _brut_{:.tags}  • 
+**Pauwel Kwak** (8.4%) _amber ale_{:.tags} 
+{: .beers }
 
-Brouwerij Cnudde - 1919  <br>
+ Brouwerij Cnudde  - 1919   <br>
 Fabriekstraat 8 // 9700 Eine-Oudenaarde  <br>
-{:.brewery}
+{: .brewery #cnudde }
 
-Cnudde Bruin  
-{:.beers}
+**Cnudde Bruin** (4.7%) _flemish brown ale_{:.tags} 
+{: .beers }
 
-Brouwerij Contreras - 1818  <br>
+ Brouwerij Contreras  - 1818   <br>
 Molenstraat 110 // 9890 Gavere  <br>
 [www.contreras.be](http://www.contreras.be)  <br>
-{:.brewery}
+{: .brewery #contreras }
 
-Contrapils   • Tonneke   • Contreras' Especial Mars   • Valeir Blond   • Valeir Donker   • Valeir Extra   • Valeir Divers  
-{:.beers}
+**Contrapils** (5.0%) _pilsner_{:.tags}  • 
+**Tonneke** (5.0%) _belgian ale_{:.tags}  • 
+**Contreras' Especial Mars** (6.5%) _maerzen_{:.tags}  • 
+**Valeir Blond** (6.5%) _belgian pale ale_{:.tags}  • 
+**Valeir Donker** (6.5%) _belgian brown ale_{:.tags}  • 
+**Valeir Extra** (6.5%) _belgian ipa_{:.tags}  • 
+**Valeir Divers** (8.5%) _belgian tripel_{:.tags} 
+{: .beers }
 
-De Graal -   <br>
+ De Graal   <br>
 Warande 15 // 9660 Brakel  <br>
 [www.degraal.be](http://www.degraal.be)  <br>
-{:.brewery}
+{: .brewery #degraal }
 
 
-De Ryck - 1886  <br>
+ De Ryck • Brouwerij De Ryck  - 1886   <br>
 Kerkstraat 24 // 9550 Herzele  <br>
 [www.brouwerijderyck.be](http://www.brouwerijderyck.be)  <br>
-{:.brewery}
+{: .brewery #deryck }
 
 
-Glazen Toren - 2004  <br>
+ Glazen Toren • Brouwerij De Glazen Toren  - 2004   <br>
 Glazentorenweg 11‎ // 9420 Erpe-Mere  <br>
 [www.glazentoren.be](http://www.glazentoren.be)  <br>
-{:.brewery}
+{: .brewery #glazentoren }
 
 
-Huyghe - 1906  <br>
+ Huyghe • Brouwerij Huyghe  - 1906   <br>
 // Melle  <br>
 [www.delirium.be](http://www.delirium.be)  <br>
-{:.brewery}
+{: .brewery #huyghe }
 
 
-Liefmans - 1679  <br>
+ Liefmans  - 1679   <br>
 Aalststraat 200 // 9700 Oudenaarde  <br>
 [www.liefmans.be](http://www.liefmans.be)  <br>
-{:.brewery}
+{: .brewery #liefmans }
 
 
-De Landtsheer - 1997  <br>
+ De Landtsheer • Brouwerij De Landtsheer • Brouwerij Malheur  - 1997   <br>
 Mandekensstraat 179 // 9255 Buggenhout  <br>
 [www.malheur.be](http://www.malheur.be)  <br>
-{:.brewery}
+{: .brewery #malheur }
 
 
-Proef - 1996  <br>
+ Proef • Proefbrouwerij • De Proefbrouwerij  - 1996   <br>
 Doornzelestraat 20 //9080 Lochristi  <br>
 [www.proefbrouwerij.com](http://www.proefbrouwerij.com)  <br>
-{:.brewery}
+{: .brewery #proef }
 
 
-Roman - 1545  <br>
+ Roman • Brouwerij Roman  - 1545   <br>
 Hauwaart 105 // 9700 Oudenaarde  <br>
 [www.roman.be](http://www.roman.be)  <br>
-{:.brewery}
+{: .brewery #roman }
 
 
-Sint Canarus - 2002  <br>
+ Sint Canarus • Huisbrouwerij Sint Canarus  - 2002   <br>
 Polderweg 2 // 9800 Deinze  <br>
 [www.sintcanarus.be](http://www.sintcanarus.be)  <br>
-{:.brewery}
+{: .brewery #sintcanarus }
 
 
-Slaghmuylder - 1860  <br>
+ Slaghmuylder • Brouwerij Slaghmuylder  - 1860   <br>
 Denderhoutembaan 2 // 9400 Ninove  <br>
-{:.brewery}
+{: .brewery #slaghmuylder }
 
 
-Van Den Bossche - 1897  <br>
+ Van Den Bossche • Brouwerij Van Den Bossche  - 1897   <br>
 Sint-Lievensplein 16 // 9550 Sint-Lievens-Esse  <br>
 [www.paterlieven.be](http://www.paterlieven.be)  <br>
-{:.brewery}
+{: .brewery #vandenbossche }
 
 
-Van Steenberge - 1784  <br>
+ Van Steenberge • Brouwerij Van Steenberge  - 1784   <br>
 Lindenlaan 25 // 9940 Ertvelde  <br>
 [vansteenberge.com](http://vansteenberge.com)  <br>
-{:.brewery}
+{: .brewery #vansteenberge }
 
 
 
 
-### Vlaams-Brabant [Flemish Brabant] _(17)_{:.count} {: #be-vbr }
+### Vlaams-Brabant [Flemish Brabant] _(17)_{:.count}
+{: #be-vbr }
 
 
 
@@ -221,106 +252,107 @@ Lindenlaan 25 // 9940 Ertvelde  <br>
 ##### Uncategorized _(17)_{:.count}
 
 
-Affligem - 1790  <br>
+ Affligem • Brouwerij De Smedt • Brouwerij Affligem  - 1790  _heineken_{:.tags} <br>
 Ringlaan 18 // 1745 Opwijk  <br>
 [www.affligembeer.be](http://www.affligembeer.be)  <br>
-{:.brewery}
+{: .brewery #affligem }
 
 
-Boon - 1680  <br>
+ Boon • Brouwerij Boon  - 1680   <br>
 Fonteinstraat 65 // 1502 Lembeek  <br>
 [www.boon.be](http://www.boon.be)  <br>
-{:.brewery}
+{: .brewery #boon }
 
 
-De Block - 1887  <br>
+ De Block • Brouwerij De Block  - 1887   <br>
 Nieuwbaan 92 // 1785 Merchtem-Peizegem  <br>
 [www.satanbeer.com](http://www.satanbeer.com)  <br>
-{:.brewery}
+{: .brewery #deblock }
 
 
-De Cam - 1992  <br>
+ De Cam • Geuzestekerij De Cam  - 1992   <br>
 Dorpstraat 67a // 1755 Gooik  <br>
 [www.decam.be](http://www.decam.be)  <br>
-{:.brewery}
+{: .brewery #decam }
 
 
-Domus Huisbrouwerij - 1985  <br>
+ Domus Huisbrouwerij • Brouwerij Domus  - 1985   <br>
 Eikstraat 14 // 3000 Leuven  <br>
 [www.domusleuven.be](http://www.domusleuven.be)  <br>
-{:.brewery}
+{: .brewery #domus }
 
 
-Drie Fonteinen - 1953  <br>
+ Drie Fonteinen • 3 Fonteinen • Geuzestekerij 3 Fonteinen  - 1953   <br>
 Hoogstraat 2a // 1650 Beersel  <br>
 [www.3fonteinen.be](http://www.3fonteinen.be)  <br>
-{:.brewery}
+{: .brewery #driefonteinen }
 
 
-Girardin - 1845  <br>
+ Girardin • Brouwerij Girardin  - 1845   <br>
 Lindenberg 10-12 // 1700 Sint-Ulriks-Kapelle  <br>
-{:.brewery}
+{: .brewery #girardin }
 
 
-Haacht - 1898  <br>
+ Haacht • Brouwerij Haacht  - 1898   <br>
 Provinciesteenweg 28 // 3190 Boortmeerbeek  <br>
 [www.haacht.com](http://www.haacht.com)  <br>
-{:.brewery}
+{: .brewery #haacht }
 
 
-Hanssens Artisanaal - 1896  <br>
+ Hanssens Artisanaal • Geuzestekerij Hanssens Artisanaal  - 1896   <br>
 // Dworp  <br>
-{:.brewery}
+{: .brewery #hanssensartisanaal }
 
 
-Hoogaarden -   <br>
+ Hoogaarden   <br>
 Stoopkenstraat 46 // 3320 Hoegaarden  <br>
 [www.hoegaarden.com](http://www.hoegaarden.com)  <br>
-{:.brewery}
+{: .brewery #hoegaarden }
 
 
-Lindenmans - 1822  <br>
+ Lindenmans • Brouwerij Lindemans  - 1822   <br>
 Lenniksebaan 1479 // 1602 Vlezenbeek  <br>
 [www.lindemans.be](http://www.lindemans.be)  <br>
-{:.brewery}
+{: .brewery #lindenmans }
 
 
-Loterbol - 1995  <br>
+ Loterbol • Brouwerij Loterbol  - 1995   <br>
 [www.loterbol.be](http://www.loterbol.be)  <br>
-{:.brewery}
+{: .brewery #loterbol }
 
 
-Mort Subite -   <br>
+ Mort Subite • Brouwerij Mort Subite   <br>
 Lierput 1 // 1730 Kobbegem  <br>
 [www.mort-subite.be](http://www.mort-subite.be)  <br>
-{:.brewery}
+{: .brewery #mortsubite }
 
 
-Oud Beersel -   <br>
+ Oud Beersel • Geuzestekerij Oud Beersel • Brouwerij Oud Beersel   <br>
 Laarheidestraat 230 // 1650 Beersel  <br>
 [www.oudbeersel.com](http://www.oudbeersel.com)  <br>
-{:.brewery}
+{: .brewery #oudbeersel }
 
 
-Palm - 1747  <br>
+ Palm • Brouwerij Palm  - 1747   <br>
 Steenhuffeldorp 3 // 1840 Steenhuffel  <br>
 [www.palm.be](http://www.palm.be)  <br>
-{:.brewery}
+{: .brewery #palm }
 
 
-Timmermans - 1702  <br>
-{:.brewery}
+ Timmermans • Brouwerij Timmermans  - 1702   <br>
+{: .brewery #timmermans }
 
 
-Triest - 2009  <br>
+ Triest • Microbrouwerij Den Triest  - 2009   <br>
 Trieststraat 24 // 1880 Kapelle-op-den-Bos  <br>
 [www.dentriest.be](http://www.dentriest.be)  <br>
-{:.brewery}
+{: .brewery #triest }
 
 
 
 
-### West-Vlaanderen [West Flanders] _(17)_{:.count} {: #be-vwv }
+### West-Vlaanderen [West Flanders] _(17)_{:.count}
+{: #be-vwv }
 
 
 
@@ -329,119 +361,149 @@ Trieststraat 24 // 1880 Kapelle-op-den-Bos  <br>
 ##### Uncategorized _(17)_{:.count}
 
 
-Strubbe - 1830  <br>
+ Strubbe • Brouwerij Strubbe  - 1830   <br>
 Markt 1 // 8480 Ichtegem  <br>
 [www.brouwerij-strubbe.be](http://www.brouwerij-strubbe.be)  <br>
-{:.brewery}
+{: .brewery #strubbe }
 
 
-Halve Maan - 1856  <br>
+ Halve Maan • Brouwerij De Halve Maan • Brouwerij Henri Maes  - 1856   <br>
 // Brugge  <br>
 [www.halvemaan.be](http://www.halvemaan.be)  <br>
-{:.brewery}
+{: .brewery #halvemaan }
 
 
-Regenboog -   <br>
+ Regenboog • De Regenboog   <br>
 Koningin Astridlaan 13 // 8310 Assebroek-Brugge  <br>
-{:.brewery}
+{: .brewery #regenboog }
 
 
-Alvinne - 2004  <br>
+ Alvinne • Brouwerij Alvinne • Picobrouwerij Alvinne  - 2004   <br>
 Vaartstraat 4a // 8552 Moen/Zwevegem  <br>
 [www.alvinne.be](http://www.alvinne.be)  <br>
-{:.brewery}
+{: .brewery #alvinne }
 
-Alvinne Blond   • Alvinne Bruin   • Alvinne Blond Extra   • Alvinne Tripel   • Alvinne Extra Restyled   • Alvinne Freaky   • Balthazar   • Melchior   • Gaspar  
-{:.beers}
+**Alvinne Blond** (6.0%) _blond ale_{:.tags}  • 
+**Alvinne Bruin** (6.5%) _brown ale_{:.tags}  • 
+**Alvinne Blond Extra** (7.1%) _strong golden ale_{:.tags}  • 
+**Alvinne Tripel** (8.699999999999999%)   • 
+**Alvinne Extra Restyled**    • 
+**Alvinne Freaky**    • 
+**Balthazar** (9.0%) _seasonal christmas three wise men_{:.tags}  • 
+**Melchior** (11.0%) _seasonal christmas three wise men_{:.tags}  • 
+**Gaspar** (8.0%) _seasonal christmas three wise men_{:.tags} 
+{: .beers }
 
-Bavik - 1894  <br>
+ Bavik • Brouwerij Bavik  - 1894   <br>
 Rijksweg 33 // 8531 Bavikhove  <br>
 [www.bavik.be](http://www.bavik.be)  <br>
-{:.brewery}
+{: .brewery #bavik }
 
-Bavik Premium Pils   • Bavik Triple Bock   • Wittekerke   • Petrus Oud Bruin   • Petrus Speciale   • Petrus Gouden Tripel   • Petrus Dubbel Bruin   • Petrus Blond   • Petrus Winter   • Petrus Aged Pale  
-{:.beers}
+**Bavik Premium Pils**    • 
+**Bavik Triple Bock** (3.0%)   • 
+**Wittekerke** (5.0%) _witbier wheat_{:.tags}  • 
+**Petrus Oud Bruin** (5.5%) _bruin_{:.tags}  • 
+**Petrus Speciale** (5.0%) _speciale_{:.tags}  • 
+**Petrus Gouden Tripel**    • 
+**Petrus Dubbel Bruin** (6.5%) _brown_{:.tags}  • 
+**Petrus Blond**    • 
+**Petrus Winter**    • 
+**Petrus Aged Pale** (7.3%) _aged pale_{:.tags} 
+{: .beers }
 
-Bockor - 1892  <br>
+ Bockor • Brouwerij Bockor  - 1892   <br>
 Kwabrugstraat 5 // 8500 Bellegem  <br>
 [www.bockor.be‎](http://www.bockor.be‎)  <br>
-{:.brewery}
+{: .brewery #bockor }
 
-Omer (Traditional Blond)   • Bellegems Witbier   • Vander Ghinste Oud Bruin   • Cuvée des Jacobins  
-{:.beers}
+**Omer (Traditional Blond)** (8.0%) _blond golden ale_{:.tags}  • 
+**Bellegems Witbier** (5.0%) _wheat_{:.tags}  • 
+**Vander Ghinste Oud Bruin** (5.5%) _sour brown ale_{:.tags}  • 
+**Cuvée des Jacobins** (5.5%) _flemish sour ale_{:.tags} 
+{: .beers }
 
-Brouwerij Deca - 1850  <br>
+ Brouwerij Deca  - 1850   <br>
 Elverdingestraat 4 // 8640 Woesten  <br>
 [www.decabrouwerij.com](http://www.decabrouwerij.com)  <br>
-{:.brewery}
+{: .brewery #deca }
 
-Antiek Blond Super 5 Ale   • Antiek Blond   • Vleteren Bruin 8°   • Vleteren Bruin 12°   • Vleteren Blond 12°  
-{:.beers}
+**Antiek Blond Super 5 Ale** (5.0%)   • 
+**Antiek Blond** (8.0%) _belgian strong pale ale_{:.tags}  • 
+**Vleteren Bruin 8°** (8.0%) _belgian strong ale_{:.tags}  • 
+**Vleteren Bruin 12°**    • 
+**Vleteren Blond 12°** (12.0%)  
+{: .beers }
 
-De Dolle Brouwers - 1980  <br>
+ De Dolle Brouwers  - 1980   <br>
 Roeselarestraat 12b // 8600 Essen  <br>
 [www.dedollebrouwers.be](http://www.dedollebrouwers.be)  <br>
-{:.brewery}
+{: .brewery #dedollebrouwers }
 
-De Dolle Arabier   • De Dolle Oerbier   • De Dolle Dulle Teve   • De Dolle Special Extra Export Stout   • De Dolle Boskeun   • De Dolle Stille Nacht  
-{:.beers}
+**De Dolle Arabier** (8.0%) _belgian strong pale ale blond_{:.tags}  • 
+**De Dolle Oerbier** (9.0%) _belgian strong dark ale strong dubbel_{:.tags}  • 
+**De Dolle Dulle Teve** (10.0%) _belgian tripel_{:.tags}  • 
+**De Dolle Special Extra Export Stout** (9.0%) _belgian imperial stout_{:.tags}  • 
+**De Dolle Boskeun** (7.0%) _tripel belgian strong pale ale seasonal easter_{:.tags}  • 
+**De Dolle Stille Nacht** (12.0%) _belgian tripel seasonal christmas winter_{:.tags} 
+{: .beers }
 
-Gaverhopke -   <br>
+ Gaverhopke   <br>
 Steenbrugstraat 187 // 8530 Stasegem-Harelbeke  <br>
-{:.brewery}
+{: .brewery #gaverhopke }
 
 
-Rodenbach -   <br>
+ Rodenbach • Brouwerij Rodenbach   <br>
 Spanjestraat 133-141 // 8800 Roeselare  <br>
 [www.rodenbach.be](http://www.rodenbach.be)  <br>
-{:.brewery}
+{: .brewery #rodenbach }
 
 
-St. Bernardus - 1946  <br>
+ St. Bernardus • Sint Bernardus • Brouwerij St. Bernard  - 1946  _belgianfamilybrewers_{:.tags} <br>
 Trappistenweg 23 // 8978 Watou  <br>
 [www.sintbernardus.be](http://www.sintbernardus.be)  <br>
-{:.brewery}
+{: .brewery #stbernardus }
 
 
-De Struise - 2001  <br>
+ De Struise • De Struise Brouwers  - 2001   <br>
 Kasteelstraat 50 //8640 Oostvleteren  <br>
 [www.struisebrouwers.be](http://www.struisebrouwers.be)  <br>
-{:.brewery}
+{: .brewery #destruise }
 
 
-Urthel - 2000  <br>
+ Urthel • Brouwerij Urthel  - 2000   <br>
 // Ruiselede  <br>
 [www.urthel.com](http://www.urthel.com)  <br>
-{:.brewery}
+{: .brewery #urthel }
 
 
-Van Eecke - 1862  <br>
+ Van Eecke • Brouwerij Van Eecke  - 1862  _belgianfamilybrewers_{:.tags} <br>
 Douvieweg 2 // 8978 Watou  <br>
 [www.brouwerijvaneecke.be](http://www.brouwerijvaneecke.be)  <br>
-{:.brewery}
+{: .brewery #vaneecke }
 
 
-Vanhonsebrouck - 1900  <br>
+ Vanhonsebrouck  - 1900  _belgianfamilybrewers_{:.tags} <br>
 Oostrozebekestraat 43 // 8770 Ingelmunster  <br>
 [www.vanhonsebrouck.be](http://www.vanhonsebrouck.be)  <br>
-{:.brewery}
+{: .brewery #vanhonsebrouck }
 
 
-Verhaeghe - 1885  <br>
+ Verhaeghe • Brouwerij Verhaeghe  - 1885  _belgianfamilybrewers_{:.tags} <br>
 Beukenhofstraat 96 // 8570 Vichte  <br>
 [www.brouwerijverhaeghe.be](http://www.brouwerijverhaeghe.be)  <br>
-{:.brewery}
+{: .brewery #verhaeghe }
 
 
-Westvleteren -   <br>
+ Westvleteren   <br>
 St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren  <br>
 [www.sintsixtus.be](http://www.sintsixtus.be)  <br>
-{:.brewery}
+{: .brewery #westvleteren }
 
 
 
 
-### Brabant Wallon [Walloon Brabant] _(1)_{:.count} {: #be-wbr }
+### Brabant Wallon [Walloon Brabant] _(1)_{:.count}
+{: #be-wbr }
 
 
 
@@ -450,15 +512,16 @@ St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Lefèbvre - 1876  <br>
+ Lefèbvre • Brasserie Lefèbvre  - 1876   <br>
 Chemin du Croly 54 // 1430 Rebecq-Quenast  <br>
 [www.brasserielefebvre.be](http://www.brasserielefebvre.be)  <br>
-{:.brewery}
+{: .brewery #lefebvre }
 
 
 
 
-### Hainaut _(16)_{:.count} {: #be-wht }
+### Hainaut _(16)_{:.count}
+{: #be-wht }
 
 
 
@@ -467,97 +530,98 @@ Chemin du Croly 54 // 1430 Rebecq-Quenast  <br>
 ##### Uncategorized _(16)_{:.count}
 
 
-De Ranke - 1994  <br>
+ De Ranke • Brouwerij De Ranke  - 1994   <br>
 Rue Petit Tourcoing 1a // 7711 Dottignies  <br>
 [www.deranke.be](http://www.deranke.be)  <br>
-{:.brewery}
+{: .brewery #deranke }
 
 
-Abbaye des Rocs - 1979  <br>
+ Abbaye des Rocs • Brasserie de l'Abbaye des Rocs  - 1979   <br>
 37 Chaussée Brunehault // 7387 Montignies-sur-Roc  <br>
 [www.abbaye-des-rocs.com](http://www.abbaye-des-rocs.com)  <br>
-{:.brewery}
+{: .brewery #abbayederocs }
 
 
-Augrenoise - 2001  <br>
+ Augrenoise • Brasserie Augrenoise  - 2001   <br>
 Chaussée de Bruxelles 184 // 7061 Casteau  <br>
 [www.augrenoise.com](http://www.augrenoise.com)  <br>
-{:.brewery}
+{: .brewery #augrenoise }
 
 
-Binchoise - 1989  <br>
+ Binchoise • Brasserie La Binchoise  - 1989   <br>
 Faubourg Saint Paul 38 // 7130 Binche  <br>
 [www.brasserielabinchoise.be](http://www.brasserielabinchoise.be)  <br>
-{:.brewery}
+{: .brewery #binchoise }
 
 
-Blaugies - 1988  <br>
+ Blaugies • Brasserie de Blaugies  - 1988   <br>
 435 Rue de la Frontière // 7370 Dour (Blaugies)  <br>
 [www.brasseriedeblaugies.com](http://www.brasseriedeblaugies.com)  <br>
-{:.brewery}
+{: .brewery #blaugies }
 
 
-Brootcoorens - 2000  <br>
+ Brootcoorens • Brasserie Brootcoorens  - 2000   <br>
 Rue de Maubeuge 197 // 6560 Erquelinnes  <br>
-{:.brewery}
+{: .brewery #brootcoorens }
 
 
-Brunehat - 1890  <br>
+ Brunehat • Brasserie de Brunehaut  - 1890   <br>
 Rue des Panneries 17-19 // 7623 Rongy (Brunehaut)  <br>
-{:.brewery}
+{: .brewery #brunehaut }
 
 
-Caulier - 1994  <br>
+ Caulier • Brasserie Caulier  - 1994   <br>
 Rue de Sondeville 134 // 7600 Péruwelz  <br>
-{:.brewery}
+{: .brewery #caulier }
 
 
-Cazeau - 2004  <br>
+ Cazeau • Brasserie de Cazeau  - 2004   <br>
 67 Rue de Cazeau  // 7520 Templeuve  <br>
 [www.brasseriedecazeau.be](http://www.brasseriedecazeau.be)  <br>
-{:.brewery}
+{: .brewery #cazeau }
 
 
-Chimay -   <br>
+ Chimay   <br>
 Route de Charlemagne 8 // 6464 Baileux  <br>
 [www.chimay.com](http://www.chimay.com)  <br>
-{:.brewery}
+{: .brewery #chimay }
 
 
-Dubuisson -   <br>
+ Dubuisson • Brasserie Dubuisson   <br>
 Chausée de Mons 28 // 7904 Pipaix-Leuze  <br>
-{:.brewery}
+{: .brewery #dubuisson }
 
 
-Dupont -   <br>
+ Dupont • Brasserie Dupont   <br>
 Rue Basse 5 // 7904 Tourpes-Leuze  <br>
-{:.brewery}
+{: .brewery #dupont }
 
 
-Ellezelloise -   <br>
+ Ellezelloise • Brasserie Ellezelloise   <br>
 Guinaumont 75 // 7890 Ellezelles  <br>
-{:.brewery}
+{: .brewery #ellezelloise }
 
 
-Géants - 1998  <br>
+ Géants • Brasserie Des Géants • Brasserie des Légendes  - 1998   <br>
 Rue de Castel 19 // 7801 Irchonwelz (Ath)  <br>
-{:.brewery}
+{: .brewery #geants }
 
 
-Silly -   <br>
+ Silly • Brasserie de Silly   <br>
 Rue Ville Basse 2 // 7830 Silly  <br>
 [www.silly-beer.com](http://www.silly-beer.com)  <br>
-{:.brewery}
+{: .brewery #silly }
 
 
-Vapeur -   <br>
+ Vapeur • Brasserie à Vapeur   <br>
 Rue de Maréchal 1 // 7904 Pipaix-Leuze  <br>
-{:.brewery}
+{: .brewery #vapeur }
 
 
 
 
-### Liège _(1)_{:.count} {: #be-wlg }
+### Liège _(1)_{:.count}
+{: #be-wlg }
 
 
 
@@ -566,14 +630,15 @@ Rue de Maréchal 1 // 7904 Pipaix-Leuze  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Grain d'Orge - 2002  <br>
+ Grain d'Orge • Brasserie Grain d'Orge  - 2002   <br>
 Centre 16 // 4852 Hombourg  <br>
-{:.brewery}
+{: .brewery #graindorge }
 
 
 
 
-### Luxembourg _(5)_{:.count} {: #be-wlx }
+### Luxembourg _(5)_{:.count}
+{: #be-wlx }
 
 
 
@@ -582,37 +647,38 @@ Centre 16 // 4852 Hombourg  <br>
 ##### Uncategorized _(5)_{:.count}
 
 
-Achouffe - 1982  <br>
+ Achouffe • Brasserie d' Achouffe  - 1982   <br>
 Rue du Village 32 // 6666 Wibrin-Achouffe  <br>
 [www.achouffe.be](http://www.achouffe.be)  <br>
-{:.brewery}
+{: .brewery #achouffe }
 
 
-Fantôme - 1988  <br>
+ Fantôme • Brasserie Fantôme  - 1988   <br>
 Rue Préal 8 // 6997 Soy  <br>
 [www.fantome.be](http://www.fantome.be)  <br>
-{:.brewery}
+{: .brewery #fantome }
 
 
-Orval -   <br>
+ Orval • Brasserie d'Orval  _trappisten_{:.tags} <br>
 Abbaye Notre Dame D'Orval // Orval 2 // 6823 Villers-devant-Orval  <br>
 [www.orval.be](http://www.orval.be)  <br>
-{:.brewery}
+{: .brewery #orval }
 
 
-Oxymore - 2006  <br>
+ Oxymore • Brasserie Oxymore  - 2006   <br>
 Rue Verte 1 // 6670 Limerlé (Gouvy)  <br>
-{:.brewery}
+{: .brewery #oxymore }
 
 
-Rulles -   <br>
+ Rulles • Brasserie Artisanale de Rulles 2000   <br>
 Rue Maurice Grévisse 36 // 6724 Rulles-Habay  <br>
-{:.brewery}
+{: .brewery #rulles }
 
 
 
 
-### Namur _(4)_{:.count} {: #be-wna }
+### Namur _(4)_{:.count}
+{: #be-wna }
 
 
 
@@ -621,28 +687,28 @@ Rue Maurice Grévisse 36 // 6724 Rulles-Habay  <br>
 ##### Uncategorized _(4)_{:.count}
 
 
-Du Bocq - 1858  <br>
+ Du Bocq • Brasserie du Bocq  - 1858   <br>
 Rue de la Brasserie 4 // 5530 Purnode  <br>
 [www.bocq.be](http://www.bocq.be)  <br>
-{:.brewery}
+{: .brewery #dubocq }
 
 
-Brasserie_Caracole - 1990  <br>
+ Brasserie_Caracole • Caracole  - 1990   <br>
 Côte Marie-Thérèse 86 // 5500 Falmignoul  <br>
 [www.brasserie-caracole.be](http://www.brasserie-caracole.be)  <br>
-{:.brewery}
+{: .brewery #caracole }
 
 
-Rochefort - 1595  <br>
+ Rochefort • Brasserie de Rochefort  - 1595  _trappist_{:.tags} <br>
 Abbaye Notre Dame de St. Rémy // Rue de L'Abbaye 8 // 5580 Rochefort  <br>
 [www.abbaye-rochefort.be](http://www.abbaye-rochefort.be)  <br>
-{:.brewery}
+{: .brewery #rochefort }
 
 
-Silenrieux - 1991  <br>
+ Silenrieux • Brasserie de Silenrieux  - 1991   <br>
 Rue Noupré 1 // 5630 Silenrieux  <br>
 [www.brasseriedesilenrieux.be](http://www.brasseriedesilenrieux.be)  <br>
-{:.brewery}
+{: .brewery #silenrieux }
 
 
 

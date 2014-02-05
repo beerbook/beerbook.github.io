@@ -12,7 +12,8 @@ permalink: /et.html
 
 ### Uncategorized Beers
 
-Hakim Stout   • Meta Beer  
+**Hakim Stout** (5.5%) _stout_{:.tags}  • 
+**Meta Beer** (5.0%) _lager_{:.tags} 
 
 
 

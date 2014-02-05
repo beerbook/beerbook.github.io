@@ -12,7 +12,8 @@ permalink: /jm.html
 
 ### Uncategorized Beers
 
-Dragon Stout   • Red Stripe  
+**Dragon Stout** (7.5%) _stout_{:.tags}  • 
+**Red Stripe** (4.7%) _lager_{:.tags} 
 
 
 

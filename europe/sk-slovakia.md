@@ -12,141 +12,151 @@ permalink: /sk.html
 
 ### Uncategorized Beers
 
-‹Topvar› 12% Svetlý Ležiak   • ‹Topvar› 10% Svetlé Výčapné   • ‹Topvar› 11% Tmavý Výčapný Ležiak [Dark Lager]   • Stein  
+**‹Topvar› 12% Svetlý Ležiak** (12.0°) _pale lager_{:.tags}  • 
+**‹Topvar› 10% Svetlé Výčapné** (10.0°)   • 
+**‹Topvar› 11% Tmavý Výčapný Ležiak [Dark Lager]** (11.0°) _dark lager_{:.tags}  • 
+**Stein**   
 
 
 ### Uncategorized _(15)_{:.count}
 
 
-Pivovar Šariš - 1968  <br>
+ Pivovar Šariš  - 1968   <br>
 Pivovarská 9 // 082 21 Veľký Šariš  <br>
 [www.saris.sk](http://www.saris.sk)  <br>
-{:.brewery}
+{: .brewery #saris }
 
-‹Šariš› 12%   • ‹Šariš› 10%   • ‹Šariš› 11% Tmavý [Dark]  
-{:.beers}
+**‹Šariš› 12%** (12.0°)   • 
+**‹Šariš› 10%** (10.0°)   • 
+**‹Šariš› 11% Tmavý [Dark]** (11.0°)  
+{: .beers }
 
-Pivovary Topvar [Topvar Breweries] - 1960  <br>
+ Pivovary Topvar [Topvar Breweries]  - 1960  _sabmiller_{:.tags} <br>
 Krušovská 2092 // 955 14 Topoľčany  <br>
 [www.topvar.sk](http://www.topvar.sk)  <br>
-{:.brewery}
+{: .brewery #topvar }
 
 
-Heineken Slovensko -   <br>
+ Heineken Slovensko  _heineken_{:.tags} <br>
 [www.heinekenslovensko.sk](http://www.heinekenslovensko.sk)  <br>
-{:.brewery}
+{: .brewery #heinekensk }
 
-‹Corgoň› 12%   • ‹Corgoň› 10%   • ‹Martiner› 12%   • ‹Martiner› 10%  
-{:.beers}
+**‹Corgoň› 12%** (12.0°)   • 
+**‹Corgoň› 10%** (10.0°)   • 
+**‹Martiner› 12%** (12.0°)   • 
+**‹Martiner› 10%** (10.0°)  
+{: .beers }
 
-Zlatý Bažant (Heineken Slovensko) - 1967  <br>
+ Zlatý Bažant (Heineken Slovensko)  - 1967   <br>
 Novozámocká 2 // 947 12 Hurbanovo  <br>
 [www.zlatybazant.sk](http://www.zlatybazant.sk)  <br>
-{:.brewery}
+{: .brewery #zlatybazant }
 
-‹Zlatý Bažant› 12% (Svetlé)   • ‹Zlatý Bažant› 10% (Svetlé)   • ‹Zlatý Bažant› Tmavé [Dark]  
-{:.beers}
+**‹Zlatý Bažant› 12% (Svetlé)** (5.0%, 12.0°) _pale lager_{:.tags}  • 
+**‹Zlatý Bažant› 10% (Svetlé)** (4.3%, 10.0°)   • 
+**‹Zlatý Bažant› Tmavé [Dark]** (3.8%, 10.0°) _dark_{:.tags} 
+{: .beers }
 
-Gemer Pivovar Rimavská Sobota (Heineken Slovensko) - 1966  <br>
+ Gemer Pivovar Rimavská Sobota (Heineken Slovensko)  - 1966   <br>
 Cukrovarská 67/1 // 979 01  Rimavská Sobota  <br>
-{:.brewery}
+{: .brewery #gemer }
 
-‹Gemer› Standard  
-{:.beers}
+**‹Gemer› Standard**   
+{: .beers }
 
-Pivovar Corgoň (Heineken Slovensko) -   <br>
+ Pivovar Corgoň (Heineken Slovensko)   <br>
 Štefánikova 79 // 949 40  Nitra  <br>
 [www.corgon.sk](http://www.corgon.sk)  <br>
-{:.brewery}
+{: .brewery #corgon }
 
 
-Martiner (Heineken Slovensko) -   <br>
+ Martiner (Heineken Slovensko)   <br>
 Hrdinov SNP 7 // 036 42 Martin  <br>
-{:.brewery}
+{: .brewery #martiner }
 
 
-Pivovar Urpín - 1971  <br>
+ Pivovar Urpín  - 1971   <br>
 Sládkovičova 37 // 974 05  Banská Bystrica  <br>
 [www.urpiner.eu](http://www.urpiner.eu)  <br>
-{:.brewery}
+{: .brewery #urpin }
 
 
-Banskobystrický Pivovar -   <br>
+ Banskobystrický Pivovar   <br>
 Sládkovičova 37 // 974 05  Banská Bystrica  <br>
 [www.pivovarbb.sk](http://www.pivovarbb.sk)  <br>
-{:.brewery}
+{: .brewery #banskobystricky }
 
-‹Urpiner›  
-{:.beers}
+**‹Urpiner›**  _pale lager_{:.tags} 
+{: .beers }
 
-Pivovar Steiger [Steiger Brewery] - 1473  <br>
+ Pivovar Steiger [Steiger Brewery]  - 1473   <br>
 Vyhne č.24 // 966 02  Vyhne  <br>
 [www.steiger.sk](http://www.steiger.sk)  <br>
-{:.brewery}
+{: .brewery #steiger }
 
 
-Pivovar Stein [Stein Brewery] - 1873  <br>
+ Pivovar Stein [Stein Brewery]  - 1873   <br>
 Blumentálska 19 // 816 13 Bratislava  <br>
 [www.stein.sk](http://www.stein.sk)  <br>
-{:.brewery}
+{: .brewery #stein }
 
 
-Pivovar Poper - 1604  <br>
+ Pivovar Poper  - 1604   <br>
 Sakalovej 158/39 // 014 24 Bytča  <br>
 [www.popper.sk](http://www.popper.sk)  <br>
-{:.brewery}
+{: .brewery #poper }
 
 
-Pivovar Tatran - 1812  <br>
+ Pivovar Tatran  - 1812   <br>
 Murgašova 1 // 058 80 Poprad  <br>
-{:.brewery}
+{: .brewery #tatran }
 
 
-Pivovar Kaltenecker - 1996  <br>
+ Pivovar Kaltenecker  - 1996   <br>
 Edelényska 2 // 048 01  Rožňava  <br>
-{:.brewery}
+{: .brewery #kaltenecker }
 
-‹Kaltenecker› Märzen   • Brokát Dark  
-{:.beers}
+**‹Kaltenecker› Märzen**    • 
+**Brokát Dark** (5.0%) _dunkel lager_{:.tags} 
+{: .beers }
 
-Prievalský Pivovar Sandorf - 2011  <br>
+ Prievalský Pivovar Sandorf  - 2011   <br>
 Prievaly 79 // 906 34  Prievaly  <br>
 [www.sandorf.sk](http://www.sandorf.sk)  <br>
-{:.brewery}
+{: .brewery #prievaly }
 
-Sandorf  
-{:.beers}
-
-
-
-### Bratislava _(1)_{:.count} {: #sk-bl }
+**Sandorf**   
+{: .beers }
 
 
 
+### Bratislava _(1)_{:.count}
+{: #sk-bl }
 
-##### Bratislava 
 
 
-Minipivovar Richtár Jakub -   <br>
+
+##### Bratislava   _pop 462.603_{:.pop}
+{: .city #bratislava }
+
+
+
+ Minipivovar Richtár Jakub   <br>
 81108 Bratislava 1 // Moskovská 16  <br>
 [www.richtarjakub.sk](http://www.richtarjakub.sk)  <br>
-{:.brewery}
+{: .brewery #richtarjakub }
 
-Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý ležiak spodne kvasený)   • Katarína 13° (Tmavý ležiak)  
-{:.beers}
-
-
-
-
-### Trnava _(0)_{:.count} {: #sk-ta }
+**Anna 10° (Svetlé)** (4.0%, 10.0°) _pale lager_{:.tags}  • 
+**Jakub 12° (Svetlé)** (5.1%, 12.0°) _pale lager_{:.tags}  • 
+**Gejza 12° (Polotmavý ležiak spodne kvasený)** (5.1%, 12.0°) _semidark lager_{:.tags}  • 
+**Katarína 13° (Tmavý ležiak)** (4.6%, 13.0°) _dark lager_{:.tags} 
+{: .beers }
 
 
 
 
-
-
-
-### Trenčín _(0)_{:.count} {: #sk-tc }
+### Trnava _(0)_{:.count}
+{: #sk-ta }
 
 
 
@@ -154,7 +164,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Nitra _(0)_{:.count} {: #sk-ni }
+### Trenčín _(0)_{:.count}
+{: #sk-tc }
 
 
 
@@ -162,7 +173,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Žilina _(0)_{:.count} {: #sk-zi }
+### Nitra _(0)_{:.count}
+{: #sk-ni }
 
 
 
@@ -170,7 +182,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Banská Bystrica _(0)_{:.count} {: #sk-bc }
+### Žilina _(0)_{:.count}
+{: #sk-zi }
 
 
 
@@ -178,7 +191,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Prešov _(0)_{:.count} {: #sk-pv }
+### Banská Bystrica _(0)_{:.count}
+{: #sk-bc }
 
 
 
@@ -186,7 +200,17 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Košice _(0)_{:.count} {: #sk-ki }
+### Prešov _(0)_{:.count}
+{: #sk-pv }
+
+
+
+
+
+
+
+### Košice _(0)_{:.count}
+{: #sk-ki }
 
 
 

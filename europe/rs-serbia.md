@@ -12,7 +12,7 @@ permalink: /rs.html
 
 ### Uncategorized Beers
 
-Lav Pivo  
+**Lav Pivo** (5.2%) _pils_{:.tags} 
 
 
 

@@ -12,7 +12,9 @@ permalink: /hu.html
 
 ### Uncategorized Beers
 
-‹Dreher› Classic   • ‹Dreher› Bak   • ‹Soproni›  
+**‹Dreher› Classic** (5.2%) _lager_{:.tags}  • 
+**‹Dreher› Bak** (7.3%) _bock_{:.tags}  • 
+**‹Soproni›**   
 
 
 

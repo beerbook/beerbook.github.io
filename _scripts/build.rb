@@ -22,6 +22,8 @@ require_relative 'helpers/link'
 require_relative 'helpers/markdown'
 require_relative 'helpers/navbar'
 require_relative 'helpers/part'
+require_relative 'helpers/misc'
+
 
 
 require_relative 'filters'
@@ -120,7 +122,6 @@ File.open( 'breweries.md', 'w+') do |file|
   file.write breweries_text
 end
 
-return  # for testing; end now
 
 ### generate table of contents (toc)
 

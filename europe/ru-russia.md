@@ -12,7 +12,7 @@ permalink: /ru.html
 
 ### Uncategorized Beers
 
-Baltika  
+**Baltika**   
 
 
 

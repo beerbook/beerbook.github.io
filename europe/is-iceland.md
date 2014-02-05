@@ -12,7 +12,10 @@ permalink: /is.html
 
 ### Uncategorized Beers
 
-Egils Pilsner   • Egils Maltbjør   • Viking Lager   • Viking Thule  
+**Egils Pilsner** (2.2%) _pils_{:.tags}  • 
+**Egils Maltbjør** (5.6%)   • 
+**Viking Lager** (4.6%) _lager_{:.tags}  • 
+**Viking Thule** (5.0%) _lager_{:.tags} 
 
 
 

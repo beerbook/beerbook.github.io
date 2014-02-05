@@ -12,7 +12,8 @@ permalink: /pe.html
 
 ### Uncategorized Beers
 
-Cusqueña   • Cusqueña Malta  
+**Cusqueña** (5.0%) _lager_{:.tags}  • 
+**Cusqueña Malta** (5.6%) _donkere lager_{:.tags} 
 
 
 

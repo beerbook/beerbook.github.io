@@ -12,7 +12,8 @@ permalink: /lu.html
 
 ### Uncategorized Beers
 
-Bofferding   • Diekirch  
+**Bofferding** (4.8%) _pils_{:.tags}  • 
+**Diekirch** (4.8%) _pils_{:.tags} 
 
 
 

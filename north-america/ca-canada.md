@@ -13,7 +13,8 @@ permalink: /ca.html
 
 
 
-### British Columbia _(3)_{:.count} {: #ca-bc }
+### British Columbia _(3)_{:.count}
+{: #ca-bc }
 
 
 
@@ -22,27 +23,31 @@ permalink: /ca.html
 ##### Uncategorized _(3)_{:.count}
 
 
-Tree Brewing Co -   <br>
+ Tree Brewing Co   <br>
 1083 Richter Street // Kelowna | British Columbia // V1Y 2K6  <br>
 [www.treebeer.com](http://www.treebeer.com)  <br>
-{:.brewery}
+{: .brewery #treebrewing }
 
 
-Nelson Brewing Co -   <br>
+ Nelson Brewing Co   <br>
 512 Latimer Street // Nelson | British Columbia // V1L 4T9  <br>
 [www.nelsonbrewing.com](http://www.nelsonbrewing.com)  <br>
-{:.brewery}
+{: .brewery #nelsonbrewing }
 
 
-Central City Brewing -   <br>
-{:.brewery}
+ Central City Brewing   <br>
+{: .brewery #centralcity }
 
-Red Racer ESB   • Red Racer Pale Ale   • Red Racer IPA   • Thor's Hammer Barley Wine  
-{:.beers}
+**Red Racer ESB**    • 
+**Red Racer Pale Ale**    • 
+**Red Racer IPA**    • 
+**Thor's Hammer Barley Wine**   
+{: .beers }
 
 
 
-### Alberta _(4)_{:.count} {: #ca-ab }
+### Alberta _(4)_{:.count}
+{: #ca-ab }
 
 
 
@@ -51,32 +56,35 @@ Red Racer ESB   • Red Racer Pale Ale   • Red Racer IPA   • Thor's Hammer B
 ##### Uncategorized _(4)_{:.count}
 
 
-Village Brewery -   <br>
+ Village Brewery   <br>
 5000 - 12A Street S.E. // Calgary | Alberta // T2G 5K9  <br>
 [www.villagebrewery.com](http://www.villagebrewery.com)  <br>
-{:.brewery}
+{: .brewery #villagebrewery }
 
 
-Ribstone Creek Brewery -   <br>
+ Ribstone Creek Brewery   <br>
 P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 [www.ribstonecreekbrewery.ca](http://www.ribstonecreekbrewery.ca)  <br>
-{:.brewery}
+{: .brewery #ribstonecreek }
 
 
-Drummond Brewing Co -   <br>
+ Drummond Brewing Co   <br>
 6610 71st Street // Red Deer | Alberta // T4P 3Y7  <br>
-{:.brewery}
+{: .brewery #drummond }
 
 
-Alley Kat Brewing -   <br>
-{:.brewery}
+ Alley Kat Brewing   <br>
+{: .brewery #alleykat }
 
-Full Moon Pale Ale   • Old Deuteronomy Barley Wine   • Belgian Style Quad  
-{:.beers}
+**Full Moon Pale Ale**    • 
+**Old Deuteronomy Barley Wine**    • 
+**Belgian Style Quad**   
+{: .beers }
 
 
 
-### Manitoba _(1)_{:.count} {: #ca-mb }
+### Manitoba _(1)_{:.count}
+{: #ca-mb }
 
 
 
@@ -85,15 +93,16 @@ Full Moon Pale Ale   • Old Deuteronomy Barley Wine   • Belgian Style Quad
 ##### Uncategorized _(1)_{:.count}
 
 
-Fort Garry Brewing Co -   <br>
+ Fort Garry Brewing Co   <br>
 130 Lowson Crescent // Winnipeg | Manitoba // R3P 2H8  <br>
 [www.fortgarry.com](http://www.fortgarry.com)  <br>
-{:.brewery}
+{: .brewery #fortgarry }
 
 
 
 
-### Saskatchewan _(1)_{:.count} {: #ca-sk }
+### Saskatchewan _(1)_{:.count}
+{: #ca-sk }
 
 
 
@@ -102,23 +111,16 @@ Fort Garry Brewing Co -   <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Great Western Brewing Co -   <br>
+ Great Western Brewing Co   <br>
 519 Second Avenue North // Saskatoon | Saskatchewan // S7K 2C6  <br>
 [www.greatwesternbrewing.com](http://www.greatwesternbrewing.com)  <br>
-{:.brewery}
+{: .brewery #greatwestern }
 
 
 
 
-### New Brunswick _(0)_{:.count} {: #ca-nb }
-
-
-
-
-
-
-
-### Nova Scotia _(0)_{:.count} {: #ca-ns }
+### New Brunswick _(0)_{:.count}
+{: #ca-nb }
 
 
 
@@ -126,7 +128,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Prince Edward Island _(0)_{:.count} {: #ca-pe }
+### Nova Scotia _(0)_{:.count}
+{: #ca-ns }
 
 
 
@@ -134,7 +137,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Newfoundland and Labrador _(0)_{:.count} {: #ca-nl }
+### Prince Edward Island _(0)_{:.count}
+{: #ca-pe }
 
 
 
@@ -142,7 +146,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Ontario _(0)_{:.count} {: #ca-on }
+### Newfoundland and Labrador _(0)_{:.count}
+{: #ca-nl }
 
 
 
@@ -150,7 +155,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Québec _(0)_{:.count} {: #ca-qc }
+### Ontario _(0)_{:.count}
+{: #ca-on }
 
 
 
@@ -158,7 +164,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Northwest Territories _(0)_{:.count} {: #ca-nt }
+### Québec _(0)_{:.count}
+{: #ca-qc }
 
 
 
@@ -166,7 +173,17 @@ Great Western Brewing Co -   <br>
 
 
 
-### Yukon _(1)_{:.count} {: #ca-yt }
+### Northwest Territories _(0)_{:.count}
+{: #ca-nt }
+
+
+
+
+
+
+
+### Yukon _(1)_{:.count}
+{: #ca-yt }
 
 
 
@@ -175,15 +192,16 @@ Great Western Brewing Co -   <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Yukon Brewing Co -   <br>
+ Yukon Brewing Co   <br>
 102-A Copper Road // Whitehorse, Yukon // Y1A 2Z6  <br>
 [www.yukonbeer.com](http://www.yukonbeer.com)  <br>
-{:.brewery}
+{: .brewery #yukonbrewing }
 
 
 
 
-### Nunavut _(0)_{:.count} {: #ca-nu }
+### Nunavut _(0)_{:.count}
+{: #ca-nu }
 
 
 

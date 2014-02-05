@@ -12,7 +12,8 @@ permalink: /la.html
 
 ### Uncategorized Beers
 
-Beerlao   • Beerlao Dark Lager  
+**Beerlao** (5.0%) _lager_{:.tags}  • 
+**Beerlao Dark Lager** (6.5%) _lager_{:.tags} 
 
 
 

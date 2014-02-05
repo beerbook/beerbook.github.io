@@ -12,7 +12,7 @@ permalink: /lv.html
 
 ### Uncategorized Beers
 
-Aldaris Porteris  
+**Aldaris Porteris** (6.8%) _baltische porter_{:.tags} 
 
 
 

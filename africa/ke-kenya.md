@@ -12,7 +12,8 @@ permalink: /ke.html
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+**Tusker Lager** (4.2%) _lager_{:.tags}  • 
+**Tusker Malt Lager** (5.0%) _lager_{:.tags} 
 
 
 

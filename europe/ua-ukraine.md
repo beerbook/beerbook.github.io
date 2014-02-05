@@ -12,7 +12,7 @@ permalink: /ua.html
 
 ### Uncategorized Beers
 
-Weissbier Etalon  
+**Weissbier Etalon** (5.0%) _weizenbier_{:.tags} 
 
 
 

@@ -12,7 +12,7 @@ permalink: /mz.html
 
 ### Uncategorized Beers
 
-Laurentina Preta  
+**Laurentina Preta** (5.0%) _donkere lager_{:.tags} 
 
 
 

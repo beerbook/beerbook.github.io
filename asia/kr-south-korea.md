@@ -12,7 +12,7 @@ permalink: /kr.html
 
 ### Uncategorized Beers
 
-Prime Max  
+**Prime Max** (4.5%) _lager_{:.tags} 
 
 
 

@@ -12,12 +12,13 @@ permalink: /ve.html
 
 ### Uncategorized Beers
 
-Polar  
+**Polar** (5.0%) _pils_{:.tags} 
 
 
 
 
-### Amazonas _(0)_{:.count} {: #ve-am }
+### Amazonas _(0)_{:.count}
+{: #ve-am }
 
 
 
@@ -25,7 +26,8 @@ Polar
 
 
 
-### Bolívar _(0)_{:.count} {: #ve-bo }
+### Bolívar _(0)_{:.count}
+{: #ve-bo }
 
 
 
@@ -33,7 +35,8 @@ Polar
 
 
 
-### Delta Amacuro _(0)_{:.count} {: #ve-da }
+### Delta Amacuro _(0)_{:.count}
+{: #ve-da }
 
 
 
@@ -41,7 +44,8 @@ Polar
 
 
 
-### Anzoátegui _(0)_{:.count} {: #ve-an }
+### Anzoátegui _(0)_{:.count}
+{: #ve-an }
 
 
 
@@ -49,7 +53,8 @@ Polar
 
 
 
-### Monagas _(0)_{:.count} {: #ve-mo }
+### Monagas _(0)_{:.count}
+{: #ve-mo }
 
 
 
@@ -57,7 +62,8 @@ Polar
 
 
 
-### Sucre _(0)_{:.count} {: #ve-su }
+### Sucre _(0)_{:.count}
+{: #ve-su }
 
 
 
@@ -65,7 +71,8 @@ Polar
 
 
 
-### Apure _(0)_{:.count} {: #ve-ap }
+### Apure _(0)_{:.count}
+{: #ve-ap }
 
 
 
@@ -73,7 +80,8 @@ Polar
 
 
 
-### Guárico _(0)_{:.count} {: #ve-gu }
+### Guárico _(0)_{:.count}
+{: #ve-gu }
 
 
 
@@ -81,7 +89,8 @@ Polar
 
 
 
-### Carabobo _(0)_{:.count} {: #ve-ca }
+### Carabobo _(0)_{:.count}
+{: #ve-ca }
 
 
 
@@ -89,7 +98,8 @@ Polar
 
 
 
-### Cojedes _(0)_{:.count} {: #ve-co }
+### Cojedes _(0)_{:.count}
+{: #ve-co }
 
 
 
@@ -97,7 +107,8 @@ Polar
 
 
 
-### Aragua _(0)_{:.count} {: #ve-ar }
+### Aragua _(0)_{:.count}
+{: #ve-ar }
 
 
 
@@ -105,7 +116,8 @@ Polar
 
 
 
-### Miranda _(0)_{:.count} {: #ve-mi }
+### Miranda _(0)_{:.count}
+{: #ve-mi }
 
 
 
@@ -113,7 +125,8 @@ Polar
 
 
 
-### Vargas _(0)_{:.count} {: #ve-va }
+### Vargas _(0)_{:.count}
+{: #ve-va }
 
 
 
@@ -121,7 +134,8 @@ Polar
 
 
 
-### Distrito Capital _(0)_{:.count} {: #ve-dc }
+### Distrito Capital _(0)_{:.count}
+{: #ve-dc }
 
 
 
@@ -129,7 +143,8 @@ Polar
 
 
 
-### Falcón _(0)_{:.count} {: #ve-fa }
+### Falcón _(0)_{:.count}
+{: #ve-fa }
 
 
 
@@ -137,7 +152,8 @@ Polar
 
 
 
-### Lara _(0)_{:.count} {: #ve-la }
+### Lara _(0)_{:.count}
+{: #ve-la }
 
 
 
@@ -145,7 +161,8 @@ Polar
 
 
 
-### Portuguesa _(0)_{:.count} {: #ve-po }
+### Portuguesa _(0)_{:.count}
+{: #ve-po }
 
 
 
@@ -153,7 +170,8 @@ Polar
 
 
 
-### Yaracuy _(0)_{:.count} {: #ve-ya }
+### Yaracuy _(0)_{:.count}
+{: #ve-ya }
 
 
 
@@ -161,7 +179,8 @@ Polar
 
 
 
-### Barinas _(0)_{:.count} {: #ve-ba }
+### Barinas _(0)_{:.count}
+{: #ve-ba }
 
 
 
@@ -169,7 +188,8 @@ Polar
 
 
 
-### Mérida _(0)_{:.count} {: #ve-me }
+### Mérida _(0)_{:.count}
+{: #ve-me }
 
 
 
@@ -177,7 +197,8 @@ Polar
 
 
 
-### Táchira _(0)_{:.count} {: #ve-ta }
+### Táchira _(0)_{:.count}
+{: #ve-ta }
 
 
 
@@ -185,7 +206,8 @@ Polar
 
 
 
-### Trujillo _(0)_{:.count} {: #ve-tr }
+### Trujillo _(0)_{:.count}
+{: #ve-tr }
 
 
 
@@ -193,7 +215,8 @@ Polar
 
 
 
-### Nueva Esparta _(0)_{:.count} {: #ve-ne }
+### Nueva Esparta _(0)_{:.count}
+{: #ve-ne }
 
 
 
@@ -201,7 +224,8 @@ Polar
 
 
 
-### Zulia _(0)_{:.count} {: #ve-zu }
+### Zulia _(0)_{:.count}
+{: #ve-zu }
 
 
 

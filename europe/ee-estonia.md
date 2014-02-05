@@ -12,7 +12,8 @@ permalink: /ee.html
 
 ### Uncategorized Beers
 
-A. Le Coq Porter   • Saku Porter  
+**A. Le Coq Porter** (6.5%) _porter_{:.tags}  • 
+**Saku Porter** (7.5%) _porter_{:.tags} 
 
 
 

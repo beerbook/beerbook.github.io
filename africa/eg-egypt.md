@@ -12,7 +12,9 @@ permalink: /eg.html
 
 ### Uncategorized Beers
 
-Meister Max   • Sakara Gold   • Stella  
+**Meister Max** (8.0%) _lager_{:.tags}  • 
+**Sakara Gold** (4.0%) _lager_{:.tags}  • 
+**Stella** (4.5%) _lager_{:.tags} 
 
 
 

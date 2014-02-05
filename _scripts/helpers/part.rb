@@ -21,6 +21,9 @@ def render_idx_breweries( opts={} )
 end
 
 
+
+
+
 #####
 # todo: find a better name for ender_toc_countries ??
 
@@ -65,10 +68,11 @@ def render_breweries( breweries )
   buf
 end
 
+
 def render_beers( beers )
   buf = ''
   beers.each_with_index do |beer,i|
-    buf << ' • ' if i > 0
+    buf << " • \n" if i > 0
     buf << render_beer( beer )
   end
   buf << "\n"

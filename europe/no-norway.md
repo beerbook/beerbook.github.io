@@ -12,7 +12,12 @@ permalink: /no.html
 
 ### Uncategorized Beers
 
-Hansa   • Ardenne Blond   • Dark Force   • Norwegian Wood   • Dark Horizon   • Nogne Ø Imperial Stout  
+**Hansa** (4.5%) _pils pils_{:.tags}  • 
+**Ardenne Blond** (7.5%)   • 
+**Dark Force** (9.0%) _stout_{:.tags}  • 
+**Norwegian Wood** (6.5%)   • 
+**Dark Horizon** (16.0%) _stout_{:.tags}  • 
+**Nogne Ø Imperial Stout** (9.0%) _stout_{:.tags} 
 
 
 

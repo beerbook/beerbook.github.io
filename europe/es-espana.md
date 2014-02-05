@@ -12,12 +12,26 @@ permalink: /es.html
 
 ### Uncategorized Beers
 
-‹Alhambra› Negra   • ‹Alhambra› Reserva 1925   • +Lupulus   • +Malta   • +Negra   • ‹Cruzcampo›   • Legado de Yuste   • ‹Mahou› Negra   • ‹San Miguel›   • Glops Torrada   • Bock ‹Damm›   • ‹Estrella› ‹Damm›   • ‹Estrella› ‹Damm› Inedit   • Voll-‹Damm›  
+**‹Alhambra› Negra** (5.4%) _donkere lager_{:.tags}  • 
+**‹Alhambra› Reserva 1925** (6.4%) _lager_{:.tags}  • 
+**+Lupulus** (5.4%)   • 
+**+Malta** (5.1%) _pale ale_{:.tags}  • 
+**+Negra** (5.2%) _stout_{:.tags}  • 
+**‹Cruzcampo›**    • 
+**Legado de Yuste** (6.5%) _belgium special_{:.tags}  • 
+**‹Mahou› Negra** (5.5%)   • 
+**‹San Miguel›** (5.0%) _pils_{:.tags}  • 
+**Glops Torrada** (4.8%) _lager_{:.tags}  • 
+**Bock ‹Damm›** (5.4%) _dunkel lager_{:.tags}  • 
+**‹Estrella› ‹Damm›** (5.4%) _pils_{:.tags}  • 
+**‹Estrella› ‹Damm› Inedit** (4.8%) _tarwebier_{:.tags}  • 
+**Voll-‹Damm›** (7.2%) _maerzen_{:.tags} 
 
 
 
 
-### Andalucía | Andalusia _(0)_{:.count} {: #es-an }
+### Andalucía | Andalusia _(0)_{:.count}
+{: #es-an }
 
 
 
@@ -25,7 +39,8 @@ permalink: /es.html
 
 
 
-### Aragón _(0)_{:.count} {: #es-ar }
+### Aragón _(0)_{:.count}
+{: #es-ar }
 
 
 
@@ -33,7 +48,8 @@ permalink: /es.html
 
 
 
-### Asturias _(0)_{:.count} {: #es-as }
+### Asturias _(0)_{:.count}
+{: #es-as }
 
 
 
@@ -41,7 +57,8 @@ permalink: /es.html
 
 
 
-### Illes Balears | Balearic Islands _(0)_{:.count} {: #es-ib }
+### Illes Balears | Balearic Islands _(0)_{:.count}
+{: #es-ib }
 
 
 
@@ -49,7 +66,8 @@ permalink: /es.html
 
 
 
-### Pais Vasco | Basque Country _(0)_{:.count} {: #es-pv }
+### Pais Vasco | Basque Country _(0)_{:.count}
+{: #es-pv }
 
 
 
@@ -57,7 +75,8 @@ permalink: /es.html
 
 
 
-### Canarias | Canary Islands _(0)_{:.count} {: #es-cn }
+### Canarias | Canary Islands _(0)_{:.count}
+{: #es-cn }
 
 
 
@@ -65,7 +84,8 @@ permalink: /es.html
 
 
 
-### Cantábria _(0)_{:.count} {: #es-cb }
+### Cantábria _(0)_{:.count}
+{: #es-cb }
 
 
 
@@ -73,7 +93,8 @@ permalink: /es.html
 
 
 
-### Castilla y León _(0)_{:.count} {: #es-cl }
+### Castilla y León _(0)_{:.count}
+{: #es-cl }
 
 
 
@@ -81,7 +102,8 @@ permalink: /es.html
 
 
 
-### Castilla-La Mancha _(0)_{:.count} {: #es-cm }
+### Castilla-La Mancha _(0)_{:.count}
+{: #es-cm }
 
 
 
@@ -89,7 +111,8 @@ permalink: /es.html
 
 
 
-### Cataluña | Catalonia _(0)_{:.count} {: #es-ct }
+### Cataluña | Catalonia _(0)_{:.count}
+{: #es-ct }
 
 
 
@@ -97,7 +120,8 @@ permalink: /es.html
 
 
 
-### Extremadura _(0)_{:.count} {: #es-ex }
+### Extremadura _(0)_{:.count}
+{: #es-ex }
 
 
 
@@ -105,7 +129,8 @@ permalink: /es.html
 
 
 
-### Galicia _(0)_{:.count} {: #es-ga }
+### Galicia _(0)_{:.count}
+{: #es-ga }
 
 
 
@@ -113,7 +138,8 @@ permalink: /es.html
 
 
 
-### La Rioja _(0)_{:.count} {: #es-ri }
+### La Rioja _(0)_{:.count}
+{: #es-ri }
 
 
 
@@ -121,7 +147,8 @@ permalink: /es.html
 
 
 
-### Madrid _(0)_{:.count} {: #es-md }
+### Madrid _(0)_{:.count}
+{: #es-md }
 
 
 
@@ -129,7 +156,8 @@ permalink: /es.html
 
 
 
-### Murcia _(0)_{:.count} {: #es-mc }
+### Murcia _(0)_{:.count}
+{: #es-mc }
 
 
 
@@ -137,7 +165,8 @@ permalink: /es.html
 
 
 
-### Navarra _(0)_{:.count} {: #es-na }
+### Navarra _(0)_{:.count}
+{: #es-na }
 
 
 
@@ -145,7 +174,8 @@ permalink: /es.html
 
 
 
-### Valencia _(0)_{:.count} {: #es-vc }
+### Valencia _(0)_{:.count}
+{: #es-vc }
 
 
 
@@ -153,7 +183,8 @@ permalink: /es.html
 
 
 
-### Ceuta _(0)_{:.count} {: #es-ce }
+### Ceuta _(0)_{:.count}
+{: #es-ce }
 
 
 
@@ -161,7 +192,8 @@ permalink: /es.html
 
 
 
-### Melilla _(0)_{:.count} {: #es-ml }
+### Melilla _(0)_{:.count}
+{: #es-ml }
 
 
 

@@ -12,7 +12,9 @@ permalink: /gr.html
 
 ### Uncategorized Beers
 
-Alpha Beer   • Mythos Red   • Fix Hellas  
+**Alpha Beer** (5.0%) _lager_{:.tags}  • 
+**Mythos Red** (5.5%) _lager_{:.tags}  • 
+**Fix Hellas** (5.0%) _lager_{:.tags} 
 
 
 

@@ -12,62 +12,117 @@ permalink: /mx.html
 
 ### Uncategorized Beers
 
-Regio   • Regio Light   • Obispado   • La Silla   • El Fraile   • Las Cumbres   • Matacanes   • Huasteca   • Mirador   • Huajuco   • Olinala   • Chipinque Oktoberfest   • Navidad   • Cosaco Güera   • Casaco Negra   • Dos Equis   • Dos Equis Ambar   • Bohemia   • Bohemia Oscura   • Tecate   • Tecate Light   • Indio   • Carta Blanca   • Superior   • Superior Morena   • Sol   • Noche Buena   • Bohemia Chocolate Stout   • Bohemia Weizen   • Barrilito   • Corona   • Corona Light   • Modelo Especial   • Modelo Light   • Negra Modelo   • Tropical Light   • Victoria   • Estrella   • 1810   • 2 de Abril   • Segundo Imperio  
+**Regio**    • 
+**Regio Light**  _lager lite_{:.tags}  • 
+**Obispado**    • 
+**La Silla**    • 
+**El Fraile**    • 
+**Las Cumbres**    • 
+**Matacanes**    • 
+**Huasteca**    • 
+**Mirador**    • 
+**Huajuco**    • 
+**Olinala**    • 
+**Chipinque Oktoberfest**    • 
+**Navidad**    • 
+**Cosaco Güera** (5.0%) _blonde ale_{:.tags}  • 
+**Casaco Negra** (5.5%) _sweet stout_{:.tags}  • 
+**Dos Equis** (4.3%) _pale lager_{:.tags}  • 
+**Dos Equis Ambar** (4.7%) _vienna lager_{:.tags}  • 
+**Bohemia** (5.3%) _pale lager_{:.tags}  • 
+**Bohemia Oscura** (5.5%) _vienna lager_{:.tags}  • 
+**Tecate** (4.5%) _pale lager_{:.tags}  • 
+**Tecate Light** (4.0%) _lager lite_{:.tags}  • 
+**Indio** (4.1%) _vienna lager_{:.tags}  • 
+**Carta Blanca** (4.5%) _pale lager_{:.tags}  • 
+**Superior** (4.5%) _lager_{:.tags}  • 
+**Superior Morena**    • 
+**Sol** (4.2%) _lager pale lager_{:.tags}  • 
+**Noche Buena** (5.9%) _bock seasonal christmas_{:.tags}  • 
+**Bohemia Chocolate Stout** (5.7%) _stout seasonal_{:.tags}  • 
+**Bohemia Weizen** (5.7%) _weizen seasonal_{:.tags}  • 
+**Barrilito** (3.6%) _pale lager_{:.tags}  • 
+**Corona** (4.5%) _lager pale lager_{:.tags}  • 
+**Corona Light**  _lite lager_{:.tags}  • 
+**Modelo Especial** (4.5%) _pale lager_{:.tags}  • 
+**Modelo Light**  _lite lager_{:.tags}  • 
+**Negra Modelo** (5.3%)   • 
+**Tropical Light**  _lite_{:.tags}  • 
+**Victoria** (4.0%) _vienna lager_{:.tags}  • 
+**Estrella**  _pale lager_{:.tags}  • 
+**1810**  _blonde ale_{:.tags}  • 
+**2 de Abril**  _pale ale_{:.tags}  • 
+**Segundo Imperio**  _porter_{:.tags} 
 
 
 ### Uncategorized _(7)_{:.count}
 
 
-Microcervecería La Legendaria - 2010  <br>
-{:.brewery}
+ Microcervecería La Legendaria  - 2010   <br>
+{: .brewery #lalegendaria }
 
 
-Cervecera Mexicana -   <br>
-{:.brewery}
+ Cervecera Mexicana   <br>
+{: .brewery #mexicana }
 
-Caballero Águila   • Cheisy   • Potro   • Horus  
-{:.beers}
+**Caballero Águila**    • 
+**Cheisy**    • 
+**Potro**    • 
+**Horus**   
+{: .beers }
 
-Cervecería La Brü -   <br>
-{:.brewery}
+ Cervecería La Brü   <br>
+{: .brewery #labrue }
 
 
-Cervecería Tepozteca -   <br>
+ Cervecería Tepozteca   <br>
 [www.tepozteca.com](http://www.tepozteca.com)  <br>
-{:.brewery}
+{: .brewery #tepozteca }
 
 
-Cerveza Afromestizo -   <br>
+ Cerveza Afromestizo   <br>
 [www.afromestizo.com](http://www.afromestizo.com)  <br>
-{:.brewery}
+{: .brewery #afromestizo }
 
-Don Hilaro   • Doña Amalia   • Mama Grande   • Doña Amalia Cardamomo   • Doña Amalia Jamaica  
-{:.beers}
+**Don Hilaro**    • 
+**Doña Amalia**    • 
+**Mama Grande**    • 
+**Doña Amalia Cardamomo**    • 
+**Doña Amalia Jamaica**   
+{: .beers }
 
-Cerveza Dos Palomas -   <br>
+ Cerveza Dos Palomas   <br>
 [www.cervezadospalomas.com](http://www.cervezadospalomas.com)  <br>
-{:.brewery}
+{: .brewery #dospalomas }
 
-Dos Palomas Bitter   • Dos Palomas Ginger Ale   • Dos Palomas Red Ale   • Dos Palomas Porter  
-{:.beers}
+**Dos Palomas Bitter**    • 
+**Dos Palomas Ginger Ale**    • 
+**Dos Palomas Red Ale**    • 
+**Dos Palomas Porter**   
+{: .beers }
 
-Cerveceria Sileno -   <br>
-{:.brewery}
+ Cerveceria Sileno   <br>
+{: .brewery #sileno }
 
-Wiesnbier   • Brown Ale   • Porter   • Trippel  
-{:.beers}
-
-
-
-### Aguascalientes _(0)_{:.count} {: #mx-ag }
-
-
-
-
+**Wiesnbier**    • 
+**Brown Ale**    • 
+**Porter**    • 
+**Trippel**   
+{: .beers }
 
 
 
-### Baja California _(9)_{:.count} {: #mx-bc }
+### Aguascalientes _(0)_{:.count}
+{: #mx-ag }
+
+
+
+
+
+
+
+### Baja California _(9)_{:.count}
+{: #mx-bc }
 
 
 
@@ -76,70 +131,106 @@ Wiesnbier   • Brown Ale   • Porter   • Trippel
 ##### Uncategorized _(9)_{:.count}
 
 
-Cervecería Mexicali -   <br>
+ Cervecería Mexicali • Cervecería Mexicana   <br>
 // Ensenada | Baja California  <br>
 [www.mexicalibeer.com](http://www.mexicalibeer.com)  <br>
-{:.brewery}
+{: .brewery #mexicali }
 
-Mexicali Pale Lager   • Mexicali Dark   • Red Pig Mexican Ale   • Chili Beer   • Trader José Premium Lager   • Trader José Dark Premium Lager  
-{:.beers}
+**Mexicali Pale Lager**  _pale lager lager_{:.tags}  • 
+**Mexicali Dark** (6.0%) _american dark lager_{:.tags}  • 
+**Red Pig Mexican Ale**  _amber ale red ale ale_{:.tags}  • 
+**Chili Beer**    • 
+**Trader José Premium Lager**    • 
+**Trader José Dark Premium Lager**   
+{: .beers }
 
-Consorcio Cervecero de Baja California - 1996  <br>
+ Consorcio Cervecero de Baja California • T.J. Beer • Tijuana Beer  - 1996   <br>
 Blvd. Fundadores No. 2951, Col Juárez, CP. 22040 // Tijuana, B.C.  <br>
 [www.tjbeer.com](http://www.tjbeer.com)  <br>
-{:.brewery}
+{: .brewery #tjbeer }
 
-Tijuana Light   • Tijuana Rosarito Beach   • Tijuana Güera   • Tijuana Morena   • Tijuana Bufadora   • Tijuana Brava   • Tijuana Bronca Güera   • Tijuana Bronca Morena  
-{:.beers}
+**Tijuana Light** (3.5%, 8.0°) _pale lager lager lite_{:.tags}  • 
+**Tijuana Rosarito Beach** (3.8%, 8.6°) _american lager_{:.tags}  • 
+**Tijuana Güera** (4.6%, 11.0°) _bohemian pilsner czech pilsner_{:.tags}  • 
+**Tijuana Morena** (4.8%, 11.5°) _schwartzbier_{:.tags}  • 
+**Tijuana Bufadora** (7.5%, 18.5°) _doppelbock maibock bock_{:.tags}  • 
+**Tijuana Brava** (5.3%, 13.0°) _dark lager munchner dunkel_{:.tags}  • 
+**Tijuana Bronca Güera** (4.6%, 11.0°) _bohemian pilsener_{:.tags}  • 
+**Tijuana Bronca Morena** (4.8%, 11.5°) _dark lager schwarzbier_{:.tags} 
+{: .beers }
 
-Cucapá - 2002  <br>
+ Cucapá • Cervecería Cucapá • Cucapá Brewing Co • Cervecería de Baja California  - 2002   <br>
 Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 [www.cucapa.com](http://www.cucapa.com)  <br>
-{:.brewery}
+{: .brewery #cucapa }
 
-Cucapá Clásica   • Cucapá Honey   • Cucapá Obscura   • Cucapá Chupacabras   • Cucapa Light   • Cucapá Trigueña   • Cucapá Barley Wine   • Cucapá Lowrider Ale   • Cucapá Imperial Stout  
-{:.beers}
+**Cucapá Clásica** (4.5%) _blonde ale golden ale_{:.tags}  • 
+**Cucapá Honey** (4.5%) _amber ale_{:.tags}  • 
+**Cucapá Obscura** (4.8%) _american brown ale_{:.tags}  • 
+**Cucapá Chupacabras** (5.8%) _american pale ale_{:.tags}  • 
+**Cucapa Light** (3.5%) _pale lager_{:.tags}  • 
+**Cucapá Trigueña** (3.5%) _weizen wheat ale_{:.tags}  • 
+**Cucapá Barley Wine** (10.0%) _barley wine_{:.tags}  • 
+**Cucapá Lowrider Ale**  _rye ale_{:.tags}  • 
+**Cucapá Imperial Stout**   
+{: .beers }
 
-Cervecería Rámuri -   <br>
+ Cervecería Rámuri   <br>
 [www.cervezaramuri.com](http://www.cervezaramuri.com)  <br>
-{:.brewery}
+{: .brewery #ramuri }
 
-Batari Chónami   • Batari Turio ari biche Amoque   • Batari Choracami   • 100 Dias   • Lágrimas Negras   • Bucéfalo  
-{:.beers}
+**Batari Chónami**  _brown ale_{:.tags}  • 
+**Batari Turio ari biche Amoque**  _weizen_{:.tags}  • 
+**Batari Choracami**  _ipa_{:.tags}  • 
+**100 Dias**    • 
+**Lágrimas Negras**  _stout_{:.tags}  • 
+**Bucéfalo**  _imperial stout_{:.tags} 
+{: .beers }
 
-Ensenada Microbrewery -   <br>
-{:.brewery}
+ Ensenada Microbrewery   <br>
+{: .brewery #ensenada }
 
-Ensenada Sweet Stout   • Ensenada Pale Ale  
-{:.beers}
+**Ensenada Sweet Stout**    • 
+**Ensenada Pale Ale**   
+{: .beers }
 
-Canneria Cerveza - 2010  <br>
+ Canneria Cerveza  - 2010   <br>
 [www.canneriacerveza.com.mx](http://www.canneriacerveza.com.mx)  <br>
-{:.brewery}
+{: .brewery #canneria }
 
-Canneria Alt Bier   • Canneria Stout   • Canneria Lager Americana   • Canneria Cherry Lambic  
-{:.beers}
+**Canneria Alt Bier**    • 
+**Canneria Stout**    • 
+**Canneria Lager Americana**    • 
+**Canneria Cherry Lambic**   
+{: .beers }
 
-Cerveza Frontera -   <br>
+ Cerveza Frontera   <br>
 [www.cervezafrontera.com.mx](http://www.cervezafrontera.com.mx)  <br>
-{:.brewery}
+{: .brewery #frontera }
 
 
-Cervecería Calafia -   <br>
-{:.brewery}
+ Cervecería Calafia   <br>
+{: .brewery #calafia }
 
-Calafia Golden Ale   • Calafia Red Ale   • Calafia Pale Ale   • Calafia IPA  
-{:.beers}
+**Calafia Golden Ale**    • 
+**Calafia Red Ale**    • 
+**Calafia Pale Ale**    • 
+**Calafia IPA**   
+{: .beers }
 
-Cervecería Kudos -   <br>
-{:.brewery}
+ Cervecería Kudos   <br>
+{: .brewery #kudos }
 
-Kudos Strawberry Wheat   • Kudos Hefeweizen   • Kudos Mild Brown   • Kudos IPA (India Pale Ale)  
-{:.beers}
+**Kudos Strawberry Wheat**    • 
+**Kudos Hefeweizen**    • 
+**Kudos Mild Brown**    • 
+**Kudos IPA (India Pale Ale)**   
+{: .beers }
 
 
 
-### Baja California Sur _(1)_{:.count} {: #mx-bs }
+### Baja California Sur _(1)_{:.count}
+{: #mx-bs }
 
 
 
@@ -148,32 +239,23 @@ Kudos Strawberry Wheat   • Kudos Hefeweizen   • Kudos Mild Brown   • Kudos
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervecería Baja Brewing Co -   <br>
+ Cervecería Baja Brewing Co • Baja Brewing • Cervecería de Los Cabos San Lucas   <br>
 [www.bajabrewingcompany.com](http://www.bajabrewingcompany.com)  <br>
-{:.brewery}
+{: .brewery #bajabrewing }
 
-Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpión Negro   • Peyote India Pale Ale   • Oatmeal Stout  
-{:.beers}
-
-
-
-### Campeche _(0)_{:.count} {: #mx-cm }
-
-
-
-
+**Cabotella**    • 
+**Rasberry Lager**    • 
+**Cactus Wheat**    • 
+**Peliroja**    • 
+**Escorpión Negro**    • 
+**Peyote India Pale Ale**    • 
+**Oatmeal Stout**   
+{: .beers }
 
 
 
-### Chiapas _(0)_{:.count} {: #mx-cs }
-
-
-
-
-
-
-
-### Chihuahua _(0)_{:.count} {: #mx-ch }
+### Campeche _(0)_{:.count}
+{: #mx-cm }
 
 
 
@@ -181,7 +263,8 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 
 
 
-### Coahuila _(0)_{:.count} {: #mx-co }
+### Chiapas _(0)_{:.count}
+{: #mx-cs }
 
 
 
@@ -189,7 +272,8 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 
 
 
-### Colima _(0)_{:.count} {: #mx-cl }
+### Chihuahua _(0)_{:.count}
+{: #mx-ch }
 
 
 
@@ -197,72 +281,103 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 
 
 
-### Distrito Federal _(6)_{:.count} {: #mx-df }
+### Coahuila _(0)_{:.count}
+{: #mx-co }
+
+
+
+
+
+
+
+### Colima _(0)_{:.count}
+{: #mx-cl }
+
+
+
+
+
+
+
+### Distrito Federal _(6)_{:.count}
+{: #mx-df }
 
 
 [México](#mexico) • **Uncategorized** _(5)_{:.count}
 
-##### México 
+##### México   _pop (20.137.152)_{:.pop}
+{: .city #mexico }
 
 
-Cervecería Modelo / Grupo Modelo - 1922  <br>
+
+ Cervecería Modelo / Grupo Modelo  - 1922   <br>
 Lago Alberto 156 | Col. Anáhuac // México | D.F. | C.P. 11320  <br>
 [www.gmodelo.com.mx](http://www.gmodelo.com.mx)  <br>
-{:.brewery}
+{: .brewery #gmodelo }
 
-León  
-{:.beers}
+**León** (4.5%) _munich dunkel lager_{:.tags} 
+{: .beers }
 
 
 ##### Uncategorized _(5)_{:.count}
 
 
-Cervecería Primus - 2007  <br>
+ Cervecería Primus • Andreu Primus  - 2007   <br>
 Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrito Federal  <br>
 [www.primus.com.mx](http://www.primus.com.mx)  <br>
-{:.brewery}
+{: .brewery #primus }
 
-Tempus Dorada   • Tempus Clásica   • Tempus Doble Malta   • Tempus Reserva Especial  
-{:.beers}
+**Tempus Dorada** (4.3%) _golden ale ale_{:.tags}  • 
+**Tempus Clásica** (5.2%) _altbier ale_{:.tags}  • 
+**Tempus Doble Malta** (7.0%) _imperial altbier ale_{:.tags}  • 
+**Tempus Reserva Especial**   
+{: .beers }
 
-Cervecería Pública Condesa - 2009  <br>
-{:.brewery}
+ Cervecería Pública Condesa  - 2009   <br>
+{: .brewery #condesa }
 
-Poe  
-{:.beers}
+**Poe** (6.2%) _brown ale_{:.tags} 
+{: .beers }
 
-Microcerveceria La Chingoneria -   <br>
+ Microcerveceria La Chingoneria   <br>
 [www.lachingoneria.com.mx](http://www.lachingoneria.com.mx)  <br>
-{:.brewery}
+{: .brewery #lachingoneria }
 
-Chekate Esta   • Házmela Rusa   • Amargator IPA  
-{:.beers}
+**Chekate Esta**  _pilsner_{:.tags}  • 
+**Házmela Rusa**  _mexican imperial stout_{:.tags}  • 
+**Amargator IPA**  _double ipa imperial ipa_{:.tags} 
+{: .beers }
 
-Cervecería Alebrije - 2004  <br>
+ Cervecería Alebrije • Microcervecera Azteca  - 2004   <br>
 [cerveceriaalebrije.com](http://cerveceriaalebrije.com)  <br>
-{:.brewery}
+{: .brewery #alebrije }
 
-Imperial Stout   • Dark IPA   • Sweet Stout   • Irish Red   • IPA   • Mulli Stout   • Agave Red Ale   • Kölsch   • Dort Honey  
-{:.beers}
+**Imperial Stout**    • 
+**Dark IPA**    • 
+**Sweet Stout**    • 
+**Irish Red**    • 
+**IPA**    • 
+**Mulli Stout**    • 
+**Agave Red Ale**    • 
+**Kölsch**    • 
+**Dort Honey**   
+{: .beers }
 
-Beer Factory -   <br>
+ Beer Factory • Cervecería Santa Fe Beer Factory   <br>
 [www.beerfactory.com](http://www.beerfactory.com)  <br>
-{:.brewery}
+{: .brewery #santafebeerfactory }
 
-Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena  
-{:.beers}
-
-
-
-### Durango _(0)_{:.count} {: #mx-dg }
-
-
+**Mediterránea**  _light ale_{:.tags}  • 
+**Coronel**  _pilsner_{:.tags}  • 
+**Santa Fe**  _vienna_{:.tags}  • 
+**Coyote**  _pale ale_{:.tags}  • 
+**Luna Llena**  _irish stout_{:.tags} 
+{: .beers }
 
 
 
-
-
-### Guanajuato _(0)_{:.count} {: #mx-gt }
+### Durango _(0)_{:.count}
+{: #mx-dg }
 
 
 
@@ -270,7 +385,8 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 
 
 
-### Guerrero _(0)_{:.count} {: #mx-gr }
+### Guanajuato _(0)_{:.count}
+{: #mx-gt }
 
 
 
@@ -278,7 +394,17 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 
 
 
-### Hidalgo _(3)_{:.count} {: #mx-hg }
+### Guerrero _(0)_{:.count}
+{: #mx-gr }
+
+
+
+
+
+
+
+### Hidalgo _(3)_{:.count}
+{: #mx-hg }
 
 
 
@@ -287,29 +413,34 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 ##### Uncategorized _(3)_{:.count}
 
 
-Cervecería Cosaco - 2000  <br>
+ Cervecería Cosaco • Cerveza Cosaco  - 2000   <br>
 [www.cervezacosaco.com](http://www.cervezacosaco.com)  <br>
-{:.brewery}
+{: .brewery #cosaco }
 
-Cosaco Roja   • Cosaco Negra   • Cosaco Guera  
-{:.beers}
+**Cosaco Roja** (5.5%) _red ale_{:.tags}  • 
+**Cosaco Negra**    • 
+**Cosaco Guera**   
+{: .beers }
 
-Cervecería Hacienda -   <br>
+ Cervecería Hacienda   <br>
 [www.cerveceriahacienda.com](http://www.cerveceriahacienda.com)  <br>
-{:.brewery}
+{: .brewery #hacienda }
 
-Hidalgo   • Catrina   • Jaguar  
-{:.beers}
+**Hidalgo** (7.0%) _stout_{:.tags}  • 
+**Catrina** (7.0%) _irish red ale_{:.tags}  • 
+**Jaguar** (7.0%) _pale ale_{:.tags} 
+{: .beers }
 
-Cerveza Benévolo - 2010  <br>
+ Cerveza Benévolo  - 2010   <br>
 // Pachuca, Hidalgo  <br>
 [www.cervezabenevolo.com.mx](http://www.cervezabenevolo.com.mx)  <br>
-{:.brewery}
+{: .brewery #benevolo }
 
 
 
 
-### Jalisco _(3)_{:.count} {: #mx-ja }
+### Jalisco _(3)_{:.count}
+{: #mx-ja }
 
 
 
@@ -318,24 +449,34 @@ Cerveza Benévolo - 2010  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Cervecería Minerva - 2002  <br>
+ Cervecería Minerva  - 2002   <br>
 [www.cervezaminerva.mx](http://www.cervezaminerva.mx)  <br>
-{:.brewery}
+{: .brewery #minerva }
 
-Minerva Colonial   • Minerva Viena (Oscura)   • Minerva Stout Imperial   • Minerva Pale Ale   • Minerva ITA (Imperial Tequila Ale)   • Minerva Diosa Blanca   • Minerva 8:60   • Minerva Lupe Reyes   • Malverde   • Minerva Rila  
-{:.beers}
+**Minerva Colonial**    • 
+**Minerva Viena (Oscura)** (5.0%) _vienna lager_{:.tags}  • 
+**Minerva Stout Imperial** (6.0%) _sweet stout_{:.tags}  • 
+**Minerva Pale Ale**  _pale ale_{:.tags}  • 
+**Minerva ITA (Imperial Tequila Ale)**  _imperial tequila ale_{:.tags}  • 
+**Minerva Diosa Blanca**  _blanche biere_{:.tags}  • 
+**Minerva 8:60** (8.0%) _ipa_{:.tags}  • 
+**Minerva Lupe Reyes** (7.7%) _dunkel doppelbock weizen_{:.tags}  • 
+**Malverde**  _pilsner_{:.tags}  • 
+**Minerva Rila**  _seasonal_{:.tags} 
+{: .beers }
 
-Cervecería Revolucion -   <br>
-{:.brewery}
+ Cervecería Revolucion   <br>
+{: .brewery #revolucion }
 
 
-Cervecería Ale & Ale -   <br>
-{:.brewery}
+ Cervecería Ale & Ale   <br>
+{: .brewery #aleale }
 
 
 
 
-### México _(2)_{:.count} {: #mx-me }
+### México _(2)_{:.count}
+{: #mx-me }
 
 
 
@@ -344,37 +485,35 @@ Cervecería Ale & Ale -   <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Cervecería Calavera -   <br>
-{:.brewery}
+ Cervecería Calavera • Gourment Calavera   <br>
+{: .brewery #calavera }
 
-Calavera Witbier   • Calavera American Pale Ale   • Calavera Smoky Scotish Ale 80/-   • Calavera Oktoberfest   • Calavera Mexican Imperial Stout   • Calavera Dubbel (de Abadia)   • Calavera Tripel (de Abadia)   • Calavera Barley Wine   • Calavera Schwarz   • Calavera Lovecraft   • Calavera Project X  
-{:.beers}
+**Calavera Witbier**  _weizen_{:.tags}  • 
+**Calavera American Pale Ale**  _pale ale_{:.tags}  • 
+**Calavera Smoky Scotish Ale 80/-**  _scotch ale_{:.tags}  • 
+**Calavera Oktoberfest**    • 
+**Calavera Mexican Imperial Stout**  _stout_{:.tags}  • 
+**Calavera Dubbel (de Abadia)** (6.4%) _abbey ale_{:.tags}  • 
+**Calavera Tripel (de Abadia)**  _abbey ale_{:.tags}  • 
+**Calavera Barley Wine**  _barleywine_{:.tags}  • 
+**Calavera Schwarz**  _schwartzbier_{:.tags}  • 
+**Calavera Lovecraft**    • 
+**Calavera Project X**  _brown ale_{:.tags} 
+{: .beers }
 
-Cervecería Jack -   <br>
-{:.brewery}
+ Cervecería Jack   <br>
+{: .brewery #jack }
 
-Jack Alebrije   • Jack Stout   • Jack Chocolate Sweet Stout   • Jack Clown Smile  
-{:.beers}
-
-
-
-### Michoacán _(0)_{:.count} {: #mx-mi }
-
-
-
-
-
-
-
-### Morelos _(0)_{:.count} {: #mx-mo }
-
-
-
+**Jack Alebrije**  _weissbier_{:.tags}  • 
+**Jack Stout**    • 
+**Jack Chocolate Sweet Stout**    • 
+**Jack Clown Smile**  _scotch ale_{:.tags} 
+{: .beers }
 
 
 
-
-### Nayarit _(0)_{:.count} {: #mx-na }
+### Michoacán _(0)_{:.count}
+{: #mx-mi }
 
 
 
@@ -382,43 +521,70 @@ Jack Alebrije   • Jack Stout   • Jack Chocolate Sweet Stout   • Jack Clown
 
 
 
-### Nuevo León _(4)_{:.count} {: #mx-nl }
+### Morelos _(0)_{:.count}
+{: #mx-mo }
+
+
+
+
+
+
+
+### Nayarit _(0)_{:.count}
+{: #mx-na }
+
+
+
+
+
+
+
+### Nuevo León _(4)_{:.count}
+{: #mx-nl }
 
 
 [Monterrey](#monterrey) • **Uncategorized** _(3)_{:.count}
 
-##### Monterrey 
+##### Monterrey   _pop (4.080.329)_{:.pop}
+{: .city #monterrey }
 
 
-Cervecería Cuauhtémoc Moctezuma - 1890  <br>
+
+ Cervecería Cuauhtémoc Moctezuma  - 1890  _heineken_{:.tags} <br>
 Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 [www.cuamoc.com](http://www.cuamoc.com)  <br>
-{:.brewery}
+{: .brewery #cuamoc }
 
 
 
 ##### Uncategorized _(3)_{:.count}
 
 
-Especialidades Cerveceras -   <br>
-{:.brewery}
+ Especialidades Cerveceras   <br>
+{: .brewery #especialidades }
 
-Casta Bruna   • Casta Dorada   • Casta Milenia   • Casta Morena   • Casta Triguera   • Casta Unica  
-{:.beers}
+**Casta Bruna**  _pale ale_{:.tags}  • 
+**Casta Dorada**  _golden ale blond ale_{:.tags}  • 
+**Casta Milenia**  _belgian strong ale_{:.tags}  • 
+**Casta Morena**  _brown ale_{:.tags}  • 
+**Casta Triguera**  _wheat ale_{:.tags}  • 
+**Casta Unica**  _belgian strong ale_{:.tags} 
+{: .beers }
 
-Cervecería Propaganda - 2012  <br>
-{:.brewery}
+ Cervecería Propaganda  - 2012   <br>
+{: .brewery #propaganda }
 
 
-Sierra Madre Brewing Co. - 1996  <br>
+ Sierra Madre Brewing Co.  - 1996   <br>
 // Monterrey  <br>
 [www.smbc.com.mx](http://www.smbc.com.mx)  <br>
-{:.brewery}
+{: .brewery #smbc }
 
 
 
 
-### Oaxaca _(2)_{:.count} {: #mx-oa }
+### Oaxaca _(2)_{:.count}
+{: #mx-oa }
 
 
 
@@ -427,22 +593,27 @@ Sierra Madre Brewing Co. - 1996  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Cervecería Camarada - 2009  <br>
-{:.brewery}
+ Cervecería Camarada  - 2009   <br>
+{: .brewery #camarada }
 
-Camarada Schwarzbier   • Camarada Weissbier   • Santería   • Camarada Red Ale   • Camarada Pale      seasonal  
-{:.beers}
+**Camarada Schwarzbier**    • 
+**Camarada Weissbier**    • 
+**Santería**  _sweet corn beer_{:.tags}  • 
+**Camarada Red Ale**  _seasonal_{:.tags}  • 
+**Camarada Pale      seasonal**   
+{: .beers }
 
-Compañía Cervecera del Trópico / Grupo Modelo -   <br>
+ Compañía Cervecera del Trópico / Grupo Modelo   <br>
 Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxtepec | Oax. | C.P. 68365  <br>
-{:.brewery}
+{: .brewery #tropico }
 
-Montejo  
-{:.beers}
+**Montejo** (4.5%)  
+{: .beers }
 
 
 
-### Puebla _(2)_{:.count} {: #mx-pb }
+### Puebla _(2)_{:.count}
+{: #mx-pb }
 
 
 
@@ -451,19 +622,20 @@ Montejo
 ##### Uncategorized _(2)_{:.count}
 
 
-Cervecería Bayernbrau de México -   <br>
+ Cervecería Bayernbrau de México   <br>
 [www.bayernbrau.com|www.cervezaweissbier.mx](http://www.bayernbrau.com|www.cervezaweissbier.mx)  <br>
-{:.brewery}
+{: .brewery #bayernbrau }
 
 
-Cervecería Cholula -   <br>
+ Cervecería Cholula   <br>
 [www.cerveceriacholula.com](http://www.cerveceriacholula.com)  <br>
-{:.brewery}
+{: .brewery #cholula }
 
 
 
 
-### Querétaro _(3)_{:.count} {: #mx-qe }
+### Querétaro _(3)_{:.count}
+{: #mx-qe }
 
 
 
@@ -472,34 +644,29 @@ Cervecería Cholula -   <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Cervecería Querétaro -   <br>
+ Cervecería Querétaro   <br>
 [www.cervezaqueretaro.com](http://www.cervezaqueretaro.com)  <br>
-{:.brewery}
+{: .brewery #queretaro }
 
 
-Cervecería Amalias -   <br>
+ Cervecería Amalias   <br>
 [www.amalias.com.mx](http://www.amalias.com.mx)  <br>
-{:.brewery}
+{: .brewery #amalias }
 
-Amalias Ambar   • Amalias Tezontle   • Amalias Obsidiana  
-{:.beers}
+**Amalias Ambar**    • 
+**Amalias Tezontle**    • 
+**Amalias Obsidiana**   
+{: .beers }
 
-Cervecería Josefa - 2011  <br>
+ Cervecería Josefa  - 2011   <br>
 [www.cerveceriajosefa.com](http://www.cerveceriajosefa.com)  <br>
-{:.brewery}
+{: .brewery #josefa }
 
 
 
 
-### Quintana Roo _(0)_{:.count} {: #mx-qr }
-
-
-
-
-
-
-
-### San Luis Potosí _(0)_{:.count} {: #mx-sl }
+### Quintana Roo _(0)_{:.count}
+{: #mx-qr }
 
 
 
@@ -507,7 +674,17 @@ Cervecería Josefa - 2011  <br>
 
 
 
-### Sinaloa _(1)_{:.count} {: #mx-si }
+### San Luis Potosí _(0)_{:.count}
+{: #mx-sl }
+
+
+
+
+
+
+
+### Sinaloa _(1)_{:.count}
+{: #mx-si }
 
 
 
@@ -516,24 +693,18 @@ Cervecería Josefa - 2011  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervecería del Pacífico / Grupo Modelo -   <br>
+ Cervecería del Pacífico / Grupo Modelo   <br>
 Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
-{:.brewery}
+{: .brewery #pacifico }
 
-Pacifico   • Pacifico Light  
-{:.beers}
-
-
-
-### Sonora _(0)_{:.count} {: #mx-so }
+**Pacifico** (4.5%) _pale lager_{:.tags}  • 
+**Pacifico Light**  _lite lager_{:.tags} 
+{: .beers }
 
 
 
-
-
-
-
-### Tabasco _(0)_{:.count} {: #mx-tb }
+### Sonora _(0)_{:.count}
+{: #mx-so }
 
 
 
@@ -541,7 +712,8 @@ Pacifico   • Pacifico Light
 
 
 
-### Tamaulipas _(0)_{:.count} {: #mx-tm }
+### Tabasco _(0)_{:.count}
+{: #mx-tb }
 
 
 
@@ -549,7 +721,8 @@ Pacifico   • Pacifico Light
 
 
 
-### Tlaxcala _(0)_{:.count} {: #mx-tl }
+### Tamaulipas _(0)_{:.count}
+{: #mx-tm }
 
 
 
@@ -557,7 +730,17 @@ Pacifico   • Pacifico Light
 
 
 
-### Veracruz _(2)_{:.count} {: #mx-ve }
+### Tlaxcala _(0)_{:.count}
+{: #mx-tl }
+
+
+
+
+
+
+
+### Veracruz _(2)_{:.count}
+{: #mx-ve }
 
 
 
@@ -566,18 +749,19 @@ Pacifico   • Pacifico Light
 ##### Uncategorized _(2)_{:.count}
 
 
-Cerveceria La Antigua -   <br>
-{:.brewery}
+ Cerveceria La Antigua   <br>
+{: .brewery #laantigua }
 
 
-Cerveza Criolla -   <br>
+ Cerveza Criolla   <br>
 [www.cervezacriolla.com.mx](http://www.cervezacriolla.com.mx)  <br>
-{:.brewery}
+{: .brewery #criolla }
 
 
 
 
-### Yucatán _(0)_{:.count} {: #mx-yu }
+### Yucatán _(0)_{:.count}
+{: #mx-yu }
 
 
 
@@ -585,7 +769,8 @@ Cerveza Criolla -   <br>
 
 
 
-### Zacatecas _(0)_{:.count} {: #mx-za }
+### Zacatecas _(0)_{:.count}
+{: #mx-za }
 
 
 

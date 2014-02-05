@@ -12,7 +12,7 @@ permalink: /al.html
 
 ### Uncategorized Beers
 
-Birra Tirana  
+**Birra Tirana** (4.0%) _pils_{:.tags} 
 
 
 

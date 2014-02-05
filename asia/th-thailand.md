@@ -12,7 +12,8 @@ permalink: /th.html
 
 ### Uncategorized Beers
 
-Singha   • Chang  
+**Singha** (6.0%) _lager_{:.tags}  • 
+**Chang**  _lager_{:.tags} 
 
 
 

@@ -14,36 +14,55 @@ permalink: /ro.html
 ### Uncategorized _(4)_{:.count}
 
 
-Heineken Romania - 1998  <br>
+ Heineken Romania  - 1998  _heineken_{:.tags} <br>
 [www.heinekenromania.ro](http://www.heinekenromania.ro)  <br>
-{:.brewery}
+{: .brewery #heinekenro }
 
-‹Silva› (Original Pils)   • ‹Silva› Dark   • ‹Ciuc› Premium (Pils Original)   • Golden Brau   • Neumarkt (Original Pils)   • Bucegi   • Gambrinus   • Harghita   • Hategana  
-{:.beers}
+**‹Silva› (Original Pils)** (5.1%, 11.2°) _pilsener pale lager_{:.tags}  • 
+**‹Silva› Dark** (7.0%, 16.0°) _dunkler bock dark lager_{:.tags}  • 
+**‹Ciuc› Premium (Pils Original)** (4.8%, 11.5°) _czech pilsener pilsener pale lager_{:.tags}  • 
+**Golden Brau** (5.0%, 11.2°) _pale lager_{:.tags}  • 
+**Neumarkt (Original Pils)** (5.2%, 11.0°) _pale lager_{:.tags}  • 
+**Bucegi** (4.5%, 10.3°) _pale lager_{:.tags}  • 
+**Gambrinus** (4.5%) _pale lager_{:.tags}  • 
+**Harghita** (4.5%, 10.3°) _pale lager_{:.tags}  • 
+**Hategana** (4.5%) _pale lager_{:.tags} 
+{: .beers }
 
-Ursus Breweries -   <br>
+ Ursus Breweries  _sabmiller_{:.tags} <br>
 [www.ursus-breweries.ro](http://www.ursus-breweries.ro)  <br>
-{:.brewery}
+{: .brewery #ursus }
 
-‹Ursus› Premium   • ‹Ursus› Pils   • ‹Ursus› Nefiltrată [Unfiltered]   • ‹Ursus› Black   • ‹Timișoreana›   • Stejar Strong   • Azuga   • Ciucaș  
-{:.beers}
+**‹Ursus› Premium** (5.0%, 11.4°) _blonde pale lager pilsener_{:.tags}  • 
+**‹Ursus› Pils**  _pilsener_{:.tags}  • 
+**‹Ursus› Nefiltrată [Unfiltered]** (5.0%)   • 
+**‹Ursus› Black** (6.0%, 15.0°) _porter schwarz_{:.tags}  • 
+**‹Timișoreana›** (5.0%, 11.1°) _pale lager pilsener_{:.tags}  • 
+**Stejar Strong** (7.0%, 14.5°) _strong pale lager imperial pils_{:.tags}  • 
+**Azuga**  _pale lager_{:.tags}  • 
+**Ciucaș** (4.6%, 10.6°)  
+{: .beers }
 
-Bergenbier - 1994  <br>
-{:.brewery}
+ Bergenbier • Bergenbier S.A.  - 1994  _molsoncoors_{:.tags} <br>
+{: .brewery #bergenbier }
 
-‹Bergenbier›   • ‹Bergenbier› Nefiltrată [Unfiltered]   • Noroc (Blondă)  
-{:.beers}
+**‹Bergenbier›** (5.0%, 11.0°) _pale lager_{:.tags}  • 
+**‹Bergenbier› Nefiltrată [Unfiltered]** (5.0%) _white weizen_{:.tags}  • 
+**Noroc (Blondă)** (4.5%, 10.2°) _blonde pale lager_{:.tags} 
+{: .beers }
 
-Romaqua Group Borsec - 1999  <br>
+ Romaqua Group Borsec  - 1999   <br>
 [www.romaqua-group.ro](http://www.romaqua-group.ro)  <br>
-{:.brewery}
+{: .brewery #romaqua }
 
-Albacher (Original Premium)   • Dorfer (Bere Blondǎ)  
-{:.beers}
+**Albacher (Original Premium)** (4.8%, 11.0°) _blonde pilsener_{:.tags}  • 
+**Dorfer (Bere Blondǎ)**  _pale lager_{:.tags} 
+{: .beers }
 
 
 
-### Bihor _(0)_{:.count} {: #ro-bh }
+### Bihor _(0)_{:.count}
+{: #ro-bh }
 
 
 
@@ -51,7 +70,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Bistrița-Năsăud _(0)_{:.count} {: #ro-bn }
+### Bistrița-Năsăud _(0)_{:.count}
+{: #ro-bn }
 
 
 
@@ -59,7 +79,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Cluj _(0)_{:.count} {: #ro-cj }
+### Cluj _(0)_{:.count}
+{: #ro-cj }
 
 
 
@@ -67,7 +88,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Maramureș _(0)_{:.count} {: #ro-mm }
+### Maramureș _(0)_{:.count}
+{: #ro-mm }
 
 
 
@@ -75,7 +97,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Satu Mare _(0)_{:.count} {: #ro-sm }
+### Satu Mare _(0)_{:.count}
+{: #ro-sm }
 
 
 
@@ -83,7 +106,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Sălaj _(0)_{:.count} {: #ro-sj }
+### Sălaj _(0)_{:.count}
+{: #ro-sj }
 
 
 
@@ -91,7 +115,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Alba _(0)_{:.count} {: #ro-ab }
+### Alba _(0)_{:.count}
+{: #ro-ab }
 
 
 
@@ -99,7 +124,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Brașov _(0)_{:.count} {: #ro-bv }
+### Brașov _(0)_{:.count}
+{: #ro-bv }
 
 
 
@@ -107,7 +133,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Covasna _(0)_{:.count} {: #ro-cv }
+### Covasna _(0)_{:.count}
+{: #ro-cv }
 
 
 
@@ -115,7 +142,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Harghita _(0)_{:.count} {: #ro-hr }
+### Harghita _(0)_{:.count}
+{: #ro-hr }
 
 
 
@@ -123,7 +151,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Mureș _(0)_{:.count} {: #ro-ms }
+### Mureș _(0)_{:.count}
+{: #ro-ms }
 
 
 
@@ -131,7 +160,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Sibiu _(0)_{:.count} {: #ro-sb }
+### Sibiu _(0)_{:.count}
+{: #ro-sb }
 
 
 
@@ -139,7 +169,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Bacău _(0)_{:.count} {: #ro-bc }
+### Bacău _(0)_{:.count}
+{: #ro-bc }
 
 
 
@@ -147,7 +178,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Botoșani _(0)_{:.count} {: #ro-bt }
+### Botoșani _(0)_{:.count}
+{: #ro-bt }
 
 
 
@@ -155,7 +187,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Iași _(0)_{:.count} {: #ro-is }
+### Iași _(0)_{:.count}
+{: #ro-is }
 
 
 
@@ -163,7 +196,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Neamț _(0)_{:.count} {: #ro-nt }
+### Neamț _(0)_{:.count}
+{: #ro-nt }
 
 
 
@@ -171,7 +205,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Suceava _(0)_{:.count} {: #ro-sv }
+### Suceava _(0)_{:.count}
+{: #ro-sv }
 
 
 
@@ -179,7 +214,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Vaslui _(0)_{:.count} {: #ro-vs }
+### Vaslui _(0)_{:.count}
+{: #ro-vs }
 
 
 
@@ -187,7 +223,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Brăila _(0)_{:.count} {: #ro-br }
+### Brăila _(0)_{:.count}
+{: #ro-br }
 
 
 
@@ -195,7 +232,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Buzău _(0)_{:.count} {: #ro-bz }
+### Buzău _(0)_{:.count}
+{: #ro-bz }
 
 
 
@@ -203,7 +241,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Constanța _(0)_{:.count} {: #ro-ct }
+### Constanța _(0)_{:.count}
+{: #ro-ct }
 
 
 
@@ -211,7 +250,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Galați _(0)_{:.count} {: #ro-gl }
+### Galați _(0)_{:.count}
+{: #ro-gl }
 
 
 
@@ -219,7 +259,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Tulcea _(0)_{:.count} {: #ro-tl }
+### Tulcea _(0)_{:.count}
+{: #ro-tl }
 
 
 
@@ -227,7 +268,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Vrancea _(0)_{:.count} {: #ro-vn }
+### Vrancea _(0)_{:.count}
+{: #ro-vn }
 
 
 
@@ -235,7 +277,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Argeș _(0)_{:.count} {: #ro-ag }
+### Argeș _(0)_{:.count}
+{: #ro-ag }
 
 
 
@@ -243,7 +286,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Călărași _(0)_{:.count} {: #ro-cl }
+### Călărași _(0)_{:.count}
+{: #ro-cl }
 
 
 
@@ -251,7 +295,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Dâmbovița _(0)_{:.count} {: #ro-db }
+### Dâmbovița _(0)_{:.count}
+{: #ro-db }
 
 
 
@@ -259,7 +304,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Giurgiu _(0)_{:.count} {: #ro-gr }
+### Giurgiu _(0)_{:.count}
+{: #ro-gr }
 
 
 
@@ -267,7 +313,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Ialomița _(0)_{:.count} {: #ro-il }
+### Ialomița _(0)_{:.count}
+{: #ro-il }
 
 
 
@@ -275,7 +322,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Prahova _(0)_{:.count} {: #ro-ph }
+### Prahova _(0)_{:.count}
+{: #ro-ph }
 
 
 
@@ -283,7 +331,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Teleorman _(0)_{:.count} {: #ro-tr }
+### Teleorman _(0)_{:.count}
+{: #ro-tr }
 
 
 
@@ -291,7 +340,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### București _(0)_{:.count} {: #ro-bb }
+### București _(0)_{:.count}
+{: #ro-bb }
 
 
 
@@ -299,7 +349,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Ilfov _(0)_{:.count} {: #ro-if }
+### Ilfov _(0)_{:.count}
+{: #ro-if }
 
 
 
@@ -307,7 +358,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Dolj _(0)_{:.count} {: #ro-dj }
+### Dolj _(0)_{:.count}
+{: #ro-dj }
 
 
 
@@ -315,7 +367,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Gorj _(0)_{:.count} {: #ro-gj }
+### Gorj _(0)_{:.count}
+{: #ro-gj }
 
 
 
@@ -323,7 +376,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Mehedinți _(0)_{:.count} {: #ro-mh }
+### Mehedinți _(0)_{:.count}
+{: #ro-mh }
 
 
 
@@ -331,7 +385,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Olt _(0)_{:.count} {: #ro-ot }
+### Olt _(0)_{:.count}
+{: #ro-ot }
 
 
 
@@ -339,7 +394,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Vâlcea _(0)_{:.count} {: #ro-vl }
+### Vâlcea _(0)_{:.count}
+{: #ro-vl }
 
 
 
@@ -347,7 +403,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Arad _(0)_{:.count} {: #ro-ar }
+### Arad _(0)_{:.count}
+{: #ro-ar }
 
 
 
@@ -355,7 +412,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Caraș-Severin _(0)_{:.count} {: #ro-cs }
+### Caraș-Severin _(0)_{:.count}
+{: #ro-cs }
 
 
 
@@ -363,7 +421,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Hunedoara _(0)_{:.count} {: #ro-hd }
+### Hunedoara _(0)_{:.count}
+{: #ro-hd }
 
 
 
@@ -371,19 +430,23 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Timiș _(1)_{:.count} {: #ro-tm }
+### Timiș _(1)_{:.count}
+{: #ro-tm }
 
 
 
 
-##### Timișoara 
+##### Timișoara  
+{: .city #timisoara }
 
 
-Berarium / Clinica de Bere - 2011  <br>
-{:.brewery}
 
-Terapia Platin   • Terapia Gold  
-{:.beers}
+ Berarium / Clinica de Bere  - 2011   <br>
+{: .brewery #berarium }
+
+**Terapia Platin**  _weizen_{:.tags}  • 
+**Terapia Gold**  _golden ale ale_{:.tags} 
+{: .beers }
 
 
 

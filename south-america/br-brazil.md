@@ -12,12 +12,21 @@ permalink: /br.html
 
 ### Uncategorized Beers
 
-1999   • ‹Baden Baden› Stout   • ‹Bamberg› Rauchbier   • Demoiselle   • Xingu Black Beer   • ‹DaDo› Belgian Ale   • ‹Eisenbahn› Dunkel   • ‹Eisenbahn› Kölsch   • ‹Eisenbahn› Pale Ale  
+**1999** (5.2%) _bitter_{:.tags}  • 
+**‹Baden Baden› Stout** (7.5%) _stout_{:.tags}  • 
+**‹Bamberg› Rauchbier** (5.0%) _rauchbier_{:.tags}  • 
+**Demoiselle** (6.0%) _porter_{:.tags}  • 
+**Xingu Black Beer** (4.6%) _lager_{:.tags}  • 
+**‹DaDo› Belgian Ale** (8.5%) _ale_{:.tags}  • 
+**‹Eisenbahn› Dunkel** (4.8%) _dunkel_{:.tags}  • 
+**‹Eisenbahn› Kölsch** (4.8%)   • 
+**‹Eisenbahn› Pale Ale** (4.8%) _pale ale_{:.tags} 
 
 
 
 
-### Acre _(0)_{:.count} {: #br-ac }
+### Acre _(0)_{:.count}
+{: #br-ac }
 
 
 
@@ -25,7 +34,8 @@ permalink: /br.html
 
 
 
-### Amapá _(0)_{:.count} {: #br-am }
+### Amapá _(0)_{:.count}
+{: #br-am }
 
 
 
@@ -33,7 +43,8 @@ permalink: /br.html
 
 
 
-### Amazonas _(0)_{:.count} {: #br-ap }
+### Amazonas _(0)_{:.count}
+{: #br-ap }
 
 
 
@@ -41,7 +52,8 @@ permalink: /br.html
 
 
 
-### Pará _(0)_{:.count} {: #br-pa }
+### Pará _(0)_{:.count}
+{: #br-pa }
 
 
 
@@ -49,7 +61,8 @@ permalink: /br.html
 
 
 
-### Rondônia _(0)_{:.count} {: #br-ro }
+### Rondônia _(0)_{:.count}
+{: #br-ro }
 
 
 
@@ -57,7 +70,8 @@ permalink: /br.html
 
 
 
-### Roraima _(0)_{:.count} {: #br-rr }
+### Roraima _(0)_{:.count}
+{: #br-rr }
 
 
 
@@ -65,7 +79,8 @@ permalink: /br.html
 
 
 
-### Tocantins _(0)_{:.count} {: #br-to }
+### Tocantins _(0)_{:.count}
+{: #br-to }
 
 
 
@@ -73,7 +88,8 @@ permalink: /br.html
 
 
 
-### Alagoas _(0)_{:.count} {: #br-al }
+### Alagoas _(0)_{:.count}
+{: #br-al }
 
 
 
@@ -81,7 +97,8 @@ permalink: /br.html
 
 
 
-### Bahia _(0)_{:.count} {: #br-ba }
+### Bahia _(0)_{:.count}
+{: #br-ba }
 
 
 
@@ -89,7 +106,8 @@ permalink: /br.html
 
 
 
-### Ceará _(0)_{:.count} {: #br-ce }
+### Ceará _(0)_{:.count}
+{: #br-ce }
 
 
 
@@ -97,7 +115,8 @@ permalink: /br.html
 
 
 
-### Maranhão _(0)_{:.count} {: #br-ma }
+### Maranhão _(0)_{:.count}
+{: #br-ma }
 
 
 
@@ -105,7 +124,8 @@ permalink: /br.html
 
 
 
-### Paraíba _(0)_{:.count} {: #br-pb }
+### Paraíba _(0)_{:.count}
+{: #br-pb }
 
 
 
@@ -113,7 +133,8 @@ permalink: /br.html
 
 
 
-### Pernambuco _(0)_{:.count} {: #br-pe }
+### Pernambuco _(0)_{:.count}
+{: #br-pe }
 
 
 
@@ -121,7 +142,8 @@ permalink: /br.html
 
 
 
-### Piauí _(0)_{:.count} {: #br-pi }
+### Piauí _(0)_{:.count}
+{: #br-pi }
 
 
 
@@ -129,7 +151,8 @@ permalink: /br.html
 
 
 
-### Rio Grande do Norte _(0)_{:.count} {: #br-rn }
+### Rio Grande do Norte _(0)_{:.count}
+{: #br-rn }
 
 
 
@@ -137,7 +160,8 @@ permalink: /br.html
 
 
 
-### Sergipe _(0)_{:.count} {: #br-se }
+### Sergipe _(0)_{:.count}
+{: #br-se }
 
 
 
@@ -145,7 +169,8 @@ permalink: /br.html
 
 
 
-### Distrito Federal (Brasil) _(0)_{:.count} {: #br-df }
+### Distrito Federal (Brasil) _(0)_{:.count}
+{: #br-df }
 
 
 
@@ -153,7 +178,8 @@ permalink: /br.html
 
 
 
-### Goiás _(0)_{:.count} {: #br-go }
+### Goiás _(0)_{:.count}
+{: #br-go }
 
 
 
@@ -161,7 +187,8 @@ permalink: /br.html
 
 
 
-### Mato Grosso _(0)_{:.count} {: #br-mt }
+### Mato Grosso _(0)_{:.count}
+{: #br-mt }
 
 
 
@@ -169,7 +196,8 @@ permalink: /br.html
 
 
 
-### Mato Grosso do Sul _(0)_{:.count} {: #br-ms }
+### Mato Grosso do Sul _(0)_{:.count}
+{: #br-ms }
 
 
 
@@ -177,7 +205,8 @@ permalink: /br.html
 
 
 
-### Espírito Santo _(0)_{:.count} {: #br-es }
+### Espírito Santo _(0)_{:.count}
+{: #br-es }
 
 
 
@@ -185,7 +214,8 @@ permalink: /br.html
 
 
 
-### Minas Gerais _(0)_{:.count} {: #br-mg }
+### Minas Gerais _(0)_{:.count}
+{: #br-mg }
 
 
 
@@ -193,7 +223,8 @@ permalink: /br.html
 
 
 
-### Rio de Janeiro _(0)_{:.count} {: #br-rj }
+### Rio de Janeiro _(0)_{:.count}
+{: #br-rj }
 
 
 
@@ -201,7 +232,8 @@ permalink: /br.html
 
 
 
-### São Paulo _(0)_{:.count} {: #br-sp }
+### São Paulo _(0)_{:.count}
+{: #br-sp }
 
 
 
@@ -209,7 +241,8 @@ permalink: /br.html
 
 
 
-### Paraná _(0)_{:.count} {: #br-pr }
+### Paraná _(0)_{:.count}
+{: #br-pr }
 
 
 
@@ -217,7 +250,8 @@ permalink: /br.html
 
 
 
-### Rio Grande do Sul _(1)_{:.count} {: #br-rs }
+### Rio Grande do Sul _(1)_{:.count}
+{: #br-rs }
 
 
 
@@ -226,15 +260,16 @@ permalink: /br.html
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervejaria Brahma - 1888  <br>
-{:.brewery}
+ Cervejaria Brahma • Companhia Cervejaria Brahma  - 1888  _ab inbev_{:.tags} <br>
+{: .brewery #brahma }
 
-‹Brahma›  
-{:.beers}
+**‹Brahma›** (5.0%) _pale lager_{:.tags} 
+{: .beers }
 
 
 
-### Santa Catarina _(0)_{:.count} {: #br-sc }
+### Santa Catarina _(0)_{:.count}
+{: #br-sc }
 
 
 

@@ -12,12 +12,43 @@ permalink: /fr.html
 
 ### Uncategorized Beers
 
-Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   • Bercloux Bière Stout   • Bière Cognac   • Kasteel Cru   • Yeti   • Coreff Ambrée   • Bière des Naufrageurs Miel   • Anosteké Blonde   • Anosteké Brune   • Jenlain Ambrée   • Jenlain Blonde   • Jenlain Noel   • Hommelpap   • Adelscott   • Desperados   • La Choulette des Sans Culottes   • La Choulette Framboise   • Meteor Pils   • Pietra   • La Bavaisienne   • Etoile du Nord   • 1664   • Kronenbourg   • Premier Cru   • Bière de Brie Ambrée   • 3 Monts   • Gavroche   • La Goudale  
+**Cuvée des Jonquilles** (7.0%) _blond_{:.tags}  • 
+**Ch'ti Ambrée** (5.9%) _biere de garde_{:.tags}  • 
+**Ch'ti Blonde** (6.4%)   • 
+**L'Angelus** (7.0%) _blond_{:.tags}  • 
+**Bercloux Bière Stout** (5.0%) _stout_{:.tags}  • 
+**Bière Cognac** (7.0%)   • 
+**Kasteel Cru** (5.2%) _champagnebier_{:.tags}  • 
+**Yeti** (8.0%)   • 
+**Coreff Ambrée** (5.0%) _amber_{:.tags}  • 
+**Bière des Naufrageurs Miel** (7.5%) _honingbier_{:.tags}  • 
+**Anosteké Blonde** (8.0%) _tripel_{:.tags}  • 
+**Anosteké Brune** (8.5%) _bruin_{:.tags}  • 
+**Jenlain Ambrée** (7.5%) _amber_{:.tags}  • 
+**Jenlain Blonde** (7.5%) _biere de garde_{:.tags}  • 
+**Jenlain Noel** (6.8%) _kerstbier_{:.tags}  • 
+**Hommelpap** (7.0%) _blond_{:.tags}  • 
+**Adelscott** (6.0%)   • 
+**Desperados** (9.0%)   • 
+**La Choulette des Sans Culottes** (7.0%) _blond_{:.tags}  • 
+**La Choulette Framboise** (6.0%) _fruitbier_{:.tags}  • 
+**Meteor Pils** (5.0%) _pils_{:.tags}  • 
+**Pietra** (6.0%) _amber_{:.tags}  • 
+**La Bavaisienne** (7.0%) _biere de garde_{:.tags}  • 
+**Etoile du Nord** (4.5%) _blond_{:.tags}  • 
+**1664** (5.5%) _pils_{:.tags}  • 
+**Kronenbourg** (4.2%) _pils_{:.tags}  • 
+**Premier Cru** (6.0%) _lager_{:.tags}  • 
+**Bière de Brie Ambrée** (7.5%) _amber_{:.tags}  • 
+**3 Monts** (8.5%) _blond_{:.tags}  • 
+**Gavroche** (8.5%) _amber_{:.tags}  • 
+**La Goudale** (7.2%) _blond_{:.tags} 
 
 
 
 
-### Ile-de-France _(0)_{:.count} {: #fr-if }
+### Ile-de-France _(0)_{:.count}
+{: #fr-if }
 
 
 
@@ -25,7 +56,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Champagne-Ardenne _(0)_{:.count} {: #fr-ca }
+### Champagne-Ardenne _(0)_{:.count}
+{: #fr-ca }
 
 
 
@@ -33,7 +65,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Picardie _(0)_{:.count} {: #fr-pd }
+### Picardie _(0)_{:.count}
+{: #fr-pd }
 
 
 
@@ -41,7 +74,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Haute-Normandie _(0)_{:.count} {: #fr-hn }
+### Haute-Normandie _(0)_{:.count}
+{: #fr-hn }
 
 
 
@@ -49,7 +83,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Centre _(0)_{:.count} {: #fr-ct }
+### Centre _(0)_{:.count}
+{: #fr-ct }
 
 
 
@@ -57,7 +92,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Basse-Normandie _(0)_{:.count} {: #fr-bn }
+### Basse-Normandie _(0)_{:.count}
+{: #fr-bn }
 
 
 
@@ -65,7 +101,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Bourgogne _(0)_{:.count} {: #fr-bg }
+### Bourgogne _(0)_{:.count}
+{: #fr-bg }
 
 
 
@@ -73,7 +110,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Nord-Pas-de-Calais _(0)_{:.count} {: #fr-nc }
+### Nord-Pas-de-Calais _(0)_{:.count}
+{: #fr-nc }
 
 
 
@@ -81,7 +119,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Languedoc-Roussillon _(0)_{:.count} {: #fr-lr }
+### Languedoc-Roussillon _(0)_{:.count}
+{: #fr-lr }
 
 
 
@@ -89,7 +128,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Alsace _(0)_{:.count} {: #fr-al }
+### Alsace _(0)_{:.count}
+{: #fr-al }
 
 
 
@@ -97,7 +137,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Franche-Comté _(0)_{:.count} {: #fr-fc }
+### Franche-Comté _(0)_{:.count}
+{: #fr-fc }
 
 
 
@@ -105,7 +146,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Pays de la Loire _(0)_{:.count} {: #fr-pl }
+### Pays de la Loire _(0)_{:.count}
+{: #fr-pl }
 
 
 
@@ -113,7 +155,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Bretagne [Brittany] _(0)_{:.count} {: #fr-br }
+### Bretagne [Brittany] _(0)_{:.count}
+{: #fr-br }
 
 
 
@@ -121,7 +164,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Poitou-Charentes _(0)_{:.count} {: #fr-pc }
+### Poitou-Charentes _(0)_{:.count}
+{: #fr-pc }
 
 
 
@@ -129,7 +173,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Aquitaine _(0)_{:.count} {: #fr-aq }
+### Aquitaine _(0)_{:.count}
+{: #fr-aq }
 
 
 
@@ -137,7 +182,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Midi-Pyrénées _(0)_{:.count} {: #fr-mp }
+### Midi-Pyrénées _(0)_{:.count}
+{: #fr-mp }
 
 
 
@@ -145,7 +191,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Limousin _(0)_{:.count} {: #fr-lm }
+### Limousin _(0)_{:.count}
+{: #fr-lm }
 
 
 
@@ -153,7 +200,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Rhône-Alpes _(0)_{:.count} {: #fr-ra }
+### Rhône-Alpes _(0)_{:.count}
+{: #fr-ra }
 
 
 
@@ -161,7 +209,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Auvergne _(0)_{:.count} {: #fr-av }
+### Auvergne _(0)_{:.count}
+{: #fr-av }
 
 
 
@@ -169,7 +218,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Provence-Alpes-Côte d'Azur _(0)_{:.count} {: #fr-ac }
+### Provence-Alpes-Côte d'Azur _(0)_{:.count}
+{: #fr-ac }
 
 
 
@@ -177,7 +227,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Corse _(0)_{:.count} {: #fr-cr }
+### Corse _(0)_{:.count}
+{: #fr-cr }
 
 
 

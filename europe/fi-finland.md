@@ -12,7 +12,12 @@ permalink: /fi.html
 
 ### Uncategorized Beers
 
-Finlandia Sahti Strong   • Lapin Kulta   • Plevna Imperial Stout Siperia   • Koff   • Karhu   • Sinebrychoff Porter  
+**Finlandia Sahti Strong** (10.0%) _sahti_{:.tags}  • 
+**Lapin Kulta**  _pils lager_{:.tags}  • 
+**Plevna Imperial Stout Siperia** (8.0%) _stout_{:.tags}  • 
+**Koff**  _lager_{:.tags}  • 
+**Karhu**  _lager_{:.tags}  • 
+**Sinebrychoff Porter** (7.2%) _porter_{:.tags} 
 
 
 

@@ -12,7 +12,7 @@ permalink: /pr.html
 
 ### Uncategorized Beers
 
-Medalla Light  
+**Medalla Light** (4.2%) _lager_{:.tags} 
 
 
 

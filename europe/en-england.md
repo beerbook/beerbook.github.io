@@ -12,20 +12,14 @@ permalink: /en.html
 
 ### Uncategorized Beers
 
-John Smith Bitter   • Newcastle Brown Ale  
+**John Smith Bitter**    • 
+**Newcastle Brown Ale**  _brown ale_{:.tags} 
 
 
 
 
-### North East England _(0)_{:.count} {: #en-ne }
-
-
-
-
-
-
-
-### North West England _(0)_{:.count} {: #en-nw }
+### North East England _(0)_{:.count}
+{: #en-ne }
 
 
 
@@ -33,7 +27,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### Yorkshire and the Humber _(0)_{:.count} {: #en-yh }
+### North West England _(0)_{:.count}
+{: #en-nw }
 
 
 
@@ -41,7 +36,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### East Midlands _(0)_{:.count} {: #en-em }
+### Yorkshire and the Humber _(0)_{:.count}
+{: #en-yh }
 
 
 
@@ -49,7 +45,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### West Midlands _(0)_{:.count} {: #en-wm }
+### East Midlands _(0)_{:.count}
+{: #en-em }
 
 
 
@@ -57,7 +54,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### East of England _(0)_{:.count} {: #en-ee }
+### West Midlands _(0)_{:.count}
+{: #en-wm }
 
 
 
@@ -65,33 +63,53 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### Greater London _(1)_{:.count} {: #en-gl }
+### East of England _(0)_{:.count}
+{: #en-ee }
 
 
 
 
-##### London 
 
 
-Fuller, Smith & Turner - 1845  <br>
+
+### Greater London _(1)_{:.count}
+{: #en-gl }
+
+
+
+
+##### London   _pop 7.619.800 (8.586.000)_{:.pop}
+{: .city #london }
+
+
+
+ Fuller, Smith & Turner  - 1845   <br>
 The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
-{:.brewery}
+{: .brewery #fuller }
 
-‹Fuller's› London Pride   • ‹Fuller's› London Porter   • ‹Fuller's› Honey Dew   • ‹Fuller's› ESB   • ‹Fuller's› Discovery   • ‹Fuller's› Chiswick   • ‹Fuller's› 1845  
-{:.beers}
-
-
-
-
-### South East England _(0)_{:.count} {: #en-se }
-
-
-
+**‹Fuller's› London Pride** (4.7%) _english pale ale pale ale_{:.tags}  • 
+**‹Fuller's› London Porter** (5.4%) _english porter porter_{:.tags}  • 
+**‹Fuller's› Honey Dew** (5.0%) _english pale ale pale ale organic_{:.tags}  • 
+**‹Fuller's› ESB** (5.9%) _extra special strong bitter esb_{:.tags}  • 
+**‹Fuller's› Discovery** (3.9%) _english pale ale pale ale_{:.tags}  • 
+**‹Fuller's› Chiswick** (3.5%) _english bitter_{:.tags}  • 
+**‹Fuller's› 1845** (6.3%) _english strong ale strong ale_{:.tags} 
+{: .beers }
 
 
 
 
-### South West England _(0)_{:.count} {: #en-sw }
+### South East England _(0)_{:.count}
+{: #en-se }
+
+
+
+
+
+
+
+### South West England _(0)_{:.count}
+{: #en-sw }
 
 
 

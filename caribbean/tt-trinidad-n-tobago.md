@@ -12,7 +12,8 @@ permalink: /tt.html
 
 ### Uncategorized Beers
 
-Carib   • Royal Extra Stout  
+**Carib** (5.2%) _lager_{:.tags}  • 
+**Royal Extra Stout** (6.6%) _stout_{:.tags} 
 
 
 

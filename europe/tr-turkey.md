@@ -12,7 +12,7 @@ permalink: /tr.html
 
 ### Uncategorized Beers
 
-‹Efes› Pilsen  
+**‹Efes› Pilsen** (5.0%) _pils_{:.tags} 
 
 
 

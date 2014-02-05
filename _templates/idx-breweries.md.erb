@@ -1,4 +1,4 @@
-# Breweries ({{ Brewery.count }}) Index
+# Breweries Index _({{ Brewery.count }})_{:.count}
 
 .. <!-- add/fix: add category for starting w/ non-letters e.g. digits -->
 .. <!-- todo: add entries for synonims - how?? use see xxx  why?  why not? -->
@@ -19,8 +19,8 @@
    .. <!-- fix: add brewery tags here -->
    ( ++
    {{ brewery.country.title }} ++
-   {% if brewery.region_id.present? %} lt {{ brewery.region.title }} {% end %} ++
-   {% if brewery.city_id.present? %} lt {{ brewery.city.title }} {% end %} ++
+   {% if brewery.region_id.present? %} › {{ brewery.region.title }} {% end %} ++
+   {% if brewery.city_id.present? %} › {{ brewery.city.title }} {% end %} ++
    ) <br>
 {% end %}
 

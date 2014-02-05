@@ -12,21 +12,28 @@ permalink: /ie.html
 
 ### Uncategorized Beers
 
-Guinness   • Guinness Foreign Extra   • O'Hara's Irish Red   • O'Hara's Irish Stout   • Galway Hooker Irish Pale Ale   • Porterhouse Oyster Stout   • Wrasslers XXXX Stout  
+**Guinness** (4.2%) _irish dry stout dry stout stout_{:.tags}  • 
+**Guinness Foreign Extra** (7.5%) _stout_{:.tags}  • 
+**O'Hara's Irish Red** (4.3%) _red ale_{:.tags}  • 
+**O'Hara's Irish Stout** (4.3%) _stout_{:.tags}  • 
+**Galway Hooker Irish Pale Ale** (4.4%) _ale_{:.tags}  • 
+**Porterhouse Oyster Stout** (4.8%) _stout_{:.tags}  • 
+**Wrasslers XXXX Stout** (5.0%) _stout_{:.tags} 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-The Porterhouse Brewing Co. - 1996  <br>
+ The Porterhouse Brewing Co.  - 1996   <br>
 Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 [www.porterhousebrewco.com](http://www.porterhousebrewco.com)  <br>
-{:.brewery}
+{: .brewery #porterhouse }
 
 
 
 
-### Louth / Leinster _(0)_{:.count} {: #ie-lh }
+### Louth / Leinster _(0)_{:.count}
+{: #ie-lh }
 
 
 
@@ -34,7 +41,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Leitrim / Connaught _(0)_{:.count} {: #ie-lm }
+### Leitrim / Connaught _(0)_{:.count}
+{: #ie-lm }
 
 
 
@@ -42,7 +50,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Sligo / Connaught _(0)_{:.count} {: #ie-so }
+### Sligo / Connaught _(0)_{:.count}
+{: #ie-so }
 
 
 
@@ -50,7 +59,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Cavan / Ulster _(0)_{:.count} {: #ie-cn }
+### Cavan / Ulster _(0)_{:.count}
+{: #ie-cn }
 
 
 
@@ -58,7 +68,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Donegal / Ulster _(0)_{:.count} {: #ie-dl }
+### Donegal / Ulster _(0)_{:.count}
+{: #ie-dl }
 
 
 
@@ -66,7 +77,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Monaghan / Ulster _(0)_{:.count} {: #ie-mn }
+### Monaghan / Ulster _(0)_{:.count}
+{: #ie-mn }
 
 
 
@@ -74,7 +86,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Laois / Leinster _(0)_{:.count} {: #ie-ls }
+### Laois / Leinster _(0)_{:.count}
+{: #ie-ls }
 
 
 
@@ -82,7 +95,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Longford / Leinster _(0)_{:.count} {: #ie-ld }
+### Longford / Leinster _(0)_{:.count}
+{: #ie-ld }
 
 
 
@@ -90,7 +104,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Offaly / Leinster _(0)_{:.count} {: #ie-oy }
+### Offaly / Leinster _(0)_{:.count}
+{: #ie-oy }
 
 
 
@@ -98,7 +113,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Westmeath / Leinster _(0)_{:.count} {: #ie-wh }
+### Westmeath / Leinster _(0)_{:.count}
+{: #ie-wh }
 
 
 
@@ -106,7 +122,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Galway / Connaught _(0)_{:.count} {: #ie-ga }
+### Galway / Connaught _(0)_{:.count}
+{: #ie-ga }
 
 
 
@@ -114,7 +131,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Mayo / Connaught _(0)_{:.count} {: #ie-mo }
+### Mayo / Connaught _(0)_{:.count}
+{: #ie-mo }
 
 
 
@@ -122,7 +140,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Roscommon / Connaught _(0)_{:.count} {: #ie-rn }
+### Roscommon / Connaught _(0)_{:.count}
+{: #ie-rn }
 
 
 
@@ -130,24 +149,28 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Dublin / Leinster _(1)_{:.count} {: #ie-db }
+### Dublin / Leinster _(1)_{:.count}
+{: #ie-db }
 
 
 
 
-##### Dublin 
+##### Dublin   _pop 1.110.627 (1.801.040)_{:.pop}
+{: .city #dublin }
 
 
-St. James's Gate Brewery / Guinness Brewery - 1759  <br>
+
+ St. James's Gate Brewery / Guinness Brewery • Arthur Guinness Son & Co.  - 1759  _diageo_{:.tags} <br>
 Saint James's Gate // Dublin 8  <br>
 [www.guinness.com](http://www.guinness.com)  <br>
-{:.brewery}
+{: .brewery #guinness }
 
 
 
 
 
-### Limerick / Munster _(0)_{:.count} {: #ie-lk }
+### Limerick / Munster _(0)_{:.count}
+{: #ie-lk }
 
 
 
@@ -155,7 +178,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### North Tipperary / Munster _(0)_{:.count} {: #ie-tn }
+### North Tipperary / Munster _(0)_{:.count}
+{: #ie-tn }
 
 
 
@@ -163,7 +187,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### South Tipperary / Munster _(0)_{:.count} {: #ie-ts }
+### South Tipperary / Munster _(0)_{:.count}
+{: #ie-ts }
 
 
 
@@ -171,7 +196,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Clare / Munster _(0)_{:.count} {: #ie-ce }
+### Clare / Munster _(0)_{:.count}
+{: #ie-ce }
 
 
 
@@ -179,7 +205,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Kildare / Leinster _(0)_{:.count} {: #ie-ke }
+### Kildare / Leinster _(0)_{:.count}
+{: #ie-ke }
 
 
 
@@ -187,7 +214,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Meath / Leinster _(0)_{:.count} {: #ie-mh }
+### Meath / Leinster _(0)_{:.count}
+{: #ie-mh }
 
 
 
@@ -195,7 +223,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Wicklow / Leinster _(0)_{:.count} {: #ie-ww }
+### Wicklow / Leinster _(0)_{:.count}
+{: #ie-ww }
 
 
 
@@ -203,7 +232,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Wexford / Leinster _(0)_{:.count} {: #ie-wx }
+### Wexford / Leinster _(0)_{:.count}
+{: #ie-wx }
 
 
 
@@ -211,33 +241,30 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Kilkenny / Leinster _(1)_{:.count} {: #ie-kk }
+### Kilkenny / Leinster _(1)_{:.count}
+{: #ie-kk }
 
 
 
 
-##### Kilkenny 
+##### Kilkenny  
+{: .city #kilkenny }
 
 
-St. Francis Abbey Brewery - 1710  <br>
+
+ St. Francis Abbey Brewery • E. Smithwick and Sons Ltd.  - 1710  _diageo guinness_{:.tags} <br>
 Parliament St // Kilkenny  <br>
-{:.brewery}
+{: .brewery #kilkenny }
 
-Kilkenny   • Smithwick's  
-{:.beers}
-
-
-
-
-### Carlow / Leinster _(0)_{:.count} {: #ie-cw }
+**Kilkenny** (4.3%) _irish red ale red ale ale_{:.tags}  • 
+**Smithwick's** (4.5%) _irish red ale red ale ale_{:.tags} 
+{: .beers }
 
 
 
 
-
-
-
-### Waterford / Munster _(0)_{:.count} {: #ie-wd }
+### Carlow / Leinster _(0)_{:.count}
+{: #ie-cw }
 
 
 
@@ -245,26 +272,40 @@ Kilkenny   • Smithwick's
 
 
 
-### Cork / Munster _(1)_{:.count} {: #ie-co }
+### Waterford / Munster _(0)_{:.count}
+{: #ie-wd }
 
 
 
 
-##### Cork 
 
 
-Murphy Brewery - 1856  <br>
+
+### Cork / Munster _(1)_{:.count}
+{: #ie-co }
+
+
+
+
+##### Cork   _pop 198.582_{:.pop}
+{: .city #cork }
+
+
+
+ Murphy Brewery  - 1856  _heineken_{:.tags} <br>
 Lady's Well // Leitrim St. // Cork  <br>
 [www.murphys.com](http://www.murphys.com)  <br>
-{:.brewery}
+{: .brewery #murphy }
 
-Murphy's Irish Red   • Murphy's Irish Stout  
-{:.beers}
+**Murphy's Irish Red** (5.2%) _irish red ale red ale ale_{:.tags}  • 
+**Murphy's Irish Stout** (4.3%) _irish dry stout dry stout stout_{:.tags} 
+{: .beers }
 
 
 
 
-### Kerry / Munster _(0)_{:.count} {: #ie-ky }
+### Kerry / Munster _(0)_{:.count}
+{: #ie-ky }
 
 
 

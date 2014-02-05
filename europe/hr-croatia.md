@@ -12,7 +12,9 @@ permalink: /hr.html
 
 ### Uncategorized Beers
 
-Karlovačko Svijetlo Pivo   • Ožujsko bier   • Tomislav Pivo  
+**Karlovačko Svijetlo Pivo** (5.4%) _pils_{:.tags}  • 
+**Ožujsko bier** (5.2%) _lager_{:.tags}  • 
+**Tomislav Pivo** (7.3%) _lager_{:.tags} 
 
 
 
