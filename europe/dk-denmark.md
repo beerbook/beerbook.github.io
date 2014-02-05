@@ -4,7 +4,9 @@ title:     Denmark (DEN)
 permalink: /dk.html
 ---
 
-## Denmark (DEN) - 15 Beers, 0 Breweries {#dk}
+## Denmark (DEN) - 15 Beers, 0 Breweries
+{: #dk }
+
 
 
 

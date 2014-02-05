@@ -4,7 +4,9 @@ title:     Norway (NOR)
 permalink: /no.html
 ---
 
-## Norway (NOR) - 6 Beers, 0 Breweries {#no}
+## Norway (NOR) - 6 Beers, 0 Breweries
+{: #no }
+
 
 
 

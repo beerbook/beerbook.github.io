@@ -4,7 +4,9 @@ title:     Cuba (CUB)
 permalink: /cu.html
 ---
 
-## Cuba (CUB) - 4 Beers, 0 Breweries {#cu}
+## Cuba (CUB) - 4 Beers, 0 Breweries
+{: #cu }
+
 
 
 

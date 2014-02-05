@@ -4,7 +4,9 @@ title:     Estonia (EST)
 permalink: /ee.html
 ---
 
-## Estonia (EST) - 2 Beers, 0 Breweries {#ee}
+## Estonia (EST) - 2 Beers, 0 Breweries
+{: #ee }
+
 
 
 

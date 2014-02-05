@@ -58,6 +58,7 @@ BeerDb.tables
 
 Continent = WorldDb::Model::Continent
 Country   = WorldDb::Model::Country
+Brewery   = BeerDb::Model::Brewery
 
 
 
@@ -102,6 +103,24 @@ end
 
 
 def build_book
+
+### generate breweries index
+
+breweries_text = <<EOS
+---
+layout: default
+title: Breweries Index
+---
+
+EOS
+
+breweries_text += render_idx_breweries()
+
+File.open( 'breweries.md', 'w+') do |file|
+  file.write breweries_text
+end
+
+return  # for testing; end now
 
 ### generate table of contents (toc)
 
@@ -205,7 +224,7 @@ end # method build_book_all_in_one
 
 
 build_book()
-build_book_all_in_one()
+# build_book_all_in_one()
 
 
 puts 'Done. Bye.'

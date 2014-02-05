@@ -4,7 +4,9 @@ title:     Sweden (SWE)
 permalink: /se.html
 ---
 
-## Sweden (SWE) - 7 Beers, 0 Breweries {#se}
+## Sweden (SWE) - 7 Beers, 0 Breweries
+{: #se }
+
 
 
 

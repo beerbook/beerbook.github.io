@@ -4,7 +4,9 @@ title:     Singapore (SIN)
 permalink: /sg.html
 ---
 
-## Singapore (SIN) - 3 Beers, 0 Breweries {#sg}
+## Singapore (SIN) - 3 Beers, 0 Breweries
+{: #sg }
+
 
 
 

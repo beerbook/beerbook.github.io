@@ -4,7 +4,9 @@ title:     Slovenia (SVN)
 permalink: /si.html
 ---
 
-## Slovenia (SVN) - 3 Beers, 0 Breweries {#si}
+## Slovenia (SVN) - 3 Beers, 0 Breweries
+{: #si }
+
 
 
 

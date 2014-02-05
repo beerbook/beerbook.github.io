@@ -4,7 +4,9 @@ title:     South Africa (RSA)
 permalink: /za.html
 ---
 
-## South Africa (RSA) - 6 Beers, 0 Breweries {#za}
+## South Africa (RSA) - 6 Beers, 0 Breweries
+{: #za }
+
 
 
 

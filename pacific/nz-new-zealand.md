@@ -4,7 +4,9 @@ title:     New Zealand (NZL)
 permalink: /nz.html
 ---
 
-## New Zealand (NZL) - 17 Beers, 0 Breweries {#nz}
+## New Zealand (NZL) - 17 Beers, 0 Breweries
+{: #nz }
+
 
 
 

@@ -4,7 +4,9 @@ title:     Poland (POL)
 permalink: /pl.html
 ---
 
-## Poland (POL) - 13 Beers, 0 Breweries {#pl}
+## Poland (POL) - 13 Beers, 0 Breweries
+{: #pl }
+
 
 
 

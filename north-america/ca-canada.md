@@ -4,14 +4,17 @@ title:     Canada (CAN)
 permalink: /ca.html
 ---
 
-## Canada (CAN) - 7 Beers, 10 Breweries {#ca}
+## Canada (CAN) - 7 Beers, 10 Breweries
+{: #ca }
+
 
 [British Columbia](#ca-bc) _(3)_{:.count} • [Alberta](#ca-ab) _(4)_{:.count} • [Manitoba](#ca-mb) _(1)_{:.count} • [Saskatchewan](#ca-sk) _(1)_{:.count} • [New Brunswick](#ca-nb) _(0)_{:.count} • [Nova Scotia](#ca-ns) _(0)_{:.count} • [Prince Edward Island](#ca-pe) _(0)_{:.count} • [Newfoundland and Labrador](#ca-nl) _(0)_{:.count} • [Ontario](#ca-on) _(0)_{:.count} • [Québec](#ca-qc) _(0)_{:.count} • [Northwest Territories](#ca-nt) _(0)_{:.count} • [Yukon](#ca-yt) _(1)_{:.count} • [Nunavut](#ca-nu) _(0)_{:.count}
 
 
 
 
-### British Columbia _(3)_{:.count} {#ca-bc}
+### British Columbia _(3)_{:.count} {: #ca-bc }
+
 
 
 
@@ -39,7 +42,8 @@ Red Racer ESB   • Red Racer Pale Ale   • Red Racer IPA   • Thor's Hammer B
 
 
 
-### Alberta _(4)_{:.count} {#ca-ab}
+### Alberta _(4)_{:.count} {: #ca-ab }
+
 
 
 
@@ -72,7 +76,8 @@ Full Moon Pale Ale   • Old Deuteronomy Barley Wine   • Belgian Style Quad
 
 
 
-### Manitoba _(1)_{:.count} {#ca-mb}
+### Manitoba _(1)_{:.count} {: #ca-mb }
+
 
 
 
@@ -88,7 +93,8 @@ Fort Garry Brewing Co -   <br>
 
 
 
-### Saskatchewan _(1)_{:.count} {#ca-sk}
+### Saskatchewan _(1)_{:.count} {: #ca-sk }
+
 
 
 
@@ -104,56 +110,64 @@ Great Western Brewing Co -   <br>
 
 
 
-### New Brunswick _(0)_{:.count} {#ca-nb}
+### New Brunswick _(0)_{:.count} {: #ca-nb }
 
 
 
 
 
 
-### Nova Scotia _(0)_{:.count} {#ca-ns}
+
+### Nova Scotia _(0)_{:.count} {: #ca-ns }
 
 
 
 
 
 
-### Prince Edward Island _(0)_{:.count} {#ca-pe}
+
+### Prince Edward Island _(0)_{:.count} {: #ca-pe }
 
 
 
 
 
 
-### Newfoundland and Labrador _(0)_{:.count} {#ca-nl}
+
+### Newfoundland and Labrador _(0)_{:.count} {: #ca-nl }
 
 
 
 
 
 
-### Ontario _(0)_{:.count} {#ca-on}
+
+### Ontario _(0)_{:.count} {: #ca-on }
 
 
 
 
 
 
-### Québec _(0)_{:.count} {#ca-qc}
+
+### Québec _(0)_{:.count} {: #ca-qc }
 
 
 
 
 
 
-### Northwest Territories _(0)_{:.count} {#ca-nt}
+
+### Northwest Territories _(0)_{:.count} {: #ca-nt }
 
 
 
 
 
 
-### Yukon _(1)_{:.count} {#ca-yt}
+
+### Yukon _(1)_{:.count} {: #ca-yt }
+
 
 
 
@@ -169,7 +183,8 @@ Yukon Brewing Co -   <br>
 
 
 
-### Nunavut _(0)_{:.count} {#ca-nu}
+### Nunavut _(0)_{:.count} {: #ca-nu }
+
 
 
 

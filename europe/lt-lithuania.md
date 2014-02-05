@@ -4,7 +4,9 @@ title:     Lithuania (LTU)
 permalink: /lt.html
 ---
 
-## Lithuania (LTU) - 5 Beers, 0 Breweries {#lt}
+## Lithuania (LTU) - 5 Beers, 0 Breweries
+{: #lt }
+
 
 
 

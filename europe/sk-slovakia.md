@@ -4,7 +4,9 @@ title:     Slovakia (SVK)
 permalink: /sk.html
 ---
 
-## Slovakia (SVK) - 23 Beers, 16 Breweries {#sk}
+## Slovakia (SVK) - 23 Beers, 16 Breweries
+{: #sk }
+
 
 [Bratislava](#sk-bl) _(1)_{:.count} • [Trnava](#sk-ta) _(0)_{:.count} • [Trenčín](#sk-tc) _(0)_{:.count} • [Nitra](#sk-ni) _(0)_{:.count} • [Žilina](#sk-zi) _(0)_{:.count} • [Banská Bystrica](#sk-bc) _(0)_{:.count} • [Prešov](#sk-pv) _(0)_{:.count} • [Košice](#sk-ki) _(0)_{:.count} • **Uncategorized** _(15)_{:.count}
 
@@ -117,7 +119,8 @@ Sandorf
 
 
 
-### Bratislava _(1)_{:.count} {#sk-bl}
+### Bratislava _(1)_{:.count} {: #sk-bl }
+
 
 
 
@@ -135,49 +138,56 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Trnava _(0)_{:.count} {#sk-ta}
+### Trnava _(0)_{:.count} {: #sk-ta }
 
 
 
 
 
 
-### Trenčín _(0)_{:.count} {#sk-tc}
+
+### Trenčín _(0)_{:.count} {: #sk-tc }
 
 
 
 
 
 
-### Nitra _(0)_{:.count} {#sk-ni}
+
+### Nitra _(0)_{:.count} {: #sk-ni }
 
 
 
 
 
 
-### Žilina _(0)_{:.count} {#sk-zi}
+
+### Žilina _(0)_{:.count} {: #sk-zi }
 
 
 
 
 
 
-### Banská Bystrica _(0)_{:.count} {#sk-bc}
+
+### Banská Bystrica _(0)_{:.count} {: #sk-bc }
 
 
 
 
 
 
-### Prešov _(0)_{:.count} {#sk-pv}
+
+### Prešov _(0)_{:.count} {: #sk-pv }
 
 
 
 
 
 
-### Košice _(0)_{:.count} {#sk-ki}
+
+### Košice _(0)_{:.count} {: #sk-ki }
+
 
 
 

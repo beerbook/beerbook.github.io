@@ -4,7 +4,9 @@ title:     South Korea (KOR)
 permalink: /kr.html
 ---
 
-## South Korea (KOR) - 1 Beers, 0 Breweries {#kr}
+## South Korea (KOR) - 1 Beers, 0 Breweries
+{: #kr }
+
 
 
 

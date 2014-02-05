@@ -4,7 +4,9 @@ title:     Sri Lanka (SRI)
 permalink: /lk.html
 ---
 
-## Sri Lanka (SRI) - 1 Beers, 0 Breweries {#lk}
+## Sri Lanka (SRI) - 1 Beers, 0 Breweries
+{: #lk }
+
 
 
 

@@ -4,7 +4,9 @@ title:     Turkey (TUR)
 permalink: /tr.html
 ---
 
-## Turkey (TUR) - 1 Beers, 0 Breweries {#tr}
+## Turkey (TUR) - 1 Beers, 0 Breweries
+{: #tr }
+
 
 
 

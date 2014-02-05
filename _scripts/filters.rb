@@ -4,6 +4,35 @@
 #  todo: move to textutils for reuse !!!
 
 
+def django_to_erb( text )
+  ## convert django style markers to erb style marker e.g
+  #  {% %} becomes <% %>  -- supports multi-line
+  #  {{ }} becomes <%= %>  - does NOT support multi-line
+
+  ## comments (support multi-line)
+  text = text.gsub( /\{#(.+?)#\}/m ) do |_|
+   "<%# #{1} %>"
+  end
+
+  text = text.gsub( /\{%(.+?)%\}/m ) do |_|
+    ## note: also replace newlines w/  %>\n<%  to split
+    #   multi-line stmts into single-line stmts
+    # lets us use
+    # {%
+    #  %} will become
+    # <%  %>
+    # <%  %>
+    "<% #{$1} %>".gsub( "\n", " %>\n<% " )
+  end
+
+  # note: for now {{ }} will NOT support multi-line
+  text = text.gsub( /\{\{(.+?)\}\}/ ) do |_|
+    "<%= #{$1} %>"
+  end
+
+  text
+end
+
 def remove_html_comments( text )
   text.gsub( /<!--.+?-->/, '' )
 end

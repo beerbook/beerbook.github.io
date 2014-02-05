@@ -4,7 +4,9 @@ title:     Czech Republic (CZE)
 permalink: /cz.html
 ---
 
-## Czech Republic (CZE) - 68 Beers, 43 Breweries {#cz}
+## Czech Republic (CZE) - 68 Beers, 43 Breweries
+{: #cz }
+
 
 [Praha [Prague • Prag]](#cz-pr) _(2)_{:.count} • [Střední Čechy [Central Bohemia • Mittelböhmen]](#cz-st) _(6)_{:.count} • [Jižní Čechy [South Bohemia • Südböhmen]](#cz-jc) _(6)_{:.count} • [Plzeň [• Pilsen]](#cz-pl) _(3)_{:.count} • [Karlovy Vary [Carlsbad • Karlsbad]](#cz-ka) _(4)_{:.count} • [Ústí nad Labem [• Aussig]](#cz-us) _(4)_{:.count} • [Liberec   [• Reichenberg]](#cz-li) _(2)_{:.count} • [Hradec Králové [• Königgrätz]](#cz-kr) _(0)_{:.count} • [Pardubice   [• Pardubitz]](#cz-pa) _(3)_{:.count} • [Jižní Morava [South Moravia • Südmähren]](#cz-jm) _(4)_{:.count} • [Vysočina [• Hochland]](#cz-vy) _(3)_{:.count} • [Olomouc [• Olmütz]](#cz-ol) _(3)_{:.count} • [Zlín [• Zlin]](#cz-zl) _(1)_{:.count} • [Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien]](#cz-mo) _(2)_{:.count}
 
@@ -15,7 +17,8 @@ Pilsner Urquell   • Budweiser Budvar 10%            4%   • Budweiser Budvar 
 
 
 
-### Praha [Prague • Prag] _(2)_{:.count} {#cz-pr}
+### Praha [Prague • Prag] _(2)_{:.count} {: #cz-pr }
+
 
 
 
@@ -36,7 +39,8 @@ Pivovar Braník - 1899  <br>
 
 
 
-### Střední Čechy [Central Bohemia • Mittelböhmen] _(6)_{:.count} {#cz-st}
+### Střední Čechy [Central Bohemia • Mittelböhmen] _(6)_{:.count} {: #cz-st }
+
 
 
 
@@ -85,7 +89,8 @@ Pivovar Klášter (Pivovary Lobkowicz) - 1570  <br>
 
 
 
-### Jižní Čechy [South Bohemia • Südböhmen] _(6)_{:.count} {#cz-jc}
+### Jižní Čechy [South Bohemia • Südböhmen] _(6)_{:.count} {: #cz-jc }
+
 
 [Budějovice [Budweis]](#budejovice) • **Uncategorized** _(5)_{:.count}
 
@@ -136,7 +141,8 @@ Podskalského 324 // 386 19  Strakonice  <br>
 
 
 
-### Plzeň [• Pilsen] _(3)_{:.count} {#cz-pl}
+### Plzeň [• Pilsen] _(3)_{:.count} {: #cz-pl }
+
 
 [Plzeň [Pilsen]](#plzen) _(2)_{:.count} • **Uncategorized** _(1)_{:.count}
 
@@ -171,7 +177,8 @@ Chodovar Zlatý Ležák 11%   • Chodovar Pašerák Světlé   • Chodovar Pre
 
 
 
-### Karlovy Vary [Carlsbad • Karlsbad] _(4)_{:.count} {#cz-ka}
+### Karlovy Vary [Carlsbad • Karlsbad] _(4)_{:.count} {: #cz-ka }
+
 
 
 
@@ -207,7 +214,8 @@ Křižíkova 486 // 541 01  Trutnov  <br>
 
 
 
-### Ústí nad Labem [• Aussig] _(4)_{:.count} {#cz-us}
+### Ústí nad Labem [• Aussig] _(4)_{:.count} {: #cz-us }
+
 
 
 
@@ -241,7 +249,8 @@ Pivovar Louny - 1892  <br>
 
 
 
-### Liberec   [• Reichenberg] _(2)_{:.count} {#cz-li}
+### Liberec   [• Reichenberg] _(2)_{:.count} {: #cz-li }
+
 
 
 
@@ -263,14 +272,16 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 
 
 
-### Hradec Králové [• Königgrätz] _(0)_{:.count} {#cz-kr}
+### Hradec Králové [• Königgrätz] _(0)_{:.count} {: #cz-kr }
 
 
 
 
 
 
-### Pardubice   [• Pardubitz] _(3)_{:.count} {#cz-pa}
+
+### Pardubice   [• Pardubitz] _(3)_{:.count} {: #cz-pa }
+
 
 
 
@@ -298,7 +309,8 @@ Resslova 260 // 539 01  Hlinsko v Čechách  <br>
 
 
 
-### Jižní Morava [South Moravia • Südmähren] _(4)_{:.count} {#cz-jm}
+### Jižní Morava [South Moravia • Südmähren] _(4)_{:.count} {: #cz-jm }
+
 
 [Brno](#brno) • **Uncategorized** _(3)_{:.count}
 
@@ -339,7 +351,8 @@ Pivovar Vyškov - 1680  <br>
 
 
 
-### Vysočina [• Hochland] _(3)_{:.count} {#cz-vy}
+### Vysočina [• Hochland] _(3)_{:.count} {: #cz-vy }
+
 
 
 
@@ -371,7 +384,8 @@ Vrchlického 2 // 586 01  Jihlava  <br>
 
 
 
-### Olomouc [• Olmütz] _(3)_{:.count} {#cz-ol}
+### Olomouc [• Olmütz] _(3)_{:.count} {: #cz-ol }
+
 
 
 
@@ -401,7 +415,8 @@ Palackého 934 // 784 05  Litovel  <br>
 
 
 
-### Zlín [• Zlin] _(1)_{:.count} {#cz-zl}
+### Zlín [• Zlin] _(1)_{:.count} {: #cz-zl }
+
 
 
 
@@ -417,7 +432,8 @@ Neradice 369 // 688 16 Uherský Brod  <br>
 
 
 
-### Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien] _(2)_{:.count} {#cz-mo}
+### Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien] _(2)_{:.count} {: #cz-mo }
+
 
 
 

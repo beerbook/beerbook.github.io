@@ -1,7 +1,7 @@
 ..
 ..
 
-##### <%= city.title %>  ++
-      <% if city.breweries.count > 1 then %> _(<%= city.breweries.count %>)_{:.count} <% end %>
+##### {{ city.title }}  ++
+      {% if city.breweries.count > 1 then %} _({{ city.breweries.count }})_{:.count} {% end %}
 
-<%= render_breweries( city.breweries ) %>
+{{ render_breweries( city.breweries ) }}

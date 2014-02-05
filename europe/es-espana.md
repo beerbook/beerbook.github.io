@@ -4,7 +4,9 @@ title:     Spain (ESP)
 permalink: /es.html
 ---
 
-## Spain (ESP) - 14 Beers, 0 Breweries {#es}
+## Spain (ESP) - 14 Beers, 0 Breweries
+{: #es }
+
 
 [Andalucía](#es-an) _(0)_{:.count} • [Aragón](#es-ar) _(0)_{:.count} • [Asturias](#es-as) _(0)_{:.count} • [Illes Balears](#es-ib) _(0)_{:.count} • [Pais Vasco](#es-pv) _(0)_{:.count} • [Canarias](#es-cn) _(0)_{:.count} • [Cantábria](#es-cb) _(0)_{:.count} • [Castilla y León](#es-cl) _(0)_{:.count} • [Castilla-La Mancha](#es-cm) _(0)_{:.count} • [Cataluña](#es-ct) _(0)_{:.count} • [Extremadura](#es-ex) _(0)_{:.count} • [Galicia](#es-ga) _(0)_{:.count} • [La Rioja](#es-ri) _(0)_{:.count} • [Madrid](#es-md) _(0)_{:.count} • [Murcia](#es-mc) _(0)_{:.count} • [Navarra](#es-na) _(0)_{:.count} • [Valencia](#es-vc) _(0)_{:.count} • [Ceuta](#es-ce) _(0)_{:.count} • [Melilla](#es-ml) _(0)_{:.count}
 
@@ -15,133 +17,152 @@ permalink: /es.html
 
 
 
-### Andalucía | Andalusia _(0)_{:.count} {#es-an}
+### Andalucía | Andalusia _(0)_{:.count} {: #es-an }
 
 
 
 
 
 
-### Aragón _(0)_{:.count} {#es-ar}
 
+### Aragón _(0)_{:.count} {: #es-ar }
 
 
 
 
 
-### Asturias _(0)_{:.count} {#es-as}
 
 
+### Asturias _(0)_{:.count} {: #es-as }
 
 
 
 
-### Illes Balears | Balearic Islands _(0)_{:.count} {#es-ib}
 
 
 
+### Illes Balears | Balearic Islands _(0)_{:.count} {: #es-ib }
 
 
 
-### Pais Vasco | Basque Country _(0)_{:.count} {#es-pv}
 
 
 
 
+### Pais Vasco | Basque Country _(0)_{:.count} {: #es-pv }
 
 
-### Canarias | Canary Islands _(0)_{:.count} {#es-cn}
 
 
 
 
 
+### Canarias | Canary Islands _(0)_{:.count} {: #es-cn }
 
-### Cantábria _(0)_{:.count} {#es-cb}
 
 
 
 
 
 
-### Castilla y León _(0)_{:.count} {#es-cl}
+### Cantábria _(0)_{:.count} {: #es-cb }
 
 
 
 
 
 
-### Castilla-La Mancha _(0)_{:.count} {#es-cm}
 
+### Castilla y León _(0)_{:.count} {: #es-cl }
 
 
 
 
 
-### Cataluña | Catalonia _(0)_{:.count} {#es-ct}
 
 
+### Castilla-La Mancha _(0)_{:.count} {: #es-cm }
 
 
 
 
-### Extremadura _(0)_{:.count} {#es-ex}
 
 
 
+### Cataluña | Catalonia _(0)_{:.count} {: #es-ct }
 
 
 
-### Galicia _(0)_{:.count} {#es-ga}
 
 
 
 
+### Extremadura _(0)_{:.count} {: #es-ex }
 
 
-### La Rioja _(0)_{:.count} {#es-ri}
 
 
 
 
 
+### Galicia _(0)_{:.count} {: #es-ga }
 
-### Madrid _(0)_{:.count} {#es-md}
 
 
 
 
 
 
-### Murcia _(0)_{:.count} {#es-mc}
+### La Rioja _(0)_{:.count} {: #es-ri }
 
 
 
 
 
 
-### Navarra _(0)_{:.count} {#es-na}
 
+### Madrid _(0)_{:.count} {: #es-md }
 
 
 
 
 
-### Valencia _(0)_{:.count} {#es-vc}
 
 
+### Murcia _(0)_{:.count} {: #es-mc }
 
 
 
 
-### Ceuta _(0)_{:.count} {#es-ce}
 
 
 
+### Navarra _(0)_{:.count} {: #es-na }
 
 
 
-### Melilla _(0)_{:.count} {#es-ml}
+
+
+
+
+### Valencia _(0)_{:.count} {: #es-vc }
+
+
+
+
+
+
+
+### Ceuta _(0)_{:.count} {: #es-ce }
+
+
+
+
+
+
+
+### Melilla _(0)_{:.count} {: #es-ml }
+
 
 
 

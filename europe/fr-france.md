@@ -4,7 +4,9 @@ title:     France (FRA)
 permalink: /fr.html
 ---
 
-## France (FRA) - 31 Beers, 0 Breweries {#fr}
+## France (FRA) - 31 Beers, 0 Breweries
+{: #fr }
+
 
 [Ile-de-France](#fr-if) _(0)_{:.count} • [Champagne-Ardenne](#fr-ca) _(0)_{:.count} • [Picardie](#fr-pd) _(0)_{:.count} • [Haute-Normandie](#fr-hn) _(0)_{:.count} • [Centre](#fr-ct) _(0)_{:.count} • [Basse-Normandie](#fr-bn) _(0)_{:.count} • [Bourgogne](#fr-bg) _(0)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(0)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(0)_{:.count} • [Alsace](#fr-al) _(0)_{:.count} • [Franche-Comté](#fr-fc) _(0)_{:.count} • [Pays de la Loire](#fr-pl) _(0)_{:.count} • [Bretagne [Brittany]](#fr-br) _(0)_{:.count} • [Poitou-Charentes](#fr-pc) _(0)_{:.count} • [Aquitaine](#fr-aq) _(0)_{:.count} • [Midi-Pyrénées](#fr-mp) _(0)_{:.count} • [Limousin](#fr-lm) _(0)_{:.count} • [Rhône-Alpes](#fr-ra) _(0)_{:.count} • [Auvergne](#fr-av) _(0)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(0)_{:.count} • [Corse](#fr-cr) _(0)_{:.count}
 
@@ -15,147 +17,168 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Ile-de-France _(0)_{:.count} {#fr-if}
+### Ile-de-France _(0)_{:.count} {: #fr-if }
 
 
 
 
 
 
-### Champagne-Ardenne _(0)_{:.count} {#fr-ca}
 
+### Champagne-Ardenne _(0)_{:.count} {: #fr-ca }
 
 
 
 
 
-### Picardie _(0)_{:.count} {#fr-pd}
 
 
+### Picardie _(0)_{:.count} {: #fr-pd }
 
 
 
 
-### Haute-Normandie _(0)_{:.count} {#fr-hn}
 
 
 
+### Haute-Normandie _(0)_{:.count} {: #fr-hn }
 
 
 
-### Centre _(0)_{:.count} {#fr-ct}
 
 
 
 
+### Centre _(0)_{:.count} {: #fr-ct }
 
 
-### Basse-Normandie _(0)_{:.count} {#fr-bn}
 
 
 
 
 
+### Basse-Normandie _(0)_{:.count} {: #fr-bn }
 
-### Bourgogne _(0)_{:.count} {#fr-bg}
 
 
 
 
 
 
-### Nord-Pas-de-Calais _(0)_{:.count} {#fr-nc}
+### Bourgogne _(0)_{:.count} {: #fr-bg }
 
 
 
 
 
 
-### Languedoc-Roussillon _(0)_{:.count} {#fr-lr}
 
+### Nord-Pas-de-Calais _(0)_{:.count} {: #fr-nc }
 
 
 
 
 
-### Alsace _(0)_{:.count} {#fr-al}
 
 
+### Languedoc-Roussillon _(0)_{:.count} {: #fr-lr }
 
 
 
 
-### Franche-Comté _(0)_{:.count} {#fr-fc}
 
 
 
+### Alsace _(0)_{:.count} {: #fr-al }
 
 
 
-### Pays de la Loire _(0)_{:.count} {#fr-pl}
 
 
 
 
+### Franche-Comté _(0)_{:.count} {: #fr-fc }
 
 
-### Bretagne [Brittany] _(0)_{:.count} {#fr-br}
 
 
 
 
 
+### Pays de la Loire _(0)_{:.count} {: #fr-pl }
 
-### Poitou-Charentes _(0)_{:.count} {#fr-pc}
 
 
 
 
 
 
-### Aquitaine _(0)_{:.count} {#fr-aq}
+### Bretagne [Brittany] _(0)_{:.count} {: #fr-br }
 
 
 
 
 
 
-### Midi-Pyrénées _(0)_{:.count} {#fr-mp}
 
+### Poitou-Charentes _(0)_{:.count} {: #fr-pc }
 
 
 
 
 
-### Limousin _(0)_{:.count} {#fr-lm}
 
 
+### Aquitaine _(0)_{:.count} {: #fr-aq }
 
 
 
 
-### Rhône-Alpes _(0)_{:.count} {#fr-ra}
 
 
 
+### Midi-Pyrénées _(0)_{:.count} {: #fr-mp }
 
 
 
-### Auvergne _(0)_{:.count} {#fr-av}
 
 
 
 
+### Limousin _(0)_{:.count} {: #fr-lm }
 
 
-### Provence-Alpes-Côte d'Azur _(0)_{:.count} {#fr-ac}
 
 
 
 
 
+### Rhône-Alpes _(0)_{:.count} {: #fr-ra }
 
-### Corse _(0)_{:.count} {#fr-cr}
+
+
+
+
+
+
+### Auvergne _(0)_{:.count} {: #fr-av }
+
+
+
+
+
+
+
+### Provence-Alpes-Côte d'Azur _(0)_{:.count} {: #fr-ac }
+
+
+
+
+
+
+
+### Corse _(0)_{:.count} {: #fr-cr }
+
 
 
 

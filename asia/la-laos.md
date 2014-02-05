@@ -4,7 +4,9 @@ title:     Laos (LAO)
 permalink: /la.html
 ---
 
-## Laos (LAO) - 2 Beers, 0 Breweries {#la}
+## Laos (LAO) - 2 Beers, 0 Breweries
+{: #la }
+
 
 
 

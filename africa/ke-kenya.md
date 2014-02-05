@@ -4,7 +4,9 @@ title:     Kenya (KEN)
 permalink: /ke.html
 ---
 
-## Kenya (KEN) - 2 Beers, 0 Breweries {#ke}
+## Kenya (KEN) - 2 Beers, 0 Breweries
+{: #ke }
+
 
 
 

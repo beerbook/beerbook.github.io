@@ -4,7 +4,9 @@ title:     Philippines (PHI)
 permalink: /ph.html
 ---
 
-## Philippines (PHI) - 2 Beers, 0 Breweries {#ph}
+## Philippines (PHI) - 2 Beers, 0 Breweries
+{: #ph }
+
 
 
 

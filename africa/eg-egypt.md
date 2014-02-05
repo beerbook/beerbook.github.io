@@ -4,7 +4,9 @@ title:     Egypt (EGY)
 permalink: /eg.html
 ---
 
-## Egypt (EGY) - 3 Beers, 0 Breweries {#eg}
+## Egypt (EGY) - 3 Beers, 0 Breweries
+{: #eg }
+
 
 
 

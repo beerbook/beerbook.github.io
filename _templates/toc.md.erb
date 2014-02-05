@@ -1,14 +1,15 @@
 # Contents
 
-<%= continents_navbar %>
+{{ continents_navbar }}
 
 
-<% Continent.all.each do |continent| %>
+{% Continent.all.each do |continent| %}
 
 
-### <%= continent.title %>  {#<%= urlify( continent.title ) %>}
+### {{ continent.title }}
+{: #{{ urlify( continent.title ) }} }
 
-  <%= render_toc_countries( continent.countries.order(:title), opts ) %>
+  {{ render_toc_countries( continent.countries.order(:title), opts ) }}
 
-<% end %><!-- each continent -->
+{% end %}<!-- each continent -->
 

@@ -9,7 +9,8 @@ title: Contents
 
 
 
-### Europe  {#europe}
+### Europe
+{: #europe }
 
 [Albania (ALB)](al.html) - _1 Beers, 0 Breweries_{:.count}  <br>
 [Austria (AUT)](at.html) - _215 Beers, 88 Breweries_{:.count}  <br>
@@ -52,7 +53,8 @@ title: Contents
 
 
 
-### South America  {#south-america}
+### South America
+{: #south-america }
 
 [Argentina (ARG)](ar.html) - _10 Beers, 1 Breweries_{:.count}  <br>
 [Brazil (BRA)](br.html) - _10 Beers, 1 Breweries_{:.count}  <br>
@@ -61,7 +63,8 @@ title: Contents
 
 
 
-### North America  {#north-america}
+### North America
+{: #north-america }
 
 [Canada (CAN)](ca.html) - _7 Beers, 10 Breweries_{:.count}  <br>
 [México [Mexico] (MEX)](mx.html) - _179 Beers, 45 Breweries_{:.count}  <br>
@@ -69,12 +72,14 @@ title: Contents
 
 
 
-### Central America  {#central-america}
+### Central America
+{: #central-america }
 
 
 
 
-### Caribbean  {#caribbean}
+### Caribbean
+{: #caribbean }
 
 [Cuba (CUB)](cu.html) - _4 Beers, 0 Breweries_{:.count}  <br>
 [Jamaica (JAM)](jm.html) - _2 Beers, 0 Breweries_{:.count}  <br>
@@ -83,7 +88,8 @@ title: Contents
 
 
 
-### Africa  {#africa}
+### Africa
+{: #africa }
 
 [Egypt (EGY)](eg.html) - _3 Beers, 0 Breweries_{:.count}  <br>
 [Ethiopia (ETH)](et.html) - _2 Beers, 0 Breweries_{:.count}  <br>
@@ -94,12 +100,14 @@ title: Contents
 
 
 
-### Middle East  {#middle-east}
+### Middle East
+{: #middle-east }
 
 
 
 
-### Asia & Australia  {#asia--australia}
+### Asia & Australia
+{: #asia--australia }
 
 [Australia (AUS)](au.html) - _51 Beers, 13 Breweries_{:.count}  <br>
 [Cambodia (CAM)](kh.html) - _10 Beers, 0 Breweries_{:.count}  <br>
@@ -114,13 +122,15 @@ title: Contents
 
 
 
-### Pacific  {#pacific}
+### Pacific
+{: #pacific }
 
 [New Zealand (NZL)](nz.html) - _17 Beers, 0 Breweries_{:.count}  <br>
 
 
 
-### Others  {#others}
+### Others
+{: #others }
 
 
 

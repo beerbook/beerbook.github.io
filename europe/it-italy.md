@@ -4,7 +4,9 @@ title:     Italy (ITA)
 permalink: /it.html
 ---
 
-## Italy (ITA) - 60 Beers, 0 Breweries {#it}
+## Italy (ITA) - 60 Beers, 0 Breweries
+{: #it }
+
 
 [Valle d'Aosta [Aosta Valley]](#it-ao) _(0)_{:.count} • [Liguria](#it-li) _(0)_{:.count} • [Lombardia [Lombardy]](#it-lo) _(0)_{:.count} • [Piemonte [Piedmont]](#it-pi) _(0)_{:.count} • [Emilia-Romagna](#it-er) _(0)_{:.count} • [Friuli-Venezia Giulia](#it-fv) _(0)_{:.count} • [Trentino-Alto Adige (Südtirol)](#it-tr) _(0)_{:.count} • [Veneto](#it-ve) _(0)_{:.count} • [Lazio](#it-la) _(0)_{:.count} • [Marche](#it-ma) _(0)_{:.count} • [Toscana [Tuscany]](#it-to) _(0)_{:.count} • [Umbria](#it-um) _(0)_{:.count} • [Abruzzo](#it-ab) _(0)_{:.count} • [Puglia [Apulia]](#it-pu) _(0)_{:.count} • [Basilicata](#it-ba) _(0)_{:.count} • [Calabria](#it-ca) _(0)_{:.count} • [Campania](#it-cm) _(0)_{:.count} • [Molise](#it-mo) _(0)_{:.count} • [Sardegna [Sardinia]](#it-sa) _(0)_{:.count} • [Sicilia [Sicily]](#it-si) _(0)_{:.count}
 
@@ -15,140 +17,160 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Valle d'Aosta [Aosta Valley] _(0)_{:.count} {#it-ao}
+### Valle d'Aosta [Aosta Valley] _(0)_{:.count} {: #it-ao }
 
 
 
 
 
 
-### Liguria _(0)_{:.count} {#it-li}
 
+### Liguria _(0)_{:.count} {: #it-li }
 
 
 
 
 
-### Lombardia [Lombardy] _(0)_{:.count} {#it-lo}
 
 
+### Lombardia [Lombardy] _(0)_{:.count} {: #it-lo }
 
 
 
 
-### Piemonte [Piedmont] _(0)_{:.count} {#it-pi}
 
 
 
+### Piemonte [Piedmont] _(0)_{:.count} {: #it-pi }
 
 
 
-### Emilia-Romagna _(0)_{:.count} {#it-er}
 
 
 
 
+### Emilia-Romagna _(0)_{:.count} {: #it-er }
 
 
-### Friuli-Venezia Giulia _(0)_{:.count} {#it-fv}
 
 
 
 
 
+### Friuli-Venezia Giulia _(0)_{:.count} {: #it-fv }
 
-### Trentino-Alto Adige (Südtirol) _(0)_{:.count} {#it-tr}
 
 
 
 
 
 
-### Veneto _(0)_{:.count} {#it-ve}
+### Trentino-Alto Adige (Südtirol) _(0)_{:.count} {: #it-tr }
 
 
 
 
 
 
-### Lazio _(0)_{:.count} {#it-la}
 
+### Veneto _(0)_{:.count} {: #it-ve }
 
 
 
 
 
-### Marche _(0)_{:.count} {#it-ma}
 
 
+### Lazio _(0)_{:.count} {: #it-la }
 
 
 
 
-### Toscana [Tuscany] _(0)_{:.count} {#it-to}
 
 
 
+### Marche _(0)_{:.count} {: #it-ma }
 
 
 
-### Umbria _(0)_{:.count} {#it-um}
 
 
 
 
+### Toscana [Tuscany] _(0)_{:.count} {: #it-to }
 
 
-### Abruzzo _(0)_{:.count} {#it-ab}
 
 
 
 
 
+### Umbria _(0)_{:.count} {: #it-um }
 
-### Puglia [Apulia] _(0)_{:.count} {#it-pu}
 
 
 
 
 
 
-### Basilicata _(0)_{:.count} {#it-ba}
+### Abruzzo _(0)_{:.count} {: #it-ab }
 
 
 
 
 
 
-### Calabria _(0)_{:.count} {#it-ca}
 
+### Puglia [Apulia] _(0)_{:.count} {: #it-pu }
 
 
 
 
 
-### Campania _(0)_{:.count} {#it-cm}
 
 
+### Basilicata _(0)_{:.count} {: #it-ba }
 
 
 
 
-### Molise _(0)_{:.count} {#it-mo}
 
 
 
+### Calabria _(0)_{:.count} {: #it-ca }
 
 
 
-### Sardegna [Sardinia] _(0)_{:.count} {#it-sa}
 
 
 
 
+### Campania _(0)_{:.count} {: #it-cm }
 
 
-### Sicilia [Sicily] _(0)_{:.count} {#it-si}
+
+
+
+
+
+### Molise _(0)_{:.count} {: #it-mo }
+
+
+
+
+
+
+
+### Sardegna [Sardinia] _(0)_{:.count} {: #it-sa }
+
+
+
+
+
+
+
+### Sicilia [Sicily] _(0)_{:.count} {: #it-si }
+
 
 
 

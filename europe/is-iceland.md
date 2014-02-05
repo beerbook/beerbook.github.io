@@ -4,7 +4,9 @@ title:     Iceland (ISL)
 permalink: /is.html
 ---
 
-## Iceland (ISL) - 4 Beers, 0 Breweries {#is}
+## Iceland (ISL) - 4 Beers, 0 Breweries
+{: #is }
+
 
 
 

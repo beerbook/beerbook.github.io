@@ -1,0 +1,28 @@
+# Breweries ({{ Brewery.count }}) Index
+
+.. <!-- add/fix: add category for starting w/ non-letters e.g. digits -->
+.. <!-- todo: add entries for synonims - how?? use see xxx  why?  why not? -->
+
+.. <!-- use helper e.g. navbar_az( topic ) or similar ?? -->
+{% ('A'..'Z').each_with_index do |letter,i| %}
+  {% if i > 0 then %} • {% end %} {{ letter }}
+{% end %}
+
+
+{% ('A'..'Z').each do |letter| %}
+
+## {{ letter }}
+
+{% Brewery.where( "key like '#{letter.downcase}%'").order(:key).each do |brewery| %}
+  `{{ brewery.key }}`{:.key} {{ brewery.title }} ++
+   .. <!-- fix: add brewery synonims if exit -->
+   .. <!-- fix: add brewery tags here -->
+   ( ++
+   {{ brewery.country.title }} ++
+   {% if brewery.region_id.present? %} lt {{ brewery.region.title }} {% end %} ++
+   {% if brewery.city_id.present? %} lt {{ brewery.city.title }} {% end %} ++
+   ) <br>
+{% end %}
+
+{% end %}
+

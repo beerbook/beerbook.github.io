@@ -4,7 +4,9 @@ title:     Puerto Rico (PUR)
 permalink: /pr.html
 ---
 
-## Puerto Rico (PUR) - 1 Beers, 0 Breweries {#pr}
+## Puerto Rico (PUR) - 1 Beers, 0 Breweries
+{: #pr }
+
 
 
 

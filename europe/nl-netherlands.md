@@ -4,7 +4,9 @@ title:     Netherlands (NED)
 permalink: /nl.html
 ---
 
-## Netherlands (NED) - 2 Beers, 33 Breweries {#nl}
+## Netherlands (NED) - 2 Beers, 33 Breweries
+{: #nl }
+
 
 [Groningen](#nl-gr) _(0)_{:.count} • [Fryslân [Friesland]](#nl-fr) _(0)_{:.count} • [Drenthe](#nl-dr) _(0)_{:.count} • [Overijssel](#nl-ov) _(1)_{:.count} • [Gelderland](#nl-ge) _(0)_{:.count} • [Flevoland](#nl-fl) _(0)_{:.count} • [Utrecht](#nl-ut) _(4)_{:.count} • [Noord-Holland [North Holland]](#nl-nh) _(13)_{:.count} • [Zuid-Holland [South Holland]](#nl-zh) _(0)_{:.count} • [Zeeland](#nl-ze) _(0)_{:.count} • [Noord-Brabant [North Brabant]](#nl-nb) _(7)_{:.count} • [Limburg](#nl-li) _(8)_{:.count}
 
@@ -15,28 +17,32 @@ Heineken Pilsener   • Amstel
 
 
 
-### Groningen _(0)_{:.count} {#nl-gr}
+### Groningen _(0)_{:.count} {: #nl-gr }
 
 
 
 
 
 
-### Fryslân [Friesland] _(0)_{:.count} {#nl-fr}
+
+### Fryslân [Friesland] _(0)_{:.count} {: #nl-fr }
 
 
 
 
 
 
-### Drenthe _(0)_{:.count} {#nl-dr}
+
+### Drenthe _(0)_{:.count} {: #nl-dr }
 
 
 
 
 
 
-### Overijssel _(1)_{:.count} {#nl-ov}
+
+### Overijssel _(1)_{:.count} {: #nl-ov }
+
 
 
 
@@ -51,21 +57,24 @@ Berghoeve -   <br>
 
 
 
-### Gelderland _(0)_{:.count} {#nl-ge}
+### Gelderland _(0)_{:.count} {: #nl-ge }
 
 
 
 
 
 
-### Flevoland _(0)_{:.count} {#nl-fl}
+
+### Flevoland _(0)_{:.count} {: #nl-fl }
 
 
 
 
 
 
-### Utrecht _(4)_{:.count} {#nl-ut}
+
+### Utrecht _(4)_{:.count} {: #nl-ut }
+
 
 
 
@@ -98,7 +107,8 @@ Duits & Lauret - 2009  <br>
 
 
 
-### Noord-Holland [North Holland] _(13)_{:.count} {#nl-nh}
+### Noord-Holland [North Holland] _(13)_{:.count} {: #nl-nh }
+
 
 
 
@@ -163,21 +173,24 @@ Texelse Bierbrouwerij -   <br>
 
 
 
-### Zuid-Holland [South Holland] _(0)_{:.count} {#nl-zh}
+### Zuid-Holland [South Holland] _(0)_{:.count} {: #nl-zh }
 
 
 
 
 
 
-### Zeeland _(0)_{:.count} {#nl-ze}
+
+### Zeeland _(0)_{:.count} {: #nl-ze }
 
 
 
 
 
 
-### Noord-Brabant [North Brabant] _(7)_{:.count} {#nl-nb}
+
+### Noord-Brabant [North Brabant] _(7)_{:.count} {: #nl-nb }
+
 
 
 
@@ -227,7 +240,8 @@ De Roos -   <br>
 
 
 
-### Limburg _(8)_{:.count} {#nl-li}
+### Limburg _(8)_{:.count} {: #nl-li }
+
 
 
 

@@ -4,7 +4,9 @@ title:     Brazil (BRA)
 permalink: /br.html
 ---
 
-## Brazil (BRA) - 10 Beers, 1 Breweries {#br}
+## Brazil (BRA) - 10 Beers, 1 Breweries
+{: #br }
+
 
 [Acre](#br-ac) _(0)_{:.count} • [Amapá](#br-am) _(0)_{:.count} • [Amazonas](#br-ap) _(0)_{:.count} • [Pará](#br-pa) _(0)_{:.count} • [Rondônia](#br-ro) _(0)_{:.count} • [Roraima](#br-rr) _(0)_{:.count} • [Tocantins](#br-to) _(0)_{:.count} • [Alagoas](#br-al) _(0)_{:.count} • [Bahia](#br-ba) _(0)_{:.count} • [Ceará](#br-ce) _(0)_{:.count} • [Maranhão](#br-ma) _(0)_{:.count} • [Paraíba](#br-pb) _(0)_{:.count} • [Pernambuco](#br-pe) _(0)_{:.count} • [Piauí](#br-pi) _(0)_{:.count} • [Rio Grande do Norte](#br-rn) _(0)_{:.count} • [Sergipe](#br-se) _(0)_{:.count} • [Distrito Federal (Brasil)](#br-df) _(0)_{:.count} • [Goiás](#br-go) _(0)_{:.count} • [Mato Grosso](#br-mt) _(0)_{:.count} • [Mato Grosso do Sul](#br-ms) _(0)_{:.count} • [Espírito Santo](#br-es) _(0)_{:.count} • [Minas Gerais](#br-mg) _(0)_{:.count} • [Rio de Janeiro](#br-rj) _(0)_{:.count} • [São Paulo](#br-sp) _(0)_{:.count} • [Paraná](#br-pr) _(0)_{:.count} • [Rio Grande do Sul](#br-rs) _(1)_{:.count} • [Santa Catarina](#br-sc) _(0)_{:.count}
 
@@ -15,182 +17,208 @@ permalink: /br.html
 
 
 
-### Acre _(0)_{:.count} {#br-ac}
+### Acre _(0)_{:.count} {: #br-ac }
 
 
 
 
 
 
-### Amapá _(0)_{:.count} {#br-am}
 
+### Amapá _(0)_{:.count} {: #br-am }
 
 
 
 
 
-### Amazonas _(0)_{:.count} {#br-ap}
 
 
+### Amazonas _(0)_{:.count} {: #br-ap }
 
 
 
 
-### Pará _(0)_{:.count} {#br-pa}
 
 
 
+### Pará _(0)_{:.count} {: #br-pa }
 
 
 
-### Rondônia _(0)_{:.count} {#br-ro}
 
 
 
 
+### Rondônia _(0)_{:.count} {: #br-ro }
 
 
-### Roraima _(0)_{:.count} {#br-rr}
 
 
 
 
 
+### Roraima _(0)_{:.count} {: #br-rr }
 
-### Tocantins _(0)_{:.count} {#br-to}
 
 
 
 
 
 
-### Alagoas _(0)_{:.count} {#br-al}
+### Tocantins _(0)_{:.count} {: #br-to }
 
 
 
 
 
 
-### Bahia _(0)_{:.count} {#br-ba}
 
+### Alagoas _(0)_{:.count} {: #br-al }
 
 
 
 
 
-### Ceará _(0)_{:.count} {#br-ce}
 
 
+### Bahia _(0)_{:.count} {: #br-ba }
 
 
 
 
-### Maranhão _(0)_{:.count} {#br-ma}
 
 
 
+### Ceará _(0)_{:.count} {: #br-ce }
 
 
 
-### Paraíba _(0)_{:.count} {#br-pb}
 
 
 
 
+### Maranhão _(0)_{:.count} {: #br-ma }
 
 
-### Pernambuco _(0)_{:.count} {#br-pe}
 
 
 
 
 
+### Paraíba _(0)_{:.count} {: #br-pb }
 
-### Piauí _(0)_{:.count} {#br-pi}
 
 
 
 
 
 
-### Rio Grande do Norte _(0)_{:.count} {#br-rn}
+### Pernambuco _(0)_{:.count} {: #br-pe }
 
 
 
 
 
 
-### Sergipe _(0)_{:.count} {#br-se}
 
+### Piauí _(0)_{:.count} {: #br-pi }
 
 
 
 
 
-### Distrito Federal (Brasil) _(0)_{:.count} {#br-df}
 
 
+### Rio Grande do Norte _(0)_{:.count} {: #br-rn }
 
 
 
 
-### Goiás _(0)_{:.count} {#br-go}
 
 
 
+### Sergipe _(0)_{:.count} {: #br-se }
 
 
 
-### Mato Grosso _(0)_{:.count} {#br-mt}
 
 
 
 
+### Distrito Federal (Brasil) _(0)_{:.count} {: #br-df }
 
 
-### Mato Grosso do Sul _(0)_{:.count} {#br-ms}
 
 
 
 
 
+### Goiás _(0)_{:.count} {: #br-go }
 
-### Espírito Santo _(0)_{:.count} {#br-es}
 
 
 
 
 
 
-### Minas Gerais _(0)_{:.count} {#br-mg}
+### Mato Grosso _(0)_{:.count} {: #br-mt }
 
 
 
 
 
 
-### Rio de Janeiro _(0)_{:.count} {#br-rj}
 
+### Mato Grosso do Sul _(0)_{:.count} {: #br-ms }
 
 
 
 
 
-### São Paulo _(0)_{:.count} {#br-sp}
 
 
+### Espírito Santo _(0)_{:.count} {: #br-es }
 
 
 
 
-### Paraná _(0)_{:.count} {#br-pr}
 
 
 
+### Minas Gerais _(0)_{:.count} {: #br-mg }
 
 
 
-### Rio Grande do Sul _(1)_{:.count} {#br-rs}
+
+
+
+
+### Rio de Janeiro _(0)_{:.count} {: #br-rj }
+
+
+
+
+
+
+
+### São Paulo _(0)_{:.count} {: #br-sp }
+
+
+
+
+
+
+
+### Paraná _(0)_{:.count} {: #br-pr }
+
+
+
+
+
+
+
+### Rio Grande do Sul _(1)_{:.count} {: #br-rs }
+
 
 
 
@@ -206,7 +234,8 @@ Cervejaria Brahma - 1888  <br>
 
 
 
-### Santa Catarina _(0)_{:.count} {#br-sc}
+### Santa Catarina _(0)_{:.count} {: #br-sc }
+
 
 
 

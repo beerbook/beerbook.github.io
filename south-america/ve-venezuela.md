@@ -4,7 +4,9 @@ title:     Venezuela (VEN)
 permalink: /ve.html
 ---
 
-## Venezuela (VEN) - 1 Beers, 0 Breweries {#ve}
+## Venezuela (VEN) - 1 Beers, 0 Breweries
+{: #ve }
+
 
 [Amazonas](#ve-am) _(0)_{:.count} • [Bolívar](#ve-bo) _(0)_{:.count} • [Delta Amacuro](#ve-da) _(0)_{:.count} • [Anzoátegui](#ve-an) _(0)_{:.count} • [Monagas](#ve-mo) _(0)_{:.count} • [Sucre](#ve-su) _(0)_{:.count} • [Apure](#ve-ap) _(0)_{:.count} • [Guárico](#ve-gu) _(0)_{:.count} • [Carabobo](#ve-ca) _(0)_{:.count} • [Cojedes](#ve-co) _(0)_{:.count} • [Aragua](#ve-ar) _(0)_{:.count} • [Miranda](#ve-mi) _(0)_{:.count} • [Vargas](#ve-va) _(0)_{:.count} • [Distrito Capital](#ve-dc) _(0)_{:.count} • [Falcón](#ve-fa) _(0)_{:.count} • [Lara](#ve-la) _(0)_{:.count} • [Portuguesa](#ve-po) _(0)_{:.count} • [Yaracuy](#ve-ya) _(0)_{:.count} • [Barinas](#ve-ba) _(0)_{:.count} • [Mérida](#ve-me) _(0)_{:.count} • [Táchira](#ve-ta) _(0)_{:.count} • [Trujillo](#ve-tr) _(0)_{:.count} • [Nueva Esparta](#ve-ne) _(0)_{:.count} • [Zulia](#ve-zu) _(0)_{:.count}
 
@@ -15,168 +17,192 @@ Polar
 
 
 
-### Amazonas _(0)_{:.count} {#ve-am}
+### Amazonas _(0)_{:.count} {: #ve-am }
 
 
 
 
 
 
-### Bolívar _(0)_{:.count} {#ve-bo}
 
+### Bolívar _(0)_{:.count} {: #ve-bo }
 
 
 
 
 
-### Delta Amacuro _(0)_{:.count} {#ve-da}
 
 
+### Delta Amacuro _(0)_{:.count} {: #ve-da }
 
 
 
 
-### Anzoátegui _(0)_{:.count} {#ve-an}
 
 
 
+### Anzoátegui _(0)_{:.count} {: #ve-an }
 
 
 
-### Monagas _(0)_{:.count} {#ve-mo}
 
 
 
 
+### Monagas _(0)_{:.count} {: #ve-mo }
 
 
-### Sucre _(0)_{:.count} {#ve-su}
 
 
 
 
 
+### Sucre _(0)_{:.count} {: #ve-su }
 
-### Apure _(0)_{:.count} {#ve-ap}
 
 
 
 
 
 
-### Guárico _(0)_{:.count} {#ve-gu}
+### Apure _(0)_{:.count} {: #ve-ap }
 
 
 
 
 
 
-### Carabobo _(0)_{:.count} {#ve-ca}
 
+### Guárico _(0)_{:.count} {: #ve-gu }
 
 
 
 
 
-### Cojedes _(0)_{:.count} {#ve-co}
 
 
+### Carabobo _(0)_{:.count} {: #ve-ca }
 
 
 
 
-### Aragua _(0)_{:.count} {#ve-ar}
 
 
 
+### Cojedes _(0)_{:.count} {: #ve-co }
 
 
 
-### Miranda _(0)_{:.count} {#ve-mi}
 
 
 
 
+### Aragua _(0)_{:.count} {: #ve-ar }
 
 
-### Vargas _(0)_{:.count} {#ve-va}
 
 
 
 
 
+### Miranda _(0)_{:.count} {: #ve-mi }
 
-### Distrito Capital _(0)_{:.count} {#ve-dc}
 
 
 
 
 
 
-### Falcón _(0)_{:.count} {#ve-fa}
+### Vargas _(0)_{:.count} {: #ve-va }
 
 
 
 
 
 
-### Lara _(0)_{:.count} {#ve-la}
 
+### Distrito Capital _(0)_{:.count} {: #ve-dc }
 
 
 
 
 
-### Portuguesa _(0)_{:.count} {#ve-po}
 
 
+### Falcón _(0)_{:.count} {: #ve-fa }
 
 
 
 
-### Yaracuy _(0)_{:.count} {#ve-ya}
 
 
 
+### Lara _(0)_{:.count} {: #ve-la }
 
 
 
-### Barinas _(0)_{:.count} {#ve-ba}
 
 
 
 
+### Portuguesa _(0)_{:.count} {: #ve-po }
 
 
-### Mérida _(0)_{:.count} {#ve-me}
 
 
 
 
 
+### Yaracuy _(0)_{:.count} {: #ve-ya }
 
-### Táchira _(0)_{:.count} {#ve-ta}
 
 
 
 
 
 
-### Trujillo _(0)_{:.count} {#ve-tr}
+### Barinas _(0)_{:.count} {: #ve-ba }
 
 
 
 
 
 
-### Nueva Esparta _(0)_{:.count} {#ve-ne}
 
+### Mérida _(0)_{:.count} {: #ve-me }
 
 
 
 
 
-### Zulia _(0)_{:.count} {#ve-zu}
+
+
+### Táchira _(0)_{:.count} {: #ve-ta }
+
+
+
+
+
+
+
+### Trujillo _(0)_{:.count} {: #ve-tr }
+
+
+
+
+
+
+
+### Nueva Esparta _(0)_{:.count} {: #ve-ne }
+
+
+
+
+
+
+
+### Zulia _(0)_{:.count} {: #ve-zu }
+
 
 
 

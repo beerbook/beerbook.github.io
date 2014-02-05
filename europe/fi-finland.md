@@ -4,7 +4,9 @@ title:     Finland (FIN)
 permalink: /fi.html
 ---
 
-## Finland (FIN) - 6 Beers, 0 Breweries {#fi}
+## Finland (FIN) - 6 Beers, 0 Breweries
+{: #fi }
+
 
 
 

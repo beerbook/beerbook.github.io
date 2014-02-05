@@ -4,7 +4,9 @@ title:     Belgium (BEL)
 permalink: /be.html
 ---
 
-## Belgium (BEL) - 66 Beers, 85 Breweries {#be}
+## Belgium (BEL) - 66 Beers, 85 Breweries
+{: #be }
+
 
 [Bruxelles•Brussel [Brussels (Capital Region)]](#be-bru) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-van) _(6)_{:.count} • [Limburg](#be-vli) _(2)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-vov) _(15)_{:.count} • [Vlaams-Brabant [Flemish Brabant]](#be-vbr) _(17)_{:.count} • [West-Vlaanderen [West Flanders]](#be-vwv) _(17)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-wbr) _(1)_{:.count} • [Hainaut](#be-wht) _(16)_{:.count} • [Liège](#be-wlg) _(1)_{:.count} • [Luxembourg](#be-wlx) _(5)_{:.count} • [Namur](#be-wna) _(4)_{:.count}
 
@@ -15,7 +17,8 @@ Stella Artois
 
 
 
-### Bruxelles•Brussel [Brussels (Capital Region)] _(1)_{:.count} {#be-bru}
+### Bruxelles•Brussel [Brussels (Capital Region)] _(1)_{:.count} {: #be-bru }
+
 
 
 
@@ -31,7 +34,8 @@ Rue Gheude 56 // 1070 Bruxelles (Anderlecht)  <br>
 
 
 
-### Antwerpen [Antwerp] _(6)_{:.count} {#be-van}
+### Antwerpen [Antwerp] _(6)_{:.count} {: #be-van }
+
 
 
 
@@ -78,7 +82,8 @@ Antwerpsesteenweg 496 // 2390 Westmalle  <br>
 
 
 
-### Limburg _(2)_{:.count} {#be-vli}
+### Limburg _(2)_{:.count} {: #be-vli }
+
 
 
 
@@ -102,7 +107,8 @@ Naamsesteenweg 469 // 3800 Sint-Truiden  <br>
 
 
 
-### Oost-Vlaanderen [East Flanders] _(15)_{:.count} {#be-vov}
+### Oost-Vlaanderen [East Flanders] _(15)_{:.count} {: #be-vov }
+
 
 
 
@@ -206,7 +212,8 @@ Lindenlaan 25 // 9940 Ertvelde  <br>
 
 
 
-### Vlaams-Brabant [Flemish Brabant] _(17)_{:.count} {#be-vbr}
+### Vlaams-Brabant [Flemish Brabant] _(17)_{:.count} {: #be-vbr }
+
 
 
 
@@ -313,7 +320,8 @@ Trieststraat 24 // 1880 Kapelle-op-den-Bos  <br>
 
 
 
-### West-Vlaanderen [West Flanders] _(17)_{:.count} {#be-vwv}
+### West-Vlaanderen [West Flanders] _(17)_{:.count} {: #be-vwv }
+
 
 
 
@@ -433,7 +441,8 @@ St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren  <br>
 
 
 
-### Brabant Wallon [Walloon Brabant] _(1)_{:.count} {#be-wbr}
+### Brabant Wallon [Walloon Brabant] _(1)_{:.count} {: #be-wbr }
+
 
 
 
@@ -449,7 +458,8 @@ Chemin du Croly 54 // 1430 Rebecq-Quenast  <br>
 
 
 
-### Hainaut _(16)_{:.count} {#be-wht}
+### Hainaut _(16)_{:.count} {: #be-wht }
+
 
 
 
@@ -547,7 +557,8 @@ Rue de Maréchal 1 // 7904 Pipaix-Leuze  <br>
 
 
 
-### Liège _(1)_{:.count} {#be-wlg}
+### Liège _(1)_{:.count} {: #be-wlg }
+
 
 
 
@@ -562,7 +573,8 @@ Centre 16 // 4852 Hombourg  <br>
 
 
 
-### Luxembourg _(5)_{:.count} {#be-wlx}
+### Luxembourg _(5)_{:.count} {: #be-wlx }
+
 
 
 
@@ -600,7 +612,8 @@ Rue Maurice Grévisse 36 // 6724 Rulles-Habay  <br>
 
 
 
-### Namur _(4)_{:.count} {#be-wna}
+### Namur _(4)_{:.count} {: #be-wna }
+
 
 
 

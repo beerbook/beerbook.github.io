@@ -4,7 +4,9 @@ title:     Trinidad and Tobago (TRI)
 permalink: /tt.html
 ---
 
-## Trinidad and Tobago (TRI) - 2 Beers, 0 Breweries {#tt}
+## Trinidad and Tobago (TRI) - 2 Beers, 0 Breweries
+{: #tt }
+
 
 
 

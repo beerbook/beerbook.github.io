@@ -4,7 +4,9 @@ title:     Australia (AUS)
 permalink: /au.html
 ---
 
-## Australia (AUS) - 51 Beers, 13 Breweries {#au}
+## Australia (AUS) - 51 Beers, 13 Breweries
+{: #au }
+
 
 [New South Wales](#au-ns) _(2)_{:.count} • [Queensland](#au-ql) _(2)_{:.count} • [South Australia](#au-sa) _(2)_{:.count} • [Tasmania](#au-ts) _(2)_{:.count} • [Victoria](#au-vi) _(1)_{:.count} • [Western Australia](#au-wa) _(4)_{:.count} • [Australian Capital Territory](#au-ct) _(0)_{:.count} • [Northern Territory](#au-nt) _(0)_{:.count}
 
@@ -15,7 +17,8 @@ Foster's   • 3 Ravens White   • Black Wattle Original Ale   • Hef   • Mo
 
 
 
-### New South Wales _(2)_{:.count} {#au-ns}
+### New South Wales _(2)_{:.count} {: #au-ns }
+
 
 [Sydney](#sydney) • **Uncategorized** _(1)_{:.count}
 
@@ -37,7 +40,8 @@ Tooheys - 1869  <br>
 
 
 
-### Queensland _(2)_{:.count} {#au-ql}
+### Queensland _(2)_{:.count} {: #au-ql }
+
 
 [Brisbane](#brisbane) • **Uncategorized** _(1)_{:.count}
 
@@ -60,7 +64,8 @@ Burleigh Brewing Company - 2006  <br>
 
 
 
-### South Australia _(2)_{:.count} {#au-sa}
+### South Australia _(2)_{:.count} {: #au-sa }
+
 
 
 
@@ -82,7 +87,8 @@ Thebarton //  <br>
 
 
 
-### Tasmania _(2)_{:.count} {#au-ts}
+### Tasmania _(2)_{:.count} {: #au-ts }
+
 
 [Hobart](#hobart) • [Launceston](#launceston)
 
@@ -105,7 +111,8 @@ J. Boag & Sons - 1883  <br>
 
 
 
-### Victoria _(1)_{:.count} {#au-vi}
+### Victoria _(1)_{:.count} {: #au-vi }
+
 
 
 
@@ -122,7 +129,8 @@ Victoria Bitter   • Crown Lager   • Carlton Draught   • Pure Blonde
 
 
 
-### Western Australia _(4)_{:.count} {#au-wa}
+### Western Australia _(4)_{:.count} {: #au-wa }
+
 
 
 
@@ -152,14 +160,16 @@ Little Creatures Pale Ale   • Rogers' Beer
 
 
 
-### Australian Capital Territory _(0)_{:.count} {#au-ct}
+### Australian Capital Territory _(0)_{:.count} {: #au-ct }
 
 
 
 
 
 
-### Northern Territory _(0)_{:.count} {#au-nt}
+
+### Northern Territory _(0)_{:.count} {: #au-nt }
+
 
 
 

@@ -4,7 +4,9 @@ title:     Croatia (CRO)
 permalink: /hr.html
 ---
 
-## Croatia (CRO) - 3 Beers, 0 Breweries {#hr}
+## Croatia (CRO) - 3 Beers, 0 Breweries
+{: #hr }
+
 
 
 

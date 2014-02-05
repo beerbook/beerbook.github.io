@@ -4,7 +4,9 @@ title:     Irland (IRL)
 permalink: /ie.html
 ---
 
-## Irland (IRL) - 11 Beers, 4 Breweries {#ie}
+## Irland (IRL) - 11 Beers, 4 Breweries
+{: #ie }
+
 
 [Louth / Leinster](#ie-lh) _(0)_{:.count} • [Leitrim / Connaught](#ie-lm) _(0)_{:.count} • [Sligo / Connaught](#ie-so) _(0)_{:.count} • [Cavan / Ulster](#ie-cn) _(0)_{:.count} • [Donegal / Ulster](#ie-dl) _(0)_{:.count} • [Monaghan / Ulster](#ie-mn) _(0)_{:.count} • [Laois / Leinster](#ie-ls) _(0)_{:.count} • [Longford / Leinster](#ie-ld) _(0)_{:.count} • [Offaly / Leinster](#ie-oy) _(0)_{:.count} • [Westmeath / Leinster](#ie-wh) _(0)_{:.count} • [Galway / Connaught](#ie-ga) _(0)_{:.count} • [Mayo / Connaught](#ie-mo) _(0)_{:.count} • [Roscommon / Connaught](#ie-rn) _(0)_{:.count} • [Dublin / Leinster](#ie-db) _(1)_{:.count} • [Limerick / Munster](#ie-lk) _(0)_{:.count} • [North Tipperary / Munster](#ie-tn) _(0)_{:.count} • [South Tipperary / Munster](#ie-ts) _(0)_{:.count} • [Clare / Munster](#ie-ce) _(0)_{:.count} • [Kildare / Leinster](#ie-ke) _(0)_{:.count} • [Meath / Leinster](#ie-mh) _(0)_{:.count} • [Wicklow / Leinster](#ie-ww) _(0)_{:.count} • [Wexford / Leinster](#ie-wx) _(0)_{:.count} • [Kilkenny / Leinster](#ie-kk) _(1)_{:.count} • [Carlow / Leinster](#ie-cw) _(0)_{:.count} • [Waterford / Munster](#ie-wd) _(0)_{:.count} • [Cork / Munster](#ie-co) _(1)_{:.count} • [Kerry / Munster](#ie-ky) _(0)_{:.count} • **Uncategorized** _(1)_{:.count}
 
@@ -24,98 +26,112 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Louth / Leinster _(0)_{:.count} {#ie-lh}
+### Louth / Leinster _(0)_{:.count} {: #ie-lh }
 
 
 
 
 
 
-### Leitrim / Connaught _(0)_{:.count} {#ie-lm}
 
+### Leitrim / Connaught _(0)_{:.count} {: #ie-lm }
 
 
 
 
 
-### Sligo / Connaught _(0)_{:.count} {#ie-so}
 
 
+### Sligo / Connaught _(0)_{:.count} {: #ie-so }
 
 
 
 
-### Cavan / Ulster _(0)_{:.count} {#ie-cn}
 
 
 
+### Cavan / Ulster _(0)_{:.count} {: #ie-cn }
 
 
 
-### Donegal / Ulster _(0)_{:.count} {#ie-dl}
 
 
 
 
+### Donegal / Ulster _(0)_{:.count} {: #ie-dl }
 
 
-### Monaghan / Ulster _(0)_{:.count} {#ie-mn}
 
 
 
 
 
+### Monaghan / Ulster _(0)_{:.count} {: #ie-mn }
 
-### Laois / Leinster _(0)_{:.count} {#ie-ls}
 
 
 
 
 
 
-### Longford / Leinster _(0)_{:.count} {#ie-ld}
+### Laois / Leinster _(0)_{:.count} {: #ie-ls }
 
 
 
 
 
 
-### Offaly / Leinster _(0)_{:.count} {#ie-oy}
 
+### Longford / Leinster _(0)_{:.count} {: #ie-ld }
 
 
 
 
 
-### Westmeath / Leinster _(0)_{:.count} {#ie-wh}
 
 
+### Offaly / Leinster _(0)_{:.count} {: #ie-oy }
 
 
 
 
-### Galway / Connaught _(0)_{:.count} {#ie-ga}
 
 
 
+### Westmeath / Leinster _(0)_{:.count} {: #ie-wh }
 
 
 
-### Mayo / Connaught _(0)_{:.count} {#ie-mo}
 
 
 
 
+### Galway / Connaught _(0)_{:.count} {: #ie-ga }
 
 
-### Roscommon / Connaught _(0)_{:.count} {#ie-rn}
 
 
 
 
 
+### Mayo / Connaught _(0)_{:.count} {: #ie-mo }
 
-### Dublin / Leinster _(1)_{:.count} {#ie-db}
+
+
+
+
+
+
+### Roscommon / Connaught _(0)_{:.count} {: #ie-rn }
+
+
+
+
+
+
+
+### Dublin / Leinster _(1)_{:.count} {: #ie-db }
+
 
 
 
@@ -131,63 +147,72 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Limerick / Munster _(0)_{:.count} {#ie-lk}
+### Limerick / Munster _(0)_{:.count} {: #ie-lk }
 
 
 
 
 
 
-### North Tipperary / Munster _(0)_{:.count} {#ie-tn}
+
+### North Tipperary / Munster _(0)_{:.count} {: #ie-tn }
 
 
 
 
 
 
-### South Tipperary / Munster _(0)_{:.count} {#ie-ts}
+
+### South Tipperary / Munster _(0)_{:.count} {: #ie-ts }
 
 
 
 
 
 
-### Clare / Munster _(0)_{:.count} {#ie-ce}
+
+### Clare / Munster _(0)_{:.count} {: #ie-ce }
 
 
 
 
 
 
-### Kildare / Leinster _(0)_{:.count} {#ie-ke}
+
+### Kildare / Leinster _(0)_{:.count} {: #ie-ke }
 
 
 
 
 
 
-### Meath / Leinster _(0)_{:.count} {#ie-mh}
+
+### Meath / Leinster _(0)_{:.count} {: #ie-mh }
 
 
 
 
 
 
-### Wicklow / Leinster _(0)_{:.count} {#ie-ww}
+
+### Wicklow / Leinster _(0)_{:.count} {: #ie-ww }
 
 
 
 
 
 
-### Wexford / Leinster _(0)_{:.count} {#ie-wx}
+
+### Wexford / Leinster _(0)_{:.count} {: #ie-wx }
 
 
 
 
 
 
-### Kilkenny / Leinster _(1)_{:.count} {#ie-kk}
+
+### Kilkenny / Leinster _(1)_{:.count} {: #ie-kk }
+
 
 
 
@@ -204,21 +229,24 @@ Kilkenny   • Smithwick's
 
 
 
-### Carlow / Leinster _(0)_{:.count} {#ie-cw}
+### Carlow / Leinster _(0)_{:.count} {: #ie-cw }
 
 
 
 
 
 
-### Waterford / Munster _(0)_{:.count} {#ie-wd}
+
+### Waterford / Munster _(0)_{:.count} {: #ie-wd }
 
 
 
 
 
 
-### Cork / Munster _(1)_{:.count} {#ie-co}
+
+### Cork / Munster _(1)_{:.count} {: #ie-co }
+
 
 
 
@@ -236,7 +264,8 @@ Murphy's Irish Red   • Murphy's Irish Stout
 
 
 
-### Kerry / Munster _(0)_{:.count} {#ie-ky}
+### Kerry / Munster _(0)_{:.count} {: #ie-ky }
+
 
 
 

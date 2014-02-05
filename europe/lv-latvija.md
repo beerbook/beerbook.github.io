@@ -4,7 +4,9 @@ title:     Latvija [Latvia] (LVA)
 permalink: /lv.html
 ---
 
-## Latvija [Latvia] (LVA) - 1 Beers, 0 Breweries {#lv}
+## Latvija [Latvia] (LVA) - 1 Beers, 0 Breweries
+{: #lv }
+
 
 
 

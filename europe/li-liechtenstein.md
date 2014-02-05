@@ -4,7 +4,9 @@ title:     Liechtenstein (LIE)
 permalink: /li.html
 ---
 
-## Liechtenstein (LIE) - 1 Beers, 0 Breweries {#li}
+## Liechtenstein (LIE) - 1 Beers, 0 Breweries
+{: #li }
+
 
 
 

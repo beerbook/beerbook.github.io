@@ -4,7 +4,9 @@ title:     Luxembourg (LUX)
 permalink: /lu.html
 ---
 
-## Luxembourg (LUX) - 2 Beers, 0 Breweries {#lu}
+## Luxembourg (LUX) - 2 Beers, 0 Breweries
+{: #lu }
+
 
 
 

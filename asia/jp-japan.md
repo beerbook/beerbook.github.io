@@ -4,7 +4,9 @@ title:     Japan (JPN)
 permalink: /jp.html
 ---
 
-## Japan (JPN) - 24 Beers, 3 Breweries {#jp}
+## Japan (JPN) - 24 Beers, 3 Breweries
+{: #jp }
+
 
 
 

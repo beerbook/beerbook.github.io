@@ -4,7 +4,9 @@ title:     Hungary (HUN)
 permalink: /hu.html
 ---
 
-## Hungary (HUN) - 3 Beers, 0 Breweries {#hu}
+## Hungary (HUN) - 3 Beers, 0 Breweries
+{: #hu }
+
 
 
 

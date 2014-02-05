@@ -4,7 +4,9 @@ title:     Bulgaria (BUL)
 permalink: /bg.html
 ---
 
-## Bulgaria (BUL) - 3 Beers, 0 Breweries {#bg}
+## Bulgaria (BUL) - 3 Beers, 0 Breweries
+{: #bg }
+
 
 [Sofija City](#bg-so) _(0)_{:.count} • [Sofija Province](#bg-sf) _(0)_{:.count} • [Blagoevgrad](#bg-bl) _(0)_{:.count} • [Pernik](#bg-pe) _(0)_{:.count} • [Kyustendil](#bg-ky) _(0)_{:.count} • [Plovdiv](#bg-pv) _(0)_{:.count} • [Haskovo](#bg-ha) _(0)_{:.count} • [Pazardzhik](#bg-pa) _(0)_{:.count} • [Smolyan](#bg-sm) _(0)_{:.count} • [Kardzhali](#bg-ka) _(0)_{:.count} • [Vidin](#bg-vi) _(0)_{:.count} • [Montana](#bg-mo) _(0)_{:.count} • [Vratsa](#bg-vr) _(0)_{:.count} • [Pleven](#bg-pl) _(0)_{:.count} • [Lovech](#bg-lo) _(0)_{:.count} • [Veliko Tarnovo](#bg-ve) _(0)_{:.count} • [Gabrovo](#bg-ga) _(0)_{:.count} • [Ruse](#bg-ru) _(0)_{:.count} • [Razgrad](#bg-ra) _(0)_{:.count} • [Silistra](#bg-si) _(0)_{:.count} • [Varna](#bg-va) _(0)_{:.count} • [Dobrich](#bg-do) _(0)_{:.count} • [Shumen](#bg-sh) _(0)_{:.count} • [Targovishte](#bg-ta) _(0)_{:.count} • [Burgas](#bg-bu) _(0)_{:.count} • [Sliven](#bg-sl) _(0)_{:.count} • [Yambol](#bg-ya) _(0)_{:.count} • [Stara Zagora](#bg-sz) _(0)_{:.count}
 
@@ -15,196 +17,224 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Sofija City _(0)_{:.count} {#bg-so}
+### Sofija City _(0)_{:.count} {: #bg-so }
 
 
 
 
 
 
-### Sofija Province _(0)_{:.count} {#bg-sf}
 
+### Sofija Province _(0)_{:.count} {: #bg-sf }
 
 
 
 
 
-### Blagoevgrad _(0)_{:.count} {#bg-bl}
 
 
+### Blagoevgrad _(0)_{:.count} {: #bg-bl }
 
 
 
 
-### Pernik _(0)_{:.count} {#bg-pe}
 
 
 
+### Pernik _(0)_{:.count} {: #bg-pe }
 
 
 
-### Kyustendil _(0)_{:.count} {#bg-ky}
 
 
 
 
+### Kyustendil _(0)_{:.count} {: #bg-ky }
 
 
-### Plovdiv _(0)_{:.count} {#bg-pv}
 
 
 
 
 
+### Plovdiv _(0)_{:.count} {: #bg-pv }
 
-### Haskovo _(0)_{:.count} {#bg-ha}
 
 
 
 
 
 
-### Pazardzhik _(0)_{:.count} {#bg-pa}
+### Haskovo _(0)_{:.count} {: #bg-ha }
 
 
 
 
 
 
-### Smolyan _(0)_{:.count} {#bg-sm}
 
+### Pazardzhik _(0)_{:.count} {: #bg-pa }
 
 
 
 
 
-### Kardzhali _(0)_{:.count} {#bg-ka}
 
 
+### Smolyan _(0)_{:.count} {: #bg-sm }
 
 
 
 
-### Vidin _(0)_{:.count} {#bg-vi}
 
 
 
+### Kardzhali _(0)_{:.count} {: #bg-ka }
 
 
 
-### Montana _(0)_{:.count} {#bg-mo}
 
 
 
 
+### Vidin _(0)_{:.count} {: #bg-vi }
 
 
-### Vratsa _(0)_{:.count} {#bg-vr}
 
 
 
 
 
+### Montana _(0)_{:.count} {: #bg-mo }
 
-### Pleven _(0)_{:.count} {#bg-pl}
 
 
 
 
 
 
-### Lovech _(0)_{:.count} {#bg-lo}
+### Vratsa _(0)_{:.count} {: #bg-vr }
 
 
 
 
 
 
-### Veliko Tarnovo _(0)_{:.count} {#bg-ve}
 
+### Pleven _(0)_{:.count} {: #bg-pl }
 
 
 
 
 
-### Gabrovo _(0)_{:.count} {#bg-ga}
 
 
+### Lovech _(0)_{:.count} {: #bg-lo }
 
 
 
 
-### Ruse _(0)_{:.count} {#bg-ru}
 
 
 
+### Veliko Tarnovo _(0)_{:.count} {: #bg-ve }
 
 
 
-### Razgrad _(0)_{:.count} {#bg-ra}
 
 
 
 
+### Gabrovo _(0)_{:.count} {: #bg-ga }
 
 
-### Silistra _(0)_{:.count} {#bg-si}
 
 
 
 
 
+### Ruse _(0)_{:.count} {: #bg-ru }
 
-### Varna _(0)_{:.count} {#bg-va}
 
 
 
 
 
 
-### Dobrich _(0)_{:.count} {#bg-do}
+### Razgrad _(0)_{:.count} {: #bg-ra }
 
 
 
 
 
 
-### Shumen _(0)_{:.count} {#bg-sh}
 
+### Silistra _(0)_{:.count} {: #bg-si }
 
 
 
 
 
-### Targovishte _(0)_{:.count} {#bg-ta}
 
 
+### Varna _(0)_{:.count} {: #bg-va }
 
 
 
 
-### Burgas _(0)_{:.count} {#bg-bu}
 
 
 
+### Dobrich _(0)_{:.count} {: #bg-do }
 
 
 
-### Sliven _(0)_{:.count} {#bg-sl}
 
 
 
 
+### Shumen _(0)_{:.count} {: #bg-sh }
 
 
-### Yambol _(0)_{:.count} {#bg-ya}
 
 
 
 
 
+### Targovishte _(0)_{:.count} {: #bg-ta }
 
-### Stara Zagora _(0)_{:.count} {#bg-sz}
+
+
+
+
+
+
+### Burgas _(0)_{:.count} {: #bg-bu }
+
+
+
+
+
+
+
+### Sliven _(0)_{:.count} {: #bg-sl }
+
+
+
+
+
+
+
+### Yambol _(0)_{:.count} {: #bg-ya }
+
+
+
+
+
+
+
+### Stara Zagora _(0)_{:.count} {: #bg-sz }
+
 
 
 

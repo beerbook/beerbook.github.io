@@ -15,6 +15,11 @@ def render_toc( opts={} )
   render_erb_template( toc_tmpl, binding )
 end
 
+def render_idx_breweries( opts={} )
+  idx_tmpl = File.read_utf8( '_templates/idx-breweries.md.erb' )
+  render_erb_template( idx_tmpl, binding )
+end
+
 
 #####
 # todo: find a better name for ender_toc_countries ??

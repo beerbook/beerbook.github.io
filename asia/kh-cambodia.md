@@ -4,7 +4,9 @@ title:     Cambodia (CAM)
 permalink: /kh.html
 ---
 
-## Cambodia (CAM) - 10 Beers, 0 Breweries {#kh}
+## Cambodia (CAM) - 10 Beers, 0 Breweries
+{: #kh }
+
 
 
 

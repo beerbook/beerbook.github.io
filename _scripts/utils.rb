@@ -14,6 +14,9 @@ def render_erb_template( tmpl, ctx )
   ## run filters
   tmpl = remove_html_comments( tmpl )
   tmpl = remove_blanks( tmpl )
+
+  tmpl = django_to_erb( tmpl )  ## allow django/jinja style templates
+
   tmpl = remove_leading_spaces( tmpl )
   tmpl = concat_lines( tmpl )
 

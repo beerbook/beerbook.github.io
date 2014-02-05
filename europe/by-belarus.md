@@ -4,7 +4,9 @@ title:     Belarus (BLR)
 permalink: /by.html
 ---
 
-## Belarus (BLR) - 3 Beers, 0 Breweries {#by}
+## Belarus (BLR) - 3 Beers, 0 Breweries
+{: #by }
+
 
 
 
