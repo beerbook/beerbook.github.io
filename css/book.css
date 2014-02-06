@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-   <meta charset='utf-8'>
-   <title>beer.db - The Free World Beer Book</title>
-   <style>
+
      .city {
         border-top: 2px black solid;
      }
@@ -34,15 +29,3 @@
        display: inline-block;
        padding-left: 12px;  /* add extra space on the left */
      }
-     
-   </style>
-</head>
-<body>
-
-
-    <div id='content'>
-      {{ content }}
-    </div>
-
-</body>
-</html>
