@@ -18,6 +18,15 @@ def render_toc( opts={} )
   text
 end
 
+def render_whats_news_in_year( year, opts={} )
+  tmpl = File.read_utf8( '_templates/whats-news-in-year.md.erb' )
+  text = ''
+  text << opts[:frontmatter]  if opts[:frontmatter]
+  text << render_erb_template( tmpl, binding )
+  text
+end
+
+
 def render_idx_breweries( opts={} )
   idx_tmpl = File.read_utf8( '_templates/idx-breweries.md.erb' )
   text = ''

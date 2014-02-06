@@ -1,12 +1,19 @@
 
+# Note: lets you use {{ site.title}}
+title: The Free World Beer Book
+
 
 markdown: kramdown
 
 
-exclude: ['README.md']
+# Note: let's store all our markdown sources, that is, book pages in the pages folder
+include: ['_pages']
 
-safe: true
-lsi: false
+
+# Note: dotfiles are excluded by default (e.g. .gitignore)
+exclude: ['README.md', 'BUILD.md']
+
+
 
 # In Jekyll v1.0, we introduced absolute permalinks for pages in subdirectories.
 # Until v2.0, it is opt-in. Starting with v2.0, however, absolute permalinks will become opt-out,
@@ -14,4 +21,10 @@ lsi: false
 
 relative_permalinks: false
 
+
+#################################################################
+# used by GitHub pages, thus, also use these setting locally
+
+safe: true
+lsi: false
 

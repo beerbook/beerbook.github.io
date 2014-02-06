@@ -1,0 +1,22 @@
+# What's News in {{ year }}?
+
+
+## Breweries Opened in {{ year }}
+
+<!-- fix: add beers too!!! -->
+<!-- add breweries counter ?? -->
+
+{% Brewery.where( since: year ).order(:key).each do |brewery| %}
+  {{ link_to_brewery( brewery, opts ) }} ++
+  {{ brewery_stars( brewery ) }} ++
+   .. <!-- fix: add brewery synonims if exit -->
+   {{ brewery_tags( brewery ) }} ++ 
+   ( ++
+   {{ brewery.country.title }} ++
+   {% if brewery.region_id.present? %} › {{ brewery.region.title }} {% end %} ++
+   {% if brewery.city_id.present? %} › {{ brewery.city.title }} {% end %} ++
+   ) ++
+   `#{{ brewery.key }}`{:.key} ++ 
+   <br>
+{% end %}
+

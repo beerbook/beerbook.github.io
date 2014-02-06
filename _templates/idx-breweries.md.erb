@@ -14,16 +14,16 @@
 ## {{ letter }}
 
 {% Brewery.where( "key like '#{letter.downcase}%'").order(:key).each do |brewery| %}
-  {{ brewery.title }} ++
+  .. <!-- fix: use brewery-idx.md.erb partial -->
+  {{ link_to_brewery( brewery, opts ) }} ++
   {{ brewery_stars( brewery ) }} ++
    .. <!-- fix: add brewery synonims if exit -->
-   .. <!-- fix: add brewery tags here -->
+   {{ brewery_tags( brewery ) }} ++ 
    ( ++
    {{ brewery.country.title }} ++
    {% if brewery.region_id.present? %} › {{ brewery.region.title }} {% end %} ++
    {% if brewery.city_id.present? %} › {{ brewery.city.title }} {% end %} ++
    ) ++
-   {{ brewery_tags( brewery ) }} ++ 
    `#{{ brewery.key }}`{:.key} ++ 
    <br>
 {% end %}

@@ -23,6 +23,9 @@ require_relative 'helpers/markdown'
 require_relative 'helpers/navbar'
 require_relative 'helpers/part'
 require_relative 'helpers/misc'
+require_relative 'helpers/beer'
+require_relative 'helpers/brewery'
+require_relative 'helpers/city'
 
 
 
@@ -104,6 +107,23 @@ def country_to_md_path( country )
 
   path
 end
+
+
+### generate what's news in 2014
+
+years = [2014,2013,2012,2011,2010]
+years.each do |year|
+  File.open( "#{year}.md", 'w+') do |file|
+    file.write render_whats_news_in_year( year, frontmatter: <<EOS )
+---
+layout: default
+title: What's News in #{year}?
+---
+
+EOS
+  end
+end
+
 
 
 def build_book
