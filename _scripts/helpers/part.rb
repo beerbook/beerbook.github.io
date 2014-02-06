@@ -5,16 +5,18 @@
 
 
 def render_country( country, opts={} )
-  country_tmpl       = File.read_utf8( '_templates/country.md.erb' )
-  country_text = render_erb_template( country_tmpl, binding )
-end
-
-
-def render_toc( opts={} )
-  toc_tmpl = File.read_utf8( '_templates/toc.md.erb' )
+  tmpl       = File.read_utf8( '_templates/country.md.erb' )
   text = ''
   text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( toc_tmpl, binding )
+  text << render_erb_template( tmpl, binding )
+  text
+end
+
+def render_toc( opts={} )
+  tmpl = File.read_utf8( '_templates/toc.md.erb' )
+  text = ''
+  text << opts[:frontmatter]  if opts[:frontmatter]
+  text << render_erb_template( tmpl, binding )
   text
 end
 
@@ -28,26 +30,26 @@ end
 
 
 def render_idx_breweries( opts={} )
-  idx_tmpl = File.read_utf8( '_templates/idx-breweries.md.erb' )
+  tmpl = File.read_utf8( '_templates/idx-breweries.md.erb' )
   text = ''
   text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( idx_tmpl, binding )
+  text << render_erb_template( tmpl, binding )
   text
 end
 
 def render_idx_beers( opts={} )
-  idx_tmpl = File.read_utf8( '_templates/idx-beers.md.erb' )
+  tmpl = File.read_utf8( '_templates/idx-beers.md.erb' )
   text = ''
   text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( idx_tmpl, binding )
+  text << render_erb_template( tmpl, binding )
   text
 end
 
 def render_idx_brands( opts={} )
-  idx_tmpl = File.read_utf8( '_templates/idx-brands.md.erb' )
+  tmpl = File.read_utf8( '_templates/idx-brands.md.erb' )
   text = ''
   text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( idx_tmpl, binding )
+  text << render_erb_template( tmpl, binding )
   text
 end
 
@@ -109,17 +111,17 @@ end
 
 
 def render_city( city )
-  city_tmpl       = File.read_utf8( '_templates/city.md.erb' )
-  render_erb_template( city_tmpl, binding )
+  tmpl       = File.read_utf8( '_templates/city.md.erb' )
+  render_erb_template( tmpl, binding )
 end
 
 def render_brewery( brewery )
-  brewery_tmpl       = File.read_utf8( '_templates/brewery.md.erb' )
-  render_erb_template( brewery_tmpl, binding )  
+  tmpl       = File.read_utf8( '_templates/brewery.md.erb' )
+  render_erb_template( tmpl, binding )  
 end
 
 def render_beer( beer )
-  beer_tmpl       = File.read_utf8( '_templates/beer.md.erb' )
-  render_erb_template( beer_tmpl, binding )
+  tmpl       = File.read_utf8( '_templates/beer.md.erb' )
+  render_erb_template( tmpl, binding )
 end
 

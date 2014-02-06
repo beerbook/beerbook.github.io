@@ -68,56 +68,25 @@ Brand     = BeerDb::Model::Brand
 Beer      = BeerDb::Model::Beer
 
 
+#####
+# todo/fix: use constant to set  ./_pages   - output (root) folder for generated pages
+
+
 
 ####################################
 # 1) generate multi-page version
-
-def country_to_md_path( country )
-
-  country_title = country.title.downcase
-  country_title = country_title.gsub( /\[[^\]]+\]/, '' ) ## e.g. remove [Mexico] etc.
-  country_title = country_title.gsub( 'é', 'e' )  ## todo/fix: use a generic version for accents
-  country_title = country_title.strip
-  country_title = country_title.gsub(' ', '-')
-  country_title = country_title.gsub('-and-', '-n-')
-
-  country_path = ""
-  country_path << country.key
-  country_path << '-'
-  country_path << country_title
-
-  ### quick hack: patch Asia & Australia to => Asia
-  # fix: do NOT use sport.db.admin e.g. FIFA continents for beerdb
-  if country.key == 'au'
-    path = "pacific/#{country_path}.md"
-  elsif country.key == 'de'
-    # use deutschland NOT germany (same as domain country code)
-    path = "europe/de-deutschland.md"  # deutsch/german (de)
-  elsif country.key == 'es'
-    # use espana NOT spain (same as domain country code)
-    path = "europe/es-espana.md"   # spanish/espanol (es)
-  elsif country.key == 'ch'
-    # use confoederatio helvetica NOT switzerland (same as domain country code)
-    path = "europe/ch-confoederatio-helvetica.md" # latin
-  elsif country.continent.title == 'Asia & Australia'
-    path = "asia/#{country_path}.md"
-  else
-    path = "#{country.continent.title.downcase.gsub(' ', '-')}/#{country_path}.md"
-  end
-
-  path
-end
 
 
 ### generate what's news in 2014
 
 years = [2014,2013,2012,2011,2010]
 years.each do |year|
-  File.open( "#{year}.md", 'w+') do |file|
+  File.open( "_pages/#{year}.md", 'w+') do |file|
     file.write render_whats_news_in_year( year, frontmatter: <<EOS )
 ---
 layout: default
 title: What's News in #{year}?
+permalink: /#{year}.html
 ---
 
 EOS
@@ -130,11 +99,12 @@ def build_book
 
 ### generate breweries index
 
-File.open( 'breweries.md', 'w+') do |file|
+File.open( '_pages/breweries.md', 'w+') do |file|
   file.write render_idx_breweries( frontmatter: <<EOS )
 ---
 layout: default
 title: Breweries Index
+permalink: /breweries.html
 ---
 
 EOS
@@ -143,11 +113,12 @@ end
 
 ### generate beers index
 
-File.open( 'beers.md', 'w+') do |file|
+File.open( '_pages/beers.md', 'w+') do |file|
   file.write render_idx_beers( frontmatter: <<EOS )
 ---
 layout: default
 title: Beers Index
+permalink: /beers.html
 ---
 
 EOS
@@ -156,11 +127,12 @@ end
 
 ### generate brands index
 
-File.open( 'brands.md', 'w+') do |file|
+File.open( '_pages/brands.md', 'w+') do |file|
   file.write render_idx_brands( frontmatter: <<EOS )
 ---
 layout: default
 title: Brands Index
+permalink: /brands.html
 ---
 
 EOS
@@ -169,11 +141,12 @@ end
 
 ### generate table of contents (toc)
 
-File.open( 'index.md', 'w+') do |file|
+File.open( '_pages/index.md', 'w+') do |file|
   file.write render_toc( frontmatter: <<EOS )
 ---
 layout: default
 title: Contents
+permalink: /index.html
 ---
 
 EOS
@@ -191,7 +164,11 @@ Country.all.each do |country|
   
   country_count += 1
   puts "build country page #{country.key}..."
-  country_text = <<EOS
+
+  path = country_to_md_path( country )
+  puts "path=#{path}"
+  File.open( "_pages/#{path}", 'w+') do |file|
+    file.write render_country( country, frontmatter: <<EOS )
 ---
 layout:    default
 title:     #{country.title} (#{country.code})
@@ -199,13 +176,6 @@ permalink: /#{country.key}.html
 ---
 
 EOS
-
-  country_text += render_country( country )
-
-  path = country_to_md_path( country )
-  puts "path=#{path}"
-  File.open( path, 'w+') do |file|
-    file.write country_text
   end
 
   ## break if country_count == 3    # note: for testing only build three country pages
@@ -223,6 +193,7 @@ book_text = <<EOS
 ---
 layout: default
 title: Contents
+permalink: /book.html
 ---
 
 EOS
@@ -257,7 +228,7 @@ EOS
 end
 
 
-File.open( 'book.md', 'w+') do |file|
+File.open( '_pages/book.md', 'w+') do |file|
   file.write book_text
 end
 
@@ -265,7 +236,7 @@ end # method build_book_all_in_one
 
 
 build_book()
-# build_book_all_in_one()
+build_book_all_in_one()
 
 
 puts 'Done. Bye.'
