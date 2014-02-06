@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Ukraine (UKR)
 permalink: /ua.html
 ---

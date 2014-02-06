@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Australia (AUS)
 permalink: /au.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Laos (LAO)
 permalink: /la.html
 ---

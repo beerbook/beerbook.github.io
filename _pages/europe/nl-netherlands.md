@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Netherlands (NED)
 permalink: /nl.html
 ---

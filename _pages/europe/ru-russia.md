@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Russia (RUS)
 permalink: /ru.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Singapore (SIN)
 permalink: /sg.html
 ---

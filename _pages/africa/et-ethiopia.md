@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Ethiopia (ETH)
 permalink: /et.html
 ---

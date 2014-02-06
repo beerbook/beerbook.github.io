@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Germany (GER)
 permalink: /de.html
 ---

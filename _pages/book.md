@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: book
 title: Contents
 permalink: /book.html
 ---
@@ -13,11 +13,11 @@ permalink: /book.html
 ## What's News?
 {: #news}
 
-[What's News in 2014?](2014.html)  <br>  
-[What's News in 2013?](2013.html)  <br>  
-[What's News in 2012?](2012.html)  <br>  
-[What's News in 2011?](2011.html)  <br>  
-[What's News in 2010?](2010.html)  <br>  
+[What's News in 2014?](2014.html)  <br>
+[What's News in 2013?](2013.html)  <br>
+[What's News in 2012?](2012.html)  <br>
+[What's News in 2011?](2011.html)  <br>
+[What's News in 2010?](2010.html)  <br>
 
 
 

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Italy (ITA)
 permalink: /it.html
 ---

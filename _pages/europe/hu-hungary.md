@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Hungary (HUN)
 permalink: /hu.html
 ---

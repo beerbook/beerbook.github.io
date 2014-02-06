@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Puerto Rico (PUR)
 permalink: /pr.html
 ---

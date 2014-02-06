@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Albania (ALB)
 permalink: /al.html
 ---

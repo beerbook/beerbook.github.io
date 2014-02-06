@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Trinidad and Tobago (TRI)
 permalink: /tt.html
 ---

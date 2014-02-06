@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Iceland (ISL)
 permalink: /is.html
 ---

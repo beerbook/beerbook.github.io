@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Sweden (SWE)
 permalink: /se.html
 ---

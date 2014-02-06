@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Slovenia (SVN)
 permalink: /si.html
 ---

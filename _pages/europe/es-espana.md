@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Spain (ESP)
 permalink: /es.html
 ---

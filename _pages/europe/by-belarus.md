@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Belarus (BLR)
 permalink: /by.html
 ---

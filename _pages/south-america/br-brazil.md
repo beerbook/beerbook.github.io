@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Brazil (BRA)
 permalink: /br.html
 ---

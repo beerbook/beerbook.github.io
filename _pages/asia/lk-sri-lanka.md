@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Sri Lanka (SRI)
 permalink: /lk.html
 ---

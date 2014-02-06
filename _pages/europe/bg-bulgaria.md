@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Bulgaria (BUL)
 permalink: /bg.html
 ---

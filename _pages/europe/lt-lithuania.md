@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Lithuania (LTU)
 permalink: /lt.html
 ---

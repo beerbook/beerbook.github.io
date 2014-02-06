@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Latvija [Latvia] (LVA)
 permalink: /lv.html
 ---

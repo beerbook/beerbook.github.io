@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Bosnia and Herzegovina (BIH)
 permalink: /ba.html
 ---

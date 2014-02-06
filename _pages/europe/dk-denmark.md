@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Denmark (DEN)
 permalink: /dk.html
 ---

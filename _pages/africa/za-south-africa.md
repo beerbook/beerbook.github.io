@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     South Africa (RSA)
 permalink: /za.html
 ---

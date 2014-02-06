@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Liechtenstein (LIE)
 permalink: /li.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Czech Republic (CZE)
 permalink: /cz.html
 ---

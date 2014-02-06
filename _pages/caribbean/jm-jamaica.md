@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Jamaica (JAM)
 permalink: /jm.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Serbia (SRB)
 permalink: /rs.html
 ---

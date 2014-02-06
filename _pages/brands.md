@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: book
 title: Brands Index
 permalink: /brands.html
 ---

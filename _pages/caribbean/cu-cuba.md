@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Cuba (CUB)
 permalink: /cu.html
 ---

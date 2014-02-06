@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: book
 title: Breweries Index
 permalink: /breweries.html
 ---

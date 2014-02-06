@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     México [Mexico] (MEX)
 permalink: /mx.html
 ---

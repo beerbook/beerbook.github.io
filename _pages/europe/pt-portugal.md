@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Portugal (POR)
 permalink: /pt.html
 ---

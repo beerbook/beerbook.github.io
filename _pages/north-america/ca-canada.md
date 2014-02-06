@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Canada (CAN)
 permalink: /ca.html
 ---

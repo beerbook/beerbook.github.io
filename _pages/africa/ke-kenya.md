@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Kenya (KEN)
 permalink: /ke.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Slovakia (SVK)
 permalink: /sk.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Vietnam (VIE)
 permalink: /vn.html
 ---

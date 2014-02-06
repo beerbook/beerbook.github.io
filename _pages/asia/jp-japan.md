@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Japan (JPN)
 permalink: /jp.html
 ---

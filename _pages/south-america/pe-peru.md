@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Peru (PER)
 permalink: /pe.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Norway (NOR)
 permalink: /no.html
 ---

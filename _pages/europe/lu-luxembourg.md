@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Luxembourg (LUX)
 permalink: /lu.html
 ---

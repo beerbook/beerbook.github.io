@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: book
 title: Beers Index
 permalink: /beers.html
 ---

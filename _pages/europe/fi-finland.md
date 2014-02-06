@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Finland (FIN)
 permalink: /fi.html
 ---

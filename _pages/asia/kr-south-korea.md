@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     South Korea (KOR)
 permalink: /kr.html
 ---

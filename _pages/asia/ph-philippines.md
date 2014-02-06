@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Philippines (PHI)
 permalink: /ph.html
 ---

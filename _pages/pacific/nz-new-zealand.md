@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     New Zealand (NZL)
 permalink: /nz.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Croatia (CRO)
 permalink: /hr.html
 ---

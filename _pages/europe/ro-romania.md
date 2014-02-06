@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Romania (ROU)
 permalink: /ro.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Austria (AUT)
 permalink: /at.html
 ---

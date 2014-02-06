@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Montenegro (MNE)
 permalink: /me.html
 ---

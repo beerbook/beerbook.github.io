@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     United States (USA)
 permalink: /us.html
 ---

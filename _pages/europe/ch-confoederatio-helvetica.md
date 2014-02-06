@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Switzerland (SUI)
 permalink: /ch.html
 ---

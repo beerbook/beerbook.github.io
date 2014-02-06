@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Greece (GRE)
 permalink: /gr.html
 ---

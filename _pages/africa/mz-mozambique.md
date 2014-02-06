@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Mozambique (MOZ)
 permalink: /mz.html
 ---

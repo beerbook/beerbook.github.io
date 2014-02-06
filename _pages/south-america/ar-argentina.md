@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Argentina (ARG)
 permalink: /ar.html
 ---

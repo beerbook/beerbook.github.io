@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    book
 title:     Egypt (EGY)
 permalink: /eg.html
 ---
