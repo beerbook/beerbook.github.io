@@ -62,21 +62,27 @@ permalink: /us.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Allagash Brewing Co. • Allagash Brewing Company   `#allagash`{:.key} <br>
+ Allagash Brewing Co. • Allagash Brewing Company   _#allagash_{:.key} <br>
 Portland | ME //  <br>
 {: .brewery #allagash }
 
 
- Maine Beer Co. • Maine Beer Company   `#mainebeer`{:.key} <br>
+ Maine Beer Co. • Maine Beer Company   _#mainebeer_{:.key} <br>
 Portland | ME //  <br>
 {: .brewery #mainebeer }
 
 
- Shipyard Brewing Co. • Shipyard Brewing Company   `#shipyardbrewing`{:.key} <br>
+ Shipyard Brewing Co. • Shipyard Brewing Company   _#shipyardbrewing_{:.key} <br>
 Portland | ME //  <br>
 {: .brewery #shipyardbrewing }
 
@@ -89,11 +95,17 @@ Portland | ME //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Smuttynose Brewing Co.   `#smuttynose`{:.key} <br>
+ Smuttynose Brewing Co.   _#smuttynose_{:.key} <br>
 NH, Portsmouth | NH //  <br>
 {: .brewery #smuttynose }
 
@@ -106,21 +118,27 @@ NH, Portsmouth | NH //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Magic Hat Brewing Co. • Magic Hat Brewing Company   `#magichat`{:.key} <br>
+ Magic Hat Brewing Co. • Magic Hat Brewing Company   _#magichat_{:.key} <br>
 South Burlington | VT //  <br>
 {: .brewery #magichat }
 
 
- Hill Farmstead Brewery   `#hillfarmstead`{:.key} <br>
+ Hill Farmstead Brewery   _#hillfarmstead_{:.key} <br>
 Greensboro | VT //  <br>
 {: .brewery #hillfarmstead }
 
 
- Long Trail Brewing Co. • Long Trail Brewing Company   `#longtrailbrewing`{:.key} <br>
+ Long Trail Brewing Co. • Long Trail Brewing Company   _#longtrailbrewing_{:.key} <br>
 Bridgewater Corners | VT //  <br>
 {: .brewery #longtrailbrewing }
 
@@ -133,33 +151,39 @@ Bridgewater Corners | VT //  <br>
 
 [Boston](#boston) • **Uncategorized** _(3)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Boston   _pop 617.594_{:.pop}
 {: .city #boston }
 
 
 
- Boston Beer Co. (Samuel Adams) • Boston Beer Company  - 1984   `#boston`{:.key} <br>
+ Boston Beer Co. (Samuel Adams) • Boston Beer Company  - 1984   _#boston_{:.key} <br>
 Boston | MA 02130 // 30 Germania St.  <br>
 {: .brewery #boston }
 
 **Samuel Adams Boston Lager** (4.9%) _vienna lager_{:.tags} 
 {: .beers }
 
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Clown Shoes   `#clownshoes`{:.key} <br>
+ Clown Shoes   _#clownshoes_{:.key} <br>
 Ipswich | MA //  <br>
 {: .brewery #clownshoes }
 
 
- Harpoon Brewery   `#harpoon`{:.key} <br>
+ Harpoon Brewery   _#harpoon_{:.key} <br>
 Boston | MA //  <br>
 {: .brewery #harpoon }
 
 
- Pretty Things Beer & Ale Project   `#prettythings`{:.key} <br>
+ Pretty Things Beer & Ale Project   _#prettythings_{:.key} <br>
 Somerville | MA //  <br>
 {: .brewery #prettythings }
 
@@ -172,6 +196,12 @@ Somerville | MA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -179,6 +209,12 @@ Somerville | MA //  <br>
 {: #us-ct }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -190,12 +226,15 @@ Somerville | MA //  <br>
 
 [New York](#newyork) • **Uncategorized** _(6)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### New York   _pop 8.175.133_{:.pop}
 {: .city #newyork }
 
 
 
- Brooklyn Brewery  - 1987   `#brooklyn`{:.key} <br>
+ Brooklyn Brewery  - 1987   _#brooklyn_{:.key} <br>
 Brooklyn | NY 11249 //  <br>
 {: .brewery #brooklyn }
 
@@ -208,36 +247,39 @@ Brooklyn | NY 11249 //  <br>
 **Brooklyn Oktoberfest** (5.5%) _maerzen oktoberfest_{:.tags} 
 {: .beers }
 
+</div>
+
+
 
 ##### Uncategorized _(6)_{:.count}
 
 
- Sixpoint Brewery   `#sixpoint`{:.key} <br>
+ Sixpoint Brewery   _#sixpoint_{:.key} <br>
 Brooklyn | NY //  <br>
 {: .brewery #sixpoint }
 
 
- Southern Tier Brewing Co. • Southern Tier Brewing Company   `#southerntier`{:.key} <br>
+ Southern Tier Brewing Co. • Southern Tier Brewing Company   _#southerntier_{:.key} <br>
 Lakewood | NY //  <br>
 {: .brewery #southerntier }
 
 
- Brewery Ommegang   `#ommegang`{:.key} <br>
+ Brewery Ommegang   _#ommegang_{:.key} <br>
 Cooperstown | NY //  <br>
 {: .brewery #ommegang }
 
 
- Blue Point Brewing Co. • Blue Point Brewing Company   `#bluepoint`{:.key} <br>
+ Blue Point Brewing Co. • Blue Point Brewing Company   _#bluepoint_{:.key} <br>
 Patchogue | NY //  <br>
 {: .brewery #bluepoint }
 
 
- Captain Lawrence Brewing Co. • Captain Lawrence Brewing Company   `#captainlawrence`{:.key} <br>
+ Captain Lawrence Brewing Co. • Captain Lawrence Brewing Company   _#captainlawrence_{:.key} <br>
 Elmsford | NY //  <br>
 {: .brewery #captainlawrence }
 
 
- Ithaca Beer Co. • Ithaca Beer Company   `#ithaca`{:.key} <br>
+ Ithaca Beer Co. • Ithaca Beer Company   _#ithaca_{:.key} <br>
 Ithaca | NY //  <br>
 {: .brewery #ithaca }
 
@@ -250,46 +292,52 @@ Ithaca | NY //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(8)_{:.count}
 
 
- Victory Brewing Co. • Victory Brewing Company   `#victory`{:.key} <br>
+ Victory Brewing Co. • Victory Brewing Company   _#victory_{:.key} <br>
 Downingtown | PA //  <br>
 {: .brewery #victory }
 
 
- Tröegs Brewing Co. • Tröegs Brewing Company   `#troegs`{:.key} <br>
+ Tröegs Brewing Co. • Tröegs Brewing Company   _#troegs_{:.key} <br>
 Hershey | PA //  <br>
 {: .brewery #troegs }
 
 
- Yuengling Brewery   `#yuengling`{:.key} <br>
+ Yuengling Brewery   _#yuengling_{:.key} <br>
 Pottsville | PA //  <br>
 {: .brewery #yuengling }
 
 
- Weyerbacher Brewing Co. • Weyerbacher Brewing Company   `#weyerbacher`{:.key} <br>
+ Weyerbacher Brewing Co. • Weyerbacher Brewing Company   _#weyerbacher_{:.key} <br>
 Easton | PA //  <br>
 {: .brewery #weyerbacher }
 
 
- Sly Fox Brewing Co. • Sly Fox Brewing Company   `#slyfox`{:.key} <br>
+ Sly Fox Brewing Co. • Sly Fox Brewing Company   _#slyfox_{:.key} <br>
 Pottstown | PA //  <br>
 {: .brewery #slyfox }
 
 
- Voodoo Brewing Co.   `#voodoo`{:.key} <br>
+ Voodoo Brewing Co.   _#voodoo_{:.key} <br>
 Meadville | PA //  <br>
 {: .brewery #voodoo }
 
 
- Full Pint Brewing Co. • Full Pint Brewing Company   `#fullpint`{:.key} <br>
+ Full Pint Brewing Co. • Full Pint Brewing Company   _#fullpint_{:.key} <br>
 North Versailles | PA //  <br>
 {: .brewery #fullpint }
 
 
- Yards Brewing Co.   `#yardsbrewing`{:.key} <br>
+ Yards Brewing Co.   _#yardsbrewing_{:.key} <br>
 Philadelphia | PA //  <br>
 {: .brewery #yardsbrewing }
 
@@ -302,6 +350,12 @@ Philadelphia | PA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -311,21 +365,27 @@ Philadelphia | PA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Miller Brewing Co. • Miller Brewing Company  - 1855   `#miller`{:.key} <br>
+ Miller Brewing Co. • Miller Brewing Company  - 1855   _#miller_{:.key} <br>
 Milwaukee | WI //  <br>
 {: .brewery #miller }
 
 
- Jacob Leinenkugel Brewing Co. • Jacob Leinenkugel Brewing Company   `#leinenkugel`{:.key} <br>
+ Jacob Leinenkugel Brewing Co. • Jacob Leinenkugel Brewing Company   _#leinenkugel_{:.key} <br>
 Chippewa Falls | WI //  <br>
 {: .brewery #leinenkugel }
 
 
- Lakefront Brewery   `#lakefront`{:.key} <br>
+ Lakefront Brewery   _#lakefront_{:.key} <br>
 Milwaukee | WI //  <br>
 {: .brewery #lakefront }
 
@@ -338,36 +398,42 @@ Milwaukee | WI //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(6)_{:.count}
 
 
- Founders Brewing Co. • Founders Brewing Company   `#founders`{:.key} <br>
+ Founders Brewing Co. • Founders Brewing Company   _#founders_{:.key} <br>
 Grand Rapids | MI //  <br>
 {: .brewery #founders }
 
 
- Bell's Brewery • Bell's Brewery Inc.   `#bell`{:.key} <br>
+ Bell's Brewery • Bell's Brewery Inc.   _#bell_{:.key} <br>
 Galesburg/Comstock & Kalamazoo | MI //  <br>
 {: .brewery #bell }
 
 
- New Holland Brewing Co. • New Holland Brewing Company   `#newholland`{:.key} <br>
+ New Holland Brewing Co. • New Holland Brewing Company   _#newholland_{:.key} <br>
 Holland | MI //  <br>
 {: .brewery #newholland }
 
 
- Greenbush Brewing Co. • Greenbush Brewing Company   `#greenbush`{:.key} <br>
+ Greenbush Brewing Co. • Greenbush Brewing Company   _#greenbush_{:.key} <br>
 Sawyer | MI //  <br>
 {: .brewery #greenbush }
 
 
- Short's Brewing Co. • Short's Brewing Company   `#short`{:.key} <br>
+ Short's Brewing Co. • Short's Brewing Company   _#short_{:.key} <br>
 Bellaire | MI //  <br>
 {: .brewery #short }
 
 
- Arcadia Brewing Company (Arcadia Ales)   `#arcadia`{:.key} <br>
+ Arcadia Brewing Company (Arcadia Ales)   _#arcadia_{:.key} <br>
 Battle Creek | MI //  <br>
 {: .brewery #arcadia }
 
@@ -380,41 +446,47 @@ Battle Creek | MI //  <br>
 
 [Chicago](#chicago) • **Uncategorized** _(5)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Chicago   _pop 2.695.598_{:.pop}
 {: .city #chicago }
 
 
 
- Goose Island Beer Co. • Goose Island Beer Company  - 1988   `#gooseisland`{:.key} <br>
+ Goose Island Beer Co. • Goose Island Beer Company  - 1988   _#gooseisland_{:.key} <br>
 Chicago | IL 60612 // 1800 West Fulton St. //  <br>
 {: .brewery #gooseisland }
+
+
+</div>
 
 
 
 ##### Uncategorized _(5)_{:.count}
 
 
- Pabst Brewing Co. • Pabst Brewing Company   `#pabst`{:.key} <br>
+ Pabst Brewing Co. • Pabst Brewing Company   _#pabst_{:.key} <br>
 Woodridge | IL //  <br>
 {: .brewery #pabst }
 
 
- Two Brothers Brewing Co. • Two Brothers Brewing Company   `#twobrothers`{:.key} <br>
+ Two Brothers Brewing Co. • Two Brothers Brewing Company   _#twobrothers_{:.key} <br>
 Warrenville | IL //  <br>
 {: .brewery #twobrothers }
 
 
- Half Acre Beer Co. • Half Acre Beer Company   `#halfacre`{:.key} <br>
+ Half Acre Beer Co. • Half Acre Beer Company   _#halfacre_{:.key} <br>
 Chicago | IL //  <br>
 {: .brewery #halfacre }
 
 
- Pipeworks Brewing Co. • Pipeworks Brewing Company   `#pipeworks`{:.key} <br>
+ Pipeworks Brewing Co. • Pipeworks Brewing Company   _#pipeworks_{:.key} <br>
 Chicago | IL //  <br>
 {: .brewery #pipeworks }
 
 
- Finch's Beer Co. • Finch's Beer Company   `#finch`{:.key} <br>
+ Finch's Beer Co. • Finch's Beer Company   _#finch_{:.key} <br>
 Chicago | IL //  <br>
 {: .brewery #finch }
 
@@ -427,21 +499,27 @@ Chicago | IL //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Three Floyds Brewing Co. • Three Floyds Brewing Company   `#threefloyds`{:.key} <br>
+ Three Floyds Brewing Co. • Three Floyds Brewing Company   _#threefloyds_{:.key} <br>
 Munster | IN //  <br>
 {: .brewery #threefloyds }
 
 
- Sun King Brewing Co   `#sunking`{:.key} <br>
+ Sun King Brewing Co   _#sunking_{:.key} <br>
 Indianapolis | IN //  <br>
 {: .brewery #sunking }
 
 
- Upland Brewing Co. • Upland Brewing Company   `#uplandbrewing`{:.key} <br>
+ Upland Brewing Co. • Upland Brewing Company   _#uplandbrewing_{:.key} <br>
 Bloomington | IN //  <br>
 {: .brewery #uplandbrewing }
 
@@ -454,21 +532,27 @@ Bloomington | IN //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Great Lakes Brewing Co. • Great Lakes Brewing Company   `#greatlakes`{:.key} <br>
+ Great Lakes Brewing Co. • Great Lakes Brewing Company   _#greatlakes_{:.key} <br>
 Cleveland | OH //  <br>
 {: .brewery #greatlakes }
 
 
- Fat Head's Brewery   `#fathead`{:.key} <br>
+ Fat Head's Brewery   _#fathead_{:.key} <br>
 North Olmsted | OH //  <br>
 {: .brewery #fathead }
 
 
- Hoppin' Frog Brewery   `#hoppinfrog`{:.key} <br>
+ Hoppin' Frog Brewery   _#hoppinfrog_{:.key} <br>
 Akron | OH //  <br>
 {: .brewery #hoppinfrog }
 
@@ -481,26 +565,32 @@ Akron | OH //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(4)_{:.count}
 
 
- Boulevard Brewing Co.   `#boulevard`{:.key} <br>
+ Boulevard Brewing Co.   _#boulevard_{:.key} <br>
 Kansas City | MO //  <br>
 {: .brewery #boulevard }
 
 
- Schlafly Beer (The Saint Louis Brewery)   `#schlafly`{:.key} <br>
+ Schlafly Beer (The Saint Louis Brewery)   _#schlafly_{:.key} <br>
 Saint Louis| MO //  <br>
 {: .brewery #schlafly }
 
 
- Perennial Artisan Ales   `#perennialales`{:.key} <br>
+ Perennial Artisan Ales   _#perennialales_{:.key} <br>
 St Louis | MO //  <br>
 {: .brewery #perennialales }
 
 
- Urban Chestnut Brewing Co. • Urban Chestnut Brewing Company   `#urbanchestnut`{:.key} <br>
+ Urban Chestnut Brewing Co. • Urban Chestnut Brewing Company   _#urbanchestnut_{:.key} <br>
 Saint Louis | MO //  <br>
 {: .brewery #urbanchestnut }
 
@@ -513,6 +603,12 @@ Saint Louis | MO //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -520,6 +616,12 @@ Saint Louis | MO //  <br>
 {: #us-sd }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -531,6 +633,12 @@ Saint Louis | MO //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -540,11 +648,17 @@ Saint Louis | MO //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Tallgrass Brewing Co. • Tallgrass Brewing Company   `#tallgrass`{:.key} <br>
+ Tallgrass Brewing Co. • Tallgrass Brewing Company   _#tallgrass_{:.key} <br>
 Manhattan | KS //  <br>
 {: .brewery #tallgrass }
 
@@ -557,16 +671,22 @@ Manhattan | KS //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Surly Brewing Company   `#surlybrewing`{:.key} <br>
+ Surly Brewing Company   _#surlybrewing_{:.key} <br>
 Brooklyn Center | MN //  <br>
 {: .brewery #surlybrewing }
 
 
- Summit Brewing Co. • Summit Brewing Company   `#summitbrewing`{:.key} <br>
+ Summit Brewing Co. • Summit Brewing Company   _#summitbrewing_{:.key} <br>
 St. Paul | MN //  <br>
 {: .brewery #summitbrewing }
 
@@ -579,11 +699,17 @@ St. Paul | MN //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Toppling Goliath Brewing   `#topplinggoliath`{:.key} <br>
+ Toppling Goliath Brewing   _#topplinggoliath_{:.key} <br>
 Decorah | IA //  <br>
 {: .brewery #topplinggoliath }
 
@@ -596,16 +722,22 @@ Decorah | IA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Dogfish Head Craft Brewery   `#dogfish`{:.key} <br>
+ Dogfish Head Craft Brewery   _#dogfish_{:.key} <br>
 Milton | DE //  <br>
 {: .brewery #dogfish }
 
 
- Iron Hill Brewery   `#ironhill`{:.key} <br>
+ Iron Hill Brewery   _#ironhill_{:.key} <br>
 Wilmington | DE //  <br>
 {: .brewery #ironhill }
 
@@ -618,26 +750,32 @@ Wilmington | DE //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(4)_{:.count}
 
 
- Heavy Seas Beer   `#heavyseas`{:.key} <br>
+ Heavy Seas Beer   _#heavyseas_{:.key} <br>
 Baltimore | MD //  <br>
 {: .brewery #heavyseas }
 
 
- DuClaw Brewing Co. • DuClaw Brewing Company   `#duclaw`{:.key} <br>
+ DuClaw Brewing Co. • DuClaw Brewing Company   _#duclaw_{:.key} <br>
 Bel Air | MD //  <br>
 {: .brewery #duclaw }
 
 
- Stillwater Artisanal Ales   `#stillwaterales`{:.key} <br>
+ Stillwater Artisanal Ales   _#stillwaterales_{:.key} <br>
 Baltimore | MD //  <br>
 {: .brewery #stillwaterales }
 
 
- Evolution Craft Brewing Co. • Evolution Craft Brewing Company   `#evolutioncraft`{:.key} <br>
+ Evolution Craft Brewing Co. • Evolution Craft Brewing Company   _#evolutioncraft_{:.key} <br>
 Salisbury | MD //  <br>
 {: .brewery #evolutioncraft }
 
@@ -650,6 +788,12 @@ Salisbury | MD //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -659,16 +803,22 @@ Salisbury | MD //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Starr Hill Brewing Co. • Starr Hill Brewing Company   `#starrhill`{:.key} <br>
+ Starr Hill Brewing Co. • Starr Hill Brewing Company   _#starrhill_{:.key} <br>
 Crozet | VA //  <br>
 {: .brewery #starrhill }
 
 
- Blue Mountain Brewery   `#bluemountain`{:.key} <br>
+ Blue Mountain Brewery   _#bluemountain_{:.key} <br>
 Afton | VA //  <br>
 {: .brewery #bluemountain }
 
@@ -681,6 +831,12 @@ Afton | VA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -690,26 +846,32 @@ Afton | VA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(4)_{:.count}
 
 
- Foothills Brewing   `#foothills`{:.key} <br>
+ Foothills Brewing   _#foothills_{:.key} <br>
 Winston-Salem | NC //  <br>
 {: .brewery #foothills }
 
 
- Highland Brewing Co. • Highland Brewing Company   `#highland`{:.key} <br>
+ Highland Brewing Co. • Highland Brewing Company   _#highland_{:.key} <br>
 Asheville | NC //  <br>
 {: .brewery #highland }
 
 
- Mother Earth Brewing   `#motherearth`{:.key} <br>
+ Mother Earth Brewing   _#motherearth_{:.key} <br>
 Kinston | NC //  <br>
 {: .brewery #motherearth }
 
 
- The Duck-Rabbit Craft Brewery   `#duckrabbit`{:.key} <br>
+ The Duck-Rabbit Craft Brewery   _#duckrabbit_{:.key} <br>
 Farmville | NC //  <br>
 {: .brewery #duckrabbit }
 
@@ -722,16 +884,22 @@ Farmville | NC //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Westbrook Brewing Co.   `#westbrook`{:.key} <br>
+ Westbrook Brewing Co.   _#westbrook_{:.key} <br>
 Mt Pleasant | SC //  <br>
 {: .brewery #westbrook }
 
 
- RJ Rockers Brewing Co. • RJ Rockers Brewing Company   `#rjrockers`{:.key} <br>
+ RJ Rockers Brewing Co. • RJ Rockers Brewing Company   _#rjrockers_{:.key} <br>
 Spartanburg | SC //  <br>
 {: .brewery #rjrockers }
 
@@ -744,16 +912,22 @@ Spartanburg | SC //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Terrapin Beer Co. • Terrapin Beer Company   `#terrapin`{:.key} <br>
+ Terrapin Beer Co. • Terrapin Beer Company   _#terrapin_{:.key} <br>
 Athens | GA //  <br>
 {: .brewery #terrapin }
 
 
- SweetWater Brewing Co. • SweetWater Brewing Company   `#sweetwater`{:.key} <br>
+ SweetWater Brewing Co. • SweetWater Brewing Company   _#sweetwater_{:.key} <br>
 Atlanta | GA //  <br>
 {: .brewery #sweetwater }
 
@@ -766,6 +940,12 @@ Atlanta | GA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -773,6 +953,12 @@ Atlanta | GA //  <br>
 {: #us-ky }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -784,6 +970,12 @@ Atlanta | GA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -791,6 +983,12 @@ Atlanta | GA //  <br>
 {: #us-ms }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -802,6 +1000,12 @@ Atlanta | GA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -811,11 +1015,17 @@ Atlanta | GA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Prairie Artisan Ales   `#prairieales`{:.key} <br>
+ Prairie Artisan Ales   _#prairieales_{:.key} <br>
 Tulsa | OK //  <br>
 {: .brewery #prairieales }
 
@@ -828,23 +1038,29 @@ Tulsa | OK //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(10)_{:.count}
 
 
- Real Ale   `#realale`{:.key} <br>
+ Real Ale   _#realale_{:.key} <br>
 {: .brewery #realale }
 
 
- Live Oak   `#liveoak`{:.key} <br>
+ Live Oak   _#liveoak_{:.key} <br>
 {: .brewery #liveoak }
 
 
- Pete's   `#petes`{:.key} <br>
+ Pete's   _#petes_{:.key} <br>
 {: .brewery #petes }
 
 
- Spoetzl Brewery  - 1909   `#spoetzl`{:.key} <br>
+ Spoetzl Brewery  - 1909   _#spoetzl_{:.key} <br>
 603 E Brewery St // Shiner, TX 77984  <br>
 [www.shiner.com](http://www.shiner.com)  <br>
 {: .brewery #spoetzl }
@@ -863,32 +1079,32 @@ Tulsa | OK //  <br>
 **Shiner Ruby Redbird** (4.01%) _seasonal summer_{:.tags} 
 {: .beers }
 
- Saint Arnold • Saint Arnold Brewing Co. • Saint Arnold Brewing Company   `#saintarnold`{:.key} <br>
+ Saint Arnold • Saint Arnold Brewing Co. • Saint Arnold Brewing Company   _#saintarnold_{:.key} <br>
 // Houston, TX  <br>
 {: .brewery #saintarnold }
 
 
- Karbach Brewing Co   `#karbach`{:.key} <br>
+ Karbach Brewing Co   _#karbach_{:.key} <br>
 // Houston, TX  <br>
 {: .brewery #karbach }
 
 
- Jester King Craft Brewery   `#jesterking`{:.key} <br>
+ Jester King Craft Brewery   _#jesterking_{:.key} <br>
 // Austin, TX  <br>
 {: .brewery #jesterking }
 
 
- Hops & Grain   `#hopsngrain`{:.key} <br>
+ Hops & Grain   _#hopsngrain_{:.key} <br>
 // Austin, TX  <br>
 {: .brewery #hopsngrain }
 
 
- 1512 Brewing Company   `#fifteentwelve`{:.key} <br>
+ 1512 Brewing Company   _#fifteentwelve_{:.key} <br>
 // Austin, TX  <br>
 {: .brewery #fifteentwelve }
 
 
- Deep Ellum Brewing Co. • Deep Ellum Brewing Company   `#deepellum`{:.key} <br>
+ Deep Ellum Brewing Co. • Deep Ellum Brewing Company   _#deepellum_{:.key} <br>
 // Dallas, TX  <br>
 {: .brewery #deepellum }
 
@@ -901,6 +1117,12 @@ Tulsa | OK //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -910,21 +1132,27 @@ Tulsa | OK //  <br>
 
 [New Orleans](#neworleans) • **Uncategorized** _(1)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### New Orleans   _pop 343.829_{:.pop}
 {: .city #neworleans }
 
 
 
- Dixie Brewing Co. • Dixie Brewing Company  - 1907   `#dixie`{:.key} <br>
+ Dixie Brewing Co. • Dixie Brewing Company  - 1907   _#dixie_{:.key} <br>
 New Orleans | LA 70119 // 2401 Tulane Ave. //  <br>
 {: .brewery #dixie }
+
+
+</div>
 
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Abita Brewing Co. • Abita Brewing Company   `#abita`{:.key} <br>
+ Abita Brewing Co. • Abita Brewing Company   _#abita_{:.key} <br>
 Abita Springs | LA //  <br>
 {: .brewery #abita }
 
@@ -937,11 +1165,17 @@ Abita Springs | LA //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Laughing Dog Brewing   `#laughingdog`{:.key} <br>
+ Laughing Dog Brewing   _#laughingdog_{:.key} <br>
 Ponderay | ID //  <br>
 {: .brewery #laughingdog }
 
@@ -954,11 +1188,17 @@ Ponderay | ID //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Big Sky Brewing Co. • Big Sky Brewing Company   `#bigsky`{:.key} <br>
+ Big Sky Brewing Co. • Big Sky Brewing Company   _#bigsky_{:.key} <br>
 Missoula | MT //  <br>
 {: .brewery #bigsky }
 
@@ -971,6 +1211,12 @@ Missoula | MT //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -978,6 +1224,12 @@ Missoula | MT //  <br>
 {: #us-nv }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -989,16 +1241,22 @@ Missoula | MT //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Uinta Brewing Co. • Uinta Brewingmpany   `#uinta`{:.key} <br>
+ Uinta Brewing Co. • Uinta Brewingmpany   _#uinta_{:.key} <br>
 Salt Lake City | UT //  <br>
 {: .brewery #uinta }
 
 
- Epic Brewing Co.   `#epic`{:.key} <br>
+ Epic Brewing Co.   _#epic_{:.key} <br>
 Salt Lake City | UT //  <br>
 {: .brewery #epic }
 
@@ -1011,86 +1269,92 @@ Salt Lake City | UT //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(16)_{:.count}
 
 
- Flying Dog   `#flyingdog`{:.key} <br>
+ Flying Dog   _#flyingdog_{:.key} <br>
 Frederick | MD //  <br>
 {: .brewery #flyingdog }
 
 
- Breckenridge • Breckenridge Brewery   `#breckenridge`{:.key} <br>
+ Breckenridge • Breckenridge Brewery   _#breckenridge_{:.key} <br>
 // Denver, CO  <br>
 {: .brewery #breckenridge }
 
 
- Great Divide • Great Divide Brewing Co. • Great Divide Brewing Company   `#greatdivide`{:.key} <br>
+ Great Divide • Great Divide Brewing Co. • Great Divide Brewing Company   _#greatdivide_{:.key} <br>
 // Denver, CO  <br>
 {: .brewery #greatdivide }
 
 
- Wynkoop   `#wynkoop`{:.key} <br>
+ Wynkoop   _#wynkoop_{:.key} <br>
 // Denver, CO  <br>
 {: .brewery #wynkoop }
 
 
- Crooked Stave Artisan Beer Project   `#crookedstave`{:.key} <br>
+ Crooked Stave Artisan Beer Project   _#crookedstave_{:.key} <br>
 // Denver, CO  <br>
 {: .brewery #crookedstave }
 
 
- Coors • Coors Brewing Co. • Coors Brewing Company   `#coors`{:.key} <br>
+ Coors • Coors Brewing Co. • Coors Brewing Company   _#coors_{:.key} <br>
 // Golden, CO  <br>
 {: .brewery #coors }
 
 **Coors Light** (4.2%) _lager lite_{:.tags} 
 {: .beers }
 
- New Belgium • New Belgium Brewing Co. • New Belgium Brewing Company   `#newbelgium`{:.key} <br>
+ New Belgium • New Belgium Brewing Co. • New Belgium Brewing Company   _#newbelgium_{:.key} <br>
 // Fort Collins, CO  <br>
 {: .brewery #newbelgium }
 
 
- Odell • Odell Brewing Co.   `#odell`{:.key} <br>
+ Odell • Odell Brewing Co.   _#odell_{:.key} <br>
 // Fort Collins, CO  <br>
 {: .brewery #odell }
 
 
- Oskar Blues • Oskar Blues Brewery   `#oskarblues`{:.key} <br>
+ Oskar Blues • Oskar Blues Brewery   _#oskarblues_{:.key} <br>
 // Longmont, CO  <br>
 {: .brewery #oskarblues }
 
 
- Left Hand • Left Hand Brewing Co. • Left Hand Brewing Company   `#lefthand`{:.key} <br>
+ Left Hand • Left Hand Brewing Co. • Left Hand Brewing Company   _#lefthand_{:.key} <br>
 // Longmont, CO  <br>
 {: .brewery #lefthand }
 
 
- Avery Brewing Co. • Avery Brewing Company   `#avery`{:.key} <br>
+ Avery Brewing Co. • Avery Brewing Company   _#avery_{:.key} <br>
 // Boulder, CO  <br>
 {: .brewery #avery }
 
 
- Boulder Beer Co. • Boulder Beer Company   `#boulder`{:.key} <br>
+ Boulder Beer Co. • Boulder Beer Company   _#boulder_{:.key} <br>
 // Boulder, CO  <br>
 {: .brewery #boulder }
 
 
- Tommyknocker   `#tommyknocker`{:.key} <br>
+ Tommyknocker   _#tommyknocker_{:.key} <br>
 {: .brewery #tommyknocker }
 
 
- Bristol   `#bristol`{:.key} <br>
+ Bristol   _#bristol_{:.key} <br>
 {: .brewery #bristol }
 
 
- Ska • Ska Brewing   `#ska`{:.key} <br>
+ Ska • Ska Brewing   _#ska_{:.key} <br>
 // Durango, CO  <br>
 {: .brewery #ska }
 
 
- Steamworks   `#steamworks`{:.key} <br>
+ Steamworks   _#steamworks_{:.key} <br>
 {: .brewery #steamworks }
 
 
@@ -1102,6 +1366,12 @@ Frederick | MD //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -1109,6 +1379,12 @@ Frederick | MD //  <br>
 {: #us-nm }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -1120,16 +1396,22 @@ Frederick | MD //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Alaskan Brewing Co. • Alaskan Brewery Company  - 1986   `#alaskan`{:.key} <br>
+ Alaskan Brewing Co. • Alaskan Brewery Company  - 1986   _#alaskan_{:.key} <br>
 Juneau, AK 99801-9540 // 5429 Shaune Dr.  <br>
 {: .brewery #alaskan }
 
 
- Midnight Sun   `#midnightsun`{:.key} <br>
+ Midnight Sun   _#midnightsun_{:.key} <br>
 {: .brewery #midnightsun }
 
 
@@ -1141,57 +1423,63 @@ Juneau, AK 99801-9540 // 5429 Shaune Dr.  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(11)_{:.count}
 
 
- Elysian   `#elysian`{:.key} <br>
+ Elysian   _#elysian_{:.key} <br>
 // Seattle, WA  <br>
 {: .brewery #elysian }
 
 
- Georgetown   `#georgetown`{:.key} <br>
+ Georgetown   _#georgetown_{:.key} <br>
 // Seattle, WA  <br>
 {: .brewery #georgetown }
 
 
- Hale's   `#hales`{:.key} <br>
+ Hale's   _#hales_{:.key} <br>
 // Seattle, WA  <br>
 {: .brewery #hales }
 
 
- Pike   `#pike`{:.key} <br>
+ Pike   _#pike_{:.key} <br>
 // Seattle, WA  <br>
 {: .brewery #pike }
 
 
- Pyramid Breweries   `#pyramid`{:.key} <br>
+ Pyramid Breweries   _#pyramid_{:.key} <br>
 // Seattle, WA  <br>
 {: .brewery #pyramid }
 
 
- Boundary Bay   `#boundarybay`{:.key} <br>
+ Boundary Bay   _#boundarybay_{:.key} <br>
 {: .brewery #boundarybay }
 
 
- Diamond Knot   `#diamondknot`{:.key} <br>
+ Diamond Knot   _#diamondknot_{:.key} <br>
 {: .brewery #diamondknot }
 
 
- Redhook • Redhook Ale Brewery   `#redhook`{:.key} <br>
+ Redhook • Redhook Ale Brewery   _#redhook_{:.key} <br>
 // Woodinville, WA  <br>
 {: .brewery #redhook }
 
 
- Mac & Jack's   `#macnjacks`{:.key} <br>
+ Mac & Jack's   _#macnjacks_{:.key} <br>
 {: .brewery #macnjacks }
 
 
- Fish   `#fish`{:.key} <br>
+ Fish   _#fish_{:.key} <br>
 {: .brewery #fish }
 
 
- No-Li Brewhouse   `#noli`{:.key} <br>
+ No-Li Brewhouse   _#noli_{:.key} <br>
 // Spokane, WA  <br>
 {: .brewery #noli }
 
@@ -1204,72 +1492,78 @@ Juneau, AK 99801-9540 // 5429 Shaune Dr.  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(14)_{:.count}
 
 
- Widmer • Widmer Brothers Brewing   `#widmer`{:.key} <br>
+ Widmer • Widmer Brothers Brewing   _#widmer_{:.key} <br>
 // Portland, OR  <br>
 {: .brewery #widmer }
 
 
- Bridgeport   `#bridgeport`{:.key} <br>
+ Bridgeport   _#bridgeport_{:.key} <br>
 // Portland, OR  <br>
 {: .brewery #bridgeport }
 
 
- Hair of the Dog   `#hairofthedog`{:.key} <br>
+ Hair of the Dog   _#hairofthedog_{:.key} <br>
 // Portland, OR  <br>
 {: .brewery #hairofthedog }
 
 
- Hopworks   `#hopworks`{:.key} <br>
+ Hopworks   _#hopworks_{:.key} <br>
 // Portland, OR  <br>
 {: .brewery #hopworks }
 
 
- Mactarnahan's   `#mactarnahans`{:.key} <br>
+ Mactarnahan's   _#mactarnahans_{:.key} <br>
 // Portland, OR  <br>
 {: .brewery #mactarnahans }
 
 
- Laurelwood • Laurelwood Brewing Co.   `#laurelwood`{:.key} <br>
+ Laurelwood • Laurelwood Brewing Co.   _#laurelwood_{:.key} <br>
 // Portland, OR  <br>
 {: .brewery #laurelwood }
 
 
- Pelican   `#pelican`{:.key} <br>
+ Pelican   _#pelican_{:.key} <br>
 {: .brewery #pelican }
 
 
- Rogue • Rogue Ales   `#rogue`{:.key} <br>
+ Rogue • Rogue Ales   _#rogue_{:.key} <br>
 Newport, OR //  <br>
 {: .brewery #rogue }
 
 
- Full Sail   `#fullsail`{:.key} <br>
+ Full Sail   _#fullsail_{:.key} <br>
 {: .brewery #fullsail }
 
 
- Terminal Gravity   `#terminalgravity`{:.key} <br>
+ Terminal Gravity   _#terminalgravity_{:.key} <br>
 {: .brewery #terminalgravity }
 
 
- Deschutes • Deschutes Brewery   `#deschutes`{:.key} <br>
+ Deschutes • Deschutes Brewery   _#deschutes_{:.key} <br>
 Bend, OR //  <br>
 {: .brewery #deschutes }
 
 
- Caldera   `#caldera`{:.key} <br>
+ Caldera   _#caldera_{:.key} <br>
 {: .brewery #caldera }
 
 
- Boneyard • Boneyard Beer Company   `#boneyard`{:.key} <br>
+ Boneyard • Boneyard Beer Company   _#boneyard_{:.key} <br>
 Bend, OR //  <br>
 {: .brewery #boneyard }
 
 
- Ninkasi • Ninkasi Brewing Co. • Ninkasi Brewing Company   `#ninkasi`{:.key} <br>
+ Ninkasi • Ninkasi Brewing Co. • Ninkasi Brewing Company   _#ninkasi_{:.key} <br>
 Eugene, OR //  <br>
 {: .brewery #ninkasi }
 
@@ -1282,36 +1576,42 @@ Eugene, OR //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(6)_{:.count}
 
 
- BJ's Brewhouse   `#bjsbrewhouse`{:.key} <br>
+ BJ's Brewhouse   _#bjsbrewhouse_{:.key} <br>
 // Huntington Beach, CA  <br>
 {: .brewery #bjsbrewhouse }
 
 
- The Bruery   `#thebruery`{:.key} <br>
+ The Bruery   _#thebruery_{:.key} <br>
 // Placentia, CA  <br>
 {: .brewery #thebruery }
 
 
- Knee Deep Brewing Co. • Knee Deep Brewing Company   `#kneedeep`{:.key} <br>
+ Knee Deep Brewing Co. • Knee Deep Brewing Company   _#kneedeep_{:.key} <br>
 // Lincoln, CA  <br>
 {: .brewery #kneedeep }
 
 
- Hangar 24 Craft Brewery   `#hangartwentyfour`{:.key} <br>
+ Hangar 24 Craft Brewery   _#hangartwentyfour_{:.key} <br>
 // Redlands, CA  <br>
 {: .brewery #hangartwentyfour }
 
 
- Bootlegger's Brewery   `#bootleggers`{:.key} <br>
+ Bootlegger's Brewery   _#bootleggers_{:.key} <br>
 // Fullerton, CA  <br>
 {: .brewery #bootleggers }
 
 
- Moylan's Brewery   `#moylans`{:.key} <br>
+ Moylan's Brewery   _#moylans_{:.key} <br>
 // Novato, CA  <br>
 {: .brewery #moylans }
 
@@ -1324,11 +1624,17 @@ Eugene, OR //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Kona Brewing Co. • Kona Brewing Company   `#kona`{:.key} <br>
+ Kona Brewing Co. • Kona Brewing Company   _#kona_{:.key} <br>
 // Honolulu, HI  <br>
 {: .brewery #kona }
 

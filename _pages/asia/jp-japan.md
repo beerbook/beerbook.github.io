@@ -38,20 +38,20 @@ permalink: /jp.html
 ### Uncategorized _(3)_{:.count}
 
 
- Asahi Breweries  - 1889   `#asahi`{:.key} <br>
+ Asahi Breweries  - 1889   _#asahi_{:.key} <br>
 {: .brewery #asahi }
 
 **Asahi** (5.0%) _lager_{:.tags}  • 
 **Asahi Black** (5.0%) _stout_{:.tags} 
 {: .beers }
 
- Sapporo Brewery  - 1876   `#sapporo`{:.key} <br>
+ Sapporo Brewery  - 1876   _#sapporo_{:.key} <br>
 {: .brewery #sapporo }
 
 **Sapporo Draft** (4.7%) _lager_{:.tags} 
 {: .beers }
 
- Kirin Brewery Co. • Kirin Brewery Company  - 1885   `#kirin`{:.key} <br>
+ Kirin Brewery Co. • Kirin Brewery Company  - 1885   _#kirin_{:.key} <br>
 {: .brewery #kirin }
 
 

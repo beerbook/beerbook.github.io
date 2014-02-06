@@ -53,6 +53,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -60,6 +66,12 @@ permalink: /fr.html
 {: #fr-ca }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -71,6 +83,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -78,6 +96,12 @@ permalink: /fr.html
 {: #fr-hn }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -89,6 +113,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -96,6 +126,12 @@ permalink: /fr.html
 {: #fr-bn }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -107,6 +143,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -114,6 +156,12 @@ permalink: /fr.html
 {: #fr-nc }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -125,6 +173,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -132,6 +186,12 @@ permalink: /fr.html
 {: #fr-al }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -143,6 +203,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -150,6 +216,12 @@ permalink: /fr.html
 {: #fr-pl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -161,6 +233,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -168,6 +246,12 @@ permalink: /fr.html
 {: #fr-pc }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -179,6 +263,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -186,6 +276,12 @@ permalink: /fr.html
 {: #fr-mp }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -197,6 +293,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -204,6 +306,12 @@ permalink: /fr.html
 {: #fr-ra }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -215,6 +323,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -224,6 +338,12 @@ permalink: /fr.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -231,6 +351,12 @@ permalink: /fr.html
 {: #fr-cr }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

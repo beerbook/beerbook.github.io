@@ -14,7 +14,7 @@ permalink: /ro.html
 ### Uncategorized _(4)_{:.count}
 
 
- Heineken Romania  - 1998  _heineken_{:.tags} `#heinekenro`{:.key} <br>
+ Heineken Romania  - 1998  _heineken_{:.tags} _#heinekenro_{:.key} <br>
 [www.heinekenromania.ro](http://www.heinekenromania.ro)  <br>
 {: .brewery #heinekenro }
 
@@ -29,7 +29,7 @@ permalink: /ro.html
 **Hategana** (4.5%) _pale lager_{:.tags} 
 {: .beers }
 
- Ursus Breweries  _sabmiller_{:.tags} `#ursus`{:.key} <br>
+ Ursus Breweries  _sabmiller_{:.tags} _#ursus_{:.key} <br>
 [www.ursus-breweries.ro](http://www.ursus-breweries.ro)  <br>
 {: .brewery #ursus }
 
@@ -43,7 +43,7 @@ permalink: /ro.html
 **Ciucaș** (4.6%, 10.6°)  
 {: .beers }
 
- Bergenbier • Bergenbier S.A.  - 1994  _molsoncoors_{:.tags} `#bergenbier`{:.key} <br>
+ Bergenbier • Bergenbier S.A.  - 1994  _molsoncoors_{:.tags} _#bergenbier_{:.key} <br>
 {: .brewery #bergenbier }
 
 **‹Bergenbier›** (5.0%, 11.0°) _pale lager_{:.tags}  • 
@@ -51,7 +51,7 @@ permalink: /ro.html
 **Noroc (Blondă)** (4.5%, 10.2°) _blonde pale lager_{:.tags} 
 {: .beers }
 
- Romaqua Group Borsec  - 1999   `#romaqua`{:.key} <br>
+ Romaqua Group Borsec  - 1999   _#romaqua_{:.key} <br>
 [www.romaqua-group.ro](http://www.romaqua-group.ro)  <br>
 {: .brewery #romaqua }
 
@@ -67,6 +67,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -74,6 +80,12 @@ permalink: /ro.html
 {: #ro-bn }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -85,6 +97,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -92,6 +110,12 @@ permalink: /ro.html
 {: #ro-mm }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -103,6 +127,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -110,6 +140,12 @@ permalink: /ro.html
 {: #ro-sj }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -121,6 +157,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -128,6 +170,12 @@ permalink: /ro.html
 {: #ro-bv }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -139,6 +187,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -146,6 +200,12 @@ permalink: /ro.html
 {: #ro-hr }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -157,6 +217,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -164,6 +230,12 @@ permalink: /ro.html
 {: #ro-sb }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -175,6 +247,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -182,6 +260,12 @@ permalink: /ro.html
 {: #ro-bt }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -193,6 +277,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -200,6 +290,12 @@ permalink: /ro.html
 {: #ro-nt }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -211,6 +307,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -218,6 +320,12 @@ permalink: /ro.html
 {: #ro-vs }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -229,6 +337,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -236,6 +350,12 @@ permalink: /ro.html
 {: #ro-bz }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -247,6 +367,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -254,6 +380,12 @@ permalink: /ro.html
 {: #ro-gl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -265,6 +397,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -272,6 +410,12 @@ permalink: /ro.html
 {: #ro-vn }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -283,6 +427,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -290,6 +440,12 @@ permalink: /ro.html
 {: #ro-cl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -301,6 +457,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -308,6 +470,12 @@ permalink: /ro.html
 {: #ro-gr }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -319,6 +487,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -326,6 +500,12 @@ permalink: /ro.html
 {: #ro-ph }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -337,6 +517,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -344,6 +530,12 @@ permalink: /ro.html
 {: #ro-bb }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -355,6 +547,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -362,6 +560,12 @@ permalink: /ro.html
 {: #ro-dj }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -373,6 +577,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -380,6 +590,12 @@ permalink: /ro.html
 {: #ro-mh }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -391,6 +607,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -398,6 +620,12 @@ permalink: /ro.html
 {: #ro-vl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -409,6 +637,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -416,6 +650,12 @@ permalink: /ro.html
 {: #ro-cs }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -427,6 +667,12 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -436,17 +682,23 @@ permalink: /ro.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Timișoara  
 {: .city #timisoara }
 
 
 
- Berarium / Clinica de Bere  - 2011   `#berarium`{:.key} <br>
+ Berarium / Clinica de Bere  - 2011   _#berarium_{:.key} <br>
 {: .brewery #berarium }
 
 **Terapia Platin**  _weizen_{:.tags}  • 
 **Terapia Gold**  _golden ale ale_{:.tags} 
 {: .beers }
+
+</div>
+
 
 
 

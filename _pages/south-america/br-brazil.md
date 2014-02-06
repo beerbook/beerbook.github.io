@@ -31,6 +31,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -38,6 +44,12 @@ permalink: /br.html
 {: #br-am }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -49,6 +61,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -56,6 +74,12 @@ permalink: /br.html
 {: #br-pa }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -67,6 +91,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -74,6 +104,12 @@ permalink: /br.html
 {: #br-rr }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -85,6 +121,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -92,6 +134,12 @@ permalink: /br.html
 {: #br-al }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -103,6 +151,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -110,6 +164,12 @@ permalink: /br.html
 {: #br-ce }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -121,6 +181,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -128,6 +194,12 @@ permalink: /br.html
 {: #br-pb }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -139,6 +211,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -146,6 +224,12 @@ permalink: /br.html
 {: #br-pi }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -157,6 +241,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -164,6 +254,12 @@ permalink: /br.html
 {: #br-se }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -175,6 +271,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -182,6 +284,12 @@ permalink: /br.html
 {: #br-go }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -193,6 +301,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -200,6 +314,12 @@ permalink: /br.html
 {: #br-ms }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -211,6 +331,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -218,6 +344,12 @@ permalink: /br.html
 {: #br-mg }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -229,6 +361,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -236,6 +374,12 @@ permalink: /br.html
 {: #br-sp }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -247,6 +391,12 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -256,11 +406,17 @@ permalink: /br.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Cervejaria Brahma • Companhia Cervejaria Brahma  - 1888  _ab inbev_{:.tags} `#brahma`{:.key} <br>
+ Cervejaria Brahma • Companhia Cervejaria Brahma  - 1888  _ab inbev_{:.tags} _#brahma_{:.key} <br>
 {: .brewery #brahma }
 
 **‹Brahma›** (5.0%) _pale lager_{:.tags} 
@@ -272,6 +428,12 @@ permalink: /br.html
 {: #br-sc }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

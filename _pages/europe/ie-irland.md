@@ -24,7 +24,7 @@ permalink: /ie.html
 ### Uncategorized _(1)_{:.count}
 
 
- The Porterhouse Brewing Co.  - 1996   `#porterhouse`{:.key} <br>
+ The Porterhouse Brewing Co.  - 1996   _#porterhouse_{:.key} <br>
 Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 [www.porterhousebrewco.com](http://www.porterhousebrewco.com)  <br>
 {: .brewery #porterhouse }
@@ -38,6 +38,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -45,6 +51,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 {: #ie-lm }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -56,6 +68,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -63,6 +81,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 {: #ie-cn }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -74,6 +98,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -81,6 +111,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 {: #ie-mn }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -92,6 +128,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -99,6 +141,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 {: #ie-ld }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -110,6 +158,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -117,6 +171,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 {: #ie-wh }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -128,6 +188,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -135,6 +201,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 {: #ie-mo }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -146,6 +218,12 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -155,15 +233,21 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Dublin   _pop 1.110.627 (1.801.040)_{:.pop}
 {: .city #dublin }
 
 
 
- St. James's Gate Brewery / Guinness Brewery • Arthur Guinness Son & Co.  - 1759  _diageo_{:.tags} `#guinness`{:.key} <br>
+ St. James's Gate Brewery / Guinness Brewery • Arthur Guinness Son & Co.  - 1759  _diageo_{:.tags} _#guinness_{:.key} <br>
 Saint James's Gate // Dublin 8  <br>
 [www.guinness.com](http://www.guinness.com)  <br>
 {: .brewery #guinness }
+
+
+</div>
 
 
 
@@ -175,6 +259,12 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -182,6 +272,12 @@ Saint James's Gate // Dublin 8  <br>
 {: #ie-tn }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -193,6 +289,12 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -200,6 +302,12 @@ Saint James's Gate // Dublin 8  <br>
 {: #ie-ce }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -211,6 +319,12 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -218,6 +332,12 @@ Saint James's Gate // Dublin 8  <br>
 {: #ie-mh }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -229,6 +349,12 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -236,6 +362,12 @@ Saint James's Gate // Dublin 8  <br>
 {: #ie-wx }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -247,18 +379,24 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Kilkenny  
 {: .city #kilkenny }
 
 
 
- St. Francis Abbey Brewery • E. Smithwick and Sons Ltd.  - 1710  _diageo guinness_{:.tags} `#kilkenny`{:.key} <br>
+ St. Francis Abbey Brewery • E. Smithwick and Sons Ltd.  - 1710  _diageo guinness_{:.tags} _#kilkenny_{:.key} <br>
 Parliament St // Kilkenny  <br>
 {: .brewery #kilkenny }
 
 **Kilkenny** (4.3%) _irish red ale red ale ale_{:.tags}  • 
 **Smithwick's** (4.5%) _irish red ale red ale ale_{:.tags} 
 {: .beers }
+
+</div>
+
 
 
 
@@ -267,6 +405,12 @@ Parliament St // Kilkenny  <br>
 {: #ie-cw }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -278,6 +422,12 @@ Parliament St // Kilkenny  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -287,12 +437,15 @@ Parliament St // Kilkenny  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Cork   _pop 198.582_{:.pop}
 {: .city #cork }
 
 
 
- Murphy Brewery  - 1856  _heineken_{:.tags} `#murphy`{:.key} <br>
+ Murphy Brewery  - 1856  _heineken_{:.tags} _#murphy_{:.key} <br>
 Lady's Well // Leitrim St. // Cork  <br>
 [www.murphys.com](http://www.murphys.com)  <br>
 {: .brewery #murphy }
@@ -301,6 +454,9 @@ Lady's Well // Leitrim St. // Cork  <br>
 **Murphy's Irish Stout** (4.3%) _irish dry stout dry stout stout_{:.tags} 
 {: .beers }
 
+</div>
+
+
 
 
 
@@ -308,6 +464,12 @@ Lady's Well // Leitrim St. // Cork  <br>
 {: #ie-ky }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

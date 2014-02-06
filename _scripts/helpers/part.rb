@@ -85,7 +85,7 @@ def render_beer_idx( beer, opts={} )
   render_erb_template( tmpl, binding )
 end
 
-def render_brand_idx( beer, opts={} )
+def render_brand_idx( brand, opts={} )
   tmpl       = File.read_utf8( '_templates/shared/_brand-idx.md.erb' )
   render_erb_template( tmpl, binding )
 end

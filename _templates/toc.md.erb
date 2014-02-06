@@ -30,7 +30,9 @@
 #### {{ continent.title }}
 {: #{{ urlify( continent.title ) }} }
 
+  {{ columns_begin( columns: 2 ) }}
   {{ render_toc_countries( continent.countries.order(:title), opts ) }}
+  {{ columns_end() }}
 
 {% end %}<!-- each continent -->
 

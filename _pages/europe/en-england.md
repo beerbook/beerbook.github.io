@@ -24,6 +24,12 @@ permalink: /en.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -31,6 +37,12 @@ permalink: /en.html
 {: #en-nw }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -42,6 +54,12 @@ permalink: /en.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -49,6 +67,12 @@ permalink: /en.html
 {: #en-em }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -60,6 +84,12 @@ permalink: /en.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -67,6 +97,12 @@ permalink: /en.html
 {: #en-ee }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -78,12 +114,15 @@ permalink: /en.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### London   _pop 7.619.800 (8.586.000)_{:.pop}
 {: .city #london }
 
 
 
- Fuller, Smith & Turner  - 1845   `#fuller`{:.key} <br>
+ Fuller, Smith & Turner  - 1845   _#fuller_{:.key} <br>
 The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
 {: .brewery #fuller }
 
@@ -96,6 +135,9 @@ The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
 **‹Fuller's› 1845** (6.3%) _english strong ale strong ale_{:.tags} 
 {: .beers }
 
+</div>
+
+
 
 
 
@@ -105,6 +147,12 @@ The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -112,6 +160,12 @@ The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
 {: #en-sw }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

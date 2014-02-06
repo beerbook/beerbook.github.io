@@ -47,21 +47,27 @@ permalink: /au.html
 
 [Sydney](#sydney) • **Uncategorized** _(1)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Sydney   _pop 3.908.642 (4.605.992)_{:.pop}
 {: .city #sydney }
 
 
 
- Hahn Brewery  - 1986   `#hahn`{:.key} <br>
+ Hahn Brewery  - 1986   _#hahn_{:.key} <br>
 Camperdown //  <br>
 {: .brewery #hahn }
+
+
+</div>
 
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Tooheys  - 1869   `#tooheys`{:.key} <br>
+ Tooheys  - 1869   _#tooheys_{:.key} <br>
 {: .brewery #tooheys }
 
 
@@ -73,22 +79,28 @@ Camperdown //  <br>
 
 [Brisbane](#brisbane) • **Uncategorized** _(1)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Brisbane   _pop 1.874.427 (2.146.577)_{:.pop}
 {: .city #brisbane }
 
 
 
- Castlemaine Perkins  - 1878   `#castlemaine`{:.key} <br>
+ Castlemaine Perkins  - 1878   _#castlemaine_{:.key} <br>
 {: .brewery #castlemaine }
 
 **XXXX**  _lager_{:.tags} 
 {: .beers }
 
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Burleigh Brewing Company  - 2006   `#burleigh`{:.key} <br>
+ Burleigh Brewing Company  - 2006   _#burleigh_{:.key} <br>
 {: .brewery #burleigh }
 
 
@@ -100,12 +112,15 @@ Camperdown //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Adelaide _(2)_{:.count}  _pop 1.103.979 (1.262.940)_{:.pop}
 {: .city #adelaide }
 
 
 
- Coopers Brewery  - 1862   `#coopers`{:.key} <br>
+ Coopers Brewery  - 1862   _#coopers_{:.key} <br>
 Regency Park //  <br>
 {: .brewery #coopers }
 
@@ -121,9 +136,12 @@ Regency Park //  <br>
 **Coopers Extra Strong Vintage Ale** (7.5%) _strong ale_{:.tags} 
 {: .beers }
 
- South Australian Brewing Co. • South Australian Brewing Company  - 1859   `#sa`{:.key} <br>
+ South Australian Brewing Co. • South Australian Brewing Company  - 1859   _#sa_{:.key} <br>
 Thebarton //  <br>
 {: .brewery #sa }
+
+
+</div>
 
 
 
@@ -135,12 +153,15 @@ Thebarton //  <br>
 
 [Hobart](#hobart) • [Launceston](#launceston)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Hobart   _pop 170.975 (216.276)_{:.pop}
 {: .city #hobart }
 
 
 
- Cascade Brewery  - 1824   `#cascade`{:.key} <br>
+ Cascade Brewery  - 1824   _#cascade_{:.key} <br>
 {: .brewery #cascade }
 
 **Cascade Premium Lager**  _lager_{:.tags}  • 
@@ -158,8 +179,11 @@ Thebarton //  <br>
 
 
 
- J. Boag & Sons  - 1883   `#boags`{:.key} <br>
+ J. Boag & Sons  - 1883   _#boags_{:.key} <br>
 {: .brewery #boags }
+
+
+</div>
 
 
 
@@ -171,12 +195,15 @@ Thebarton //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Melbourne   _pop 3.707.530 (4.169.103)_{:.pop}
 {: .city #melbourne }
 
 
 
- Carlton and United Breweries  - 1907   `#carlton`{:.key} <br>
+ Carlton and United Breweries  - 1907   _#carlton_{:.key} <br>
 Abbotsford //  <br>
 {: .brewery #carlton }
 
@@ -185,6 +212,9 @@ Abbotsford //  <br>
 **Carlton Draught** (4.6%) _pale lager pils_{:.tags}  • 
 **Pure Blonde** (4.6%) _low carbohydrate lager lite_{:.tags} 
 {: .beers }
+
+</div>
+
 
 
 
@@ -195,25 +225,31 @@ Abbotsford //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(4)_{:.count}
 
 
- Swan Brewery  - 1837   `#swan`{:.key} <br>
+ Swan Brewery  - 1837   _#swan_{:.key} <br>
 {: .brewery #swan }
 
 
- Bluetongue Brewery  - 2003   `#bluetongue`{:.key} <br>
+ Bluetongue Brewery  - 2003   _#bluetongue_{:.key} <br>
 {: .brewery #bluetongue }
 
 **Bluetongue Traditional Pilsner** (5.8%) _pils_{:.tags} 
 {: .beers }
 
- Bootleg Brewery  - 1994   `#bootleg`{:.key} <br>
+ Bootleg Brewery  - 1994   _#bootleg_{:.key} <br>
 {: .brewery #bootleg }
 
 
- Little Creatures Brewery  - 2000   `#creatures`{:.key} <br>
+ Little Creatures Brewery  - 2000   _#creatures_{:.key} <br>
 {: .brewery #creatures }
 
 **Little Creatures Pale Ale** (5.2%) _pale ale_{:.tags}  • 
@@ -228,6 +264,12 @@ Abbotsford //  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -235,6 +277,12 @@ Abbotsford //  <br>
 {: #au-nt }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

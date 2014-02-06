@@ -25,6 +25,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -32,6 +38,12 @@ permalink: /bg.html
 {: #bg-sf }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -43,6 +55,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -50,6 +68,12 @@ permalink: /bg.html
 {: #bg-pe }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -61,6 +85,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -68,6 +98,12 @@ permalink: /bg.html
 {: #bg-pv }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -79,6 +115,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -86,6 +128,12 @@ permalink: /bg.html
 {: #bg-pa }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -97,6 +145,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -104,6 +158,12 @@ permalink: /bg.html
 {: #bg-ka }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -115,6 +175,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -122,6 +188,12 @@ permalink: /bg.html
 {: #bg-mo }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -133,6 +205,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -140,6 +218,12 @@ permalink: /bg.html
 {: #bg-pl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -151,6 +235,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -158,6 +248,12 @@ permalink: /bg.html
 {: #bg-ve }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -169,6 +265,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -176,6 +278,12 @@ permalink: /bg.html
 {: #bg-ru }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -187,6 +295,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -194,6 +308,12 @@ permalink: /bg.html
 {: #bg-si }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -205,6 +325,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -212,6 +338,12 @@ permalink: /bg.html
 {: #bg-do }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -223,6 +355,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -230,6 +368,12 @@ permalink: /bg.html
 {: #bg-ta }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -241,6 +385,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -248,6 +398,12 @@ permalink: /bg.html
 {: #bg-sl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -259,6 +415,12 @@ permalink: /bg.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -266,6 +428,12 @@ permalink: /bg.html
 {: #bg-sz }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

@@ -41,20 +41,26 @@ permalink: /cz.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Praha [Prague] _(2)_{:.count}  _pop 1.290.846 (1.265.000)_{:.pop}
 {: .city #praha }
 
 
 
- Pivovary Staropramen [Staropramen Brewery]  - 1869   `#staropramen`{:.key} <br>
+ Pivovary Staropramen [Staropramen Brewery]  - 1869   _#staropramen_{:.key} <br>
 Nádražní 84 // 150 54  Praha 5 - Smíchov, abinbev  <br>
 [www.staropramen.cz](http://www.staropramen.cz)  <br>
 {: .brewery #staropramen }
 
 
- Pivovar Braník  - 1899   `#branik`{:.key} <br>
+ Pivovar Braník  - 1899   _#branik_{:.key} <br>
 Údolní 212/1 // 147 00 Praha 4 - Braník  <br>
 {: .brewery #branik }
+
+
+</div>
 
 
 
@@ -66,11 +72,17 @@ Nádražní 84 // 150 54  Praha 5 - Smíchov, abinbev  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(6)_{:.count}
 
 
- Pivovar Velké Popovice  - 1874  _sabmiller_{:.tags} `#kozel`{:.key} <br>
+ Pivovar Velké Popovice  - 1874  _sabmiller_{:.tags} _#kozel_{:.key} <br>
 Ringhofferova 1 // 251 69  Velké Popovice  <br>
 [www.beer-kozel.cz](http://www.beer-kozel.cz)  <br>
 {: .brewery #kozel }
@@ -81,7 +93,7 @@ Ringhofferova 1 // 251 69  Velké Popovice  <br>
 **Kozel Černý [Dark Lager]** (3.8%, 10.0°) _dark munich dunkel lager_{:.tags} 
 {: .beers }
 
- Královský Pivovar Krušovice  - 1581  _heineken_{:.tags} `#krusovice`{:.key} <br>
+ Královský Pivovar Krušovice  - 1581  _heineken_{:.tags} _#krusovice_{:.key} <br>
 270 53 Krušovice //  <br>
 [www.krusovice.cz](http://www.krusovice.cz)  <br>
 {: .brewery #krusovice }
@@ -93,24 +105,24 @@ Ringhofferova 1 // 251 69  Velké Popovice  <br>
 **Krušovice Malvaz 13°**   
 {: .beers }
 
- Pivovar Kutná Hora  - 1573  _heineken_{:.tags} `#kutnahora`{:.key} <br>
+ Pivovar Kutná Hora  - 1573  _heineken_{:.tags} _#kutnahora_{:.key} <br>
 U Lorce 11 // 284 15 Kutná Hora  <br>
 {: .brewery #kutnahora }
 
 
- Pivovar Nymburk  - 1895   `#nymburk`{:.key} <br>
+ Pivovar Nymburk  - 1895   _#nymburk_{:.key} <br>
 Pražská 581 // 288 25  Nymburk  <br>
 [www.postriziny.cz](http://www.postriziny.cz)  <br>
 {: .brewery #nymburk }
 
 
- Lobkowiczký Pivovar Vysoký Chlumec  - 1466   `#lobkowiczky`{:.key} <br>
+ Lobkowiczký Pivovar Vysoký Chlumec  - 1466   _#lobkowiczky_{:.key} <br>
 Vysoký Chlumec // 262 52  Vysoký Chlumec  <br>
 [www.lobkowicz.cz](http://www.lobkowicz.cz)  <br>
 {: .brewery #lobkowiczky }
 
 
- Pivovar Klášter (Pivovary Lobkowicz)  - 1570   `#klaster`{:.key} <br>
+ Pivovar Klášter (Pivovary Lobkowicz)  - 1570   _#klaster_{:.key} <br>
 294 15 Klášter Hradiště nad Jizerou //  <br>
 [www.pivovarklaster.cz](http://www.pivovarklaster.cz)  <br>
 {: .brewery #klaster }
@@ -124,28 +136,34 @@ Vysoký Chlumec // 262 52  Vysoký Chlumec  <br>
 
 [Budějovice [Budweis]](#budejovice) • **Uncategorized** _(5)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Budějovice [Budweis]   _pop 93.883_{:.pop}
 {: .city #budejovice }
 
 
 
- Budějovický Budvar [Budweiser Budvar Brewery]  - 1895   `#budweiser`{:.key} <br>
+ Budějovický Budvar [Budweiser Budvar Brewery]  - 1895   _#budweiser_{:.key} <br>
 Karoliny Světlé 4 // 370 21  České Budějovice  <br>
 [www.budvar.cz](http://www.budvar.cz)  <br>
 {: .brewery #budweiser }
+
+
+</div>
 
 
 
 ##### Uncategorized _(5)_{:.count}
 
 
- Budějovický Měšťanský Pivovar  - 1795   `#samson`{:.key} <br>
+ Budějovický Měšťanský Pivovar  - 1795   _#samson_{:.key} <br>
 37054 České Budějovice // Lidická 458/51  <br>
 [www.samson.cz](http://www.samson.cz)  <br>
 {: .brewery #samson }
 
 
- Pivovar Eggenberg  - 1560   `#eggenberg`{:.key} <br>
+ Pivovar Eggenberg  - 1560   _#eggenberg_{:.key} <br>
 Latrán 27 // 381 01  Český Krumlov  <br>
 [www.eggenberg.cz](http://www.eggenberg.cz)  <br>
 {: .brewery #eggenberg }
@@ -155,19 +173,19 @@ Latrán 27 // 381 01  Český Krumlov  <br>
 **Eggenberg Světlý Ležák** (5.0%, 12.0°) _pale lager_{:.tags} 
 {: .beers }
 
- Městský Pivovar Platan  - 1598   `#platan`{:.key} <br>
+ Městský Pivovar Platan  - 1598   _#platan_{:.key} <br>
 Pivovarská 168 // 389 12  Protivín  <br>
 [www.pivo-platan.cz](http://www.pivo-platan.cz)  <br>
 {: .brewery #platan }
 
 
- Bohemia Regent  - 1379   `#regent`{:.key} <br>
+ Bohemia Regent  - 1379   _#regent_{:.key} <br>
 Trocnovské nám. 124 // 379 14  Třeboň  <br>
 [www.pivovar-regent.cz](http://www.pivovar-regent.cz)  <br>
 {: .brewery #regent }
 
 
- Měšťanský Pivovar Strakonice  - 1649   `#strakonice`{:.key} <br>
+ Měšťanský Pivovar Strakonice  - 1649   _#strakonice_{:.key} <br>
 Podskalského 324 // 386 19  Strakonice  <br>
 [www.pivovar-strakonice.cz](http://www.pivovar-strakonice.cz)  <br>
 {: .brewery #strakonice }
@@ -181,18 +199,21 @@ Podskalského 324 // 386 19  Strakonice  <br>
 
 [Plzeň [Pilsen]](#plzen) _(2)_{:.count} • **Uncategorized** _(1)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Plzeň [Pilsen] _(2)_{:.count}  _pop 169.688_{:.pop}
 {: .city #plzen }
 
 
 
- Plzeňský Prazdroj [Pilsner Urquell Brewery]  - 1839  _sabmiller_{:.tags} `#pilsner`{:.key} <br>
+ Plzeňský Prazdroj [Pilsner Urquell Brewery]  - 1839  _sabmiller_{:.tags} _#pilsner_{:.key} <br>
 U Prazdroje 7 // 304 97  Plzeň  <br>
 [www.pilsner-urquell.cz](http://www.pilsner-urquell.cz)  <br>
 {: .brewery #pilsner }
 
 
- Pivovar Gambrinus  - 1869   `#gambrinus`{:.key} <br>
+ Pivovar Gambrinus  - 1869   _#gambrinus_{:.key} <br>
 U Prazdroje 7 // 304 97  Plzeň  <br>
 [www.gambrinus.cz](http://www.gambrinus.cz)  <br>
 {: .brewery #gambrinus }
@@ -204,11 +225,14 @@ U Prazdroje 7 // 304 97  Plzeň  <br>
 **Gambrinus Dry** (4.0%)  
 {: .beers }
 
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Chodovar  - 1573   `#chodovar`{:.key} <br>
+ Chodovar  - 1573   _#chodovar_{:.key} <br>
 Pivovarská 107 // 348 13  Chodová Planá  <br>
 [www.chodovar.cz](http://www.chodovar.cz)  <br>
 {: .brewery #chodovar }
@@ -228,11 +252,17 @@ Pivovarská 107 // 348 13  Chodová Planá  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(4)_{:.count}
 
 
- Pivovar Broumov  - 1348   `#broumov`{:.key} <br>
+ Pivovar Broumov  - 1348   _#broumov_{:.key} <br>
 Tř.Osvobození 55 // 550 11  Broumov-Olivětín  <br>
 [www.pivovarbroumov.cz](http://www.pivovarbroumov.cz)  <br>
 {: .brewery #broumov }
@@ -242,19 +272,19 @@ Tř.Osvobození 55 // 550 11  Broumov-Olivětín  <br>
 **Opat Tmavé Výčepní** (3.5%, 10.0°) _dark lager_{:.tags} 
 {: .beers }
 
- Pivovar Náchod  - 1872   `#nachod`{:.key} <br>
+ Pivovar Náchod  - 1872   _#nachod_{:.key} <br>
 Dobrošovská 130 // 547 40 Náchod  <br>
 [www.primator.cz](http://www.primator.cz)  <br>
 {: .brewery #nachod }
 
 
- Městský Pivovar Nová Paka  - 1872   `#novapaka`{:.key} <br>
+ Městský Pivovar Nová Paka  - 1872   _#novapaka_{:.key} <br>
 Pivovarská 400 // 509 01 Nová Paka  <br>
 [www.novopackepivo.cz](http://www.novopackepivo.cz)  <br>
 {: .brewery #novapaka }
 
 
- Pivovar Krakonoš Trutnov  - 1582   `#krakonos`{:.key} <br>
+ Pivovar Krakonoš Trutnov  - 1582   _#krakonos_{:.key} <br>
 Křižíkova 486 // 541 01  Trutnov  <br>
 [www.pivovar-krakonos.cz](http://www.pivovar-krakonos.cz)  <br>
 {: .brewery #krakonos }
@@ -268,11 +298,17 @@ Křižíkova 486 // 541 01  Trutnov  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(4)_{:.count}
 
 
- Pivovar Krásné Březno  - 1867  _heineken_{:.tags} `#krasnebrezno`{:.key} <br>
+ Pivovar Krásné Březno  - 1867  _heineken_{:.tags} _#krasnebrezno_{:.key} <br>
 Drážďanská 80 // 401 73  Ústí nad Labem  <br>
 [www.zlatopramen.cz](http://www.zlatopramen.cz)  <br>
 {: .brewery #krasnebrezno }
@@ -281,17 +317,17 @@ Drážďanská 80 // 401 73  Ústí nad Labem  <br>
 **Zlatopramen 11°** (4.7%, 11.0°) _pale lager_{:.tags} 
 {: .beers }
 
- Pivovar Velké Březno  - 1753  _heineken_{:.tags} `#velkebrezno`{:.key} <br>
+ Pivovar Velké Březno  - 1753  _heineken_{:.tags} _#velkebrezno_{:.key} <br>
 Pivovarská 116 // 403 23  Velké Březno  <br>
 {: .brewery #velkebrezno }
 
 
- Pivovar Louny  - 1892  _heineken_{:.tags} `#louny`{:.key} <br>
+ Pivovar Louny  - 1892  _heineken_{:.tags} _#louny_{:.key} <br>
 Říční 633 // 440 85 Louny  <br>
 {: .brewery #louny }
 
 
- Žatecký Pivovar  - 1801   `#zatecky`{:.key} <br>
+ Žatecký Pivovar  - 1801   _#zatecky_{:.key} <br>
 Žižkovo náměstí 81 // 438 01 Žatec  <br>
 [www.zateckypivovar.cz](http://www.zateckypivovar.cz)  <br>
 {: .brewery #zatecky }
@@ -305,17 +341,23 @@ Pivovarská 116 // 403 23  Velké Březno  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Pivovar Vratislavice  - 1872   `#vratislavice`{:.key} <br>
+ Pivovar Vratislavice  - 1872   _#vratislavice_{:.key} <br>
 Pivovarská 164 // 463 11  Liberec 30  <br>
 [www.pivo-konrad.cz](http://www.pivo-konrad.cz)  <br>
 {: .brewery #vratislavice }
 
 
- Pivovar Svijany  - 1564   `#svijany`{:.key} <br>
+ Pivovar Svijany  - 1564   _#svijany_{:.key} <br>
 Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 [www.pivovarsvijany.cz](http://www.pivovarsvijany.cz)  <br>
 {: .brewery #svijany }
@@ -329,6 +371,12 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -338,23 +386,29 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Pivovar Pardubice  - 1871   `#pardubice`{:.key} <br>
+ Pivovar Pardubice  - 1871   _#pardubice_{:.key} <br>
 Palackého 250 // 530 33  Pardubice  <br>
 [www.pernstejn.cz](http://www.pernstejn.cz)  <br>
 {: .brewery #pardubice }
 
 
- Měšťanský pivovar v Poličce  - 1517   `#policka`{:.key} <br>
+ Měšťanský pivovar v Poličce  - 1517   _#policka_{:.key} <br>
 Pivovarská 151 // 572 14  Polička  <br>
 [www.pivovar-policka.cz](http://www.pivovar-policka.cz)  <br>
 {: .brewery #policka }
 
 
- Pivovar Rychtář (Pivovary Lobkowicz)  - 1913   `#rychtar`{:.key} <br>
+ Pivovar Rychtář (Pivovary Lobkowicz)  - 1913   _#rychtar_{:.key} <br>
 Resslova 260 // 539 01  Hlinsko v Čechách  <br>
 [www.rychtar.cz](http://www.rychtar.cz)  <br>
 {: .brewery #rychtar }
@@ -368,22 +422,28 @@ Resslova 260 // 539 01  Hlinsko v Čechách  <br>
 
 [Brno](#brno) • **Uncategorized** _(3)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Brno   _pop 384.277_{:.pop}
 {: .city #brno }
 
 
 
- Pivovar Starobrno [Starobrno Brewery]  - 1872  _heineken_{:.tags} `#starobrno`{:.key} <br>
+ Pivovar Starobrno [Starobrno Brewery]  - 1872  _heineken_{:.tags} _#starobrno_{:.key} <br>
 Hlinky 12 // 661 47  Brno  <br>
 [www.starobrno.com](http://www.starobrno.com)  <br>
 {: .brewery #starobrno }
+
+
+</div>
 
 
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Pivovar Hostan  - 1363  _heineken_{:.tags} `#hostan`{:.key} <br>
+ Pivovar Hostan  - 1363  _heineken_{:.tags} _#hostan_{:.key} <br>
 Hradní 2 // 669 28  Znojmo  <br>
 [www.hostan.cz](http://www.hostan.cz)  <br>
 {: .brewery #hostan }
@@ -392,7 +452,7 @@ Hradní 2 // 669 28  Znojmo  <br>
 **Hostan Hradní** (4.7%, 11.0°) _pale lager_{:.tags} 
 {: .beers }
 
- Pivovar Černá Hora  - 1530   `#cernahora`{:.key} <br>
+ Pivovar Černá Hora  - 1530   _#cernahora_{:.key} <br>
 Černá Hora 3/5 // 679 21  Č. Hora  <br>
 [www.pivovarch.cz](http://www.pivovarch.cz)  <br>
 {: .brewery #cernahora }
@@ -400,7 +460,7 @@ Hradní 2 // 669 28  Znojmo  <br>
 **Černá Hora (Světlý) Ležák 12%** (4.8%, 12.0°) _pale lager_{:.tags} 
 {: .beers }
 
- Pivovar Vyškov  - 1680   `#vyskov`{:.key} <br>
+ Pivovar Vyškov  - 1680   _#vyskov_{:.key} <br>
 Čsl. armády 116/4 // 682 11  Vyškov  <br>
 [www.pivovyskov.cz](http://www.pivovyskov.cz)  <br>
 {: .brewery #vyskov }
@@ -414,11 +474,17 @@ Hradní 2 // 669 28  Znojmo  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Bernard Pivo  - 1551   `#bernard`{:.key} <br>
+ Bernard Pivo  - 1551   _#bernard_{:.key} <br>
 5. května 1 // 396 01  Humpolec  <br>
 [www.bernard.cz](http://www.bernard.cz)  <br>
 {: .brewery #bernard }
@@ -432,7 +498,7 @@ Hradní 2 // 669 28  Znojmo  <br>
 **Bernard Speciální Ležák 14% OX** (5.8%, 14.0°) _pale lager_{:.tags} 
 {: .beers }
 
- Měšťanský Pivovar Havlíčkův Brod  - 1834   `#havlickuvbrod`{:.key} <br>
+ Měšťanský Pivovar Havlíčkův Brod  - 1834   _#havlickuvbrod_{:.key} <br>
 Dobrovského 2027 // 580 01  Havlíčkův Brod  <br>
 [www.hbrebel.cz](http://www.hbrebel.cz)  <br>
 {: .brewery #havlickuvbrod }
@@ -443,7 +509,7 @@ Dobrovského 2027 // 580 01  Havlíčkův Brod  <br>
 **Rebel Tradiční** (3.9%, 10.0°) _pale lager_{:.tags} 
 {: .beers }
 
- Pivovar a sodovkárna Jihlava (Pivovary Lobkowicz)  - 1860   `#jihlava`{:.key} <br>
+ Pivovar a sodovkárna Jihlava (Pivovary Lobkowicz)  - 1860   _#jihlava_{:.key} <br>
 Vrchlického 2 // 586 01  Jihlava  <br>
 [www.pivovar-jihlava.cz](http://www.pivovar-jihlava.cz)  <br>
 {: .brewery #jihlava }
@@ -457,11 +523,17 @@ Vrchlického 2 // 586 01  Jihlava  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Pivovar Holba (PMS a.s. Přerov)  - 1874   `#holba`{:.key} <br>
+ Pivovar Holba (PMS a.s. Přerov)  - 1874   _#holba_{:.key} <br>
 Pivovarská 261 // 788 33 Hanušovice  <br>
 [www.holba.cz](http://www.holba.cz)  <br>
 {: .brewery #holba }
@@ -471,13 +543,13 @@ Pivovarská 261 // 788 33 Hanušovice  <br>
 **Holba Premium** (5.2%, 12.0°) _pale lager_{:.tags} 
 {: .beers }
 
- Pivovar Zubr (PMS a.s. Přerov)  - 1872   `#zubr`{:.key} <br>
+ Pivovar Zubr (PMS a.s. Přerov)  - 1872   _#zubr_{:.key} <br>
 Komenského 35 // 750 51 Přerov  <br>
 [www.zubr.cz](http://www.zubr.cz)  <br>
 {: .brewery #zubr }
 
 
- Pivovar Litovel (PMS a.s. Přerov)  - 1893   `#litovel`{:.key} <br>
+ Pivovar Litovel (PMS a.s. Přerov)  - 1893   _#litovel_{:.key} <br>
 Palackého 934 // 784 05  Litovel  <br>
 [www.litovel.cz](http://www.litovel.cz)  <br>
 {: .brewery #litovel }
@@ -491,11 +563,17 @@ Palackého 934 // 784 05  Litovel  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Pivovar Janáček (Pivovary Lobkowicz)  - 1894   `#janacek`{:.key} <br>
+ Pivovar Janáček (Pivovary Lobkowicz)  - 1894   _#janacek_{:.key} <br>
 Neradice 369 // 688 16 Uherský Brod  <br>
 [www.pivovar-janacek.cz](http://www.pivovar-janacek.cz)  <br>
 {: .brewery #janacek }
@@ -509,11 +587,17 @@ Neradice 369 // 688 16 Uherský Brod  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Pivovar Radegast  - 1970  _sabmiller_{:.tags} `#radegast`{:.key} <br>
+ Pivovar Radegast  - 1970  _sabmiller_{:.tags} _#radegast_{:.key} <br>
 Nošovice // 739 51  Nošovice  <br>
 [www.radegast.cz](http://www.radegast.cz)  <br>
 {: .brewery #radegast }
@@ -523,7 +607,7 @@ Nošovice // 739 51  Nošovice  <br>
 **Radegast Temně Hořký**   
 {: .beers }
 
- Pivovar Ostravar  - 1897   `#ostravar`{:.key} <br>
+ Pivovar Ostravar  - 1897   _#ostravar_{:.key} <br>
 Hornopolní 57 // 728 25  Ostrava 1  <br>
 [www.ostravar.cz](http://www.ostravar.cz)  <br>
 {: .brewery #ostravar }

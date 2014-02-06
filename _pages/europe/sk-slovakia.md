@@ -21,7 +21,7 @@ permalink: /sk.html
 ### Uncategorized _(15)_{:.count}
 
 
- Pivovar Šariš  - 1968   `#saris`{:.key} <br>
+ Pivovar Šariš  - 1968   _#saris_{:.key} <br>
 Pivovarská 9 // 082 21 Veľký Šariš  <br>
 [www.saris.sk](http://www.saris.sk)  <br>
 {: .brewery #saris }
@@ -31,13 +31,13 @@ Pivovarská 9 // 082 21 Veľký Šariš  <br>
 **‹Šariš› 11% Tmavý [Dark]** (11.0°)  
 {: .beers }
 
- Pivovary Topvar [Topvar Breweries]  - 1960  _sabmiller_{:.tags} `#topvar`{:.key} <br>
+ Pivovary Topvar [Topvar Breweries]  - 1960  _sabmiller_{:.tags} _#topvar_{:.key} <br>
 Krušovská 2092 // 955 14 Topoľčany  <br>
 [www.topvar.sk](http://www.topvar.sk)  <br>
 {: .brewery #topvar }
 
 
- Heineken Slovensko  _heineken_{:.tags} `#heinekensk`{:.key} <br>
+ Heineken Slovensko  _heineken_{:.tags} _#heinekensk_{:.key} <br>
 [www.heinekenslovensko.sk](http://www.heinekenslovensko.sk)  <br>
 {: .brewery #heinekensk }
 
@@ -47,7 +47,7 @@ Krušovská 2092 // 955 14 Topoľčany  <br>
 **‹Martiner› 10%** (10.0°)  
 {: .beers }
 
- Zlatý Bažant (Heineken Slovensko)  - 1967   `#zlatybazant`{:.key} <br>
+ Zlatý Bažant (Heineken Slovensko)  - 1967   _#zlatybazant_{:.key} <br>
 Novozámocká 2 // 947 12 Hurbanovo  <br>
 [www.zlatybazant.sk](http://www.zlatybazant.sk)  <br>
 {: .brewery #zlatybazant }
@@ -57,31 +57,31 @@ Novozámocká 2 // 947 12 Hurbanovo  <br>
 **‹Zlatý Bažant› Tmavé [Dark]** (3.8%, 10.0°) _dark_{:.tags} 
 {: .beers }
 
- Gemer Pivovar Rimavská Sobota (Heineken Slovensko)  - 1966   `#gemer`{:.key} <br>
+ Gemer Pivovar Rimavská Sobota (Heineken Slovensko)  - 1966   _#gemer_{:.key} <br>
 Cukrovarská 67/1 // 979 01  Rimavská Sobota  <br>
 {: .brewery #gemer }
 
 **‹Gemer› Standard**   
 {: .beers }
 
- Pivovar Corgoň (Heineken Slovensko)   `#corgon`{:.key} <br>
+ Pivovar Corgoň (Heineken Slovensko)   _#corgon_{:.key} <br>
 Štefánikova 79 // 949 40  Nitra  <br>
 [www.corgon.sk](http://www.corgon.sk)  <br>
 {: .brewery #corgon }
 
 
- Martiner (Heineken Slovensko)   `#martiner`{:.key} <br>
+ Martiner (Heineken Slovensko)   _#martiner_{:.key} <br>
 Hrdinov SNP 7 // 036 42 Martin  <br>
 {: .brewery #martiner }
 
 
- Pivovar Urpín  - 1971   `#urpin`{:.key} <br>
+ Pivovar Urpín  - 1971   _#urpin_{:.key} <br>
 Sládkovičova 37 // 974 05  Banská Bystrica  <br>
 [www.urpiner.eu](http://www.urpiner.eu)  <br>
 {: .brewery #urpin }
 
 
- Banskobystrický Pivovar   `#banskobystricky`{:.key} <br>
+ Banskobystrický Pivovar   _#banskobystricky_{:.key} <br>
 Sládkovičova 37 // 974 05  Banská Bystrica  <br>
 [www.pivovarbb.sk](http://www.pivovarbb.sk)  <br>
 {: .brewery #banskobystricky }
@@ -89,30 +89,30 @@ Sládkovičova 37 // 974 05  Banská Bystrica  <br>
 **‹Urpiner›**  _pale lager_{:.tags} 
 {: .beers }
 
- Pivovar Steiger [Steiger Brewery]  - 1473   `#steiger`{:.key} <br>
+ Pivovar Steiger [Steiger Brewery]  - 1473   _#steiger_{:.key} <br>
 Vyhne č.24 // 966 02  Vyhne  <br>
 [www.steiger.sk](http://www.steiger.sk)  <br>
 {: .brewery #steiger }
 
 
- Pivovar Stein [Stein Brewery]  - 1873   `#stein`{:.key} <br>
+ Pivovar Stein [Stein Brewery]  - 1873   _#stein_{:.key} <br>
 Blumentálska 19 // 816 13 Bratislava  <br>
 [www.stein.sk](http://www.stein.sk)  <br>
 {: .brewery #stein }
 
 
- Pivovar Poper  - 1604   `#poper`{:.key} <br>
+ Pivovar Poper  - 1604   _#poper_{:.key} <br>
 Sakalovej 158/39 // 014 24 Bytča  <br>
 [www.popper.sk](http://www.popper.sk)  <br>
 {: .brewery #poper }
 
 
- Pivovar Tatran  - 1812   `#tatran`{:.key} <br>
+ Pivovar Tatran  - 1812   _#tatran_{:.key} <br>
 Murgašova 1 // 058 80 Poprad  <br>
 {: .brewery #tatran }
 
 
- Pivovar Kaltenecker  - 1996   `#kaltenecker`{:.key} <br>
+ Pivovar Kaltenecker  - 1996   _#kaltenecker_{:.key} <br>
 Edelényska 2 // 048 01  Rožňava  <br>
 {: .brewery #kaltenecker }
 
@@ -120,7 +120,7 @@ Edelényska 2 // 048 01  Rožňava  <br>
 **Brokát Dark** (5.0%) _dunkel lager_{:.tags} 
 {: .beers }
 
- Prievalský Pivovar Sandorf  - 2011   `#prievaly`{:.key} <br>
+ Prievalský Pivovar Sandorf  - 2011   _#prievaly_{:.key} <br>
 Prievaly 79 // 906 34  Prievaly  <br>
 [www.sandorf.sk](http://www.sandorf.sk)  <br>
 {: .brewery #prievaly }
@@ -136,12 +136,15 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Bratislava   _pop 462.603_{:.pop}
 {: .city #bratislava }
 
 
 
- Minipivovar Richtár Jakub   `#richtarjakub`{:.key} <br>
+ Minipivovar Richtár Jakub   _#richtarjakub_{:.key} <br>
 81108 Bratislava 1 // Moskovská 16  <br>
 [www.richtarjakub.sk](http://www.richtarjakub.sk)  <br>
 {: .brewery #richtarjakub }
@@ -152,6 +155,9 @@ Prievaly 79 // 906 34  Prievaly  <br>
 **Katarína 13° (Tmavý ležiak)** (4.6%, 13.0°) _dark lager_{:.tags} 
 {: .beers }
 
+</div>
+
+
 
 
 
@@ -159,6 +165,12 @@ Prievaly 79 // 906 34  Prievaly  <br>
 {: #sk-ta }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -170,6 +182,12 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -177,6 +195,12 @@ Prievaly 79 // 906 34  Prievaly  <br>
 {: #sk-ni }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -188,6 +212,12 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -195,6 +225,12 @@ Prievaly 79 // 906 34  Prievaly  <br>
 {: #sk-bc }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -206,6 +242,12 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -213,6 +255,12 @@ Prievaly 79 // 906 34  Prievaly  <br>
 {: #sk-ki }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

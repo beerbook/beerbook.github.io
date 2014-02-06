@@ -58,11 +58,11 @@ permalink: /mx.html
 ### Uncategorized _(7)_{:.count}
 
 
- Microcervecería La Legendaria  - 2010   `#lalegendaria`{:.key} <br>
+ Microcervecería La Legendaria  - 2010   _#lalegendaria_{:.key} <br>
 {: .brewery #lalegendaria }
 
 
- Cervecera Mexicana   `#mexicana`{:.key} <br>
+ Cervecera Mexicana   _#mexicana_{:.key} <br>
 {: .brewery #mexicana }
 
 **Caballero Águila**    • 
@@ -71,16 +71,16 @@ permalink: /mx.html
 **Horus**   
 {: .beers }
 
- Cervecería La Brü   `#labrue`{:.key} <br>
+ Cervecería La Brü   _#labrue_{:.key} <br>
 {: .brewery #labrue }
 
 
- Cervecería Tepozteca   `#tepozteca`{:.key} <br>
+ Cervecería Tepozteca   _#tepozteca_{:.key} <br>
 [www.tepozteca.com](http://www.tepozteca.com)  <br>
 {: .brewery #tepozteca }
 
 
- Cerveza Afromestizo   `#afromestizo`{:.key} <br>
+ Cerveza Afromestizo   _#afromestizo_{:.key} <br>
 [www.afromestizo.com](http://www.afromestizo.com)  <br>
 {: .brewery #afromestizo }
 
@@ -91,7 +91,7 @@ permalink: /mx.html
 **Doña Amalia Jamaica**   
 {: .beers }
 
- Cerveza Dos Palomas   `#dospalomas`{:.key} <br>
+ Cerveza Dos Palomas   _#dospalomas_{:.key} <br>
 [www.cervezadospalomas.com](http://www.cervezadospalomas.com)  <br>
 {: .brewery #dospalomas }
 
@@ -101,7 +101,7 @@ permalink: /mx.html
 **Dos Palomas Porter**   
 {: .beers }
 
- Cerveceria Sileno   `#sileno`{:.key} <br>
+ Cerveceria Sileno   _#sileno_{:.key} <br>
 {: .brewery #sileno }
 
 **Wiesnbier**    • 
@@ -118,6 +118,12 @@ permalink: /mx.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -127,11 +133,17 @@ permalink: /mx.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(9)_{:.count}
 
 
- Cervecería Mexicali • Cervecería Mexicana   `#mexicali`{:.key} <br>
+ Cervecería Mexicali • Cervecería Mexicana   _#mexicali_{:.key} <br>
 // Ensenada | Baja California  <br>
 [www.mexicalibeer.com](http://www.mexicalibeer.com)  <br>
 {: .brewery #mexicali }
@@ -144,7 +156,7 @@ permalink: /mx.html
 **Trader José Dark Premium Lager**   
 {: .beers }
 
- Consorcio Cervecero de Baja California • T.J. Beer • Tijuana Beer  - 1996   `#tjbeer`{:.key} <br>
+ Consorcio Cervecero de Baja California • T.J. Beer • Tijuana Beer  - 1996   _#tjbeer_{:.key} <br>
 Blvd. Fundadores No. 2951, Col Juárez, CP. 22040 // Tijuana, B.C.  <br>
 [www.tjbeer.com](http://www.tjbeer.com)  <br>
 {: .brewery #tjbeer }
@@ -159,7 +171,7 @@ Blvd. Fundadores No. 2951, Col Juárez, CP. 22040 // Tijuana, B.C.  <br>
 **Tijuana Bronca Morena** (4.8%, 11.5°) _dark lager schwarzbier_{:.tags} 
 {: .beers }
 
- Cucapá • Cervecería Cucapá • Cucapá Brewing Co • Cervecería de Baja California  - 2002   `#cucapa`{:.key} <br>
+ Cucapá • Cervecería Cucapá • Cucapá Brewing Co • Cervecería de Baja California  - 2002   _#cucapa_{:.key} <br>
 Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 [www.cucapa.com](http://www.cucapa.com)  <br>
 {: .brewery #cucapa }
@@ -175,7 +187,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 **Cucapá Imperial Stout**   
 {: .beers }
 
- Cervecería Rámuri   `#ramuri`{:.key} <br>
+ Cervecería Rámuri   _#ramuri_{:.key} <br>
 [www.cervezaramuri.com](http://www.cervezaramuri.com)  <br>
 {: .brewery #ramuri }
 
@@ -187,14 +199,14 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 **Bucéfalo**  _imperial stout_{:.tags} 
 {: .beers }
 
- Ensenada Microbrewery   `#ensenada`{:.key} <br>
+ Ensenada Microbrewery   _#ensenada_{:.key} <br>
 {: .brewery #ensenada }
 
 **Ensenada Sweet Stout**    • 
 **Ensenada Pale Ale**   
 {: .beers }
 
- Canneria Cerveza  - 2010   `#canneria`{:.key} <br>
+ Canneria Cerveza  - 2010   _#canneria_{:.key} <br>
 [www.canneriacerveza.com.mx](http://www.canneriacerveza.com.mx)  <br>
 {: .brewery #canneria }
 
@@ -204,12 +216,12 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 **Canneria Cherry Lambic**   
 {: .beers }
 
- Cerveza Frontera   `#frontera`{:.key} <br>
+ Cerveza Frontera   _#frontera_{:.key} <br>
 [www.cervezafrontera.com.mx](http://www.cervezafrontera.com.mx)  <br>
 {: .brewery #frontera }
 
 
- Cervecería Calafia   `#calafia`{:.key} <br>
+ Cervecería Calafia   _#calafia_{:.key} <br>
 {: .brewery #calafia }
 
 **Calafia Golden Ale**    • 
@@ -218,7 +230,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 **Calafia IPA**   
 {: .beers }
 
- Cervecería Kudos   `#kudos`{:.key} <br>
+ Cervecería Kudos   _#kudos_{:.key} <br>
 {: .brewery #kudos }
 
 **Kudos Strawberry Wheat**    • 
@@ -235,11 +247,17 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Cervecería Baja Brewing Co • Baja Brewing • Cervecería de Los Cabos San Lucas   `#bajabrewing`{:.key} <br>
+ Cervecería Baja Brewing Co • Baja Brewing • Cervecería de Los Cabos San Lucas   _#bajabrewing_{:.key} <br>
 [www.bajabrewingcompany.com](http://www.bajabrewingcompany.com)  <br>
 {: .brewery #bajabrewing }
 
@@ -260,6 +278,12 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -267,6 +291,12 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 {: #mx-cs }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -278,6 +308,12 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -285,6 +321,12 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 {: #mx-co }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -296,6 +338,12 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -305,12 +353,15 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 [México](#mexico) • **Uncategorized** _(5)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### México   _pop (20.137.152)_{:.pop}
 {: .city #mexico }
 
 
 
- Cervecería Modelo / Grupo Modelo  - 1922   `#gmodelo`{:.key} <br>
+ Cervecería Modelo / Grupo Modelo  - 1922   _#gmodelo_{:.key} <br>
 Lago Alberto 156 | Col. Anáhuac // México | D.F. | C.P. 11320  <br>
 [www.gmodelo.com.mx](http://www.gmodelo.com.mx)  <br>
 {: .brewery #gmodelo }
@@ -318,11 +369,14 @@ Lago Alberto 156 | Col. Anáhuac // México | D.F. | C.P. 11320  <br>
 **León** (4.5%) _munich dunkel lager_{:.tags} 
 {: .beers }
 
+</div>
+
+
 
 ##### Uncategorized _(5)_{:.count}
 
 
- Cervecería Primus • Andreu Primus  - 2007   `#primus`{:.key} <br>
+ Cervecería Primus • Andreu Primus  - 2007   _#primus_{:.key} <br>
 Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrito Federal  <br>
 [www.primus.com.mx](http://www.primus.com.mx)  <br>
 {: .brewery #primus }
@@ -333,13 +387,13 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 **Tempus Reserva Especial**   
 {: .beers }
 
- Cervecería Pública Condesa  - 2009   `#condesa`{:.key} <br>
+ Cervecería Pública Condesa  - 2009   _#condesa_{:.key} <br>
 {: .brewery #condesa }
 
 **Poe** (6.2%) _brown ale_{:.tags} 
 {: .beers }
 
- Microcerveceria La Chingoneria   `#lachingoneria`{:.key} <br>
+ Microcerveceria La Chingoneria   _#lachingoneria_{:.key} <br>
 [www.lachingoneria.com.mx](http://www.lachingoneria.com.mx)  <br>
 {: .brewery #lachingoneria }
 
@@ -348,7 +402,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 **Amargator IPA**  _double ipa imperial ipa_{:.tags} 
 {: .beers }
 
- Cervecería Alebrije • Microcervecera Azteca  - 2004   `#alebrije`{:.key} <br>
+ Cervecería Alebrije • Microcervecera Azteca  - 2004   _#alebrije_{:.key} <br>
 [cerveceriaalebrije.com](http://cerveceriaalebrije.com)  <br>
 {: .brewery #alebrije }
 
@@ -363,7 +417,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 **Dort Honey**   
 {: .beers }
 
- Beer Factory • Cervecería Santa Fe Beer Factory   `#santafebeerfactory`{:.key} <br>
+ Beer Factory • Cervecería Santa Fe Beer Factory   _#santafebeerfactory_{:.key} <br>
 [www.beerfactory.com](http://www.beerfactory.com)  <br>
 {: .brewery #santafebeerfactory }
 
@@ -382,6 +436,12 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -389,6 +449,12 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 {: #mx-gt }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -400,6 +466,12 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -409,11 +481,17 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Cervecería Cosaco • Cerveza Cosaco  - 2000   `#cosaco`{:.key} <br>
+ Cervecería Cosaco • Cerveza Cosaco  - 2000   _#cosaco_{:.key} <br>
 [www.cervezacosaco.com](http://www.cervezacosaco.com)  <br>
 {: .brewery #cosaco }
 
@@ -422,7 +500,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 **Cosaco Guera**   
 {: .beers }
 
- Cervecería Hacienda   `#hacienda`{:.key} <br>
+ Cervecería Hacienda   _#hacienda_{:.key} <br>
 [www.cerveceriahacienda.com](http://www.cerveceriahacienda.com)  <br>
 {: .brewery #hacienda }
 
@@ -431,7 +509,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 **Jaguar** (7.0%) _pale ale_{:.tags} 
 {: .beers }
 
- Cerveza Benévolo  - 2010   `#benevolo`{:.key} <br>
+ Cerveza Benévolo  - 2010   _#benevolo_{:.key} <br>
 // Pachuca, Hidalgo  <br>
 [www.cervezabenevolo.com.mx](http://www.cervezabenevolo.com.mx)  <br>
 {: .brewery #benevolo }
@@ -445,11 +523,17 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Cervecería Minerva  - 2002   `#minerva`{:.key} <br>
+ Cervecería Minerva  - 2002   _#minerva_{:.key} <br>
 [www.cervezaminerva.mx](http://www.cervezaminerva.mx)  <br>
 {: .brewery #minerva }
 
@@ -465,11 +549,11 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 **Minerva Rila**  _seasonal_{:.tags} 
 {: .beers }
 
- Cervecería Revolucion   `#revolucion`{:.key} <br>
+ Cervecería Revolucion   _#revolucion_{:.key} <br>
 {: .brewery #revolucion }
 
 
- Cervecería Ale & Ale   `#aleale`{:.key} <br>
+ Cervecería Ale & Ale   _#aleale_{:.key} <br>
 {: .brewery #aleale }
 
 
@@ -481,11 +565,17 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Cervecería Calavera • Gourment Calavera   `#calavera`{:.key} <br>
+ Cervecería Calavera • Gourment Calavera   _#calavera_{:.key} <br>
 {: .brewery #calavera }
 
 **Calavera Witbier**  _weizen_{:.tags}  • 
@@ -501,7 +591,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 **Calavera Project X**  _brown ale_{:.tags} 
 {: .beers }
 
- Cervecería Jack   `#jack`{:.key} <br>
+ Cervecería Jack   _#jack_{:.key} <br>
 {: .brewery #jack }
 
 **Jack Alebrije**  _weissbier_{:.tags}  • 
@@ -518,6 +608,12 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -525,6 +621,12 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 {: #mx-mo }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -536,6 +638,12 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -545,22 +653,28 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 [Monterrey](#monterrey) • **Uncategorized** _(3)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Monterrey   _pop (4.080.329)_{:.pop}
 {: .city #monterrey }
 
 
 
- Cervecería Cuauhtémoc Moctezuma  - 1890  _heineken_{:.tags} `#cuamoc`{:.key} <br>
+ Cervecería Cuauhtémoc Moctezuma  - 1890  _heineken_{:.tags} _#cuamoc_{:.key} <br>
 Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 [www.cuamoc.com](http://www.cuamoc.com)  <br>
 {: .brewery #cuamoc }
+
+
+</div>
 
 
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Especialidades Cerveceras   `#especialidades`{:.key} <br>
+ Especialidades Cerveceras   _#especialidades_{:.key} <br>
 {: .brewery #especialidades }
 
 **Casta Bruna**  _pale ale_{:.tags}  • 
@@ -571,11 +685,11 @@ Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 **Casta Unica**  _belgian strong ale_{:.tags} 
 {: .beers }
 
- Cervecería Propaganda  - 2012   `#propaganda`{:.key} <br>
+ Cervecería Propaganda  - 2012   _#propaganda_{:.key} <br>
 {: .brewery #propaganda }
 
 
- Sierra Madre Brewing Co.  - 1996   `#smbc`{:.key} <br>
+ Sierra Madre Brewing Co.  - 1996   _#smbc_{:.key} <br>
 // Monterrey  <br>
 [www.smbc.com.mx](http://www.smbc.com.mx)  <br>
 {: .brewery #smbc }
@@ -589,11 +703,17 @@ Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Cervecería Camarada  - 2009   `#camarada`{:.key} <br>
+ Cervecería Camarada  - 2009   _#camarada_{:.key} <br>
 {: .brewery #camarada }
 
 **Camarada Schwarzbier**    • 
@@ -603,7 +723,7 @@ Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 **Camarada Pale      seasonal**   
 {: .beers }
 
- Compañía Cervecera del Trópico / Grupo Modelo   `#tropico`{:.key} <br>
+ Compañía Cervecera del Trópico / Grupo Modelo   _#tropico_{:.key} <br>
 Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxtepec | Oax. | C.P. 68365  <br>
 {: .brewery #tropico }
 
@@ -618,16 +738,22 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Cervecería Bayernbrau de México   `#bayernbrau`{:.key} <br>
+ Cervecería Bayernbrau de México   _#bayernbrau_{:.key} <br>
 [www.bayernbrau.com|www.cervezaweissbier.mx](http://www.bayernbrau.com|www.cervezaweissbier.mx)  <br>
 {: .brewery #bayernbrau }
 
 
- Cervecería Cholula   `#cholula`{:.key} <br>
+ Cervecería Cholula   _#cholula_{:.key} <br>
 [www.cerveceriacholula.com](http://www.cerveceriacholula.com)  <br>
 {: .brewery #cholula }
 
@@ -640,16 +766,22 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(3)_{:.count}
 
 
- Cervecería Querétaro   `#queretaro`{:.key} <br>
+ Cervecería Querétaro   _#queretaro_{:.key} <br>
 [www.cervezaqueretaro.com](http://www.cervezaqueretaro.com)  <br>
 {: .brewery #queretaro }
 
 
- Cervecería Amalias   `#amalias`{:.key} <br>
+ Cervecería Amalias   _#amalias_{:.key} <br>
 [www.amalias.com.mx](http://www.amalias.com.mx)  <br>
 {: .brewery #amalias }
 
@@ -658,7 +790,7 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 **Amalias Obsidiana**   
 {: .beers }
 
- Cervecería Josefa  - 2011   `#josefa`{:.key} <br>
+ Cervecería Josefa  - 2011   _#josefa_{:.key} <br>
 [www.cerveceriajosefa.com](http://www.cerveceriajosefa.com)  <br>
 {: .brewery #josefa }
 
@@ -671,6 +803,12 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -678,6 +816,12 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 {: #mx-sl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -689,11 +833,17 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(1)_{:.count}
 
 
- Cervecería del Pacífico / Grupo Modelo   `#pacifico`{:.key} <br>
+ Cervecería del Pacífico / Grupo Modelo   _#pacifico_{:.key} <br>
 Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 {: .brewery #pacifico }
 
@@ -709,6 +859,12 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -716,6 +872,12 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 {: #mx-tb }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -727,6 +889,12 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -734,6 +902,12 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 {: #mx-tl }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 
@@ -745,15 +919,21 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 ##### Uncategorized _(2)_{:.count}
 
 
- Cerveceria La Antigua   `#laantigua`{:.key} <br>
+ Cerveceria La Antigua   _#laantigua_{:.key} <br>
 {: .brewery #laantigua }
 
 
- Cerveza Criolla   `#criolla`{:.key} <br>
+ Cerveza Criolla   _#criolla_{:.key} <br>
 [www.cervezacriolla.com.mx](http://www.cervezacriolla.com.mx)  <br>
 {: .brewery #criolla }
 
@@ -766,6 +946,12 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
+<div class='columns2' markdown='1'>
+
+
+</div>
+
+
 
 
 
@@ -773,6 +959,12 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 {: #mx-za }
 
 
+
+
+<div class='columns2' markdown='1'>
+
+
+</div>
 
 
 

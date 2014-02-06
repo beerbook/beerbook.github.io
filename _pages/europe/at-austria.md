@@ -32,12 +32,15 @@ permalink: /at.html
 
 [Gols](#gols) • [Kobersdorf](#kobersdorf)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Gols  
 {: .city #gols }
 
 
 
-♣  Pannonia Brauerei Gols   `#gols`{:.key} <br>
+♣  Pannonia Brauerei Gols   _#gols_{:.key} <br>
 7122 Gols // Sandgrube 1a  <br>
 [www.golserbier.at](http://www.golserbier.at)  <br>
 {: .brewery #gols }
@@ -51,10 +54,13 @@ permalink: /at.html
 
 
 
- Kobersdorfer Schlossbräu   `#kobersdorfer`{:.key} <br>
+ Kobersdorfer Schlossbräu   _#kobersdorfer_{:.key} <br>
 7332 Kobersdorf // Hauptstraße 43  <br>
 [www.kobersdorfer.at](http://www.kobersdorfer.at)  <br>
 {: .brewery #kobersdorfer }
+
+
+</div>
 
 
 
@@ -66,12 +72,15 @@ permalink: /at.html
 
 [Brunn am Gebirge](#brunnamgebirge) • [Gablitz](#gablitz) • [Gaming](#gaming) _(2)_{:.count} • [Hainfeld](#hainfeld) • [Korneuburg](#korneuburg) • [Krumbach](#krumbach) • [Laa/Thaya](#laathaya) • [Schottwien](#schottwien) • [Schrems](#schrems) • [Schwechat](#schwechat) • [Thernberg](#thernberg) • [Unterradlberg](#unterradlberg) • [Untersiebenbrunn](#untersiebenbrunn) • [Warth](#warth) • [Weitra](#weitra) • [Wieselburg](#wieselburg) • [Winzendorf](#winzendorf) • [Zwettl](#zwettl)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Brunn am Gebirge  
 {: .city #brunnamgebirge }
 
 
 
- Die Bierzauberei   `#bierzauberei`{:.key} <br>
+ Die Bierzauberei   _#bierzauberei_{:.key} <br>
 2345 Brunn am Gebirge // Leopold Gattringer-Straße 39  <br>
 [www.bierzauberer.info](http://www.bierzauberer.info)  <br>
 {: .brewery #bierzauberei }
@@ -82,7 +91,7 @@ permalink: /at.html
 
 
 
- Gablitzer Privatbrauerei  - 2009   `#gablitzer`{:.key} <br>
+ Gablitzer Privatbrauerei  - 2009   _#gablitzer_{:.key} <br>
 3003 Gablitz // Spitzersteig 10  <br>
 [www.gablitzer.at](http://www.gablitzer.at)  <br>
 {: .brewery #gablitzer }
@@ -95,13 +104,13 @@ permalink: /at.html
 
 
 
- Bruckners Brauwelt   `#bruckners`{:.key} <br>
+ Bruckners Brauwelt   _#bruckners_{:.key} <br>
 3292 Gaming // Grubberg 4a  <br>
 [www.bruckners-brauwelt.at](http://www.bruckners-brauwelt.at)  <br>
 {: .brewery #bruckners }
 
 
- Privatbrauerei Gaming • Kartausen Bräu   `#kartausenbraeu`{:.key} <br>
+ Privatbrauerei Gaming • Kartausen Bräu   _#kartausenbraeu_{:.key} <br>
 3293 Gaming // Kartause 1  <br>
 {: .brewery #kartausenbraeu }
 
@@ -113,7 +122,7 @@ permalink: /at.html
 
 
 
- Brauerei Hainfeld   `#hainfeld`{:.key} <br>
+ Brauerei Hainfeld   _#hainfeld_{:.key} <br>
 3170 Hainfeld // Wienerstraße 10  <br>
 [www.brauerei-hainfeld.at](http://www.brauerei-hainfeld.at)  <br>
 {: .brewery #hainfeld }
@@ -128,7 +137,7 @@ permalink: /at.html
 
 
 
- Biermanufaktur Korneuburg   `#korneuburg`{:.key} <br>
+ Biermanufaktur Korneuburg   _#korneuburg_{:.key} <br>
 2100 Korneuburg // Brückenstraße 8  <br>
 [www.biermanufaktur.at](http://www.biermanufaktur.at)  <br>
 {: .brewery #korneuburg }
@@ -143,7 +152,7 @@ permalink: /at.html
 
 
 
- Privatbrauerei Gerald Schwarz   `#schwarzbraeu`{:.key} <br>
+ Privatbrauerei Gerald Schwarz   _#schwarzbraeu_{:.key} <br>
 2851 Krumbach // Bundesstraße 19  <br>
 [www.schwarzbraeu.at](http://www.schwarzbraeu.at)  <br>
 {: .brewery #schwarzbraeu }
@@ -158,7 +167,7 @@ permalink: /at.html
 
 
 
-♣  Hubertus Bräu  - 1454   `#hubertus`{:.key} <br>
+♣  Hubertus Bräu  - 1454   _#hubertus_{:.key} <br>
 2136 Laa/Thaya // Hubertusgasse 1  <br>
 [www.hubertus.at](http://www.hubertus.at)  <br>
 {: .brewery #hubertus }
@@ -173,7 +182,7 @@ permalink: /at.html
 
 
 
- Brettner Brauerei ("Altes Doktorhaus")   `#brettner`{:.key} <br>
+ Brettner Brauerei ("Altes Doktorhaus")   _#brettner_{:.key} <br>
 2641 Schottwien // Hauptstraße 49  <br>
 [www.brettner.at](http://www.brettner.at)  <br>
 {: .brewery #brettner }
@@ -186,7 +195,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Schrems  - 1410   `#schrems`{:.key} <br>
+♣  Brauerei Schrems  - 1410   _#schrems_{:.key} <br>
 3943 Schrems // Niederschremser Straße 1  <br>
 [www.schremser.at](http://www.schremser.at)  <br>
 {: .brewery #schrems }
@@ -204,7 +213,7 @@ permalink: /at.html
 
 
 
-♣♣  Brauerei Schwechat (Brau Union)  - 1796  _brau union_{:.tags} `#schwechat`{:.key} <br>
+♣♣  Brauerei Schwechat (Brau Union)  - 1796  _brau union_{:.tags} _#schwechat_{:.key} <br>
 2320 Schwechat // Mautner Markhof-Straße 11  <br>
 [www.schwechater.at](http://www.schwechater.at)  <br>
 {: .brewery #schwechat }
@@ -219,7 +228,7 @@ permalink: /at.html
 
 
 
- Wolfsbräu   `#wolfsbrau`{:.key} <br>
+ Wolfsbräu   _#wolfsbrau_{:.key} <br>
 2832 Thernberg // Blumengasse 7  <br>
 [www.wolfsbrau.at](http://www.wolfsbrau.at)  <br>
 {: .brewery #wolfsbrau }
@@ -230,7 +239,7 @@ permalink: /at.html
 
 
 
-♣♣  Privatbrauerei Fritz Egger  - 1978   `#egger`{:.key} <br>
+♣♣  Privatbrauerei Fritz Egger  - 1978   _#egger_{:.key} <br>
 3105 Unterradlberg // Tiroler Straße 18  <br>
 [www.egger-bier.at](http://www.egger-bier.at)  <br>
 {: .brewery #egger }
@@ -246,7 +255,7 @@ permalink: /at.html
 
 
 
- Marchfelder Storchenbräu   `#storchenbraeu`{:.key} <br>
+ Marchfelder Storchenbräu   _#storchenbraeu_{:.key} <br>
 2284 Untersiebenbrunn // Brückengasse 5  <br>
 [www.storchenbraeu.at](http://www.storchenbraeu.at)  <br>
 {: .brewery #storchenbraeu }
@@ -262,7 +271,7 @@ permalink: /at.html
 
 
 
- Holzb(r)auer / Natürliche Handwerksbrauerei   `#holzbrauer`{:.key} <br>
+ Holzb(r)auer / Natürliche Handwerksbrauerei   _#holzbrauer_{:.key} <br>
 2831 Warth // Wiesengasse 9  <br>
 {: .brewery #holzbrauer }
 
@@ -272,7 +281,7 @@ permalink: /at.html
 
 
 
-♣  Weitra Bräu Bierwerkstatt • Brauerei Weitra  - 1321  _zwettler_{:.tags} `#weitra`{:.key} <br>
+♣  Weitra Bräu Bierwerkstatt • Brauerei Weitra  - 1321  _zwettler_{:.tags} _#weitra_{:.key} <br>
 3970 Weitra // Sparkasseplatz 160  <br>
 [www.bierwerkstatt.at](http://www.bierwerkstatt.at)  <br>
 {: .brewery #weitra }
@@ -286,7 +295,7 @@ permalink: /at.html
 
 
 
-♣♣  Brauerei Wieselburg (Brau Union)  - 1770  _brau union_{:.tags} `#wieselburg`{:.key} <br>
+♣♣  Brauerei Wieselburg (Brau Union)  - 1770  _brau union_{:.tags} _#wieselburg_{:.key} <br>
 3250 Wieselburg // Dr.-Beuerle-Straße 1  <br>
 [www.wieselburger.at](http://www.wieselburger.at)  <br>
 {: .brewery #wieselburg }
@@ -306,7 +315,7 @@ permalink: /at.html
 
 
 
- Emmerberg-Bräu / Erste Österreichische Ökobrauerei  - 1991   `#emmerberg`{:.key} <br>
+ Emmerberg-Bräu / Erste Österreichische Ökobrauerei  - 1991   _#emmerberg_{:.key} <br>
 2722 Winzendorf // Hauptstraße 137  <br>
 {: .brewery #emmerberg }
 
@@ -316,7 +325,7 @@ permalink: /at.html
 
 
 
-♣♣  Zwettler Brauerei • Privatbrauerei Zwettl  - 1709   `#zwettler`{:.key} <br>
+♣♣  Zwettler Brauerei • Privatbrauerei Zwettl  - 1709   _#zwettler_{:.key} <br>
 3910 Zwettl // Syrnauer Straße 22-25  <br>
 [www.zwettler.at](http://www.zwettler.at)  <br>
 {: .brewery #zwettler }
@@ -330,6 +339,9 @@ permalink: /at.html
 **Zwettler Saphir (Premium Pils)** (5.3%, 12.3°)  
 {: .beers }
 
+</div>
+
+
 
 
 
@@ -339,12 +351,15 @@ permalink: /at.html
 
 
 
+<div class='columns2' markdown='1'>
+
+
 ##### Wien   _pop 1.731.236 (1.724.000)_{:.pop}
 {: .city #wien }
 
 
 
-♣♣  Ottakringer Brauerei  - 1838   `#ottakringer`{:.key} <br>
+♣♣  Ottakringer Brauerei  - 1838   _#ottakringer_{:.key} <br>
 1160 Wien // Ottakringer Platz 1  <br>
 [www.ottakringer.at](http://www.ottakringer.at)  <br>
 {: .brewery #ottakringer }
@@ -359,6 +374,9 @@ permalink: /at.html
 **Ottakringer (Gold Fassl) Bock** (7.6%, 17.0°)  
 {: .beers }
 
+</div>
+
+
 
 
 
@@ -368,12 +386,15 @@ permalink: /at.html
 
 [Bad Radkersburg](#badradkersburg) • [Ebersdorf](#ebersdorf) • [Eisenerz](#eisenerz) • [Fürstenfeld](#fuerstenfeld) • [Graz](#graz) • [Göss/Leoben](#goessleoben) • [Kaindorf](#kaindorf) • [Kalsdorf](#kalsdorf) • [Leutschach](#leutschach) • [Murau](#murau) • [Schladming](#schladming) • [St. Marein](#stmarein) • [St. Nikolai i. S.](#stnikolaiis) • [Weinburg](#weinburg) • [Wundschuh](#wundschuh)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Bad Radkersburg  
 {: .city #badradkersburg }
 
 
 
- Brauhaus Bevog   `#bevog`{:.key} <br>
+ Brauhaus Bevog   _#bevog_{:.key} <br>
 8490 Bad Radkersburg // Gewerbepark B Nr. 9  <br>
 [www.bevog.at](http://www.bevog.at)  <br>
 {: .brewery #bevog }
@@ -384,7 +405,7 @@ permalink: /at.html
 
 
 
- Toni Bräu   `#tonibraeu`{:.key} <br>
+ Toni Bräu   _#tonibraeu_{:.key} <br>
 8273 Ebersdorf // Wagenbach 61  <br>
 [www.tonibraeu.at](http://www.tonibraeu.at)  <br>
 {: .brewery #tonibraeu }
@@ -397,7 +418,7 @@ permalink: /at.html
 
 
 
- Privatbrauerei Erzbergbräu   `#erzbergbraeu`{:.key} <br>
+ Privatbrauerei Erzbergbräu   _#erzbergbraeu_{:.key} <br>
 8790 Eisenerz // Trofengbachgasse 2  <br>
 [www.erzbergbraeu.at](http://www.erzbergbraeu.at)  <br>
 {: .brewery #erzbergbraeu }
@@ -408,7 +429,7 @@ permalink: /at.html
 
 
 
- Nibelungengold Brauerei   `#nibelungengold`{:.key} <br>
+ Nibelungengold Brauerei   _#nibelungengold_{:.key} <br>
 8280 Fürstenfeld // Franz-Bauer-Weg 4  <br>
 [www.nibelungengold.at](http://www.nibelungengold.at)  <br>
 {: .brewery #nibelungengold }
@@ -419,7 +440,7 @@ permalink: /at.html
 
 
 
-♣♣  Brauerei Puntigam (Brau Union)  _brauunion_{:.tags} `#puntigam`{:.key} <br>
+♣♣  Brauerei Puntigam (Brau Union)  _brauunion_{:.tags} _#puntigam_{:.key} <br>
 8055 Graz // Triester Straße 359  <br>
 [www.puntigamer.at](http://www.puntigamer.at)  <br>
 {: .brewery #puntigam }
@@ -439,7 +460,7 @@ permalink: /at.html
 
 
 
-♣♣  Gösser Brauerei (Brau Union) • Brauerei Göss  _brauunion_{:.tags} `#goesser`{:.key} <br>
+♣♣  Gösser Brauerei (Brau Union) • Brauerei Göss  _brauunion_{:.tags} _#goesser_{:.key} <br>
 8700 Göss/Leoben // Brauhausgasse 1  <br>
 [www.goesser.at](http://www.goesser.at)  <br>
 {: .brewery #goesser }
@@ -458,7 +479,7 @@ permalink: /at.html
 
 
 
- Brauerei Gratzer   `#gratzer`{:.key} <br>
+ Brauerei Gratzer   _#gratzer_{:.key} <br>
 8224 Kaindorf // Obertiefenbach 26  <br>
 [www.brauereigratzer.at](http://www.brauereigratzer.at)  <br>
 {: .brewery #gratzer }
@@ -472,7 +493,7 @@ permalink: /at.html
 
 
 
- Handbrauerei Forstner   `#forstner`{:.key} <br>
+ Handbrauerei Forstner   _#forstner_{:.key} <br>
 8401 Kalsdorf // Dorfstraße 52  <br>
 [www.forstner-biere.at](http://www.forstner-biere.at)  <br>
 {: .brewery #forstner }
@@ -490,7 +511,7 @@ permalink: /at.html
 
 
 
- Brauerei Leutschach   `#leutschach`{:.key} <br>
+ Brauerei Leutschach   _#leutschach_{:.key} <br>
 8463 Leutschach // Schillerplatz 3  <br>
 [www.diebrauerei.com](http://www.diebrauerei.com)  <br>
 {: .brewery #leutschach }
@@ -503,7 +524,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Murau • Obermurtaler Brauerei   `#murau`{:.key} <br>
+♣  Brauerei Murau • Obermurtaler Brauerei   _#murau_{:.key} <br>
 8850 Murau // Raffaltplatz 19-23  <br>
 [www.murauerbier.at](http://www.murauerbier.at)  <br>
 {: .brewery #murau }
@@ -518,7 +539,7 @@ permalink: /at.html
 
 
 
-♣  Schladminger Brau (Brau Union)  - 1909  _brauunion_{:.tags} `#schladminger`{:.key} <br>
+♣  Schladminger Brau (Brau Union)  - 1909  _brauunion_{:.tags} _#schladminger_{:.key} <br>
 8970 Schladming // Hammerfeldweg 163  <br>
 [www.schladmingerbier.at](http://www.schladmingerbier.at)  <br>
 {: .brewery #schladminger }
@@ -534,7 +555,7 @@ permalink: /at.html
 
 
 
- Trieb Bräu   `#triebbraeu`{:.key} <br>
+ Trieb Bräu   _#triebbraeu_{:.key} <br>
 8641 St. Marein // Ferdinand Raimundweg 7  <br>
 {: .brewery #triebbraeu }
 
@@ -546,7 +567,7 @@ permalink: /at.html
 
 
 
- Brauerei Michael Löscher   `#flamberger`{:.key} <br>
+ Brauerei Michael Löscher   _#flamberger_{:.key} <br>
 8505 St. Nikolai i. S. // Flamberg 101  <br>
 [www.flamberger.at](http://www.flamberger.at)  <br>
 {: .brewery #flamberger }
@@ -557,7 +578,7 @@ permalink: /at.html
 
 
 
- Landwerkstatt & Genusslabor   `#pock`{:.key} <br>
+ Landwerkstatt & Genusslabor   _#pock_{:.key} <br>
 8481 Weinburg // Pichla/M. 31  <br>
 [www.pockbier.com](http://www.pockbier.com)  <br>
 {: .brewery #pock }
@@ -568,10 +589,13 @@ permalink: /at.html
 
 
 
- Herzog Hofbräu   `#herzoghofbraeu`{:.key} <br>
+ Herzog Hofbräu   _#herzoghofbraeu_{:.key} <br>
 8142 Wundschuh // Steindorf 8  <br>
 [www.herzog-hofbraeu.at](http://www.herzog-hofbraeu.at)  <br>
 {: .brewery #herzoghofbraeu }
+
+
+</div>
 
 
 
@@ -583,12 +607,15 @@ permalink: /at.html
 
 [Klagenfurt](#klagenfurt) • [Kraig](#kraig) • [Kötschach-Mauthen](#koetschachmauthen) • [Micheldorf](#micheldorf) • [Villach](#villach)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Klagenfurt   _pop 94.796_{:.pop}
 {: .city #klagenfurt }
 
 
 
-♣  Schleppe Brauerei (Vereinigte Kärntner Brauereien)  - 1607   `#schleppe`{:.key} <br>
+♣  Schleppe Brauerei (Vereinigte Kärntner Brauereien)  - 1607   _#schleppe_{:.key} <br>
 9020 Klagenfurt // Schleppeplatz 1  <br>
 [www.schleppe.at](http://www.schleppe.at)  <br>
 {: .brewery #schleppe }
@@ -601,7 +628,7 @@ permalink: /at.html
 
 
 
- Wimitzbräu   `#wimitz`{:.key} <br>
+ Wimitzbräu   _#wimitz_{:.key} <br>
 9311 Kraig // Wimitz 7  <br>
 [www.wimitzbraeu.com](http://www.wimitzbraeu.com)  <br>
 {: .brewery #wimitz }
@@ -612,7 +639,7 @@ permalink: /at.html
 
 
 
- Privatbrauerei Loncium   `#loncium`{:.key} <br>
+ Privatbrauerei Loncium   _#loncium_{:.key} <br>
 9640 Kötschach-Mauthen // Mauthen 60  <br>
 [www.loncium.at](http://www.loncium.at)  <br>
 {: .brewery #loncium }
@@ -626,7 +653,7 @@ permalink: /at.html
 
 
 
-♣♣  Brauerei Hirt  - 1270   `#hirt`{:.key} <br>
+♣♣  Brauerei Hirt  - 1270   _#hirt_{:.key} <br>
 9322 Micheldorf // Hirt 9  <br>
 [www.hirterbier.at](http://www.hirterbier.at)  <br>
 {: .brewery #hirt }
@@ -642,7 +669,7 @@ permalink: /at.html
 
 
 
-♣♣  Villacher Brauerei (Vereinigte Kärntner Brauereien)   `#villacher`{:.key} <br>
+♣♣  Villacher Brauerei (Vereinigte Kärntner Brauereien)   _#villacher_{:.key} <br>
 9500 Villach // Brauhausgasse 6  <br>
 [www.villacher.com](http://www.villacher.com)  <br>
 {: .brewery #villacher }
@@ -654,6 +681,9 @@ permalink: /at.html
 **‹Piestinger› Lager** (5.0%, 11.8°)  
 {: .beers }
 
+</div>
+
+
 
 
 
@@ -663,12 +693,15 @@ permalink: /at.html
 
 [Altheim](#altheim) _(2)_{:.count} • [Ampflwang](#ampflwang) • [Attersee](#attersee) • [Braunau](#braunau) • [Eggelsberg](#eggelsberg) • [Engelhartszell](#engelhartszell) • [Frankenmarkt](#frankenmarkt) _(2)_{:.count} • [Freistadt](#freistadt) • [Grieskirchen](#grieskirchen) • [Linz](#linz) • [Neufelden](#neufelden) • [Neumarkt/Hausruck](#neumarkthausruck) • [Ried/Innkreis](#riedinnkreis) _(2)_{:.count} • [Schlägl](#schlaegl) • [Schwertberg](#schwertberg) • [Schärding](#schaerding) _(2)_{:.count} • [Schörfling (am Attersee)](#schoerfling) • [St. Martin](#stmartin) • [St. Stefan am Walde](#ststefanamwalde) • [Straß (i. Attergau)](#strass) • [Uttendorf](#uttendorf) • [Vorchdorf](#vorchdorf) • [Wilhering](#wilhering) • [Zipf](#zipf)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Altheim _(2)_{:.count} 
 {: .city #altheim }
 
 
 
- Brauerei Raschhofer  - 1645   `#raschhofer`{:.key} <br>
+ Brauerei Raschhofer  - 1645   _#raschhofer_{:.key} <br>
 4950 Altheim // Braunauer Straße 12  <br>
 [www.raschhoferbier.at](http://www.raschhoferbier.at)  <br>
 {: .brewery #raschhofer }
@@ -678,7 +711,7 @@ permalink: /at.html
 **Raschhofer Zwickl** (5.4%, 12.5°)  
 {: .beers }
 
- Privatbrauerei Wurmhöringer  - 1652   `#wurmhoeringer`{:.key} <br>
+ Privatbrauerei Wurmhöringer  - 1652   _#wurmhoeringer_{:.key} <br>
 4950 Altheim // Stadtplatz 10/11  <br>
 [www.wurmhoeringer.at](http://www.wurmhoeringer.at)  <br>
 {: .brewery #wurmhoeringer }
@@ -692,7 +725,7 @@ permalink: /at.html
 
 
 
- Brauerei Pachinger • Pfeiffi’s Bräu   `#pfeiffisbraeu`{:.key} <br>
+ Brauerei Pachinger • Pfeiffi’s Bräu   _#pfeiffisbraeu_{:.key} <br>
 4843 Ampflwang // Vorderschlagen 19  <br>
 [www.pfeiffis-braeu.at](http://www.pfeiffis-braeu.at)  <br>
 {: .brewery #pfeiffisbraeu }
@@ -703,7 +736,7 @@ permalink: /at.html
 
 
 
- Brauerei Kaltenböck   `#kaltenboeck`{:.key} <br>
+ Brauerei Kaltenböck   _#kaltenboeck_{:.key} <br>
 4864 Attersee // Palmsdorf 17  <br>
 {: .brewery #kaltenboeck }
 
@@ -715,7 +748,7 @@ permalink: /at.html
 
 
 
- Hausbrauerei Bogner   `#bogner`{:.key} <br>
+ Hausbrauerei Bogner   _#bogner_{:.key} <br>
 5280 Braunau // Haselbach 26 (Innviertel)  <br>
 [www.hausbrauerei-bogner.at](http://www.hausbrauerei-bogner.at)  <br>
 {: .brewery #bogner }
@@ -726,7 +759,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Schnaitl • Privatbrauerei Schnaitl  - 1842   `#schnaitl`{:.key} <br>
+♣  Brauerei Schnaitl • Privatbrauerei Schnaitl  - 1842   _#schnaitl_{:.key} <br>
 5142 Eggelsberg // Gundertshausen 9 (Innviertel)  <br>
 [www.schnaitl.at](http://www.schnaitl.at)  <br>
 {: .brewery #schnaitl }
@@ -742,7 +775,7 @@ permalink: /at.html
 
 
 
- Trappistenbrauerei / Stift Engelszell   `#stiftengelszell`{:.key} <br>
+ Trappistenbrauerei / Stift Engelszell   _#stiftengelszell_{:.key} <br>
 4090 Engelhartszell // Stiftstraße 6  <br>
 [www.stift-engelszell.at](http://www.stift-engelszell.at)  <br>
 {: .brewery #stiftengelszell }
@@ -753,12 +786,12 @@ permalink: /at.html
 
 
 
- Brauerei Aspach (Starzinger)  - 1777   `#aspach`{:.key} <br>
+ Brauerei Aspach (Starzinger)  - 1777   _#aspach_{:.key} <br>
 4890 Frankenmarkt // Hauptstraße 23  <br>
 {: .brewery #aspach }
 
 
- Brauerei Bräu am Berg (Starzinger)  - 1626   `#braeuamberg`{:.key} <br>
+ Brauerei Bräu am Berg (Starzinger)  - 1626   _#braeuamberg_{:.key} <br>
 4890 Frankenmarkt // Bahnhofstraße 1  <br>
 {: .brewery #braeuamberg }
 
@@ -770,7 +803,7 @@ permalink: /at.html
 
 
 
-♣  Freistädter Brauhaus • Braucommune in Freistadt  - 1770   `#freistaedter`{:.key} <br>
+♣  Freistädter Brauhaus • Braucommune in Freistadt  - 1770   _#freistaedter_{:.key} <br>
 4240 Freistadt // Brauhausstraße 2 (Mühlviertel)  <br>
 [www.freistaedter-bier.at](http://www.freistaedter-bier.at)  <br>
 {: .brewery #freistaedter }
@@ -785,7 +818,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Grieskirchen  - 1708   `#grieskirchen`{:.key} <br>
+♣  Brauerei Grieskirchen  - 1708   _#grieskirchen_{:.key} <br>
 4710 Grieskirchen // Stadtplatz 14  <br>
 [www.grieskirchner.at](http://www.grieskirchner.at)  <br>
 {: .brewery #grieskirchen }
@@ -801,7 +834,7 @@ permalink: /at.html
 
 
 
- Brau Union Österreich   `#brauunion`{:.key} <br>
+ Brau Union Österreich   _#brauunion_{:.key} <br>
 4020 Linz // Poschacherstrasse 35  <br>
 [www.brauunion.at](http://www.brauunion.at)  <br>
 {: .brewery #brauunion }
@@ -812,7 +845,7 @@ permalink: /at.html
 
 
 
- Neufeldner Biobrauerei   `#biobrauerei`{:.key} <br>
+ Neufeldner Biobrauerei   _#biobrauerei_{:.key} <br>
 4120 Neufelden // Bräuhausgasse 3  <br>
 [www.biobrauerei.at](http://www.biobrauerei.at)  <br>
 {: .brewery #biobrauerei }
@@ -823,7 +856,7 @@ permalink: /at.html
 
 
 
- Ritterbräu Neumarkt  - 1609   `#ritterbraeu`{:.key} <br>
+ Ritterbräu Neumarkt  - 1609   _#ritterbraeu_{:.key} <br>
 4720 Neumarkt/Hausruck // Bräuhausgasse 1  <br>
 [www.ritterbraeu.at](http://www.ritterbraeu.at)  <br>
 {: .brewery #ritterbraeu }
@@ -834,7 +867,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Ried  - 1536   `#ried`{:.key} <br>
+♣  Brauerei Ried  - 1536   _#ried_{:.key} <br>
 4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)  <br>
 [www.rieder-bier.at](http://www.rieder-bier.at)  <br>
 {: .brewery #ried }
@@ -843,7 +876,7 @@ permalink: /at.html
 **Rieder 1908 Naturtrüb** (5.2%, 12.9°)  
 {: .beers }
 
- Kellerbrauerei  - 1446   `#kellerbrauerei`{:.key} <br>
+ Kellerbrauerei  - 1446   _#kellerbrauerei_{:.key} <br>
 4910 Ried/Innkreis // Am Kellerbräuberg 2  <br>
 [www.kellerbrauerei.at](http://www.kellerbrauerei.at)  <br>
 {: .brewery #kellerbrauerei }
@@ -854,7 +887,7 @@ permalink: /at.html
 
 
 
-♣  Stiftsbrauerei Schlägl  - 1580   `#schlaegl`{:.key} <br>
+♣  Stiftsbrauerei Schlägl  - 1580   _#schlaegl_{:.key} <br>
 4160 Schlägl // Schlägl 1 (Mühlviertel)  <br>
 [www.schlaegl.co.at](http://www.schlaegl.co.at)  <br>
 {: .brewery #schlaegl }
@@ -869,7 +902,7 @@ permalink: /at.html
 
 
 
- Schwertberger Bräu   `#schwertberger`{:.key} <br>
+ Schwertberger Bräu   _#schwertberger_{:.key} <br>
 4311 Schwertberg // Ing. Schmiedl-Straße 7  <br>
 {: .brewery #schwertberger }
 
@@ -879,14 +912,14 @@ permalink: /at.html
 
 
 
-♣  Kapsreiter Brauerei  _ottakringer_{:.tags} `#kapsreiter`{:.key} <br>
+♣  Kapsreiter Brauerei  _ottakringer_{:.tags} _#kapsreiter_{:.key} <br>
 4780 Schärding // Linzer Straße 1  <br>
 {: .brewery #kapsreiter }
 
 **Kapsreiter (Landbier) Hell** (5.3%, 12.8°)  
 {: .beers }
 
-♣  Brauerei Jos. Baumgartner  - 1609   `#baumgartner`{:.key} <br>
+♣  Brauerei Jos. Baumgartner  - 1609   _#baumgartner_{:.key} <br>
 4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)  <br>
 [www.brauerei-baumgartner.at](http://www.brauerei-baumgartner.at)  <br>
 {: .brewery #baumgartner }
@@ -904,7 +937,7 @@ permalink: /at.html
 
 
 
- Argus-Bräu  - 2002   `#argus`{:.key} <br>
+ Argus-Bräu  - 2002   _#argus_{:.key} <br>
 4861 Schörfling (am Attersee) // Oberachmanstraße 21  <br>
 [www.argus-braeu.at](http://www.argus-braeu.at)  <br>
 {: .brewery #argus }
@@ -915,7 +948,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Hofstetten   `#hofstetten`{:.key} <br>
+♣  Brauerei Hofstetten   _#hofstetten_{:.key} <br>
 4113 St. Martin // Adsdorf 5 (Mühlviertel)  <br>
 [www.hofstetten.at](http://www.hofstetten.at)  <br>
 {: .brewery #hofstetten }
@@ -933,7 +966,7 @@ permalink: /at.html
 
 
 
- Steffinger Brauerei   `#steffinger`{:.key} <br>
+ Steffinger Brauerei   _#steffinger_{:.key} <br>
 4170 St. Stefan am Walde // Unterriedl 4  <br>
 {: .brewery #steffinger }
 
@@ -943,7 +976,7 @@ permalink: /at.html
 
 
 
- Brauerei Attersee   `#attersee`{:.key} <br>
+ Brauerei Attersee   _#attersee_{:.key} <br>
 4881 Straß (i. Attergau) // Straß 8  <br>
 [www.brauerei-attersee.at](http://www.brauerei-attersee.at)  <br>
 {: .brewery #attersee }
@@ -956,7 +989,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Vitzthum  - 1600   `#vitzthum`{:.key} <br>
+♣  Brauerei Vitzthum  - 1600   _#vitzthum_{:.key} <br>
 5261 Uttendorf // Uttendorf 25 (Innviertel)  <br>
 [www.uttendorf-bier.com](http://www.uttendorf-bier.com)  <br>
 {: .brewery #vitzthum }
@@ -972,7 +1005,7 @@ permalink: /at.html
 
 
 
-♣♣  Brauerei Schloss Eggenberg  - 1681   `#schlosseggenberg`{:.key} <br>
+♣♣  Brauerei Schloss Eggenberg  - 1681   _#schlosseggenberg_{:.key} <br>
 4655 Vorchdorf // Eggenberg 1  <br>
 [www.schloss-eggenberg.at](http://www.schloss-eggenberg.at)  <br>
 {: .brewery #schlosseggenberg }
@@ -992,7 +1025,7 @@ permalink: /at.html
 
 
 
- Dörnbacher Floriani-Bräu  - 2000   `#florianibraeu`{:.key} <br>
+ Dörnbacher Floriani-Bräu  - 2000   _#florianibraeu_{:.key} <br>
 4061 Wilhering // Dörnbacherstraße 132  <br>
 [www.florianibraeu.at](http://www.florianibraeu.at)  <br>
 {: .brewery #florianibraeu }
@@ -1003,7 +1036,7 @@ permalink: /at.html
 
 
 
-♣♣  Brauerei Zipf (Brau Union)  _brau union_{:.tags} `#zipf`{:.key} <br>
+♣♣  Brauerei Zipf (Brau Union)  _brau union_{:.tags} _#zipf_{:.key} <br>
 4871 Zipf // Zipf 22  <br>
 [www.zipfer.at](http://www.zipfer.at)  <br>
 {: .brewery #zipf }
@@ -1018,6 +1051,9 @@ permalink: /at.html
 **Zipfer Sparkling** (5.2%, 11.8°)  
 {: .beers }
 
+</div>
+
+
 
 
 
@@ -1027,12 +1063,15 @@ permalink: /at.html
 
 [Hallein-Kaltenhausen](#halleinkaltenhausen) • [Obertrum](#obertrum) • [Salzburg](#salzburg) _(4)_{:.count}
 
+<div class='columns2' markdown='1'>
+
+
 ##### Hallein-Kaltenhausen  
 {: .city #halleinkaltenhausen }
 
 
 
-♣♣  Hofbräu Kaltenhausen (Brau Union)  - 1475  _brauunion_{:.tags} `#kaltenhausen`{:.key} <br>
+♣♣  Hofbräu Kaltenhausen (Brau Union)  - 1475  _brauunion_{:.tags} _#kaltenhausen_{:.key} <br>
 5400 Hallein-Kaltenhausen // Salzburger Straße 67  <br>
 [www.kaltenhausen.at](http://www.kaltenhausen.at)  <br>
 {: .brewery #kaltenhausen }
@@ -1048,7 +1087,7 @@ permalink: /at.html
 
 
 
-♣♣  Trumer Privatbrauerei   `#trumer`{:.key} <br>
+♣♣  Trumer Privatbrauerei   _#trumer_{:.key} <br>
 5162 Obertrum // Brauhausgasse 2  <br>
 [www.trumer.at](http://www.trumer.at)  <br>
 {: .brewery #trumer }
@@ -1063,7 +1102,7 @@ permalink: /at.html
 
 
 
-♣♣♣  Stieglbrauerei • Stieglbrauerei zu Salzburg  - 1492   `#stiegl`{:.key} <br>
+♣♣♣  Stieglbrauerei • Stieglbrauerei zu Salzburg  - 1492   _#stiegl_{:.key} <br>
 5017 Salzburg // Kendlerstraße 1  <br>
 [www.stiegl.at](http://www.stiegl.at)  <br>
 {: .brewery #stiegl }
@@ -1074,7 +1113,7 @@ permalink: /at.html
 **Stiegl Weizengold**   
 {: .beers }
 
-♣  Augustiner Bräu Kloster Mülln  - 1621   `#augustinermuelln`{:.key} <br>
+♣  Augustiner Bräu Kloster Mülln  - 1621   _#augustinermuelln_{:.key} <br>
 5020 Salzburg // Lindhofstraße 7  <br>
 [www.augustinerbier.at](http://www.augustinerbier.at)  <br>
 {: .brewery #augustinermuelln }
@@ -1083,7 +1122,7 @@ permalink: /at.html
 **Augustiner Bock** (6.5%, 16.5°)  
 {: .beers }
 
- Brauerei Gusswerk   `#gusswerk`{:.key} <br>
+ Brauerei Gusswerk   _#gusswerk_{:.key} <br>
 5020 Salzburg // Söllheimerstraße 16  <br>
 [www.brauhaus-gusswerk.at](http://www.brauhaus-gusswerk.at)  <br>
 {: .brewery #gusswerk }
@@ -1094,10 +1133,13 @@ permalink: /at.html
 **Urban Keller's Steinbier** (5.6%, 12.7°) _steinbier_{:.tags} 
 {: .beers }
 
- Die Weisse Brauerei  - 1901   `#dieweisse`{:.key} <br>
+ Die Weisse Brauerei  - 1901   _#dieweisse_{:.key} <br>
 5020 Salzburg // Bayerhamerstraße 10  <br>
 [www.salzburgerweissbier.at](http://www.salzburgerweissbier.at)  <br>
 {: .brewery #dieweisse }
+
+
+</div>
 
 
 
@@ -1109,12 +1151,15 @@ permalink: /at.html
 
 [Alpach](#alpach) • [Innsbruck](#innsbruck) • [Lienz](#lienz) • [St. Johann](#stjohann) • [Tarrenz](#tarrenz) • [Unterperfuß/Innsbruck](#unterperfussinnsbruck) • [Vils](#vils) • [Zell am Ziller](#zellamziller)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Alpach  
 {: .city #alpach }
 
 
 
- Kristall Brauerei   `#kristall`{:.key} <br>
+ Kristall Brauerei   _#kristall_{:.key} <br>
 6236 Alpach // Inneralpbach 431  <br>
 {: .brewery #kristall }
 
@@ -1124,7 +1169,7 @@ permalink: /at.html
 
 
 
- Brauerei Harald Franz Baumgartner   `#baumgartnerinnsbruck`{:.key} <br>
+ Brauerei Harald Franz Baumgartner   _#baumgartnerinnsbruck_{:.key} <br>
 6020 Innsbruck // Feldstraße 11a  <br>
 {: .brewery #baumgartnerinnsbruck }
 
@@ -1134,7 +1179,7 @@ permalink: /at.html
 
 
 
-♣♣  Brauerei Falkenstein (Brau Union)  _brauunion_{:.tags} `#falkenstein`{:.key} <br>
+♣♣  Brauerei Falkenstein (Brau Union)  _brauunion_{:.tags} _#falkenstein_{:.key} <br>
 9900 Lienz // Pußtertaler Straße 40  <br>
 {: .brewery #falkenstein }
 
@@ -1144,7 +1189,7 @@ permalink: /at.html
 
 
 
- Familienbrauerei Huber  - 1727   `#huberbraeu`{:.key} <br>
+ Familienbrauerei Huber  - 1727   _#huberbraeu_{:.key} <br>
 6380 St. Johann // Brauweg 2  <br>
 [www.huberbraeu.at](http://www.huberbraeu.at)  <br>
 {: .brewery #huberbraeu }
@@ -1158,7 +1203,7 @@ permalink: /at.html
 
 
 
- Brauerei Schloß Starkenberg  - 1810   `#starkenberg`{:.key} <br>
+ Brauerei Schloß Starkenberg  - 1810   _#starkenberg_{:.key} <br>
 6464 Tarrenz // Griesegg 1  <br>
 [www.starkenberg.at](http://www.starkenberg.at)  <br>
 {: .brewery #starkenberg }
@@ -1169,7 +1214,7 @@ permalink: /at.html
 
 
 
- Branger Bräu  - 1993   `#brangerbraeu`{:.key} <br>
+ Branger Bräu  - 1993   _#brangerbraeu_{:.key} <br>
 6175 Unterperfuß/Innsbruck // Unterperfuß 32  <br>
 [www.brangeralm.at](http://www.brangeralm.at)  <br>
 {: .brewery #brangerbraeu }
@@ -1180,7 +1225,7 @@ permalink: /at.html
 
 
 
- Vilser Privatbrauerei   `#vilser`{:.key} <br>
+ Vilser Privatbrauerei   _#vilser_{:.key} <br>
 6682 Vils // Stadtgasse 2  <br>
 [www.vilserprivatbrauerei.at](http://www.vilserprivatbrauerei.at)  <br>
 {: .brewery #vilser }
@@ -1191,7 +1236,7 @@ permalink: /at.html
 
 
 
-♣  Brauhaus Simon Strasser  - 1509   `#zillertal`{:.key} <br>
+♣  Brauhaus Simon Strasser  - 1509   _#zillertal_{:.key} <br>
 6280 Zell am Ziller // Bräuweg 1  <br>
 [www.zillertal-bier.at](http://www.zillertal-bier.at)  <br>
 {: .brewery #zillertal }
@@ -1200,6 +1245,9 @@ permalink: /at.html
 **Zillertal Pils** (4.9%, 11.0°)   • 
 **Zillertal Schwarzes** (5.2%, 12.0°)  
 {: .beers }
+
+</div>
+
 
 
 
@@ -1210,12 +1258,15 @@ permalink: /at.html
 
 [Bludenz](#bludenz) • [Dornbirn](#dornbirn) • [Egg](#egg) • [Frastanz](#frastanz)
 
+<div class='columns2' markdown='1'>
+
+
 ##### Bludenz  
 {: .city #bludenz }
 
 
 
-♣♣  Brauerei Fohrenburg  - 1881   `#fohrenburg`{:.key} <br>
+♣♣  Brauerei Fohrenburg  - 1881   _#fohrenburg_{:.key} <br>
 6700 Bludenz // Fohrenburgstraße 5  <br>
 [www.fohrenburg.at](http://www.fohrenburg.at)  <br>
 {: .brewery #fohrenburg }
@@ -1236,7 +1287,7 @@ permalink: /at.html
 
 
 
-♣♣  Mohrenbrauerei  - 1834   `#mohren`{:.key} <br>
+♣♣  Mohrenbrauerei  - 1834   _#mohren_{:.key} <br>
 6850 Dornbirn // Dr.-Waibel-Straße 2  <br>
 [www.mohrenbrauerei.at](http://www.mohrenbrauerei.at)  <br>
 {: .brewery #mohren }
@@ -1253,7 +1304,7 @@ permalink: /at.html
 
 
 
-♣  Brauerei Egg  - 1894   `#egg`{:.key} <br>
+♣  Brauerei Egg  - 1894   _#egg_{:.key} <br>
 6863 Egg // Gerbe 500  <br>
 [www.brauerei-egg.at](http://www.brauerei-egg.at)  <br>
 {: .brewery #egg }
@@ -1268,7 +1319,7 @@ permalink: /at.html
 
 
 
-♣  Vorarlberger Brauereigenossenschaft Frastanz  - 1902   `#frastanz`{:.key} <br>
+♣  Vorarlberger Brauereigenossenschaft Frastanz  - 1902   _#frastanz_{:.key} <br>
 6820 Frastanz //  <br>
 [www.frastanzer.at](http://www.frastanzer.at)  <br>
 {: .brewery #frastanz }
@@ -1279,6 +1330,9 @@ permalink: /at.html
 **Frastanzer Pils** (4.9%, 11.7°)   • 
 **Frastanzer s'klenne** (4.9%, 11.7°)  
 {: .beers }
+
+</div>
+
 
 
 
