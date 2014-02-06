@@ -4,56 +4,6 @@
 # part helpers
 
 
-def render_country( country, opts={} )
-  tmpl       = File.read_utf8( '_templates/country.md.erb' )
-  text = ''
-  text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( tmpl, binding )
-  text
-end
-
-def render_toc( opts={} )
-  tmpl = File.read_utf8( '_templates/toc.md.erb' )
-  text = ''
-  text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( tmpl, binding )
-  text
-end
-
-def render_whats_news_in_year( year, opts={} )
-  tmpl = File.read_utf8( '_templates/whats-news-in-year.md.erb' )
-  text = ''
-  text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( tmpl, binding )
-  text
-end
-
-
-def render_idx_breweries( opts={} )
-  tmpl = File.read_utf8( '_templates/idx-breweries.md.erb' )
-  text = ''
-  text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( tmpl, binding )
-  text
-end
-
-def render_idx_beers( opts={} )
-  tmpl = File.read_utf8( '_templates/idx-beers.md.erb' )
-  text = ''
-  text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( tmpl, binding )
-  text
-end
-
-def render_idx_brands( opts={} )
-  tmpl = File.read_utf8( '_templates/idx-brands.md.erb' )
-  text = ''
-  text << opts[:frontmatter]  if opts[:frontmatter]
-  text << render_erb_template( tmpl, binding )
-  text
-end
-
-
 #####
 # todo: find a better name for ender_toc_countries ??
 
@@ -111,17 +61,17 @@ end
 
 
 def render_city( city )
-  tmpl       = File.read_utf8( '_templates/city.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_city.md.erb' )
   render_erb_template( tmpl, binding )
 end
 
 def render_brewery( brewery )
-  tmpl       = File.read_utf8( '_templates/brewery.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_brewery.md.erb' )
   render_erb_template( tmpl, binding )  
 end
 
 def render_beer( beer )
-  tmpl       = File.read_utf8( '_templates/beer.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_beer.md.erb' )
   render_erb_template( tmpl, binding )
 end
 

@@ -26,7 +26,7 @@ require_relative 'helpers/misc'
 require_relative 'helpers/beer'
 require_relative 'helpers/brewery'
 require_relative 'helpers/city'
-
+require_relative 'helpers/page'
 
 
 require_relative 'filters'
@@ -100,7 +100,7 @@ def build_book
 ### generate breweries index
 
 File.open( '_pages/breweries.md', 'w+') do |file|
-  file.write render_idx_breweries( frontmatter: <<EOS )
+  file.write render_breweries_idx( frontmatter: <<EOS )
 ---
 layout: book
 title: Breweries Index
@@ -114,7 +114,7 @@ end
 ### generate beers index
 
 File.open( '_pages/beers.md', 'w+') do |file|
-  file.write render_idx_beers( frontmatter: <<EOS )
+  file.write render_beers_idx( frontmatter: <<EOS )
 ---
 layout: book
 title: Beers Index
@@ -128,7 +128,7 @@ end
 ### generate brands index
 
 File.open( '_pages/brands.md', 'w+') do |file|
-  file.write render_idx_brands( frontmatter: <<EOS )
+  file.write render_brands_idx( frontmatter: <<EOS )
 ---
 layout: book
 title: Brands Index

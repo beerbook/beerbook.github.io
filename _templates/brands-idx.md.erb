@@ -1,4 +1,4 @@
-# Beers Index _({{ Beer.count }})_{:.count}
+# Brands A-Z Index _({{ Brand.count }})_{:.count}
 
 .. <!-- add/fix: add category for starting w/ non-letters e.g. digits -->
 .. <!-- todo: add entries for synonims - how?? use see xxx  why?  why not? -->
@@ -13,18 +13,17 @@
 
 ## {{ letter }}
 
-{% Beer.where( "key like '#{letter.downcase}%'").order(:key).each do |beer| %}
-  {{ beer.title }} ++
+{% Brand.where( "key like '#{letter.downcase}%'").order(:key).each do |brand| %}
+  {{ brand.title }} ++
    .. <!-- fix: add brewery synonims if exit -->
    .. <!-- fix: add brewery tags here -->
-   {% if beer.brewery_id.present? %} -- {{ beer.brewery.title }} {% end %} ++
+   {% if brand.brewery_id.present? %} -- {{ brand.brewery.title }} {% end %} ++
    ( ++
-   {{ beer.country.title }} ++
-   {% if beer.region_id.present? %} › {{ beer.region.title }} {% end %} ++
-   {% if beer.city_id.present? %} › {{ beer.city.title }} {% end %} ++
+   {{ brand.country.title }} ++
+   {% if brand.region_id.present? %} › {{ brand.region.title }} {% end %} ++
+   {% if brand.city_id.present? %} › {{ brand.city.title }} {% end %} ++
    ) ++
-   {{ beer_tags( beer ) }} ++ 
-   `#{{ beer.key }}`{:.key} ++ 
+   `#{{ brand.key }}`{:.key} ++ 
    <br>
 {% end %}
 
