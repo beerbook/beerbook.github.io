@@ -70,7 +70,7 @@ Beer      = BeerDb::Model::Beer
 
 #####
 # todo/fix: use constant to set  ./_pages   - output (root) folder for generated pages
-
+# todo/fix: use constant to set layout  e.g. book
 
 
 ####################################
@@ -84,7 +84,7 @@ years.each do |year|
   File.open( "_pages/#{year}.md", 'w+') do |file|
     file.write render_whats_news_in_year( year, frontmatter: <<EOS )
 ---
-layout: default
+layout: book
 title: What's News in #{year}?
 permalink: /#{year}.html
 ---
@@ -102,7 +102,7 @@ def build_book
 File.open( '_pages/breweries.md', 'w+') do |file|
   file.write render_idx_breweries( frontmatter: <<EOS )
 ---
-layout: default
+layout: book
 title: Breweries Index
 permalink: /breweries.html
 ---
@@ -116,7 +116,7 @@ end
 File.open( '_pages/beers.md', 'w+') do |file|
   file.write render_idx_beers( frontmatter: <<EOS )
 ---
-layout: default
+layout: book
 title: Beers Index
 permalink: /beers.html
 ---
@@ -130,7 +130,7 @@ end
 File.open( '_pages/brands.md', 'w+') do |file|
   file.write render_idx_brands( frontmatter: <<EOS )
 ---
-layout: default
+layout: book
 title: Brands Index
 permalink: /brands.html
 ---
@@ -144,7 +144,7 @@ end
 File.open( '_pages/index.md', 'w+') do |file|
   file.write render_toc( frontmatter: <<EOS )
 ---
-layout: default
+layout: book
 title: Contents
 permalink: /index.html
 ---
@@ -170,7 +170,7 @@ Country.all.each do |country|
   File.open( "_pages/#{path}", 'w+') do |file|
     file.write render_country( country, frontmatter: <<EOS )
 ---
-layout:    default
+layout:    book
 title:     #{country.title} (#{country.code})
 permalink: /#{country.key}.html
 ---
@@ -191,7 +191,7 @@ def build_book_all_in_one
 
 book_text = <<EOS
 ---
-layout: default
+layout: book
 title: Contents
 permalink: /book.html
 ---
