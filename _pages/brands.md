@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brands Index
+permalink: /brands.html
 ---
 
 # Brands Index _(114)_{:.count}

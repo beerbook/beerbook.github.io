@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Beers Index
+permalink: /beers.html
 ---
 
 # Beers Index _(1157)_{:.count}

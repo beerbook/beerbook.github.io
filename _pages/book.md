@@ -1,9 +1,28 @@
 ---
 layout: default
 title: Contents
+permalink: /book.html
 ---
 
 # Contents
+
+
+[What's News?](#news) • [World Beer Tour](#tour) • [A-Z Breweries, Brands, Beers](#az)
+
+
+## What's News?
+{: #news}
+
+[What's News in 2014?](2014.html)  <br>  
+[What's News in 2013?](2013.html)  <br>  
+[What's News in 2012?](2012.html)  <br>  
+[What's News in 2011?](2011.html)  <br>  
+[What's News in 2010?](2010.html)  <br>  
+
+
+
+## World Beer Tour
+{: #tour}
 
 [Europe](#europe) • [South America](#south-america) • [North America](#north-america) • [Central America](#central-america) • [Caribbean](#caribbean) • [Africa](#africa) • [Middle East](#middle-east) • [Asia & Australia](#asia--australia) • [Pacific](#pacific) • [Others](#others)
 
@@ -135,6 +154,15 @@ title: Contents
 
 
 
+## A-Z Breweries, Brands, Beers
+{: #az}
+
+
+[Breweries A-Z Index](breweries.html) _(1279)_{: .count} <br>
+[Brands A-Z Index](brands.html) _(114)_{: .count} <br>
+[Beers A-Z Index](beers.html) _(1157)_{: .count}  <br>
+
+
 ---------------------------------------
 
 ## Albania (ALB) - 1 Beers, 0 Breweries
@@ -145,7 +173,7 @@ title: Contents
 
 ### Uncategorized Beers
 
-Birra Tirana  
+**Birra Tirana** (4.0%) _pils_{:.tags} 
 
 
 
@@ -161,946 +189,1273 @@ Birra Tirana
 
 ### Uncategorized Beers
 
-Fiaker Bräu Bock Hell   • Fiaker Bräu Märzen   • Fiaker Bräu Pils   • Hasel Bräu Helles   • Hasel Bräu Böhmisch   • 7 Stern Bräu Wiener Helles   • 7 Stern Bräu Märzen   • Medl Bräu Märzen   • Schützen Bräu   • Leimer Bräu Hell  
+**Fiaker Bräu Bock Hell** (7.0%, 15.0°)   • 
+**Fiaker Bräu Märzen** (4.9%, 11.9°)   • 
+**Fiaker Bräu Pils** (4.9%, 11.9°)   • 
+**Hasel Bräu Helles** (4.9%, 11.8°)   • 
+**Hasel Bräu Böhmisch** (4.8%, 11.8°)   • 
+**7 Stern Bräu Wiener Helles** (4.7%, 11.8°)   • 
+**7 Stern Bräu Märzen** (5.1%, 13.5°)   • 
+**Medl Bräu Märzen** (4.9%, 12.2°)   • 
+**Schützen Bräu** (4.2%)   • 
+**Leimer Bräu Hell** (5.0%)  
 
 
 
 
-### Burgenland _(2)_{:.count} {: #at-b }
+### Burgenland _(2)_{:.count}
+{: #at-b }
 
 
 [Gols](#gols) • [Kobersdorf](#kobersdorf)
 
-##### Gols 
+##### Gols  
+{: .city #gols }
 
 
-Pannonia Brauerei Gols -   <br>
+
+♣  Pannonia Brauerei Gols   `#gols`{:.key} <br>
 7122 Gols // Sandgrube 1a  <br>
 [www.golserbier.at](http://www.golserbier.at)  <br>
-{:.brewery}
+{: .brewery #gols }
 
-Golser Helles   • Golser Premium  
-{:.beers}
+**Golser Helles** (5.2%, 12.2°)   • 
+**Golser Premium** (5.0%, 11.9°)  
+{: .beers }
 
-##### Kobersdorf 
+##### Kobersdorf  
+{: .city #kobersdorf }
 
 
-Kobersdorfer Schlossbräu -   <br>
+
+ Kobersdorfer Schlossbräu   `#kobersdorfer`{:.key} <br>
 7332 Kobersdorf // Hauptstraße 43  <br>
 [www.kobersdorfer.at](http://www.kobersdorfer.at)  <br>
-{:.brewery}
+{: .brewery #kobersdorfer }
 
 
 
 
 
-### Niederösterreich [Lower Austria] _(19)_{:.count} {: #at-n }
+### Niederösterreich [Lower Austria] _(19)_{:.count}
+{: #at-n }
 
 
 [Brunn am Gebirge](#brunnamgebirge) • [Gablitz](#gablitz) • [Gaming](#gaming) _(2)_{:.count} • [Hainfeld](#hainfeld) • [Korneuburg](#korneuburg) • [Krumbach](#krumbach) • [Laa/Thaya](#laathaya) • [Schottwien](#schottwien) • [Schrems](#schrems) • [Schwechat](#schwechat) • [Thernberg](#thernberg) • [Unterradlberg](#unterradlberg) • [Untersiebenbrunn](#untersiebenbrunn) • [Warth](#warth) • [Weitra](#weitra) • [Wieselburg](#wieselburg) • [Winzendorf](#winzendorf) • [Zwettl](#zwettl)
 
-##### Brunn am Gebirge 
+##### Brunn am Gebirge  
+{: .city #brunnamgebirge }
 
 
-Die Bierzauberei -   <br>
+
+ Die Bierzauberei   `#bierzauberei`{:.key} <br>
 2345 Brunn am Gebirge // Leopold Gattringer-Straße 39  <br>
 [www.bierzauberer.info](http://www.bierzauberer.info)  <br>
-{:.brewery}
+{: .brewery #bierzauberei }
 
 
-##### Gablitz 
+##### Gablitz  
+{: .city #gablitz }
 
 
-Gablitzer Privatbrauerei - 2009  <br>
+
+ Gablitzer Privatbrauerei  - 2009   `#gablitzer`{:.key} <br>
 3003 Gablitz // Spitzersteig 10  <br>
 [www.gablitzer.at](http://www.gablitzer.at)  <br>
-{:.brewery}
+{: .brewery #gablitzer }
 
-Gablitzer Original  
-{:.beers}
+**Gablitzer Original** (4.8%, 12.0°)  
+{: .beers }
 
-##### Gaming  _(2)_{:.count} 
+##### Gaming _(2)_{:.count} 
+{: .city #gaming }
 
 
-Bruckners Brauwelt -   <br>
+
+ Bruckners Brauwelt   `#bruckners`{:.key} <br>
 3292 Gaming // Grubberg 4a  <br>
 [www.bruckners-brauwelt.at](http://www.bruckners-brauwelt.at)  <br>
-{:.brewery}
+{: .brewery #bruckners }
 
 
-Privatbrauerei Gaming -   <br>
+ Privatbrauerei Gaming • Kartausen Bräu   `#kartausenbraeu`{:.key} <br>
 3293 Gaming // Kartause 1  <br>
-{:.brewery}
+{: .brewery #kartausenbraeu }
 
-Kartausen Bräu Hell  
-{:.beers}
+**Kartausen Bräu Hell** (5.0%, 11.8°)  
+{: .beers }
 
-##### Hainfeld 
+##### Hainfeld  
+{: .city #hainfeld }
 
 
-Brauerei Hainfeld -   <br>
+
+ Brauerei Hainfeld   `#hainfeld`{:.key} <br>
 3170 Hainfeld // Wienerstraße 10  <br>
 [www.brauerei-hainfeld.at](http://www.brauerei-hainfeld.at)  <br>
-{:.brewery}
+{: .brewery #hainfeld }
 
-Hainfelder Edel-Pils   • Hainfelder Lager Hell   • Hainfelder Spezial Hell  
-{:.beers}
+**Hainfelder Edel-Pils** (4.8%, 11.5°)   • 
+**Hainfelder Lager Hell** (5.0%, 12.2°)   • 
+**Hainfelder Spezial Hell** (6.0%, 13.5°)  
+{: .beers }
 
-##### Korneuburg 
+##### Korneuburg  
+{: .city #korneuburg }
 
 
-Biermanufaktur Korneuburg -   <br>
+
+ Biermanufaktur Korneuburg   `#korneuburg`{:.key} <br>
 2100 Korneuburg // Brückenstraße 8  <br>
 [www.biermanufaktur.at](http://www.biermanufaktur.at)  <br>
-{:.brewery}
+{: .brewery #korneuburg }
 
-Korneuburger Original   • Korneuburger Privat   • Korneuburger Premium  
-{:.beers}
+**Korneuburger Original** (5.2%, 12.6°)   • 
+**Korneuburger Privat** (5.0%, 12.5°)   • 
+**Korneuburger Premium** (5.1%, 12.8°)  
+{: .beers }
 
-##### Krumbach 
+##### Krumbach  
+{: .city #krumbach }
 
 
-Privatbrauerei Gerald Schwarz -   <br>
+
+ Privatbrauerei Gerald Schwarz   `#schwarzbraeu`{:.key} <br>
 2851 Krumbach // Bundesstraße 19  <br>
 [www.schwarzbraeu.at](http://www.schwarzbraeu.at)  <br>
-{:.brewery}
+{: .brewery #schwarzbraeu }
 
-Schwarz Bräu Helles   • Schwarz Bräu Hopfen Helle   • Schwarz Bräu Bock  
-{:.beers}
+**Schwarz Bräu Helles** (5.0%, 12.4°)   • 
+**Schwarz Bräu Hopfen Helle** (5.0%)   • 
+**Schwarz Bräu Bock** (7.6%, 16.9°)  
+{: .beers }
 
-##### Laa/Thaya 
+##### Laa/Thaya  
+{: .city #laathaya }
 
 
-Hubertus Bräu - 1454  <br>
+
+♣  Hubertus Bräu  - 1454   `#hubertus`{:.key} <br>
 2136 Laa/Thaya // Hubertusgasse 1  <br>
 [www.hubertus.at](http://www.hubertus.at)  <br>
-{:.brewery}
+{: .brewery #hubertus }
 
-Hubertus Märzen   • Hubertus Pils   • Hubertus Dunkel  
-{:.beers}
+**Hubertus Märzen** (5.1%, 11.9°)   • 
+**Hubertus Pils** (5.4%, 12.5°)   • 
+**Hubertus Dunkel** (3.9%, 12.4°)  
+{: .beers }
 
-##### Schottwien 
+##### Schottwien  
+{: .city #schottwien }
 
 
-Brettner Brauerei ("Altes Doktorhaus") -   <br>
+
+ Brettner Brauerei ("Altes Doktorhaus")   `#brettner`{:.key} <br>
 2641 Schottwien // Hauptstraße 49  <br>
 [www.brettner.at](http://www.brettner.at)  <br>
-{:.brewery}
+{: .brewery #brettner }
 
-Brettner Fuhrmannsgold  
-{:.beers}
+**Brettner Fuhrmannsgold** (5.5%, 13.5°)  
+{: .beers }
 
-##### Schrems 
+##### Schrems  
+{: .city #schrems }
 
 
-Brauerei Schrems - 1410  <br>
+
+♣  Brauerei Schrems  - 1410   `#schrems`{:.key} <br>
 3943 Schrems // Niederschremser Straße 1  <br>
 [www.schremser.at](http://www.schremser.at)  <br>
-{:.brewery}
+{: .brewery #schrems }
 
-Schremser Premium   • Schremser Edelmärzen   • Schremser Pils   • Schremser Doppelmalz   • Schremser Bio Roggen   • Schremser Bio Naturpark  
-{:.beers}
+**Schremser Premium** (5.1%, 11.9°)   • 
+**Schremser Edelmärzen** (5.0%, 11.9°)   • 
+**Schremser Pils** (4.5%, 11.2°)   • 
+**Schremser Doppelmalz** (4.6%, 11.9°)   • 
+**Schremser Bio Roggen** (5.2%, 11.9°) _roggenbier_{:.tags}  • 
+**Schremser Bio Naturpark** (5.1%, 11.9°)  
+{: .beers }
 
-##### Schwechat 
+##### Schwechat  
+{: .city #schwechat }
 
 
-Brauerei Schwechat (Brau Union) - 1796  <br>
+
+♣♣  Brauerei Schwechat (Brau Union)  - 1796  _brau union_{:.tags} `#schwechat`{:.key} <br>
 2320 Schwechat // Mautner Markhof-Straße 11  <br>
 [www.schwechater.at](http://www.schwechater.at)  <br>
-{:.brewery}
+{: .brewery #schwechat }
 
-Schwechater   • Schwechater Zwickl   • Schwechater Hopfenperle  
-{:.beers}
+**Schwechater** (5.0%, 11.5°)   • 
+**Schwechater Zwickl** (5.4%, 12.5°)   • 
+**Schwechater Hopfenperle** (5.1%, 11.8°)  
+{: .beers }
 
-##### Thernberg 
+##### Thernberg  
+{: .city #thernberg }
 
 
-Wolfsbräu -   <br>
+
+ Wolfsbräu   `#wolfsbrau`{:.key} <br>
 2832 Thernberg // Blumengasse 7  <br>
 [www.wolfsbrau.at](http://www.wolfsbrau.at)  <br>
-{:.brewery}
+{: .brewery #wolfsbrau }
 
 
-##### Unterradlberg 
+##### Unterradlberg  
+{: .city #unterradlberg }
 
 
-Privatbrauerei Fritz Egger - 1978  <br>
+
+♣♣  Privatbrauerei Fritz Egger  - 1978   `#egger`{:.key} <br>
 3105 Unterradlberg // Tiroler Straße 18  <br>
 [www.egger-bier.at](http://www.egger-bier.at)  <br>
-{:.brewery}
+{: .brewery #egger }
 
-Egger Märzen   • Egger Zwickl 1868   • Egger Permium   • Egger Leicht  
-{:.beers}
+**Egger Märzen** (5.2%, 11.8°)   • 
+**Egger Zwickl 1868** (5.1%, 11.6°)   • 
+**Egger Permium** (5.2%, 11.8°)   • 
+**Egger Leicht** (3.5%, 8.800000000000001°)  
+{: .beers }
 
-##### Untersiebenbrunn 
+##### Untersiebenbrunn  
+{: .city #untersiebenbrunn }
 
 
-Marchfelder Storchenbräu -   <br>
+
+ Marchfelder Storchenbräu   `#storchenbraeu`{:.key} <br>
 2284 Untersiebenbrunn // Brückengasse 5  <br>
 [www.storchenbraeu.at](http://www.storchenbraeu.at)  <br>
-{:.brewery}
+{: .brewery #storchenbraeu }
 
-Marchfelder Störchle   • Marchfelder Märzen   • Marchfelder Pils   • Marchfelder Adebar  
-{:.beers}
+**Marchfelder Störchle** (5.5%, 12.5°)   • 
+**Marchfelder Märzen** (5.5%, 12.5°)   • 
+**Marchfelder Pils** (5.5%, 12.5°)   • 
+**Marchfelder Adebar** (5.5%, 12.5°)  
+{: .beers }
 
-##### Warth 
+##### Warth  
+{: .city #warth }
 
 
-Holzb(r)auer / Natürliche Handwerksbrauerei -   <br>
+
+ Holzb(r)auer / Natürliche Handwerksbrauerei   `#holzbrauer`{:.key} <br>
 2831 Warth // Wiesengasse 9  <br>
-{:.brewery}
+{: .brewery #holzbrauer }
 
 
-##### Weitra 
+##### Weitra  
+{: .city #weitra }
 
 
-Weitra Bräu Bierwerkstatt - 1321  <br>
+
+♣  Weitra Bräu Bierwerkstatt • Brauerei Weitra  - 1321  _zwettler_{:.tags} `#weitra`{:.key} <br>
 3970 Weitra // Sparkasseplatz 160  <br>
 [www.bierwerkstatt.at](http://www.bierwerkstatt.at)  <br>
-{:.brewery}
+{: .brewery #weitra }
 
-Weitra Helles   • Hadmar Bio  
-{:.beers}
+**Weitra Helles** (5.0%, 11.8°)   • 
+**Hadmar Bio** (5.2%, 12.5°) _bio_{:.tags} 
+{: .beers }
 
-##### Wieselburg 
+##### Wieselburg  
+{: .city #wieselburg }
 
 
-Brauerei Wieselburg (Brau Union) - 1770  <br>
+
+♣♣  Brauerei Wieselburg (Brau Union)  - 1770  _brau union_{:.tags} `#wieselburg`{:.key} <br>
 3250 Wieselburg // Dr.-Beuerle-Straße 1  <br>
 [www.wieselburger.at](http://www.wieselburger.at)  <br>
-{:.brewery}
+{: .brewery #wieselburg }
 
-Wieselburger Gold   • Wieselburger Spezial   • Wieselburger Stammbräu   • Kaiser Fasstyp   • Kaiser Goldquell   • Kaiser 2.9 %   • Kaiser Premium   • Kaiser Doppelmalz  
-{:.beers}
+**Wieselburger Gold** (5.0%, 11.8°)   • 
+**Wieselburger Spezial** (5.7%, 13.1°)   • 
+**Wieselburger Stammbräu** (5.4%, 12.6°)   • 
+**Kaiser Fasstyp** (5.0%, 11.6°) _maerzen_{:.tags}  • 
+**Kaiser Goldquell** (5.7%, 12.8°)   • 
+**Kaiser 2.9 %** (2.9%, 9.199999999999999°)   • 
+**Kaiser Premium** (5.4%, 12.2°)   • 
+**Kaiser Doppelmalz** (4.7%, 12.8°)  
+{: .beers }
 
-##### Winzendorf 
+##### Winzendorf  
+{: .city #winzendorf }
 
 
-Emmerberg-Bräu / Erste Österreichische Ökobrauerei - 1991  <br>
+
+ Emmerberg-Bräu / Erste Österreichische Ökobrauerei  - 1991   `#emmerberg`{:.key} <br>
 2722 Winzendorf // Hauptstraße 137  <br>
-{:.brewery}
+{: .brewery #emmerberg }
 
 
-##### Zwettl 
+##### Zwettl  
+{: .city #zwettl }
 
 
-Zwettler Brauerei - 1709  <br>
+
+♣♣  Zwettler Brauerei • Privatbrauerei Zwettl  - 1709   `#zwettler`{:.key} <br>
 3910 Zwettl // Syrnauer Straße 22-25  <br>
 [www.zwettler.at](http://www.zwettler.at)  <br>
-{:.brewery}
+{: .brewery #zwettler }
 
-Zwettler Original   • Zwettler Export Lager   • Zwettler Pils   • Zwettler Zwickl   • Zwettler Dunkles   • Zwettler Kuenringer Festbock   • Zwettler Saphir (Premium Pils)  
-{:.beers}
-
-
-
-
-### Wien [Vienna] _(1)_{:.count} {: #at-w }
-
-
-
-
-##### Wien 
+**Zwettler Original** (5.1%, 11.9°)   • 
+**Zwettler Export Lager** (5.0%, 11.8°)   • 
+**Zwettler Pils** (4.9%, 11.5°)   • 
+**Zwettler Zwickl** (5.5%, 12.5°)   • 
+**Zwettler Dunkles** (3.4%, 11.5°)   • 
+**Zwettler Kuenringer Festbock** (6.8%, 16.2°)   • 
+**Zwettler Saphir (Premium Pils)** (5.3%, 12.3°)  
+{: .beers }
 
 
-Ottakringer Brauerei - 1838  <br>
+
+
+### Wien [Vienna] _(1)_{:.count}
+{: #at-w }
+
+
+
+
+##### Wien   _pop 1.731.236 (1.724.000)_{:.pop}
+{: .city #wien }
+
+
+
+♣♣  Ottakringer Brauerei  - 1838   `#ottakringer`{:.key} <br>
 1160 Wien // Ottakringer Platz 1  <br>
 [www.ottakringer.at](http://www.ottakringer.at)  <br>
-{:.brewery}
+{: .brewery #ottakringer }
 
-Ottakringer Helles   • Ottakringer Gold Fassl Spezial   • Ottakringer (Gold Fassl) Pils   • Ottakringer (Gold Fassl) Pur {Bio}   • Ottakringer (Gold Fassl) Zwickl   • Ottakringer (Gold Fassl) Zwickl Rot   • Ottakringer (Gold Fassl) Dunkles   • Ottakringer (Gold Fassl) Bock  
-{:.beers}
+**Ottakringer Helles** (5.2%, 11.8°)   • 
+**Ottakringer Gold Fassl Spezial** (5.6%, 12.7°)   • 
+**Ottakringer (Gold Fassl) Pils** (4.6%, 11.2°)   • 
+**Ottakringer (Gold Fassl) Pur {Bio}** (5.2%, 11.8°) _bio_{:.tags}  • 
+**Ottakringer (Gold Fassl) Zwickl** (5.2%, 12.2°)   • 
+**Ottakringer (Gold Fassl) Zwickl Rot** (5.2%, 12.2°)   • 
+**Ottakringer (Gold Fassl) Dunkles** (5.2%, 12.2°)   • 
+**Ottakringer (Gold Fassl) Bock** (7.6%, 17.0°)  
+{: .beers }
 
 
 
 
-### Steiermark [Styria] _(15)_{:.count} {: #at-st }
+### Steiermark [Styria] _(15)_{:.count}
+{: #at-st }
 
 
 [Bad Radkersburg](#badradkersburg) • [Ebersdorf](#ebersdorf) • [Eisenerz](#eisenerz) • [Fürstenfeld](#fuerstenfeld) • [Graz](#graz) • [Göss/Leoben](#goessleoben) • [Kaindorf](#kaindorf) • [Kalsdorf](#kalsdorf) • [Leutschach](#leutschach) • [Murau](#murau) • [Schladming](#schladming) • [St. Marein](#stmarein) • [St. Nikolai i. S.](#stnikolaiis) • [Weinburg](#weinburg) • [Wundschuh](#wundschuh)
 
-##### Bad Radkersburg 
+##### Bad Radkersburg  
+{: .city #badradkersburg }
 
 
-Brauhaus Bevog -   <br>
+
+ Brauhaus Bevog   `#bevog`{:.key} <br>
 8490 Bad Radkersburg // Gewerbepark B Nr. 9  <br>
 [www.bevog.at](http://www.bevog.at)  <br>
-{:.brewery}
+{: .brewery #bevog }
 
 
-##### Ebersdorf 
+##### Ebersdorf  
+{: .city #ebersdorf }
 
 
-Toni Bräu -   <br>
+
+ Toni Bräu   `#tonibraeu`{:.key} <br>
 8273 Ebersdorf // Wagenbach 61  <br>
 [www.tonibraeu.at](http://www.tonibraeu.at)  <br>
-{:.brewery}
+{: .brewery #tonibraeu }
 
-Toni Bräu Helles  
-{:.beers}
+**Toni Bräu Helles** (5.0%, 12.0°)  
+{: .beers }
 
-##### Eisenerz 
+##### Eisenerz  
+{: .city #eisenerz }
 
 
-Privatbrauerei Erzbergbräu -   <br>
+
+ Privatbrauerei Erzbergbräu   `#erzbergbraeu`{:.key} <br>
 8790 Eisenerz // Trofengbachgasse 2  <br>
 [www.erzbergbraeu.at](http://www.erzbergbraeu.at)  <br>
-{:.brewery}
+{: .brewery #erzbergbraeu }
 
 
-##### Fürstenfeld 
+##### Fürstenfeld  
+{: .city #fuerstenfeld }
 
 
-Nibelungengold Brauerei -   <br>
+
+ Nibelungengold Brauerei   `#nibelungengold`{:.key} <br>
 8280 Fürstenfeld // Franz-Bauer-Weg 4  <br>
 [www.nibelungengold.at](http://www.nibelungengold.at)  <br>
-{:.brewery}
+{: .brewery #nibelungengold }
 
 
-##### Graz 
+##### Graz   _pop 265.318_{:.pop}
+{: .city #graz }
 
 
-Brauerei Puntigam (Brau Union) -   <br>
+
+♣♣  Brauerei Puntigam (Brau Union)  _brauunion_{:.tags} `#puntigam`{:.key} <br>
 8055 Graz // Triester Straße 359  <br>
 [www.puntigamer.at](http://www.puntigamer.at)  <br>
-{:.brewery}
+{: .brewery #puntigam }
 
-Puntigamer Panther   • Puntigamer (Das "bierige" Bier)   • Puntigamer Winterbier   • Reininghaus Märzen   • Reininghaus Pils   • Reininghaus Jahrgangspils 2011   • Reininghaus Jahrgangspils 2012   • Reininghaus Malz  
-{:.beers}
+**Puntigamer Panther** (5.2%, 12.1°)   • 
+**Puntigamer (Das "bierige" Bier)** (5.1%, 11.8°) _maerzen_{:.tags}  • 
+**Puntigamer Winterbier** (6.0%, 13.8°)   • 
+**Reininghaus Märzen** (5.0%, 11.8°)   • 
+**Reininghaus Pils** (4.8%, 11.4°)   • 
+**Reininghaus Jahrgangspils 2011** (4.9%, 11.3°)   • 
+**Reininghaus Jahrgangspils 2012** (4.9%, 11.3°)   • 
+**Reininghaus Malz** (4.5%, 11.8°)  
+{: .beers }
 
-##### Göss/Leoben 
+##### Göss/Leoben  
+{: .city #goessleoben }
 
 
-Gösser Brauerei (Brau Union) -   <br>
+
+♣♣  Gösser Brauerei (Brau Union) • Brauerei Göss  _brauunion_{:.tags} `#goesser`{:.key} <br>
 8700 Göss/Leoben // Brauhausgasse 1  <br>
 [www.goesser.at](http://www.goesser.at)  <br>
-{:.brewery}
+{: .brewery #goesser }
 
-Gösser Märzen   • Gösser Gold   • Gösser Spezial   • Gösser Zwickl   • Gösser Dunkles Zwickl   • Gösser Bock   • Gösser Stiftsbräu  
-{:.beers}
+**Gösser Märzen** (5.2%, 11.8°)   • 
+**Gösser Gold** (5.3%, 12.2°)   • 
+**Gösser Spezial** (5.7%, 13.2°)   • 
+**Gösser Zwickl** (5.2%, 11.8°)   • 
+**Gösser Dunkles Zwickl** (5.7%, 13.2°)   • 
+**Gösser Bock** (7.1%, 16.2°) _seasonal weihnacht_{:.tags}  • 
+**Gösser Stiftsbräu** (4.2%, 11.8°)  
+{: .beers }
 
-##### Kaindorf 
+##### Kaindorf  
+{: .city #kaindorf }
 
 
-Brauerei Gratzer -   <br>
+
+ Brauerei Gratzer   `#gratzer`{:.key} <br>
 8224 Kaindorf // Obertiefenbach 26  <br>
 [www.brauereigratzer.at](http://www.brauereigratzer.at)  <br>
-{:.brewery}
+{: .brewery #gratzer }
 
-Gratzer Johann   • Gratzer Ludwig  
-{:.beers}
+**Gratzer Johann** (5.3%, 12.8°)   • 
+**Gratzer Ludwig** (7.2%, 16.7°)  
+{: .beers }
 
-##### Kalsdorf 
+##### Kalsdorf  
+{: .city #kalsdorf }
 
 
-Handbrauerei Forstner -   <br>
+
+ Handbrauerei Forstner   `#forstner`{:.key} <br>
 8401 Kalsdorf // Dorfstraße 52  <br>
 [www.forstner-biere.at](http://www.forstner-biere.at)  <br>
-{:.brewery}
+{: .brewery #forstner }
 
-Forstner Blond Pale Ale   • Forstner Das Rote   • Forstner Slow 2 Roggen Ale   • Forstner Styrian Ale   • Forstner Triple 22   • Forstner Vollmond Doppelbock  
-{:.beers}
+**Forstner Blond Pale Ale** (5.0%, 12.6°)   • 
+**Forstner Das Rote** (5.0%, 12.5°)   • 
+**Forstner Slow 2 Roggen Ale** (5.4%, 13.4°)   • 
+**Forstner Styrian Ale** (6.6%, 15.4°)   • 
+**Forstner Triple 22** (9.5%, 22.2°)   • 
+**Forstner Vollmond Doppelbock** (7.5%, 18.3°)  
+{: .beers }
 
-##### Leutschach 
+##### Leutschach  
+{: .city #leutschach }
 
 
-Brauerei Leutschach -   <br>
+
+ Brauerei Leutschach   `#leutschach`{:.key} <br>
 8463 Leutschach // Schillerplatz 3  <br>
 [www.diebrauerei.com](http://www.diebrauerei.com)  <br>
-{:.brewery}
+{: .brewery #leutschach }
 
-Rossnatur  
-{:.beers}
+**Rossnatur** (5.3%, 12.2°)  
+{: .beers }
 
-##### Murau 
+##### Murau  
+{: .city #murau }
 
 
-Brauerei Murau -   <br>
+
+♣  Brauerei Murau • Obermurtaler Brauerei   `#murau`{:.key} <br>
 8850 Murau // Raffaltplatz 19-23  <br>
 [www.murauerbier.at](http://www.murauerbier.at)  <br>
-{:.brewery}
+{: .brewery #murau }
 
-Murauer Märzen   • Murauer Pils   • Murauer Hopfengold  
-{:.beers}
+**Murauer Märzen** (5.2%, 12.5°)   • 
+**Murauer Pils** (5.1%, 12.2°)   • 
+**Murauer Hopfengold** (5.7%, 13.5°) _spezial_{:.tags} 
+{: .beers }
 
-##### Schladming 
+##### Schladming  
+{: .city #schladming }
 
 
-Schladminger Brau (Brau Union) - 1909  <br>
+
+♣  Schladminger Brau (Brau Union)  - 1909  _brauunion_{:.tags} `#schladminger`{:.key} <br>
 8970 Schladming // Hammerfeldweg 163  <br>
 [www.schladmingerbier.at](http://www.schladmingerbier.at)  <br>
-{:.brewery}
+{: .brewery #schladminger }
 
-Schladminger Märzen   • Schladminger Schnee Weiße   • Schladminger BioZwickl   • Schladminger Sepp  
-{:.beers}
+**Schladminger Märzen** (5.1%, 11.7°)   • 
+**Schladminger Schnee Weiße** (5.0%, 12.2°) _weizenbier_{:.tags}  • 
+**Schladminger BioZwickl** (5.2%, 11.9°)   • 
+**Schladminger Sepp** (5.1%, 11.7°)  
+{: .beers }
 
-##### St. Marein 
+##### St. Marein  
+{: .city #stmarein }
 
 
-Trieb Bräu -   <br>
+
+ Trieb Bräu   `#triebbraeu`{:.key} <br>
 8641 St. Marein // Ferdinand Raimundweg 7  <br>
-{:.brewery}
+{: .brewery #triebbraeu }
 
-Trieb Bräu Märzen  
-{:.beers}
+**Trieb Bräu Märzen** (5.1%)  
+{: .beers }
 
-##### St. Nikolai i. S. 
+##### St. Nikolai i. S.  
+{: .city #stnikolaiis }
 
 
-Brauerei Michael Löscher -   <br>
+
+ Brauerei Michael Löscher   `#flamberger`{:.key} <br>
 8505 St. Nikolai i. S. // Flamberg 101  <br>
 [www.flamberger.at](http://www.flamberger.at)  <br>
-{:.brewery}
+{: .brewery #flamberger }
 
 
-##### Weinburg 
+##### Weinburg  
+{: .city #weinburg }
 
 
-Landwerkstatt & Genusslabor -   <br>
+
+ Landwerkstatt & Genusslabor   `#pock`{:.key} <br>
 8481 Weinburg // Pichla/M. 31  <br>
 [www.pockbier.com](http://www.pockbier.com)  <br>
-{:.brewery}
+{: .brewery #pock }
 
 
-##### Wundschuh 
+##### Wundschuh  
+{: .city #wundschuh }
 
 
-Herzog Hofbräu -   <br>
+
+ Herzog Hofbräu   `#herzoghofbraeu`{:.key} <br>
 8142 Wundschuh // Steindorf 8  <br>
 [www.herzog-hofbraeu.at](http://www.herzog-hofbraeu.at)  <br>
-{:.brewery}
+{: .brewery #herzoghofbraeu }
 
 
 
 
 
-### Kärnten [Carinthia] _(5)_{:.count} {: #at-k }
+### Kärnten [Carinthia] _(5)_{:.count}
+{: #at-k }
 
 
 [Klagenfurt](#klagenfurt) • [Kraig](#kraig) • [Kötschach-Mauthen](#koetschachmauthen) • [Micheldorf](#micheldorf) • [Villach](#villach)
 
-##### Klagenfurt 
+##### Klagenfurt   _pop 94.796_{:.pop}
+{: .city #klagenfurt }
 
 
-Schleppe Brauerei (Vereinigte Kärntner Brauereien) - 1607  <br>
+
+♣  Schleppe Brauerei (Vereinigte Kärntner Brauereien)  - 1607   `#schleppe`{:.key} <br>
 9020 Klagenfurt // Schleppeplatz 1  <br>
 [www.schleppe.at](http://www.schleppe.at)  <br>
-{:.brewery}
+{: .brewery #schleppe }
 
-‹Schleppe› Märzen  
-{:.beers}
+**‹Schleppe› Märzen** (5.0%, 11.7°)  
+{: .beers }
 
-##### Kraig 
+##### Kraig  
+{: .city #kraig }
 
 
-Wimitzbräu -   <br>
+
+ Wimitzbräu   `#wimitz`{:.key} <br>
 9311 Kraig // Wimitz 7  <br>
 [www.wimitzbraeu.com](http://www.wimitzbraeu.com)  <br>
-{:.brewery}
+{: .brewery #wimitz }
 
 
-##### Kötschach-Mauthen 
+##### Kötschach-Mauthen  
+{: .city #koetschachmauthen }
 
 
-Privatbrauerei Loncium -   <br>
+
+ Privatbrauerei Loncium   `#loncium`{:.key} <br>
 9640 Kötschach-Mauthen // Mauthen 60  <br>
 [www.loncium.at](http://www.loncium.at)  <br>
-{:.brewery}
+{: .brewery #loncium }
 
-‹Loncium› Helles   • ‹Loncium› Austrian Amber Lager  
-{:.beers}
+**‹Loncium› Helles** (4.9%, 11.8°)   • 
+**‹Loncium› Austrian Amber Lager** (5.5%, 12.7°)  
+{: .beers }
 
-##### Micheldorf 
+##### Micheldorf  
+{: .city #micheldorf }
 
 
-Brauerei Hirt - 1270  <br>
+
+♣♣  Brauerei Hirt  - 1270   `#hirt`{:.key} <br>
 9322 Micheldorf // Hirt 9  <br>
 [www.hirterbier.at](http://www.hirterbier.at)  <br>
-{:.brewery}
+{: .brewery #hirt }
 
-‹Hirter› Pils   • ‹Hirter› Morchl   • ‹Hirter› Biobier   • ‹Hirter› 1270  
-{:.beers}
+**‹Hirter› Pils** (5.2%, 12.3°)   • 
+**‹Hirter› Morchl** (5.0%, 12.8°) _dunkles_{:.tags}  • 
+**‹Hirter› Biobier** (4.8%, 11.6°)   • 
+**‹Hirter› 1270** (4.9%, 11.9°)  
+{: .beers }
 
-##### Villach 
+##### Villach   _pop 59.585_{:.pop}
+{: .city #villach }
 
 
-Villacher Brauerei (Vereinigte Kärntner Brauereien) -   <br>
+
+♣♣  Villacher Brauerei (Vereinigte Kärntner Brauereien)   `#villacher`{:.key} <br>
 9500 Villach // Brauhausgasse 6  <br>
 [www.villacher.com](http://www.villacher.com)  <br>
-{:.brewery}
+{: .brewery #villacher }
 
-‹Villacher› Märzen   • ‹Villacher› Pils   • ‹Villacher› Pur   • ‹Villacher› Edition   • ‹Piestinger› Lager  
-{:.beers}
+**‹Villacher› Märzen** (5.0%, 11.8°)   • 
+**‹Villacher› Pils** (4.9%, 11.7°)   • 
+**‹Villacher› Pur** (4.0%, 9.5°)   • 
+**‹Villacher› Edition** (4.6%, 11.7°)   • 
+**‹Piestinger› Lager** (5.0%, 11.8°)  
+{: .beers }
 
 
 
 
-### Oberösterreich [Upper Austria] _(28)_{:.count} {: #at-o }
+### Oberösterreich [Upper Austria] _(28)_{:.count}
+{: #at-o }
 
 
 [Altheim](#altheim) _(2)_{:.count} • [Ampflwang](#ampflwang) • [Attersee](#attersee) • [Braunau](#braunau) • [Eggelsberg](#eggelsberg) • [Engelhartszell](#engelhartszell) • [Frankenmarkt](#frankenmarkt) _(2)_{:.count} • [Freistadt](#freistadt) • [Grieskirchen](#grieskirchen) • [Linz](#linz) • [Neufelden](#neufelden) • [Neumarkt/Hausruck](#neumarkthausruck) • [Ried/Innkreis](#riedinnkreis) _(2)_{:.count} • [Schlägl](#schlaegl) • [Schwertberg](#schwertberg) • [Schärding](#schaerding) _(2)_{:.count} • [Schörfling (am Attersee)](#schoerfling) • [St. Martin](#stmartin) • [St. Stefan am Walde](#ststefanamwalde) • [Straß (i. Attergau)](#strass) • [Uttendorf](#uttendorf) • [Vorchdorf](#vorchdorf) • [Wilhering](#wilhering) • [Zipf](#zipf)
 
-##### Altheim  _(2)_{:.count} 
+##### Altheim _(2)_{:.count} 
+{: .city #altheim }
 
 
-Brauerei Raschhofer - 1645  <br>
+
+ Brauerei Raschhofer  - 1645   `#raschhofer`{:.key} <br>
 4950 Altheim // Braunauer Straße 12  <br>
 [www.raschhoferbier.at](http://www.raschhoferbier.at)  <br>
-{:.brewery}
+{: .brewery #raschhofer }
 
-Raschhofer Pils   • Raschhofer Märzen   • Raschhofer Zwickl  
-{:.beers}
+**Raschhofer Pils** (5.1%, 11.7°)   • 
+**Raschhofer Märzen** (5.1%, 11.5°)   • 
+**Raschhofer Zwickl** (5.4%, 12.5°)  
+{: .beers }
 
-Privatbrauerei Wurmhöringer - 1652  <br>
+ Privatbrauerei Wurmhöringer  - 1652   `#wurmhoeringer`{:.key} <br>
 4950 Altheim // Stadtplatz 10/11  <br>
 [www.wurmhoeringer.at](http://www.wurmhoeringer.at)  <br>
-{:.brewery}
+{: .brewery #wurmhoeringer }
 
-Wurmhöringer Märzen   • Thermen Bräu Pils  
-{:.beers}
+**Wurmhöringer Märzen** (4.9%, 11.9°)   • 
+**Thermen Bräu Pils** (5.2%, 12.5°)  
+{: .beers }
 
-##### Ampflwang 
+##### Ampflwang  
+{: .city #ampflwang }
 
 
-Brauerei Pachinger -   <br>
+
+ Brauerei Pachinger • Pfeiffi’s Bräu   `#pfeiffisbraeu`{:.key} <br>
 4843 Ampflwang // Vorderschlagen 19  <br>
 [www.pfeiffis-braeu.at](http://www.pfeiffis-braeu.at)  <br>
-{:.brewery}
+{: .brewery #pfeiffisbraeu }
 
 
-##### Attersee 
+##### Attersee  
+{: .city #attersee }
 
 
-Brauerei Kaltenböck -   <br>
+
+ Brauerei Kaltenböck   `#kaltenboeck`{:.key} <br>
 4864 Attersee // Palmsdorf 17  <br>
-{:.brewery}
+{: .brewery #kaltenboeck }
 
-Hoangarten  
-{:.beers}
+**Hoangarten** (5.2%, 11.8°)  
+{: .beers }
 
-##### Braunau 
+##### Braunau  
+{: .city #braunau }
 
 
-Hausbrauerei Bogner -   <br>
+
+ Hausbrauerei Bogner   `#bogner`{:.key} <br>
 5280 Braunau // Haselbach 26 (Innviertel)  <br>
 [www.hausbrauerei-bogner.at](http://www.hausbrauerei-bogner.at)  <br>
-{:.brewery}
+{: .brewery #bogner }
 
 
-##### Eggelsberg 
+##### Eggelsberg  
+{: .city #eggelsberg }
 
 
-Brauerei Schnaitl - 1842  <br>
+
+♣  Brauerei Schnaitl • Privatbrauerei Schnaitl  - 1842   `#schnaitl`{:.key} <br>
 5142 Eggelsberg // Gundertshausen 9 (Innviertel)  <br>
 [www.schnaitl.at](http://www.schnaitl.at)  <br>
-{:.brewery}
+{: .brewery #schnaitl }
 
-Schnaitl Naturtrüb   • Schnaitl Bock   • Schnaitl Original   • Schnaitl Pils de Luxe  
-{:.beers}
+**Schnaitl Naturtrüb** (5.1%, 11.8°)   • 
+**Schnaitl Bock** (7.5%, 16.8°)   • 
+**Schnaitl Original** (5.1%, 11.8°)   • 
+**Schnaitl Pils de Luxe** (5.0%, 11.3°)  
+{: .beers }
 
-##### Engelhartszell 
+##### Engelhartszell  
+{: .city #engelhartszell }
 
 
-Trappistenbrauerei / Stift Engelszell -   <br>
+
+ Trappistenbrauerei / Stift Engelszell   `#stiftengelszell`{:.key} <br>
 4090 Engelhartszell // Stiftstraße 6  <br>
 [www.stift-engelszell.at](http://www.stift-engelszell.at)  <br>
-{:.brewery}
+{: .brewery #stiftengelszell }
 
 
-##### Frankenmarkt  _(2)_{:.count} 
+##### Frankenmarkt _(2)_{:.count} 
+{: .city #frankenmarkt }
 
 
-Brauerei Aspach (Starzinger) - 1777  <br>
+
+ Brauerei Aspach (Starzinger)  - 1777   `#aspach`{:.key} <br>
 4890 Frankenmarkt // Hauptstraße 23  <br>
-{:.brewery}
+{: .brewery #aspach }
 
 
-Brauerei Bräu am Berg (Starzinger) - 1626  <br>
+ Brauerei Bräu am Berg (Starzinger)  - 1626   `#braeuamberg`{:.key} <br>
 4890 Frankenmarkt // Bahnhofstraße 1  <br>
-{:.brewery}
+{: .brewery #braeuamberg }
 
-Frankenmarkter Bräu am Berg Lager Hell  
-{:.beers}
+**Frankenmarkter Bräu am Berg Lager Hell** (5.0%, 11.8°)  
+{: .beers }
 
-##### Freistadt 
+##### Freistadt  
+{: .city #freistadt }
 
 
-Freistädter Brauhaus - 1770  <br>
+
+♣  Freistädter Brauhaus • Braucommune in Freistadt  - 1770   `#freistaedter`{:.key} <br>
 4240 Freistadt // Brauhausstraße 2 (Mühlviertel)  <br>
 [www.freistaedter-bier.at](http://www.freistaedter-bier.at)  <br>
-{:.brewery}
+{: .brewery #freistaedter }
 
-Freistädter Rattsherrn   • Freistädter Rauchbier   • Freistädter Bio Zwickl  
-{:.beers}
+**Freistädter Rattsherrn** (5.2%, 12.3°)   • 
+**Freistädter Rauchbier** (5.3%, 12.3°) _rauchbier_{:.tags}  • 
+**Freistädter Bio Zwickl** (4.7%, 11.3°)  
+{: .beers }
 
-##### Grieskirchen 
+##### Grieskirchen  
+{: .city #grieskirchen }
 
 
-Brauerei Grieskirchen - 1708  <br>
+
+♣  Brauerei Grieskirchen  - 1708   `#grieskirchen`{:.key} <br>
 4710 Grieskirchen // Stadtplatz 14  <br>
 [www.grieskirchner.at](http://www.grieskirchner.at)  <br>
-{:.brewery}
+{: .brewery #grieskirchen }
 
-Grieskirchner Pils   • Grieskirchner Märzen   • Grieskirchner Export Dunkel   • Grieskirchner Weisse Hell  
-{:.beers}
+**Grieskirchner Pils** (4.8%, 11.2°)   • 
+**Grieskirchner Märzen** (5.0%, 11.8°)   • 
+**Grieskirchner Export Dunkel** (5.0%, 12.4°)   • 
+**Grieskirchner Weisse Hell** (5.1%, 12.2°)  
+{: .beers }
 
-##### Linz 
+##### Linz   _pop 191.107_{:.pop}
+{: .city #linz }
 
 
-Brau Union Österreich -   <br>
+
+ Brau Union Österreich   `#brauunion`{:.key} <br>
 4020 Linz // Poschacherstrasse 35  <br>
 [www.brauunion.at](http://www.brauunion.at)  <br>
-{:.brewery}
+{: .brewery #brauunion }
 
 
-##### Neufelden 
+##### Neufelden  
+{: .city #neufelden }
 
 
-Neufeldner Biobrauerei -   <br>
+
+ Neufeldner Biobrauerei   `#biobrauerei`{:.key} <br>
 4120 Neufelden // Bräuhausgasse 3  <br>
 [www.biobrauerei.at](http://www.biobrauerei.at)  <br>
-{:.brewery}
+{: .brewery #biobrauerei }
 
 
-##### Neumarkt/Hausruck 
+##### Neumarkt/Hausruck  
+{: .city #neumarkthausruck }
 
 
-Ritterbräu Neumarkt - 1609  <br>
+
+ Ritterbräu Neumarkt  - 1609   `#ritterbraeu`{:.key} <br>
 4720 Neumarkt/Hausruck // Bräuhausgasse 1  <br>
 [www.ritterbraeu.at](http://www.ritterbraeu.at)  <br>
-{:.brewery}
+{: .brewery #ritterbraeu }
 
 
-##### Ried/Innkreis  _(2)_{:.count} 
+##### Ried/Innkreis _(2)_{:.count} 
+{: .city #riedinnkreis }
 
 
-Brauerei Ried - 1536  <br>
+
+♣  Brauerei Ried  - 1536   `#ried`{:.key} <br>
 4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)  <br>
 [www.rieder-bier.at](http://www.rieder-bier.at)  <br>
-{:.brewery}
+{: .brewery #ried }
 
-Rieder Weißbierbock   • Rieder 1908 Naturtrüb  
-{:.beers}
+**Rieder Weißbierbock** (6.5%, 16.5°) _weizenbock_{:.tags}  • 
+**Rieder 1908 Naturtrüb** (5.2%, 12.9°)  
+{: .beers }
 
-Kellerbrauerei - 1446  <br>
+ Kellerbrauerei  - 1446   `#kellerbrauerei`{:.key} <br>
 4910 Ried/Innkreis // Am Kellerbräuberg 2  <br>
 [www.kellerbrauerei.at](http://www.kellerbrauerei.at)  <br>
-{:.brewery}
+{: .brewery #kellerbrauerei }
 
 
-##### Schlägl 
+##### Schlägl  
+{: .city #schlaegl }
 
 
-Stiftsbrauerei Schlägl - 1580  <br>
+
+♣  Stiftsbrauerei Schlägl  - 1580   `#schlaegl`{:.key} <br>
 4160 Schlägl // Schlägl 1 (Mühlviertel)  <br>
 [www.schlaegl.co.at](http://www.schlaegl.co.at)  <br>
-{:.brewery}
+{: .brewery #schlaegl }
 
-Schlägl Abtei Pils   • Schlägl Stifter Bier   • Schlägl Urquell  
-{:.beers}
+**Schlägl Abtei Pils** (5.2%, 12.5°)   • 
+**Schlägl Stifter Bier** (5.7%, 12.4°)   • 
+**Schlägl Urquell** (11.8%)  
+{: .beers }
 
-##### Schwertberg 
+##### Schwertberg  
+{: .city #schwertberg }
 
 
-Schwertberger Bräu -   <br>
+
+ Schwertberger Bräu   `#schwertberger`{:.key} <br>
 4311 Schwertberg // Ing. Schmiedl-Straße 7  <br>
-{:.brewery}
+{: .brewery #schwertberger }
 
 
-##### Schärding  _(2)_{:.count} 
+##### Schärding _(2)_{:.count} 
+{: .city #schaerding }
 
 
-Kapsreiter Brauerei -   <br>
+
+♣  Kapsreiter Brauerei  _ottakringer_{:.tags} `#kapsreiter`{:.key} <br>
 4780 Schärding // Linzer Straße 1  <br>
-{:.brewery}
+{: .brewery #kapsreiter }
 
-Kapsreiter (Landbier) Hell  
-{:.beers}
+**Kapsreiter (Landbier) Hell** (5.3%, 12.8°)  
+{: .beers }
 
-Brauerei Jos. Baumgartner - 1609  <br>
+♣  Brauerei Jos. Baumgartner  - 1609   `#baumgartner`{:.key} <br>
 4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)  <br>
 [www.brauerei-baumgartner.at](http://www.brauerei-baumgartner.at)  <br>
-{:.brewery}
+{: .brewery #baumgartner }
 
-Baumgartner Märzen   • Baumgartner Doppelmalz   • Baumgartner Pils   • Baumgartner Export   • Baunti 1609 Lager   • Baumgartner Zwickl  
-{:.beers}
+**Baumgartner Märzen** (5.1%, 12.2°)   • 
+**Baumgartner Doppelmalz** (5.1%, 13.7°)   • 
+**Baumgartner Pils** (4.8%, 11.8°)   • 
+**Baumgartner Export** (5.7%, 13.5°)   • 
+**Baunti 1609 Lager** (5.0%, 12.0°)   • 
+**Baumgartner Zwickl** (5.1%, 12.2°)  
+{: .beers }
 
-##### Schörfling (am Attersee) 
+##### Schörfling (am Attersee)  
+{: .city #schoerfling }
 
 
-Argus-Bräu - 2002  <br>
+
+ Argus-Bräu  - 2002   `#argus`{:.key} <br>
 4861 Schörfling (am Attersee) // Oberachmanstraße 21  <br>
 [www.argus-braeu.at](http://www.argus-braeu.at)  <br>
-{:.brewery}
+{: .brewery #argus }
 
 
-##### St. Martin 
+##### St. Martin  
+{: .city #stmartin }
 
 
-Brauerei Hofstetten -   <br>
+
+♣  Brauerei Hofstetten   `#hofstetten`{:.key} <br>
 4113 St. Martin // Adsdorf 5 (Mühlviertel)  <br>
 [www.hofstetten.at](http://www.hofstetten.at)  <br>
-{:.brewery}
+{: .brewery #hofstetten }
 
-Hofstettner Märzen   • Hofstettner Pils   • Hofstettner Spezial   • Hofstettner Granitbock Ice   • Hofstettner Granit   • Hofstettner Kübel  
-{:.beers}
+**Hofstettner Märzen** (4.7%, 11.4°)   • 
+**Hofstettner Pils** (5.2%, 11.8°)   • 
+**Hofstettner Spezial** (5.3%, 12.7°)   • 
+**Hofstettner Granitbock Ice** (6.2%, 14.2°)   • 
+**Hofstettner Granit** (5.5%, 12.8°)   • 
+**Hofstettner Kübel** (5.3%, 11.7°)  
+{: .beers }
 
-##### St. Stefan am Walde 
+##### St. Stefan am Walde  
+{: .city #ststefanamwalde }
 
 
-Steffinger Brauerei -   <br>
+
+ Steffinger Brauerei   `#steffinger`{:.key} <br>
 4170 St. Stefan am Walde // Unterriedl 4  <br>
-{:.brewery}
+{: .brewery #steffinger }
 
 
-##### Straß (i. Attergau) 
+##### Straß (i. Attergau)  
+{: .city #strass }
 
 
-Brauerei Attersee -   <br>
+
+ Brauerei Attersee   `#attersee`{:.key} <br>
 4881 Straß (i. Attergau) // Straß 8  <br>
 [www.brauerei-attersee.at](http://www.brauerei-attersee.at)  <br>
-{:.brewery}
+{: .brewery #attersee }
 
-Attersee Bräu Hell  
-{:.beers}
+**Attersee Bräu Hell**   
+{: .beers }
 
-##### Uttendorf 
+##### Uttendorf  
+{: .city #uttendorf }
 
 
-Brauerei Vitzthum - 1600  <br>
+
+♣  Brauerei Vitzthum  - 1600   `#vitzthum`{:.key} <br>
 5261 Uttendorf // Uttendorf 25 (Innviertel)  <br>
 [www.uttendorf-bier.com](http://www.uttendorf-bier.com)  <br>
-{:.brewery}
+{: .brewery #vitzthum }
 
-Uttendorfer Pils   • Uttendorfer Märzen   • Uttendorfer Export   • Uttendorfer Fallstaff  
-{:.beers}
+**Uttendorfer Pils** (4.9%, 12.0°)   • 
+**Uttendorfer Märzen** (5.0%, 12.1°)   • 
+**Uttendorfer Export** (5.1%, 12.1°)   • 
+**Uttendorfer Fallstaff** (5.6%, 13.1°)  
+{: .beers }
 
-##### Vorchdorf 
+##### Vorchdorf  
+{: .city #vorchdorf }
 
 
-Brauerei Schloss Eggenberg - 1681  <br>
+
+♣♣  Brauerei Schloss Eggenberg  - 1681   `#schlosseggenberg`{:.key} <br>
 4655 Vorchdorf // Eggenberg 1  <br>
 [www.schloss-eggenberg.at](http://www.schloss-eggenberg.at)  <br>
-{:.brewery}
+{: .brewery #schlosseggenberg }
 
-Schloss Eggenberg (Classic) Märzen   • Schloss Eggenberg Gold Spezial   • Schloss Eggenberg Hopfenkönig   • Schloss Eggenberg Hopfenkönig Medium   • Schloss Eggenberg Naturtrüb   • Schloss Eggenberg Urbock 23°   • Schloss Eggenberg Festbock   • Samichlaus  
-{:.beers}
+**Schloss Eggenberg (Classic) Märzen** (4.9%, 11.7°) _maerzen_{:.tags}  • 
+**Schloss Eggenberg Gold Spezial** (5.3%, 12.6°) _spezial_{:.tags}  • 
+**Schloss Eggenberg Hopfenkönig** (5.1%, 11.7°) _pils_{:.tags}  • 
+**Schloss Eggenberg Hopfenkönig Medium** (2.9%, 9.5°)   • 
+**Schloss Eggenberg Naturtrüb** (5.2%, 11.7°) _zwickl_{:.tags}  • 
+**Schloss Eggenberg Urbock 23°** (9.6%, 23.0°) _starkbier_{:.tags}  • 
+**Schloss Eggenberg Festbock** (7.1%, 16.3°) _bockbier_{:.tags}  • 
+**Samichlaus** (14.0%, 28.0°) _starkes lager_{:.tags} 
+{: .beers }
 
-##### Wilhering 
+##### Wilhering  
+{: .city #wilhering }
 
 
-Dörnbacher Floriani-Bräu - 2000  <br>
+
+ Dörnbacher Floriani-Bräu  - 2000   `#florianibraeu`{:.key} <br>
 4061 Wilhering // Dörnbacherstraße 132  <br>
 [www.florianibraeu.at](http://www.florianibraeu.at)  <br>
-{:.brewery}
+{: .brewery #florianibraeu }
 
 
-##### Zipf 
+##### Zipf  
+{: .city #zipf }
 
 
-Brauerei Zipf (Brau Union) -   <br>
+
+♣♣  Brauerei Zipf (Brau Union)  _brau union_{:.tags} `#zipf`{:.key} <br>
 4871 Zipf // Zipf 22  <br>
 [www.zipfer.at](http://www.zipfer.at)  <br>
-{:.brewery}
+{: .brewery #zipf }
 
-Zipfer Urtyp   • Zipfer Urtyp Medium   • Zipfer Märzen   • Zipfer Pils   • Zipfer Josefi Bock   • Zipfer Doppel Gold   • Zipfer Kellerbier   • Zipfer Sparkling  
-{:.beers}
+**Zipfer Urtyp** (5.4%, 12.2°)   • 
+**Zipfer Urtyp Medium** (3.0%, 9.5°) _schankbier leichtbier_{:.tags}  • 
+**Zipfer Märzen** (5.0%, 11.8°)   • 
+**Zipfer Pils** (5.2%, 11.8°)   • 
+**Zipfer Josefi Bock** (7.1%, 16.2°)   • 
+**Zipfer Doppel Gold** (5.7%, 12.8°)   • 
+**Zipfer Kellerbier** (5.6%, 12.2°)   • 
+**Zipfer Sparkling** (5.2%, 11.8°)  
+{: .beers }
 
 
 
 
-### Salzburg _(6)_{:.count} {: #at-s }
+### Salzburg _(6)_{:.count}
+{: #at-s }
 
 
 [Hallein-Kaltenhausen](#halleinkaltenhausen) • [Obertrum](#obertrum) • [Salzburg](#salzburg) _(4)_{:.count}
 
-##### Hallein-Kaltenhausen 
+##### Hallein-Kaltenhausen  
+{: .city #halleinkaltenhausen }
 
 
-Hofbräu Kaltenhausen (Brau Union) - 1475  <br>
+
+♣♣  Hofbräu Kaltenhausen (Brau Union)  - 1475  _brauunion_{:.tags} `#kaltenhausen`{:.key} <br>
 5400 Hallein-Kaltenhausen // Salzburger Straße 67  <br>
 [www.kaltenhausen.at](http://www.kaltenhausen.at)  <br>
-{:.brewery}
+{: .brewery #kaltenhausen }
 
-Edelweiss Hefetrüb   • Edelweiss Hofbräu   • Edelweiss Dunkel   • Edelweiss Gamsbock  
-{:.beers}
+**Edelweiss Hefetrüb** (5.3%, 12.3°) _weissbier_{:.tags}  • 
+**Edelweiss Hofbräu** (4.5%, 11.8°) _hefeweizen weissbier_{:.tags}  • 
+**Edelweiss Dunkel** (5.3%, 12.3°) _weissbier_{:.tags}  • 
+**Edelweiss Gamsbock** (7.1%, 16.2°) _weissbier_{:.tags} 
+{: .beers }
 
-##### Obertrum 
+##### Obertrum  
+{: .city #obertrum }
 
 
-Trumer Privatbrauerei -   <br>
+
+♣♣  Trumer Privatbrauerei   `#trumer`{:.key} <br>
 5162 Obertrum // Brauhausgasse 2  <br>
 [www.trumer.at](http://www.trumer.at)  <br>
-{:.brewery}
+{: .brewery #trumer }
 
-Trumer Pils   • Trumer Imperial Pils   • Trumer Märzen  
-{:.beers}
+**Trumer Pils** (4.9%, 11.5°) _lager pils_{:.tags}  • 
+**Trumer Imperial Pils** (6.8%, 16.2°)   • 
+**Trumer Märzen** (4.8%, 11.8°) _lager maerzen_{:.tags} 
+{: .beers }
 
-##### Salzburg  _(4)_{:.count} 
+##### Salzburg _(4)_{:.count}  _pop 148.521_{:.pop}
+{: .city #salzburg }
 
 
-Stieglbrauerei - 1492  <br>
+
+♣♣♣  Stieglbrauerei • Stieglbrauerei zu Salzburg  - 1492   `#stiegl`{:.key} <br>
 5017 Salzburg // Kendlerstraße 1  <br>
 [www.stiegl.at](http://www.stiegl.at)  <br>
-{:.brewery}
+{: .brewery #stiegl }
 
-Stiegl Goldbräu   • Stiegl Pils   • Stiegl Paracelsus Zwickl   • Stiegl Weizengold  
-{:.beers}
+**Stiegl Goldbräu** (4.9%, 12.0°) _maerzen_{:.tags}  • 
+**Stiegl Pils** (4.9%, 11.6°)   • 
+**Stiegl Paracelsus Zwickl** (5.0%, 12.0°)   • 
+**Stiegl Weizengold**   
+{: .beers }
 
-Augustiner Bräu Kloster Mülln - 1621  <br>
+♣  Augustiner Bräu Kloster Mülln  - 1621   `#augustinermuelln`{:.key} <br>
 5020 Salzburg // Lindhofstraße 7  <br>
 [www.augustinerbier.at](http://www.augustinerbier.at)  <br>
-{:.brewery}
+{: .brewery #augustinermuelln }
 
-Augustiner Märzen   • Augustiner Bock  
-{:.beers}
+**Augustiner Märzen** (4.6%, 12.0°)   • 
+**Augustiner Bock** (6.5%, 16.5°)  
+{: .beers }
 
-Brauerei Gusswerk -   <br>
+ Brauerei Gusswerk   `#gusswerk`{:.key} <br>
 5020 Salzburg // Söllheimerstraße 16  <br>
 [www.brauhaus-gusswerk.at](http://www.brauhaus-gusswerk.at)  <br>
-{:.brewery}
+{: .brewery #gusswerk }
 
-Austrian Amber Ale   • Jakobsgold   • Edelguss   • Urban Keller's Steinbier  
-{:.beers}
+**Austrian Amber Ale** (5.6%, 12.8°)   • 
+**Jakobsgold** (4.9%, 11.8°)   • 
+**Edelguss** (4.9%, 11.9°)   • 
+**Urban Keller's Steinbier** (5.6%, 12.7°) _steinbier_{:.tags} 
+{: .beers }
 
-Die Weisse Brauerei - 1901  <br>
+ Die Weisse Brauerei  - 1901   `#dieweisse`{:.key} <br>
 5020 Salzburg // Bayerhamerstraße 10  <br>
 [www.salzburgerweissbier.at](http://www.salzburgerweissbier.at)  <br>
-{:.brewery}
+{: .brewery #dieweisse }
 
 
 
 
 
-### Tirol [Tyrol] _(8)_{:.count} {: #at-t }
+### Tirol [Tyrol] _(8)_{:.count}
+{: #at-t }
 
 
 [Alpach](#alpach) • [Innsbruck](#innsbruck) • [Lienz](#lienz) • [St. Johann](#stjohann) • [Tarrenz](#tarrenz) • [Unterperfuß/Innsbruck](#unterperfussinnsbruck) • [Vils](#vils) • [Zell am Ziller](#zellamziller)
 
-##### Alpach 
+##### Alpach  
+{: .city #alpach }
 
 
-Kristall Brauerei -   <br>
+
+ Kristall Brauerei   `#kristall`{:.key} <br>
 6236 Alpach // Inneralpbach 431  <br>
-{:.brewery}
+{: .brewery #kristall }
 
 
-##### Innsbruck 
+##### Innsbruck   _pop 121.329_{:.pop}
+{: .city #innsbruck }
 
 
-Brauerei Harald Franz Baumgartner -   <br>
+
+ Brauerei Harald Franz Baumgartner   `#baumgartnerinnsbruck`{:.key} <br>
 6020 Innsbruck // Feldstraße 11a  <br>
-{:.brewery}
+{: .brewery #baumgartnerinnsbruck }
 
 
-##### Lienz 
+##### Lienz  
+{: .city #lienz }
 
 
-Brauerei Falkenstein (Brau Union) -   <br>
+
+♣♣  Brauerei Falkenstein (Brau Union)  _brauunion_{:.tags} `#falkenstein`{:.key} <br>
 9900 Lienz // Pußtertaler Straße 40  <br>
-{:.brewery}
+{: .brewery #falkenstein }
 
 
-##### St. Johann 
+##### St. Johann  
+{: .city #stjohann }
 
 
-Familienbrauerei Huber - 1727  <br>
+
+ Familienbrauerei Huber  - 1727   `#huberbraeu`{:.key} <br>
 6380 St. Johann // Brauweg 2  <br>
 [www.huberbraeu.at](http://www.huberbraeu.at)  <br>
-{:.brewery}
+{: .brewery #huberbraeu }
 
-Huber Bräu St. Johanner Original   • Huber Bräu Spezial  
-{:.beers}
+**Huber Bräu St. Johanner Original** (4.9%, 11.5°)   • 
+**Huber Bräu Spezial** (5.3%, 12.7°)  
+{: .beers }
 
-##### Tarrenz 
+##### Tarrenz  
+{: .city #tarrenz }
 
 
-Brauerei Schloß Starkenberg - 1810  <br>
+
+ Brauerei Schloß Starkenberg  - 1810   `#starkenberg`{:.key} <br>
 6464 Tarrenz // Griesegg 1  <br>
 [www.starkenberg.at](http://www.starkenberg.at)  <br>
-{:.brewery}
+{: .brewery #starkenberg }
 
 
-##### Unterperfuß/Innsbruck 
+##### Unterperfuß/Innsbruck  
+{: .city #unterperfussinnsbruck }
 
 
-Branger Bräu - 1993  <br>
+
+ Branger Bräu  - 1993   `#brangerbraeu`{:.key} <br>
 6175 Unterperfuß/Innsbruck // Unterperfuß 32  <br>
 [www.brangeralm.at](http://www.brangeralm.at)  <br>
-{:.brewery}
+{: .brewery #brangerbraeu }
 
 
-##### Vils 
+##### Vils  
+{: .city #vils }
 
 
-Vilser Privatbrauerei -   <br>
+
+ Vilser Privatbrauerei   `#vilser`{:.key} <br>
 6682 Vils // Stadtgasse 2  <br>
 [www.vilserprivatbrauerei.at](http://www.vilserprivatbrauerei.at)  <br>
-{:.brewery}
+{: .brewery #vilser }
 
 
-##### Zell am Ziller 
+##### Zell am Ziller  
+{: .city #zellamziller }
 
 
-Brauhaus Simon Strasser - 1509  <br>
+
+♣  Brauhaus Simon Strasser  - 1509   `#zillertal`{:.key} <br>
 6280 Zell am Ziller // Bräuweg 1  <br>
 [www.zillertal-bier.at](http://www.zillertal-bier.at)  <br>
-{:.brewery}
+{: .brewery #zillertal }
 
-Zillertal Märzen   • Zillertal Pils   • Zillertal Schwarzes  
-{:.beers}
+**Zillertal Märzen** (5.1%, 12.0°)   • 
+**Zillertal Pils** (4.9%, 11.0°)   • 
+**Zillertal Schwarzes** (5.2%, 12.0°)  
+{: .beers }
 
 
 
 
-### Vorarlberg _(4)_{:.count} {: #at-v }
+### Vorarlberg _(4)_{:.count}
+{: #at-v }
 
 
 [Bludenz](#bludenz) • [Dornbirn](#dornbirn) • [Egg](#egg) • [Frastanz](#frastanz)
 
-##### Bludenz 
+##### Bludenz  
+{: .city #bludenz }
 
 
-Brauerei Fohrenburg - 1881  <br>
+
+♣♣  Brauerei Fohrenburg  - 1881   `#fohrenburg`{:.key} <br>
 6700 Bludenz // Fohrenburgstraße 5  <br>
 [www.fohrenburg.at](http://www.fohrenburg.at)  <br>
-{:.brewery}
+{: .brewery #fohrenburg }
 
-Fohrenburger Jubiläum   • Fohrenburger Stiftle   • Fohrenburger Märzen   • Fohrenburger Keller Naturtrüb   • Fohrenburger Weizen   • Fohrenburger Dunkles   • Fohrenburger Bock   • Fohrenburger Pils   • Engelburg Bräu  
-{:.beers}
+**Fohrenburger Jubiläum** (5.5%, 12.8°)   • 
+**Fohrenburger Stiftle** (4.8%, 11.8°)   • 
+**Fohrenburger Märzen** (4.8%, 11.8°)   • 
+**Fohrenburger Keller Naturtrüb** (5.3%, 12.7°)   • 
+**Fohrenburger Weizen** (5.2%, 12.5°) _weizenbier_{:.tags}  • 
+**Fohrenburger Dunkles** (5.5%, 12.7°)   • 
+**Fohrenburger Bock** (7.2%, 16.2°)   • 
+**Fohrenburger Pils** (4.8%, 11.7°)   • 
+**Engelburg Bräu** (4.2%, 9.9°)  
+{: .beers }
 
-##### Dornbirn 
+##### Dornbirn   _pop 45.978_{:.pop}
+{: .city #dornbirn }
 
 
-Mohrenbrauerei - 1834  <br>
+
+♣♣  Mohrenbrauerei  - 1834   `#mohren`{:.key} <br>
 6850 Dornbirn // Dr.-Waibel-Straße 2  <br>
 [www.mohrenbrauerei.at](http://www.mohrenbrauerei.at)  <br>
-{:.brewery}
+{: .brewery #mohren }
 
-Mohren Pilsner   • Mohren Ländle   • Mohren Kellerbier   • Mohren Spezial   • Mohren Pfiff  
-{:.beers}
+**Mohren Pilsner** (4.8%, 11.3°)   • 
+**Mohren Ländle**    • 
+**Mohren Kellerbier** (5.7%, 12.8°)   • 
+**Mohren Spezial** (5.6%, 12.7°)   • 
+**Mohren Pfiff** (4.9%, 11.6°)  
+{: .beers }
 
-##### Egg 
+##### Egg  
+{: .city #egg }
 
 
-Brauerei Egg - 1894  <br>
+
+♣  Brauerei Egg  - 1894   `#egg`{:.key} <br>
 6863 Egg // Gerbe 500  <br>
 [www.brauerei-egg.at](http://www.brauerei-egg.at)  <br>
-{:.brewery}
+{: .brewery #egg }
 
-Egger Spezial   • Wälder Spezial   • Wälder Zwickl  
-{:.beers}
+**Egger Spezial** (5.5%, 12.8°)   • 
+**Wälder Spezial** (5.5%, 12.7°)   • 
+**Wälder Zwickl** (5.5%, 12.8°)  
+{: .beers }
 
-##### Frastanz 
+##### Frastanz  
+{: .city #frastanz }
 
 
-Vorarlberger Brauereigenossenschaft Frastanz - 1902  <br>
+
+♣  Vorarlberger Brauereigenossenschaft Frastanz  - 1902   `#frastanz`{:.key} <br>
 6820 Frastanz //  <br>
 [www.frastanzer.at](http://www.frastanzer.at)  <br>
-{:.brewery}
+{: .brewery #frastanz }
 
-Frastanzer Gold Spezial   • Frastanzer Jubiläum   • Frastanzer Kellerbier Naturtrüb   • Frastanzer Pils   • Frastanzer s'klenne  
-{:.beers}
+**Frastanzer Gold Spezial** (5.5%, 12.6°)   • 
+**Frastanzer Jubiläum** (4.9%, 11.7°)   • 
+**Frastanzer Kellerbier Naturtrüb** (5.5%, 12.6°)   • 
+**Frastanzer Pils** (4.9%, 11.7°)   • 
+**Frastanzer s'klenne** (4.9%, 11.7°)  
+{: .beers }
 
 
 
@@ -1116,7 +1471,9 @@ Frastanzer Gold Spezial   • Frastanzer Jubiläum   • Frastanzer Kellerbier N
 
 ### Uncategorized Beers
 
-Krinitsa Porter   • Olivaria Beloe Zoloto   • Olivaria Porter  
+**Krinitsa Porter** (8.0%) _porter_{:.tags}  • 
+**Olivaria Beloe Zoloto** (5.0%) _weizenbier_{:.tags}  • 
+**Olivaria Porter** (6.8%) _porter_{:.tags} 
 
 
 
@@ -1132,12 +1489,13 @@ Krinitsa Porter   • Olivaria Beloe Zoloto   • Olivaria Porter
 
 ### Uncategorized Beers
 
-Stella Artois  
+**Stella Artois**   
 
 
 
 
-### Bruxelles•Brussel [Brussels (Capital Region)] _(1)_{:.count} {: #be-bru }
+### Bruxelles•Brussel [Brussels (Capital Region)] _(1)_{:.count}
+{: #be-bru }
 
 
 
@@ -1146,15 +1504,16 @@ Stella Artois
 ##### Uncategorized _(1)_{:.count}
 
 
-Cantillon - 1900  <br>
+ Cantillon • Brouwerij Cantillon  - 1900   `#cantillon`{:.key} <br>
 Rue Gheude 56 // 1070 Bruxelles (Anderlecht)  <br>
 [www.cantillon.be](http://www.cantillon.be)  <br>
-{:.brewery}
+{: .brewery #cantillon }
 
 
 
 
-### Antwerpen [Antwerp] _(6)_{:.count} {: #be-van }
+### Antwerpen [Antwerp] _(6)_{:.count}
+{: #be-van }
 
 
 
@@ -1163,46 +1522,60 @@ Rue Gheude 56 // 1070 Bruxelles (Anderlecht)  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
-Achilles - 1999  <br>
+ Achilles • Microbrouwerij Achilles  - 1999   `#achilles`{:.key} <br>
 Keizershofdijk 2 bus 2 // 2222 Itegem  <br>
 [www.serafijn-bier.be](http://www.serafijn-bier.be)  <br>
-{:.brewery}
+{: .brewery #achilles }
 
 
-Anker - 1873  <br>
+ Anker • Het Anker • Brouwerij Het Anker  - 1873   `#anker`{:.key} <br>
 Guido Gezellelaan 49 // 2800 Mechelen  <br>
 [www.hetanker.be](http://www.hetanker.be)  <br>
-{:.brewery}
+{: .brewery #anker }
 
-Gouden Carolus Classic   • Gouden Carolus Tripel   • Gouden Carolus Ambrio   • Gouden Carolus Hopsinjoor   • Gouden Carolus Easter   • Gouden Carolus Christmas   • Cuvée van de Keizer Blauw   • Cuvée van de Keizer Rood   • Lucifer   • Maneblusser   • Anker Lager   • Anker Herfstbok   • Boscoli   • Dentergems White  
-{:.beers}
+**Gouden Carolus Classic** (8.5%, 19.0°) _dark special_{:.tags}  • 
+**Gouden Carolus Tripel** (9.0%, 20.0°) _tripel_{:.tags}  • 
+**Gouden Carolus Ambrio** (8.0%, 18.0°) _amber_{:.tags}  • 
+**Gouden Carolus Hopsinjoor** (8.0%, 18.5°) _blonde_{:.tags}  • 
+**Gouden Carolus Easter**    • 
+**Gouden Carolus Christmas**    • 
+**Cuvée van de Keizer Blauw** (11.0%, 24.0°) _dark special_{:.tags}  • 
+**Cuvée van de Keizer Rood** (10.0%, 20.0°) _blonde special_{:.tags}  • 
+**Lucifer** (8.0%, 17.0°) _blonde special beer_{:.tags}  • 
+**Maneblusser** (6.5%, 14.2°) _blonde_{:.tags}  • 
+**Anker Lager** (5.0%, 12.5°) _lager_{:.tags}  • 
+**Anker Herfstbok** (6.5%, 15.0°) _special bock_{:.tags}  • 
+**Boscoli**    • 
+**Dentergems White** (5.0%, 11.5°) _wheat beer_{:.tags} 
+{: .beers }
 
-De Koninck - 1833  <br>
+ De Koninck • Brouwerij De Koninck  - 1833   `#dekoninck`{:.key} <br>
 Mechelsesteenweg 291 // 2018 Antwerpen  <br>
 [www.dekoninck.be](http://www.dekoninck.be)  <br>
-{:.brewery}
+{: .brewery #dekoninck }
 
 
-Duvel Moortgat - 1871  <br>
+ Duvel Moortgat • Brouwerij Duvel Moortgat  - 1871   `#duvelmoortgat`{:.key} <br>
 Breendonk-Dorp 58 // 2870 Breendonk-Puurs  <br>
-{:.brewery}
+{: .brewery #duvelmoortgat }
 
 
-Pakhuis -   <br>
+ Pakhuis   `#pakhuis`{:.key} <br>
 Vlaamse Kaai 76 // 2000 Antwerp  <br>
 [www.pakhuis.info](http://www.pakhuis.info)  <br>
-{:.brewery}
+{: .brewery #pakhuis }
 
 
-Westmalle - 1836  <br>
+ Westmalle • Brouwerij der Trappisten van Westmalle  - 1836  _trappist_{:.tags} `#westmalle`{:.key} <br>
 Antwerpsesteenweg 496 // 2390 Westmalle  <br>
 [www.trappistwestmalle.be](http://www.trappistwestmalle.be)  <br>
-{:.brewery}
+{: .brewery #westmalle }
 
 
 
 
-### Limburg _(2)_{:.count} {: #be-vli }
+### Limburg _(2)_{:.count}
+{: #be-vli }
 
 
 
@@ -1211,23 +1584,29 @@ Antwerpsesteenweg 496 // 2390 Westmalle  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Achel - 1999  <br>
+ Achel • Brouwerij de Achelse Kluis • Brouwerij der Sint-Benedictusabdij de Achelse Kluis  - 1999  _trappist_{:.tags} `#achel`{:.key} <br>
 De Kluis 1 // 3930 Hamont-Achel  <br>
 [www.achelsekluis.org](http://www.achelsekluis.org)  <br>
-{:.brewery}
+{: .brewery #achel }
 
-Achel Blonde 5°   • Achel Brune 5°   • Achel Blonde 8°   • Achel Brune 8°   • Achel Extra Brune   • Achel Extra Blonde  
-{:.beers}
+**Achel Blonde 5°** (5.0%)   • 
+**Achel Brune 5°** (5.0%)   • 
+**Achel Blonde 8°** (8.0%)   • 
+**Achel Brune 8°** (8.0%)   • 
+**Achel Extra Brune** (9.5%) _barley wine_{:.tags}  • 
+**Achel Extra Blonde** (9.5%)  
+{: .beers }
 
-Kerkom - 1878  <br>
+ Kerkom • Brouwerij Kerkom  - 1878   `#kerkom`{:.key} <br>
 Naamsesteenweg 469 // 3800 Sint-Truiden  <br>
 [www.brouwerijkerkom.be](http://www.brouwerijkerkom.be)  <br>
-{:.brewery}
+{: .brewery #kerkom }
 
 
 
 
-### Oost-Vlaanderen [East Flanders] _(15)_{:.count} {: #be-vov }
+### Oost-Vlaanderen [East Flanders] _(15)_{:.count}
+{: #be-vov }
 
 
 
@@ -1236,103 +1615,112 @@ Naamsesteenweg 469 // 3800 Sint-Truiden  <br>
 ##### Uncategorized _(15)_{:.count}
 
 
-Bosteels - 1791  <br>
+ Bosteels • Brouwerij Bosteels  - 1791   `#bosteels`{:.key} <br>
 Kerkstraat 92 // 9255 Buggenhout  <br>
 [www.bestbelgianspecialbeers.be](http://www.bestbelgianspecialbeers.be)  <br>
-{:.brewery}
+{: .brewery #bosteels }
 
-Tripel Karmeliet   • DeuS   • Pauwel Kwak  
-{:.beers}
+**Tripel Karmeliet** (8.0%) _triple_{:.tags}  • 
+**DeuS** (11.5%) _brut_{:.tags}  • 
+**Pauwel Kwak** (8.4%) _amber ale_{:.tags} 
+{: .beers }
 
-Brouwerij Cnudde - 1919  <br>
+ Brouwerij Cnudde  - 1919   `#cnudde`{:.key} <br>
 Fabriekstraat 8 // 9700 Eine-Oudenaarde  <br>
-{:.brewery}
+{: .brewery #cnudde }
 
-Cnudde Bruin  
-{:.beers}
+**Cnudde Bruin** (4.7%) _flemish brown ale_{:.tags} 
+{: .beers }
 
-Brouwerij Contreras - 1818  <br>
+ Brouwerij Contreras  - 1818   `#contreras`{:.key} <br>
 Molenstraat 110 // 9890 Gavere  <br>
 [www.contreras.be](http://www.contreras.be)  <br>
-{:.brewery}
+{: .brewery #contreras }
 
-Contrapils   • Tonneke   • Contreras' Especial Mars   • Valeir Blond   • Valeir Donker   • Valeir Extra   • Valeir Divers  
-{:.beers}
+**Contrapils** (5.0%) _pilsner_{:.tags}  • 
+**Tonneke** (5.0%) _belgian ale_{:.tags}  • 
+**Contreras' Especial Mars** (6.5%) _maerzen_{:.tags}  • 
+**Valeir Blond** (6.5%) _belgian pale ale_{:.tags}  • 
+**Valeir Donker** (6.5%) _belgian brown ale_{:.tags}  • 
+**Valeir Extra** (6.5%) _belgian ipa_{:.tags}  • 
+**Valeir Divers** (8.5%) _belgian tripel_{:.tags} 
+{: .beers }
 
-De Graal -   <br>
+ De Graal   `#degraal`{:.key} <br>
 Warande 15 // 9660 Brakel  <br>
 [www.degraal.be](http://www.degraal.be)  <br>
-{:.brewery}
+{: .brewery #degraal }
 
 
-De Ryck - 1886  <br>
+ De Ryck • Brouwerij De Ryck  - 1886   `#deryck`{:.key} <br>
 Kerkstraat 24 // 9550 Herzele  <br>
 [www.brouwerijderyck.be](http://www.brouwerijderyck.be)  <br>
-{:.brewery}
+{: .brewery #deryck }
 
 
-Glazen Toren - 2004  <br>
+ Glazen Toren • Brouwerij De Glazen Toren  - 2004   `#glazentoren`{:.key} <br>
 Glazentorenweg 11‎ // 9420 Erpe-Mere  <br>
 [www.glazentoren.be](http://www.glazentoren.be)  <br>
-{:.brewery}
+{: .brewery #glazentoren }
 
 
-Huyghe - 1906  <br>
+ Huyghe • Brouwerij Huyghe  - 1906   `#huyghe`{:.key} <br>
 // Melle  <br>
 [www.delirium.be](http://www.delirium.be)  <br>
-{:.brewery}
+{: .brewery #huyghe }
 
 
-Liefmans - 1679  <br>
+ Liefmans  - 1679   `#liefmans`{:.key} <br>
 Aalststraat 200 // 9700 Oudenaarde  <br>
 [www.liefmans.be](http://www.liefmans.be)  <br>
-{:.brewery}
+{: .brewery #liefmans }
 
 
-De Landtsheer - 1997  <br>
+ De Landtsheer • Brouwerij De Landtsheer • Brouwerij Malheur  - 1997   `#malheur`{:.key} <br>
 Mandekensstraat 179 // 9255 Buggenhout  <br>
 [www.malheur.be](http://www.malheur.be)  <br>
-{:.brewery}
+{: .brewery #malheur }
 
 
-Proef - 1996  <br>
+ Proef • Proefbrouwerij • De Proefbrouwerij  - 1996   `#proef`{:.key} <br>
 Doornzelestraat 20 //9080 Lochristi  <br>
 [www.proefbrouwerij.com](http://www.proefbrouwerij.com)  <br>
-{:.brewery}
+{: .brewery #proef }
 
 
-Roman - 1545  <br>
+ Roman • Brouwerij Roman  - 1545   `#roman`{:.key} <br>
 Hauwaart 105 // 9700 Oudenaarde  <br>
 [www.roman.be](http://www.roman.be)  <br>
-{:.brewery}
+{: .brewery #roman }
 
 
-Sint Canarus - 2002  <br>
+ Sint Canarus • Huisbrouwerij Sint Canarus  - 2002   `#sintcanarus`{:.key} <br>
 Polderweg 2 // 9800 Deinze  <br>
 [www.sintcanarus.be](http://www.sintcanarus.be)  <br>
-{:.brewery}
+{: .brewery #sintcanarus }
 
 
-Slaghmuylder - 1860  <br>
+ Slaghmuylder • Brouwerij Slaghmuylder  - 1860   `#slaghmuylder`{:.key} <br>
 Denderhoutembaan 2 // 9400 Ninove  <br>
-{:.brewery}
+{: .brewery #slaghmuylder }
 
 
-Van Den Bossche - 1897  <br>
+ Van Den Bossche • Brouwerij Van Den Bossche  - 1897   `#vandenbossche`{:.key} <br>
 Sint-Lievensplein 16 // 9550 Sint-Lievens-Esse  <br>
 [www.paterlieven.be](http://www.paterlieven.be)  <br>
-{:.brewery}
+{: .brewery #vandenbossche }
 
 
-Van Steenberge - 1784  <br>
+ Van Steenberge • Brouwerij Van Steenberge  - 1784   `#vansteenberge`{:.key} <br>
 Lindenlaan 25 // 9940 Ertvelde  <br>
 [vansteenberge.com](http://vansteenberge.com)  <br>
-{:.brewery}
+{: .brewery #vansteenberge }
 
 
 
 
-### Vlaams-Brabant [Flemish Brabant] _(17)_{:.count} {: #be-vbr }
+### Vlaams-Brabant [Flemish Brabant] _(17)_{:.count}
+{: #be-vbr }
 
 
 
@@ -1341,106 +1729,107 @@ Lindenlaan 25 // 9940 Ertvelde  <br>
 ##### Uncategorized _(17)_{:.count}
 
 
-Affligem - 1790  <br>
+ Affligem • Brouwerij De Smedt • Brouwerij Affligem  - 1790  _heineken_{:.tags} `#affligem`{:.key} <br>
 Ringlaan 18 // 1745 Opwijk  <br>
 [www.affligembeer.be](http://www.affligembeer.be)  <br>
-{:.brewery}
+{: .brewery #affligem }
 
 
-Boon - 1680  <br>
+ Boon • Brouwerij Boon  - 1680   `#boon`{:.key} <br>
 Fonteinstraat 65 // 1502 Lembeek  <br>
 [www.boon.be](http://www.boon.be)  <br>
-{:.brewery}
+{: .brewery #boon }
 
 
-De Block - 1887  <br>
+ De Block • Brouwerij De Block  - 1887   `#deblock`{:.key} <br>
 Nieuwbaan 92 // 1785 Merchtem-Peizegem  <br>
 [www.satanbeer.com](http://www.satanbeer.com)  <br>
-{:.brewery}
+{: .brewery #deblock }
 
 
-De Cam - 1992  <br>
+ De Cam • Geuzestekerij De Cam  - 1992   `#decam`{:.key} <br>
 Dorpstraat 67a // 1755 Gooik  <br>
 [www.decam.be](http://www.decam.be)  <br>
-{:.brewery}
+{: .brewery #decam }
 
 
-Domus Huisbrouwerij - 1985  <br>
+ Domus Huisbrouwerij • Brouwerij Domus  - 1985   `#domus`{:.key} <br>
 Eikstraat 14 // 3000 Leuven  <br>
 [www.domusleuven.be](http://www.domusleuven.be)  <br>
-{:.brewery}
+{: .brewery #domus }
 
 
-Drie Fonteinen - 1953  <br>
+ Drie Fonteinen • 3 Fonteinen • Geuzestekerij 3 Fonteinen  - 1953   `#driefonteinen`{:.key} <br>
 Hoogstraat 2a // 1650 Beersel  <br>
 [www.3fonteinen.be](http://www.3fonteinen.be)  <br>
-{:.brewery}
+{: .brewery #driefonteinen }
 
 
-Girardin - 1845  <br>
+ Girardin • Brouwerij Girardin  - 1845   `#girardin`{:.key} <br>
 Lindenberg 10-12 // 1700 Sint-Ulriks-Kapelle  <br>
-{:.brewery}
+{: .brewery #girardin }
 
 
-Haacht - 1898  <br>
+ Haacht • Brouwerij Haacht  - 1898   `#haacht`{:.key} <br>
 Provinciesteenweg 28 // 3190 Boortmeerbeek  <br>
 [www.haacht.com](http://www.haacht.com)  <br>
-{:.brewery}
+{: .brewery #haacht }
 
 
-Hanssens Artisanaal - 1896  <br>
+ Hanssens Artisanaal • Geuzestekerij Hanssens Artisanaal  - 1896   `#hanssensartisanaal`{:.key} <br>
 // Dworp  <br>
-{:.brewery}
+{: .brewery #hanssensartisanaal }
 
 
-Hoogaarden -   <br>
+ Hoogaarden   `#hoegaarden`{:.key} <br>
 Stoopkenstraat 46 // 3320 Hoegaarden  <br>
 [www.hoegaarden.com](http://www.hoegaarden.com)  <br>
-{:.brewery}
+{: .brewery #hoegaarden }
 
 
-Lindenmans - 1822  <br>
+ Lindenmans • Brouwerij Lindemans  - 1822   `#lindenmans`{:.key} <br>
 Lenniksebaan 1479 // 1602 Vlezenbeek  <br>
 [www.lindemans.be](http://www.lindemans.be)  <br>
-{:.brewery}
+{: .brewery #lindenmans }
 
 
-Loterbol - 1995  <br>
+ Loterbol • Brouwerij Loterbol  - 1995   `#loterbol`{:.key} <br>
 [www.loterbol.be](http://www.loterbol.be)  <br>
-{:.brewery}
+{: .brewery #loterbol }
 
 
-Mort Subite -   <br>
+ Mort Subite • Brouwerij Mort Subite   `#mortsubite`{:.key} <br>
 Lierput 1 // 1730 Kobbegem  <br>
 [www.mort-subite.be](http://www.mort-subite.be)  <br>
-{:.brewery}
+{: .brewery #mortsubite }
 
 
-Oud Beersel -   <br>
+ Oud Beersel • Geuzestekerij Oud Beersel • Brouwerij Oud Beersel   `#oudbeersel`{:.key} <br>
 Laarheidestraat 230 // 1650 Beersel  <br>
 [www.oudbeersel.com](http://www.oudbeersel.com)  <br>
-{:.brewery}
+{: .brewery #oudbeersel }
 
 
-Palm - 1747  <br>
+ Palm • Brouwerij Palm  - 1747   `#palm`{:.key} <br>
 Steenhuffeldorp 3 // 1840 Steenhuffel  <br>
 [www.palm.be](http://www.palm.be)  <br>
-{:.brewery}
+{: .brewery #palm }
 
 
-Timmermans - 1702  <br>
-{:.brewery}
+ Timmermans • Brouwerij Timmermans  - 1702   `#timmermans`{:.key} <br>
+{: .brewery #timmermans }
 
 
-Triest - 2009  <br>
+ Triest • Microbrouwerij Den Triest  - 2009   `#triest`{:.key} <br>
 Trieststraat 24 // 1880 Kapelle-op-den-Bos  <br>
 [www.dentriest.be](http://www.dentriest.be)  <br>
-{:.brewery}
+{: .brewery #triest }
 
 
 
 
-### West-Vlaanderen [West Flanders] _(17)_{:.count} {: #be-vwv }
+### West-Vlaanderen [West Flanders] _(17)_{:.count}
+{: #be-vwv }
 
 
 
@@ -1449,119 +1838,149 @@ Trieststraat 24 // 1880 Kapelle-op-den-Bos  <br>
 ##### Uncategorized _(17)_{:.count}
 
 
-Strubbe - 1830  <br>
+ Strubbe • Brouwerij Strubbe  - 1830   `#strubbe`{:.key} <br>
 Markt 1 // 8480 Ichtegem  <br>
 [www.brouwerij-strubbe.be](http://www.brouwerij-strubbe.be)  <br>
-{:.brewery}
+{: .brewery #strubbe }
 
 
-Halve Maan - 1856  <br>
+ Halve Maan • Brouwerij De Halve Maan • Brouwerij Henri Maes  - 1856   `#halvemaan`{:.key} <br>
 // Brugge  <br>
 [www.halvemaan.be](http://www.halvemaan.be)  <br>
-{:.brewery}
+{: .brewery #halvemaan }
 
 
-Regenboog -   <br>
+ Regenboog • De Regenboog   `#regenboog`{:.key} <br>
 Koningin Astridlaan 13 // 8310 Assebroek-Brugge  <br>
-{:.brewery}
+{: .brewery #regenboog }
 
 
-Alvinne - 2004  <br>
+ Alvinne • Brouwerij Alvinne • Picobrouwerij Alvinne  - 2004   `#alvinne`{:.key} <br>
 Vaartstraat 4a // 8552 Moen/Zwevegem  <br>
 [www.alvinne.be](http://www.alvinne.be)  <br>
-{:.brewery}
+{: .brewery #alvinne }
 
-Alvinne Blond   • Alvinne Bruin   • Alvinne Blond Extra   • Alvinne Tripel   • Alvinne Extra Restyled   • Alvinne Freaky   • Balthazar   • Melchior   • Gaspar  
-{:.beers}
+**Alvinne Blond** (6.0%) _blond ale_{:.tags}  • 
+**Alvinne Bruin** (6.5%) _brown ale_{:.tags}  • 
+**Alvinne Blond Extra** (7.1%) _strong golden ale_{:.tags}  • 
+**Alvinne Tripel** (8.699999999999999%)   • 
+**Alvinne Extra Restyled**    • 
+**Alvinne Freaky**    • 
+**Balthazar** (9.0%) _seasonal christmas three wise men_{:.tags}  • 
+**Melchior** (11.0%) _seasonal christmas three wise men_{:.tags}  • 
+**Gaspar** (8.0%) _seasonal christmas three wise men_{:.tags} 
+{: .beers }
 
-Bavik - 1894  <br>
+ Bavik • Brouwerij Bavik  - 1894   `#bavik`{:.key} <br>
 Rijksweg 33 // 8531 Bavikhove  <br>
 [www.bavik.be](http://www.bavik.be)  <br>
-{:.brewery}
+{: .brewery #bavik }
 
-Bavik Premium Pils   • Bavik Triple Bock   • Wittekerke   • Petrus Oud Bruin   • Petrus Speciale   • Petrus Gouden Tripel   • Petrus Dubbel Bruin   • Petrus Blond   • Petrus Winter   • Petrus Aged Pale  
-{:.beers}
+**Bavik Premium Pils**    • 
+**Bavik Triple Bock** (3.0%)   • 
+**Wittekerke** (5.0%) _witbier wheat_{:.tags}  • 
+**Petrus Oud Bruin** (5.5%) _bruin_{:.tags}  • 
+**Petrus Speciale** (5.0%) _speciale_{:.tags}  • 
+**Petrus Gouden Tripel**    • 
+**Petrus Dubbel Bruin** (6.5%) _brown_{:.tags}  • 
+**Petrus Blond**    • 
+**Petrus Winter**    • 
+**Petrus Aged Pale** (7.3%) _aged pale_{:.tags} 
+{: .beers }
 
-Bockor - 1892  <br>
+ Bockor • Brouwerij Bockor  - 1892   `#bockor`{:.key} <br>
 Kwabrugstraat 5 // 8500 Bellegem  <br>
 [www.bockor.be‎](http://www.bockor.be‎)  <br>
-{:.brewery}
+{: .brewery #bockor }
 
-Omer (Traditional Blond)   • Bellegems Witbier   • Vander Ghinste Oud Bruin   • Cuvée des Jacobins  
-{:.beers}
+**Omer (Traditional Blond)** (8.0%) _blond golden ale_{:.tags}  • 
+**Bellegems Witbier** (5.0%) _wheat_{:.tags}  • 
+**Vander Ghinste Oud Bruin** (5.5%) _sour brown ale_{:.tags}  • 
+**Cuvée des Jacobins** (5.5%) _flemish sour ale_{:.tags} 
+{: .beers }
 
-Brouwerij Deca - 1850  <br>
+ Brouwerij Deca  - 1850   `#deca`{:.key} <br>
 Elverdingestraat 4 // 8640 Woesten  <br>
 [www.decabrouwerij.com](http://www.decabrouwerij.com)  <br>
-{:.brewery}
+{: .brewery #deca }
 
-Antiek Blond Super 5 Ale   • Antiek Blond   • Vleteren Bruin 8°   • Vleteren Bruin 12°   • Vleteren Blond 12°  
-{:.beers}
+**Antiek Blond Super 5 Ale** (5.0%)   • 
+**Antiek Blond** (8.0%) _belgian strong pale ale_{:.tags}  • 
+**Vleteren Bruin 8°** (8.0%) _belgian strong ale_{:.tags}  • 
+**Vleteren Bruin 12°**    • 
+**Vleteren Blond 12°** (12.0%)  
+{: .beers }
 
-De Dolle Brouwers - 1980  <br>
+ De Dolle Brouwers  - 1980   `#dedollebrouwers`{:.key} <br>
 Roeselarestraat 12b // 8600 Essen  <br>
 [www.dedollebrouwers.be](http://www.dedollebrouwers.be)  <br>
-{:.brewery}
+{: .brewery #dedollebrouwers }
 
-De Dolle Arabier   • De Dolle Oerbier   • De Dolle Dulle Teve   • De Dolle Special Extra Export Stout   • De Dolle Boskeun   • De Dolle Stille Nacht  
-{:.beers}
+**De Dolle Arabier** (8.0%) _belgian strong pale ale blond_{:.tags}  • 
+**De Dolle Oerbier** (9.0%) _belgian strong dark ale strong dubbel_{:.tags}  • 
+**De Dolle Dulle Teve** (10.0%) _belgian tripel_{:.tags}  • 
+**De Dolle Special Extra Export Stout** (9.0%) _belgian imperial stout_{:.tags}  • 
+**De Dolle Boskeun** (7.0%) _tripel belgian strong pale ale seasonal easter_{:.tags}  • 
+**De Dolle Stille Nacht** (12.0%) _belgian tripel seasonal christmas winter_{:.tags} 
+{: .beers }
 
-Gaverhopke -   <br>
+ Gaverhopke   `#gaverhopke`{:.key} <br>
 Steenbrugstraat 187 // 8530 Stasegem-Harelbeke  <br>
-{:.brewery}
+{: .brewery #gaverhopke }
 
 
-Rodenbach -   <br>
+ Rodenbach • Brouwerij Rodenbach   `#rodenbach`{:.key} <br>
 Spanjestraat 133-141 // 8800 Roeselare  <br>
 [www.rodenbach.be](http://www.rodenbach.be)  <br>
-{:.brewery}
+{: .brewery #rodenbach }
 
 
-St. Bernardus - 1946  <br>
+ St. Bernardus • Sint Bernardus • Brouwerij St. Bernard  - 1946  _belgianfamilybrewers_{:.tags} `#stbernardus`{:.key} <br>
 Trappistenweg 23 // 8978 Watou  <br>
 [www.sintbernardus.be](http://www.sintbernardus.be)  <br>
-{:.brewery}
+{: .brewery #stbernardus }
 
 
-De Struise - 2001  <br>
+ De Struise • De Struise Brouwers  - 2001   `#destruise`{:.key} <br>
 Kasteelstraat 50 //8640 Oostvleteren  <br>
 [www.struisebrouwers.be](http://www.struisebrouwers.be)  <br>
-{:.brewery}
+{: .brewery #destruise }
 
 
-Urthel - 2000  <br>
+ Urthel • Brouwerij Urthel  - 2000   `#urthel`{:.key} <br>
 // Ruiselede  <br>
 [www.urthel.com](http://www.urthel.com)  <br>
-{:.brewery}
+{: .brewery #urthel }
 
 
-Van Eecke - 1862  <br>
+ Van Eecke • Brouwerij Van Eecke  - 1862  _belgianfamilybrewers_{:.tags} `#vaneecke`{:.key} <br>
 Douvieweg 2 // 8978 Watou  <br>
 [www.brouwerijvaneecke.be](http://www.brouwerijvaneecke.be)  <br>
-{:.brewery}
+{: .brewery #vaneecke }
 
 
-Vanhonsebrouck - 1900  <br>
+ Vanhonsebrouck  - 1900  _belgianfamilybrewers_{:.tags} `#vanhonsebrouck`{:.key} <br>
 Oostrozebekestraat 43 // 8770 Ingelmunster  <br>
 [www.vanhonsebrouck.be](http://www.vanhonsebrouck.be)  <br>
-{:.brewery}
+{: .brewery #vanhonsebrouck }
 
 
-Verhaeghe - 1885  <br>
+ Verhaeghe • Brouwerij Verhaeghe  - 1885  _belgianfamilybrewers_{:.tags} `#verhaeghe`{:.key} <br>
 Beukenhofstraat 96 // 8570 Vichte  <br>
 [www.brouwerijverhaeghe.be](http://www.brouwerijverhaeghe.be)  <br>
-{:.brewery}
+{: .brewery #verhaeghe }
 
 
-Westvleteren -   <br>
+ Westvleteren   `#westvleteren`{:.key} <br>
 St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren  <br>
 [www.sintsixtus.be](http://www.sintsixtus.be)  <br>
-{:.brewery}
+{: .brewery #westvleteren }
 
 
 
 
-### Brabant Wallon [Walloon Brabant] _(1)_{:.count} {: #be-wbr }
+### Brabant Wallon [Walloon Brabant] _(1)_{:.count}
+{: #be-wbr }
 
 
 
@@ -1570,15 +1989,16 @@ St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Lefèbvre - 1876  <br>
+ Lefèbvre • Brasserie Lefèbvre  - 1876   `#lefebvre`{:.key} <br>
 Chemin du Croly 54 // 1430 Rebecq-Quenast  <br>
 [www.brasserielefebvre.be](http://www.brasserielefebvre.be)  <br>
-{:.brewery}
+{: .brewery #lefebvre }
 
 
 
 
-### Hainaut _(16)_{:.count} {: #be-wht }
+### Hainaut _(16)_{:.count}
+{: #be-wht }
 
 
 
@@ -1587,97 +2007,98 @@ Chemin du Croly 54 // 1430 Rebecq-Quenast  <br>
 ##### Uncategorized _(16)_{:.count}
 
 
-De Ranke - 1994  <br>
+ De Ranke • Brouwerij De Ranke  - 1994   `#deranke`{:.key} <br>
 Rue Petit Tourcoing 1a // 7711 Dottignies  <br>
 [www.deranke.be](http://www.deranke.be)  <br>
-{:.brewery}
+{: .brewery #deranke }
 
 
-Abbaye des Rocs - 1979  <br>
+ Abbaye des Rocs • Brasserie de l'Abbaye des Rocs  - 1979   `#abbayederocs`{:.key} <br>
 37 Chaussée Brunehault // 7387 Montignies-sur-Roc  <br>
 [www.abbaye-des-rocs.com](http://www.abbaye-des-rocs.com)  <br>
-{:.brewery}
+{: .brewery #abbayederocs }
 
 
-Augrenoise - 2001  <br>
+ Augrenoise • Brasserie Augrenoise  - 2001   `#augrenoise`{:.key} <br>
 Chaussée de Bruxelles 184 // 7061 Casteau  <br>
 [www.augrenoise.com](http://www.augrenoise.com)  <br>
-{:.brewery}
+{: .brewery #augrenoise }
 
 
-Binchoise - 1989  <br>
+ Binchoise • Brasserie La Binchoise  - 1989   `#binchoise`{:.key} <br>
 Faubourg Saint Paul 38 // 7130 Binche  <br>
 [www.brasserielabinchoise.be](http://www.brasserielabinchoise.be)  <br>
-{:.brewery}
+{: .brewery #binchoise }
 
 
-Blaugies - 1988  <br>
+ Blaugies • Brasserie de Blaugies  - 1988   `#blaugies`{:.key} <br>
 435 Rue de la Frontière // 7370 Dour (Blaugies)  <br>
 [www.brasseriedeblaugies.com](http://www.brasseriedeblaugies.com)  <br>
-{:.brewery}
+{: .brewery #blaugies }
 
 
-Brootcoorens - 2000  <br>
+ Brootcoorens • Brasserie Brootcoorens  - 2000   `#brootcoorens`{:.key} <br>
 Rue de Maubeuge 197 // 6560 Erquelinnes  <br>
-{:.brewery}
+{: .brewery #brootcoorens }
 
 
-Brunehat - 1890  <br>
+ Brunehat • Brasserie de Brunehaut  - 1890   `#brunehaut`{:.key} <br>
 Rue des Panneries 17-19 // 7623 Rongy (Brunehaut)  <br>
-{:.brewery}
+{: .brewery #brunehaut }
 
 
-Caulier - 1994  <br>
+ Caulier • Brasserie Caulier  - 1994   `#caulier`{:.key} <br>
 Rue de Sondeville 134 // 7600 Péruwelz  <br>
-{:.brewery}
+{: .brewery #caulier }
 
 
-Cazeau - 2004  <br>
+ Cazeau • Brasserie de Cazeau  - 2004   `#cazeau`{:.key} <br>
 67 Rue de Cazeau  // 7520 Templeuve  <br>
 [www.brasseriedecazeau.be](http://www.brasseriedecazeau.be)  <br>
-{:.brewery}
+{: .brewery #cazeau }
 
 
-Chimay -   <br>
+ Chimay   `#chimay`{:.key} <br>
 Route de Charlemagne 8 // 6464 Baileux  <br>
 [www.chimay.com](http://www.chimay.com)  <br>
-{:.brewery}
+{: .brewery #chimay }
 
 
-Dubuisson -   <br>
+ Dubuisson • Brasserie Dubuisson   `#dubuisson`{:.key} <br>
 Chausée de Mons 28 // 7904 Pipaix-Leuze  <br>
-{:.brewery}
+{: .brewery #dubuisson }
 
 
-Dupont -   <br>
+ Dupont • Brasserie Dupont   `#dupont`{:.key} <br>
 Rue Basse 5 // 7904 Tourpes-Leuze  <br>
-{:.brewery}
+{: .brewery #dupont }
 
 
-Ellezelloise -   <br>
+ Ellezelloise • Brasserie Ellezelloise   `#ellezelloise`{:.key} <br>
 Guinaumont 75 // 7890 Ellezelles  <br>
-{:.brewery}
+{: .brewery #ellezelloise }
 
 
-Géants - 1998  <br>
+ Géants • Brasserie Des Géants • Brasserie des Légendes  - 1998   `#geants`{:.key} <br>
 Rue de Castel 19 // 7801 Irchonwelz (Ath)  <br>
-{:.brewery}
+{: .brewery #geants }
 
 
-Silly -   <br>
+ Silly • Brasserie de Silly   `#silly`{:.key} <br>
 Rue Ville Basse 2 // 7830 Silly  <br>
 [www.silly-beer.com](http://www.silly-beer.com)  <br>
-{:.brewery}
+{: .brewery #silly }
 
 
-Vapeur -   <br>
+ Vapeur • Brasserie à Vapeur   `#vapeur`{:.key} <br>
 Rue de Maréchal 1 // 7904 Pipaix-Leuze  <br>
-{:.brewery}
+{: .brewery #vapeur }
 
 
 
 
-### Liège _(1)_{:.count} {: #be-wlg }
+### Liège _(1)_{:.count}
+{: #be-wlg }
 
 
 
@@ -1686,14 +2107,15 @@ Rue de Maréchal 1 // 7904 Pipaix-Leuze  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Grain d'Orge - 2002  <br>
+ Grain d'Orge • Brasserie Grain d'Orge  - 2002   `#graindorge`{:.key} <br>
 Centre 16 // 4852 Hombourg  <br>
-{:.brewery}
+{: .brewery #graindorge }
 
 
 
 
-### Luxembourg _(5)_{:.count} {: #be-wlx }
+### Luxembourg _(5)_{:.count}
+{: #be-wlx }
 
 
 
@@ -1702,37 +2124,38 @@ Centre 16 // 4852 Hombourg  <br>
 ##### Uncategorized _(5)_{:.count}
 
 
-Achouffe - 1982  <br>
+ Achouffe • Brasserie d' Achouffe  - 1982   `#achouffe`{:.key} <br>
 Rue du Village 32 // 6666 Wibrin-Achouffe  <br>
 [www.achouffe.be](http://www.achouffe.be)  <br>
-{:.brewery}
+{: .brewery #achouffe }
 
 
-Fantôme - 1988  <br>
+ Fantôme • Brasserie Fantôme  - 1988   `#fantome`{:.key} <br>
 Rue Préal 8 // 6997 Soy  <br>
 [www.fantome.be](http://www.fantome.be)  <br>
-{:.brewery}
+{: .brewery #fantome }
 
 
-Orval -   <br>
+ Orval • Brasserie d'Orval  _trappisten_{:.tags} `#orval`{:.key} <br>
 Abbaye Notre Dame D'Orval // Orval 2 // 6823 Villers-devant-Orval  <br>
 [www.orval.be](http://www.orval.be)  <br>
-{:.brewery}
+{: .brewery #orval }
 
 
-Oxymore - 2006  <br>
+ Oxymore • Brasserie Oxymore  - 2006   `#oxymore`{:.key} <br>
 Rue Verte 1 // 6670 Limerlé (Gouvy)  <br>
-{:.brewery}
+{: .brewery #oxymore }
 
 
-Rulles -   <br>
+ Rulles • Brasserie Artisanale de Rulles 2000   `#rulles`{:.key} <br>
 Rue Maurice Grévisse 36 // 6724 Rulles-Habay  <br>
-{:.brewery}
+{: .brewery #rulles }
 
 
 
 
-### Namur _(4)_{:.count} {: #be-wna }
+### Namur _(4)_{:.count}
+{: #be-wna }
 
 
 
@@ -1741,28 +2164,28 @@ Rue Maurice Grévisse 36 // 6724 Rulles-Habay  <br>
 ##### Uncategorized _(4)_{:.count}
 
 
-Du Bocq - 1858  <br>
+ Du Bocq • Brasserie du Bocq  - 1858   `#dubocq`{:.key} <br>
 Rue de la Brasserie 4 // 5530 Purnode  <br>
 [www.bocq.be](http://www.bocq.be)  <br>
-{:.brewery}
+{: .brewery #dubocq }
 
 
-Brasserie_Caracole - 1990  <br>
+ Brasserie_Caracole • Caracole  - 1990   `#caracole`{:.key} <br>
 Côte Marie-Thérèse 86 // 5500 Falmignoul  <br>
 [www.brasserie-caracole.be](http://www.brasserie-caracole.be)  <br>
-{:.brewery}
+{: .brewery #caracole }
 
 
-Rochefort - 1595  <br>
+ Rochefort • Brasserie de Rochefort  - 1595  _trappist_{:.tags} `#rochefort`{:.key} <br>
 Abbaye Notre Dame de St. Rémy // Rue de L'Abbaye 8 // 5580 Rochefort  <br>
 [www.abbaye-rochefort.be](http://www.abbaye-rochefort.be)  <br>
-{:.brewery}
+{: .brewery #rochefort }
 
 
-Silenrieux - 1991  <br>
+ Silenrieux • Brasserie de Silenrieux  - 1991   `#silenrieux`{:.key} <br>
 Rue Noupré 1 // 5630 Silenrieux  <br>
 [www.brasseriedesilenrieux.be](http://www.brasseriedesilenrieux.be)  <br>
-{:.brewery}
+{: .brewery #silenrieux }
 
 
 
@@ -1778,7 +2201,7 @@ Rue Noupré 1 // 5630 Silenrieux  <br>
 
 ### Uncategorized Beers
 
-Sarajevsko Pivo  
+**Sarajevsko Pivo** (4.9%) _lager_{:.tags} 
 
 
 
@@ -1794,12 +2217,15 @@ Sarajevsko Pivo
 
 ### Uncategorized Beers
 
-Kamenitza   • Stolichno Bock   • Zagorka  
+**Kamenitza**  _lager_{:.tags}  • 
+**Stolichno Bock** (6.5%) _bockbier_{:.tags}  • 
+**Zagorka**   
 
 
 
 
-### Sofija City _(0)_{:.count} {: #bg-so }
+### Sofija City _(0)_{:.count}
+{: #bg-so }
 
 
 
@@ -1807,7 +2233,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Sofija Province _(0)_{:.count} {: #bg-sf }
+### Sofija Province _(0)_{:.count}
+{: #bg-sf }
 
 
 
@@ -1815,7 +2242,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Blagoevgrad _(0)_{:.count} {: #bg-bl }
+### Blagoevgrad _(0)_{:.count}
+{: #bg-bl }
 
 
 
@@ -1823,7 +2251,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Pernik _(0)_{:.count} {: #bg-pe }
+### Pernik _(0)_{:.count}
+{: #bg-pe }
 
 
 
@@ -1831,7 +2260,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Kyustendil _(0)_{:.count} {: #bg-ky }
+### Kyustendil _(0)_{:.count}
+{: #bg-ky }
 
 
 
@@ -1839,7 +2269,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Plovdiv _(0)_{:.count} {: #bg-pv }
+### Plovdiv _(0)_{:.count}
+{: #bg-pv }
 
 
 
@@ -1847,7 +2278,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Haskovo _(0)_{:.count} {: #bg-ha }
+### Haskovo _(0)_{:.count}
+{: #bg-ha }
 
 
 
@@ -1855,7 +2287,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Pazardzhik _(0)_{:.count} {: #bg-pa }
+### Pazardzhik _(0)_{:.count}
+{: #bg-pa }
 
 
 
@@ -1863,7 +2296,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Smolyan _(0)_{:.count} {: #bg-sm }
+### Smolyan _(0)_{:.count}
+{: #bg-sm }
 
 
 
@@ -1871,7 +2305,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Kardzhali _(0)_{:.count} {: #bg-ka }
+### Kardzhali _(0)_{:.count}
+{: #bg-ka }
 
 
 
@@ -1879,7 +2314,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Vidin _(0)_{:.count} {: #bg-vi }
+### Vidin _(0)_{:.count}
+{: #bg-vi }
 
 
 
@@ -1887,7 +2323,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Montana _(0)_{:.count} {: #bg-mo }
+### Montana _(0)_{:.count}
+{: #bg-mo }
 
 
 
@@ -1895,7 +2332,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Vratsa _(0)_{:.count} {: #bg-vr }
+### Vratsa _(0)_{:.count}
+{: #bg-vr }
 
 
 
@@ -1903,7 +2341,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Pleven _(0)_{:.count} {: #bg-pl }
+### Pleven _(0)_{:.count}
+{: #bg-pl }
 
 
 
@@ -1911,7 +2350,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Lovech _(0)_{:.count} {: #bg-lo }
+### Lovech _(0)_{:.count}
+{: #bg-lo }
 
 
 
@@ -1919,7 +2359,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Veliko Tarnovo _(0)_{:.count} {: #bg-ve }
+### Veliko Tarnovo _(0)_{:.count}
+{: #bg-ve }
 
 
 
@@ -1927,7 +2368,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Gabrovo _(0)_{:.count} {: #bg-ga }
+### Gabrovo _(0)_{:.count}
+{: #bg-ga }
 
 
 
@@ -1935,7 +2377,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Ruse _(0)_{:.count} {: #bg-ru }
+### Ruse _(0)_{:.count}
+{: #bg-ru }
 
 
 
@@ -1943,7 +2386,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Razgrad _(0)_{:.count} {: #bg-ra }
+### Razgrad _(0)_{:.count}
+{: #bg-ra }
 
 
 
@@ -1951,7 +2395,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Silistra _(0)_{:.count} {: #bg-si }
+### Silistra _(0)_{:.count}
+{: #bg-si }
 
 
 
@@ -1959,7 +2404,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Varna _(0)_{:.count} {: #bg-va }
+### Varna _(0)_{:.count}
+{: #bg-va }
 
 
 
@@ -1967,7 +2413,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Dobrich _(0)_{:.count} {: #bg-do }
+### Dobrich _(0)_{:.count}
+{: #bg-do }
 
 
 
@@ -1975,7 +2422,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Shumen _(0)_{:.count} {: #bg-sh }
+### Shumen _(0)_{:.count}
+{: #bg-sh }
 
 
 
@@ -1983,7 +2431,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Targovishte _(0)_{:.count} {: #bg-ta }
+### Targovishte _(0)_{:.count}
+{: #bg-ta }
 
 
 
@@ -1991,7 +2440,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Burgas _(0)_{:.count} {: #bg-bu }
+### Burgas _(0)_{:.count}
+{: #bg-bu }
 
 
 
@@ -1999,7 +2449,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Sliven _(0)_{:.count} {: #bg-sl }
+### Sliven _(0)_{:.count}
+{: #bg-sl }
 
 
 
@@ -2007,7 +2458,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Yambol _(0)_{:.count} {: #bg-ya }
+### Yambol _(0)_{:.count}
+{: #bg-ya }
 
 
 
@@ -2015,7 +2467,8 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 
 
-### Stara Zagora _(0)_{:.count} {: #bg-sz }
+### Stara Zagora _(0)_{:.count}
+{: #bg-sz }
 
 
 
@@ -2034,7 +2487,9 @@ Kamenitza   • Stolichno Bock   • Zagorka
 
 ### Uncategorized Beers
 
-Karlovačko Svijetlo Pivo   • Ožujsko bier   • Tomislav Pivo  
+**Karlovačko Svijetlo Pivo** (5.4%) _pils_{:.tags}  • 
+**Ožujsko bier** (5.2%) _lager_{:.tags}  • 
+**Tomislav Pivo** (7.3%) _lager_{:.tags} 
 
 
 
@@ -2050,34 +2505,56 @@ Karlovačko Svijetlo Pivo   • Ožujsko bier   • Tomislav Pivo
 
 ### Uncategorized Beers
 
-Pilsner Urquell   • Budweiser Budvar 10%            4%   • Budweiser Budvar 12%   • Budweiser Budvar Tmavý Ležák [Dark Lager]   • Starobrno   • Starobrno Tradiční   • Starobrno Medium   • Starobrno Černé [Dark Lager]   • Starobrno Řezák [Amber Lager]   • Staropramen Svĕtlý   • Staropramen Ležák   • Staropramen Černý [Dark]   • Staropramen Granát [Amber Lager]   • Braník Světlý   • Braník Jedenáctka 11°   • Braník Ležák   • Sládkův Měšťan   • Vratislav   • U Fleků Flekovský Ležák [Dark Lager]  
+**Pilsner Urquell**  _pilsner pale lager_{:.tags}  • 
+**Budweiser Budvar 10%            4%** (10.0°)   • 
+**Budweiser Budvar 12%** (5.0%, 12.0°)   • 
+**Budweiser Budvar Tmavý Ležák [Dark Lager]** (4.7%, 12.0°) _dark lager_{:.tags}  • 
+**Starobrno** (5.0%, 12.0°) _czech pilsener pale lager_{:.tags}  • 
+**Starobrno Tradiční** (4.0%, 10.0°) _pale lager_{:.tags}  • 
+**Starobrno Medium** (4.5%, 11.0°) _pale lager_{:.tags}  • 
+**Starobrno Černé [Dark Lager]** (3.8%, 10.0°) _dark lager_{:.tags}  • 
+**Starobrno Řezák [Amber Lager]** (4.0%, 10.0°) _amber lager_{:.tags}  • 
+**Staropramen Svĕtlý** (4.0%, 10.0°) _pale lager_{:.tags}  • 
+**Staropramen Ležák** (5.2%, 12.0°) _pale lager_{:.tags}  • 
+**Staropramen Černý [Dark]** (4.5%, 11.0°) _dark lager_{:.tags}  • 
+**Staropramen Granát [Amber Lager]** (4.8%, 11.0°) _red lager_{:.tags}  • 
+**Braník Světlý**    • 
+**Braník Jedenáctka 11°**    • 
+**Braník Ležák**    • 
+**Sládkův Měšťan**  _pale lager_{:.tags}  • 
+**Vratislav**  _pale lager_{:.tags}  • 
+**U Fleků Flekovský Ležák [Dark Lager]** (5.5%, 13.0°) _dark lager_{:.tags} 
 
 
 
 
-### Praha [Prague • Prag] _(2)_{:.count} {: #cz-pr }
+### Praha [Prague • Prag] _(2)_{:.count}
+{: #cz-pr }
 
 
 
 
-##### Praha [Prague]  _(2)_{:.count} 
+##### Praha [Prague] _(2)_{:.count}  _pop 1.290.846 (1.265.000)_{:.pop}
+{: .city #praha }
 
 
-Pivovary Staropramen [Staropramen Brewery] - 1869  <br>
+
+ Pivovary Staropramen [Staropramen Brewery]  - 1869   `#staropramen`{:.key} <br>
 Nádražní 84 // 150 54  Praha 5 - Smíchov, abinbev  <br>
 [www.staropramen.cz](http://www.staropramen.cz)  <br>
-{:.brewery}
+{: .brewery #staropramen }
 
 
-Pivovar Braník - 1899  <br>
+ Pivovar Braník  - 1899   `#branik`{:.key} <br>
 Údolní 212/1 // 147 00 Praha 4 - Braník  <br>
-{:.brewery}
+{: .brewery #branik }
 
 
 
 
 
-### Střední Čechy [Central Bohemia • Mittelböhmen] _(6)_{:.count} {: #cz-st }
+### Střední Čechy [Central Bohemia • Mittelböhmen] _(6)_{:.count}
+{: #cz-st }
 
 
 
@@ -2086,136 +2563,160 @@ Pivovar Braník - 1899  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
-Pivovar Velké Popovice - 1874  <br>
+ Pivovar Velké Popovice  - 1874  _sabmiller_{:.tags} `#kozel`{:.key} <br>
 Ringhofferova 1 // 251 69  Velké Popovice  <br>
 [www.beer-kozel.cz](http://www.beer-kozel.cz)  <br>
-{:.brewery}
+{: .brewery #kozel }
 
-Kozel   • Kozel Medium 11°   • Kozel Premium   • Kozel Černý [Dark Lager]  
-{:.beers}
+**Kozel** (4.0%, 10.0°) _pale lager_{:.tags}  • 
+**Kozel Medium 11°** (4.6%, 11.0°) _pale lager_{:.tags}  • 
+**Kozel Premium** (4.8%, 12.0°) _pale lager_{:.tags}  • 
+**Kozel Černý [Dark Lager]** (3.8%, 10.0°) _dark munich dunkel lager_{:.tags} 
+{: .beers }
 
-Královský Pivovar Krušovice - 1581  <br>
+ Královský Pivovar Krušovice  - 1581  _heineken_{:.tags} `#krusovice`{:.key} <br>
 270 53 Krušovice //  <br>
 [www.krusovice.cz](http://www.krusovice.cz)  <br>
-{:.brewery}
+{: .brewery #krusovice }
 
-Krušovice 10°   • Krušovice 12°   • Krušovice Černé [Dark]   • Krušovice Mušketýr   • Krušovice Malvaz 13°  
-{:.beers}
+**Krušovice 10°**    • 
+**Krušovice 12°**    • 
+**Krušovice Černé [Dark]** (3.8%, 10.0°) _dark lager_{:.tags}  • 
+**Krušovice Mušketýr** (4.5%, 11.0°) _pale lager_{:.tags}  • 
+**Krušovice Malvaz 13°**   
+{: .beers }
 
-Pivovar Kutná Hora - 1573  <br>
+ Pivovar Kutná Hora  - 1573  _heineken_{:.tags} `#kutnahora`{:.key} <br>
 U Lorce 11 // 284 15 Kutná Hora  <br>
-{:.brewery}
+{: .brewery #kutnahora }
 
 
-Pivovar Nymburk - 1895  <br>
+ Pivovar Nymburk  - 1895   `#nymburk`{:.key} <br>
 Pražská 581 // 288 25  Nymburk  <br>
 [www.postriziny.cz](http://www.postriziny.cz)  <br>
-{:.brewery}
+{: .brewery #nymburk }
 
 
-Lobkowiczký Pivovar Vysoký Chlumec - 1466  <br>
+ Lobkowiczký Pivovar Vysoký Chlumec  - 1466   `#lobkowiczky`{:.key} <br>
 Vysoký Chlumec // 262 52  Vysoký Chlumec  <br>
 [www.lobkowicz.cz](http://www.lobkowicz.cz)  <br>
-{:.brewery}
+{: .brewery #lobkowiczky }
 
 
-Pivovar Klášter (Pivovary Lobkowicz) - 1570  <br>
+ Pivovar Klášter (Pivovary Lobkowicz)  - 1570   `#klaster`{:.key} <br>
 294 15 Klášter Hradiště nad Jizerou //  <br>
 [www.pivovarklaster.cz](http://www.pivovarklaster.cz)  <br>
-{:.brewery}
+{: .brewery #klaster }
 
 
 
 
-### Jižní Čechy [South Bohemia • Südböhmen] _(6)_{:.count} {: #cz-jc }
+### Jižní Čechy [South Bohemia • Südböhmen] _(6)_{:.count}
+{: #cz-jc }
 
 
 [Budějovice [Budweis]](#budejovice) • **Uncategorized** _(5)_{:.count}
 
-##### Budějovice [Budweis] 
+##### Budějovice [Budweis]   _pop 93.883_{:.pop}
+{: .city #budejovice }
 
 
-Budějovický Budvar [Budweiser Budvar Brewery] - 1895  <br>
+
+ Budějovický Budvar [Budweiser Budvar Brewery]  - 1895   `#budweiser`{:.key} <br>
 Karoliny Světlé 4 // 370 21  České Budějovice  <br>
 [www.budvar.cz](http://www.budvar.cz)  <br>
-{:.brewery}
+{: .brewery #budweiser }
 
 
 
 ##### Uncategorized _(5)_{:.count}
 
 
-Budějovický Měšťanský Pivovar - 1795  <br>
+ Budějovický Měšťanský Pivovar  - 1795   `#samson`{:.key} <br>
 37054 České Budějovice // Lidická 458/51  <br>
 [www.samson.cz](http://www.samson.cz)  <br>
-{:.brewery}
+{: .brewery #samson }
 
 
-Pivovar Eggenberg - 1560  <br>
+ Pivovar Eggenberg  - 1560   `#eggenberg`{:.key} <br>
 Latrán 27 // 381 01  Český Krumlov  <br>
 [www.eggenberg.cz](http://www.eggenberg.cz)  <br>
-{:.brewery}
+{: .brewery #eggenberg }
 
-Eggenberg Světlé Výčepní   • Eggenberg Tmavý Ležák [Dark Lager]   • Eggenberg Světlý Ležák  
-{:.beers}
+**Eggenberg Světlé Výčepní** (4.0%, 10.0°) _pale lager_{:.tags}  • 
+**Eggenberg Tmavý Ležák [Dark Lager]** (4.2%, 11.0°) _dark lager_{:.tags}  • 
+**Eggenberg Světlý Ležák** (5.0%, 12.0°) _pale lager_{:.tags} 
+{: .beers }
 
-Městský Pivovar Platan - 1598  <br>
+ Městský Pivovar Platan  - 1598   `#platan`{:.key} <br>
 Pivovarská 168 // 389 12  Protivín  <br>
 [www.pivo-platan.cz](http://www.pivo-platan.cz)  <br>
-{:.brewery}
+{: .brewery #platan }
 
 
-Bohemia Regent - 1379  <br>
+ Bohemia Regent  - 1379   `#regent`{:.key} <br>
 Trocnovské nám. 124 // 379 14  Třeboň  <br>
 [www.pivovar-regent.cz](http://www.pivovar-regent.cz)  <br>
-{:.brewery}
+{: .brewery #regent }
 
 
-Měšťanský Pivovar Strakonice - 1649  <br>
+ Měšťanský Pivovar Strakonice  - 1649   `#strakonice`{:.key} <br>
 Podskalského 324 // 386 19  Strakonice  <br>
 [www.pivovar-strakonice.cz](http://www.pivovar-strakonice.cz)  <br>
-{:.brewery}
+{: .brewery #strakonice }
 
 
 
 
-### Plzeň [• Pilsen] _(3)_{:.count} {: #cz-pl }
+### Plzeň [• Pilsen] _(3)_{:.count}
+{: #cz-pl }
 
 
 [Plzeň [Pilsen]](#plzen) _(2)_{:.count} • **Uncategorized** _(1)_{:.count}
 
-##### Plzeň [Pilsen]  _(2)_{:.count} 
+##### Plzeň [Pilsen] _(2)_{:.count}  _pop 169.688_{:.pop}
+{: .city #plzen }
 
 
-Plzeňský Prazdroj [Pilsner Urquell Brewery] - 1839  <br>
+
+ Plzeňský Prazdroj [Pilsner Urquell Brewery]  - 1839  _sabmiller_{:.tags} `#pilsner`{:.key} <br>
 U Prazdroje 7 // 304 97  Plzeň  <br>
 [www.pilsner-urquell.cz](http://www.pilsner-urquell.cz)  <br>
-{:.brewery}
+{: .brewery #pilsner }
 
 
-Pivovar Gambrinus - 1869  <br>
+ Pivovar Gambrinus  - 1869   `#gambrinus`{:.key} <br>
 U Prazdroje 7 // 304 97  Plzeň  <br>
 [www.gambrinus.cz](http://www.gambrinus.cz)  <br>
-{:.brewery}
+{: .brewery #gambrinus }
 
-Gambrinus Nefitrovaný Ležák [Unfilted]   • Gambrinus Originál 10°   • Gambrinus Excelent 11°   • Gambrinus Premium   • Gambrinus Dry  
-{:.beers}
+**Gambrinus Nefitrovaný Ležák [Unfilted]**  _pale lager_{:.tags}  • 
+**Gambrinus Originál 10°** (4.3%, 10.0°) _pale lager_{:.tags}  • 
+**Gambrinus Excelent 11°** (4.7%)   • 
+**Gambrinus Premium** (5.0%, 12.0°) _pale lager_{:.tags}  • 
+**Gambrinus Dry** (4.0%)  
+{: .beers }
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
-Chodovar - 1573  <br>
+ Chodovar  - 1573   `#chodovar`{:.key} <br>
 Pivovarská 107 // 348 13  Chodová Planá  <br>
 [www.chodovar.cz](http://www.chodovar.cz)  <br>
-{:.brewery}
+{: .brewery #chodovar }
 
-Chodovar Zlatý Ležák 11%   • Chodovar Pašerák Světlé   • Chodovar Prezident Premium   • Chodovar Zámecký Ležák Special   • Chodovar Černá Desítka [Dark Lager]  
-{:.beers}
+**Chodovar Zlatý Ležák 11%** (4.5%, 11.0°) _pale lager_{:.tags}  • 
+**Chodovar Pašerák Světlé** (4.0%)   • 
+**Chodovar Prezident Premium** (5.0%, 12.0°) _pale lager_{:.tags}  • 
+**Chodovar Zámecký Ležák Special** (5.1%)   • 
+**Chodovar Černá Desítka [Dark Lager]** (4.2%) _dark lager_{:.tags} 
+{: .beers }
 
 
 
-### Karlovy Vary [Carlsbad • Karlsbad] _(4)_{:.count} {: #cz-ka }
+### Karlovy Vary [Carlsbad • Karlsbad] _(4)_{:.count}
+{: #cz-ka }
 
 
 
@@ -2224,35 +2725,38 @@ Chodovar Zlatý Ležák 11%   • Chodovar Pašerák Světlé   • Chodovar Pre
 ##### Uncategorized _(4)_{:.count}
 
 
-Pivovar Broumov - 1348  <br>
+ Pivovar Broumov  - 1348   `#broumov`{:.key} <br>
 Tř.Osvobození 55 // 550 11  Broumov-Olivětín  <br>
 [www.pivovarbroumov.cz](http://www.pivovarbroumov.cz)  <br>
-{:.brewery}
+{: .brewery #broumov }
 
-Opat Světlé Výčepní   • Opat Světlý Ležák   • Opat Tmavé Výčepní  
-{:.beers}
+**Opat Světlé Výčepní** (4.2%, 11.0°) _pale lager pale lager_{:.tags}  • 
+**Opat Světlý Ležák** (5.0%, 12.0°) _pale lager_{:.tags}  • 
+**Opat Tmavé Výčepní** (3.5%, 10.0°) _dark lager_{:.tags} 
+{: .beers }
 
-Pivovar Náchod - 1872  <br>
+ Pivovar Náchod  - 1872   `#nachod`{:.key} <br>
 Dobrošovská 130 // 547 40 Náchod  <br>
 [www.primator.cz](http://www.primator.cz)  <br>
-{:.brewery}
+{: .brewery #nachod }
 
 
-Městský Pivovar Nová Paka - 1872  <br>
+ Městský Pivovar Nová Paka  - 1872   `#novapaka`{:.key} <br>
 Pivovarská 400 // 509 01 Nová Paka  <br>
 [www.novopackepivo.cz](http://www.novopackepivo.cz)  <br>
-{:.brewery}
+{: .brewery #novapaka }
 
 
-Pivovar Krakonoš Trutnov - 1582  <br>
+ Pivovar Krakonoš Trutnov  - 1582   `#krakonos`{:.key} <br>
 Křižíkova 486 // 541 01  Trutnov  <br>
 [www.pivovar-krakonos.cz](http://www.pivovar-krakonos.cz)  <br>
-{:.brewery}
+{: .brewery #krakonos }
 
 
 
 
-### Ústí nad Labem [• Aussig] _(4)_{:.count} {: #cz-us }
+### Ústí nad Labem [• Aussig] _(4)_{:.count}
+{: #cz-us }
 
 
 
@@ -2261,33 +2765,35 @@ Křižíkova 486 // 541 01  Trutnov  <br>
 ##### Uncategorized _(4)_{:.count}
 
 
-Pivovar Krásné Březno - 1867  <br>
+ Pivovar Krásné Březno  - 1867  _heineken_{:.tags} `#krasnebrezno`{:.key} <br>
 Drážďanská 80 // 401 73  Ústí nad Labem  <br>
 [www.zlatopramen.cz](http://www.zlatopramen.cz)  <br>
-{:.brewery}
+{: .brewery #krasnebrezno }
 
-Zlatopramen Světlé Výčepní   • Zlatopramen 11°  
-{:.beers}
+**Zlatopramen Světlé Výčepní** (4.1%, 10.0°) _pale lager_{:.tags}  • 
+**Zlatopramen 11°** (4.7%, 11.0°) _pale lager_{:.tags} 
+{: .beers }
 
-Pivovar Velké Březno - 1753  <br>
+ Pivovar Velké Březno  - 1753  _heineken_{:.tags} `#velkebrezno`{:.key} <br>
 Pivovarská 116 // 403 23  Velké Březno  <br>
-{:.brewery}
+{: .brewery #velkebrezno }
 
 
-Pivovar Louny - 1892  <br>
+ Pivovar Louny  - 1892  _heineken_{:.tags} `#louny`{:.key} <br>
 Říční 633 // 440 85 Louny  <br>
-{:.brewery}
+{: .brewery #louny }
 
 
-Žatecký Pivovar - 1801  <br>
+ Žatecký Pivovar  - 1801   `#zatecky`{:.key} <br>
 Žižkovo náměstí 81 // 438 01 Žatec  <br>
 [www.zateckypivovar.cz](http://www.zateckypivovar.cz)  <br>
-{:.brewery}
+{: .brewery #zatecky }
 
 
 
 
-### Liberec   [• Reichenberg] _(2)_{:.count} {: #cz-li }
+### Liberec   [• Reichenberg] _(2)_{:.count}
+{: #cz-li }
 
 
 
@@ -2296,21 +2802,22 @@ Pivovar Louny - 1892  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Pivovar Vratislavice - 1872  <br>
+ Pivovar Vratislavice  - 1872   `#vratislavice`{:.key} <br>
 Pivovarská 164 // 463 11  Liberec 30  <br>
 [www.pivo-konrad.cz](http://www.pivo-konrad.cz)  <br>
-{:.brewery}
+{: .brewery #vratislavice }
 
 
-Pivovar Svijany - 1564  <br>
+ Pivovar Svijany  - 1564   `#svijany`{:.key} <br>
 Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 [www.pivovarsvijany.cz](http://www.pivovarsvijany.cz)  <br>
-{:.brewery}
+{: .brewery #svijany }
 
 
 
 
-### Hradec Králové [• Königgrätz] _(0)_{:.count} {: #cz-kr }
+### Hradec Králové [• Königgrätz] _(0)_{:.count}
+{: #cz-kr }
 
 
 
@@ -2318,7 +2825,8 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 
 
 
-### Pardubice   [• Pardubitz] _(3)_{:.count} {: #cz-pa }
+### Pardubice   [• Pardubitz] _(3)_{:.count}
+{: #cz-pa }
 
 
 
@@ -2327,69 +2835,74 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Pivovar Pardubice - 1871  <br>
+ Pivovar Pardubice  - 1871   `#pardubice`{:.key} <br>
 Palackého 250 // 530 33  Pardubice  <br>
 [www.pernstejn.cz](http://www.pernstejn.cz)  <br>
-{:.brewery}
+{: .brewery #pardubice }
 
 
-Měšťanský pivovar v Poličce - 1517  <br>
+ Měšťanský pivovar v Poličce  - 1517   `#policka`{:.key} <br>
 Pivovarská 151 // 572 14  Polička  <br>
 [www.pivovar-policka.cz](http://www.pivovar-policka.cz)  <br>
-{:.brewery}
+{: .brewery #policka }
 
 
-Pivovar Rychtář (Pivovary Lobkowicz) - 1913  <br>
+ Pivovar Rychtář (Pivovary Lobkowicz)  - 1913   `#rychtar`{:.key} <br>
 Resslova 260 // 539 01  Hlinsko v Čechách  <br>
 [www.rychtar.cz](http://www.rychtar.cz)  <br>
-{:.brewery}
+{: .brewery #rychtar }
 
 
 
 
-### Jižní Morava [South Moravia • Südmähren] _(4)_{:.count} {: #cz-jm }
+### Jižní Morava [South Moravia • Südmähren] _(4)_{:.count}
+{: #cz-jm }
 
 
 [Brno](#brno) • **Uncategorized** _(3)_{:.count}
 
-##### Brno 
+##### Brno   _pop 384.277_{:.pop}
+{: .city #brno }
 
 
-Pivovar Starobrno [Starobrno Brewery] - 1872  <br>
+
+ Pivovar Starobrno [Starobrno Brewery]  - 1872  _heineken_{:.tags} `#starobrno`{:.key} <br>
 Hlinky 12 // 661 47  Brno  <br>
 [www.starobrno.com](http://www.starobrno.com)  <br>
-{:.brewery}
+{: .brewery #starobrno }
 
 
 
 ##### Uncategorized _(3)_{:.count}
 
 
-Pivovar Hostan - 1363  <br>
+ Pivovar Hostan  - 1363  _heineken_{:.tags} `#hostan`{:.key} <br>
 Hradní 2 // 669 28  Znojmo  <br>
 [www.hostan.cz](http://www.hostan.cz)  <br>
-{:.brewery}
+{: .brewery #hostan }
 
-Hostan Naše Pivko   • Hostan Hradní  
-{:.beers}
+**Hostan Naše Pivko** (4.0%, 10.0°) _pale lager_{:.tags}  • 
+**Hostan Hradní** (4.7%, 11.0°) _pale lager_{:.tags} 
+{: .beers }
 
-Pivovar Černá Hora - 1530  <br>
+ Pivovar Černá Hora  - 1530   `#cernahora`{:.key} <br>
 Černá Hora 3/5 // 679 21  Č. Hora  <br>
 [www.pivovarch.cz](http://www.pivovarch.cz)  <br>
-{:.brewery}
+{: .brewery #cernahora }
 
-Černá Hora (Světlý) Ležák 12%  
-{:.beers}
+**Černá Hora (Světlý) Ležák 12%** (4.8%, 12.0°) _pale lager_{:.tags} 
+{: .beers }
 
-Pivovar Vyškov - 1680  <br>
+ Pivovar Vyškov  - 1680   `#vyskov`{:.key} <br>
 Čsl. armády 116/4 // 682 11  Vyškov  <br>
 [www.pivovyskov.cz](http://www.pivovyskov.cz)  <br>
-{:.brewery}
+{: .brewery #vyskov }
 
 
 
 
-### Vysočina [• Hochland] _(3)_{:.count} {: #cz-vy }
+### Vysočina [• Hochland] _(3)_{:.count}
+{: #cz-vy }
 
 
 
@@ -2398,31 +2911,41 @@ Pivovar Vyškov - 1680  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Bernard Pivo - 1551  <br>
+ Bernard Pivo  - 1551   `#bernard`{:.key} <br>
 5. května 1 // 396 01  Humpolec  <br>
 [www.bernard.cz](http://www.bernard.cz)  <br>
-{:.brewery}
+{: .brewery #bernard }
 
-Bernard Sváteční Ležák   • Bernard Jantarový Ležák [Amber Lager]   • Bernard Černý Ležák [Dark Lager]   • Bernard Světlý Výčepní 10%   • Bernard Světlý Ležák 11%   • Bernard Světlý Ležák 12%   • Bernard Speciální Ležák 14% OX  
-{:.beers}
+**Bernard Sváteční Ležák** (5.0%, 12.0°) _pale lager_{:.tags}  • 
+**Bernard Jantarový Ležák [Amber Lager]** (4.7%) _amber lager_{:.tags}  • 
+**Bernard Černý Ležák [Dark Lager]** (5.1%) _dark lager_{:.tags}  • 
+**Bernard Světlý Výčepní 10%** (3.8%, 10.0°) _pale lager_{:.tags}  • 
+**Bernard Světlý Ležák 11%** (4.5%, 11.0°) _pale lager_{:.tags}  • 
+**Bernard Světlý Ležák 12%** (4.7%, 12.0°) _pale lager_{:.tags}  • 
+**Bernard Speciální Ležák 14% OX** (5.8%, 14.0°) _pale lager_{:.tags} 
+{: .beers }
 
-Měšťanský Pivovar Havlíčkův Brod - 1834  <br>
+ Měšťanský Pivovar Havlíčkův Brod  - 1834   `#havlickuvbrod`{:.key} <br>
 Dobrovského 2027 // 580 01  Havlíčkův Brod  <br>
 [www.hbrebel.cz](http://www.hbrebel.cz)  <br>
-{:.brewery}
+{: .brewery #havlickuvbrod }
 
-Rebel Originál Premium   • Rebel Černý [Dark]   • Czech Rebel Beer   • Rebel Tradiční  
-{:.beers}
+**Rebel Originál Premium** (4.8%, 12.0°) _pale lager_{:.tags}  • 
+**Rebel Černý [Dark]** (4.7%, 12.0°) _dark lager_{:.tags}  • 
+**Czech Rebel Beer** (4.4%) _pale lager_{:.tags}  • 
+**Rebel Tradiční** (3.9%, 10.0°) _pale lager_{:.tags} 
+{: .beers }
 
-Pivovar a sodovkárna Jihlava (Pivovary Lobkowicz) - 1860  <br>
+ Pivovar a sodovkárna Jihlava (Pivovary Lobkowicz)  - 1860   `#jihlava`{:.key} <br>
 Vrchlického 2 // 586 01  Jihlava  <br>
 [www.pivovar-jihlava.cz](http://www.pivovar-jihlava.cz)  <br>
-{:.brewery}
+{: .brewery #jihlava }
 
 
 
 
-### Olomouc [• Olmütz] _(3)_{:.count} {: #cz-ol }
+### Olomouc [• Olmütz] _(3)_{:.count}
+{: #cz-ol }
 
 
 
@@ -2431,29 +2954,32 @@ Vrchlického 2 // 586 01  Jihlava  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Pivovar Holba (PMS a.s. Přerov) - 1874  <br>
+ Pivovar Holba (PMS a.s. Přerov)  - 1874   `#holba`{:.key} <br>
 Pivovarská 261 // 788 33 Hanušovice  <br>
 [www.holba.cz](http://www.holba.cz)  <br>
-{:.brewery}
+{: .brewery #holba }
 
-Holba Classic   • Holba Šerák   • Holba Premium  
-{:.beers}
+**Holba Classic** (4.2%, 10.0°) _pale lager_{:.tags}  • 
+**Holba Šerák** (4.7%, 11.0°) _pale lager_{:.tags}  • 
+**Holba Premium** (5.2%, 12.0°) _pale lager_{:.tags} 
+{: .beers }
 
-Pivovar Zubr (PMS a.s. Přerov) - 1872  <br>
+ Pivovar Zubr (PMS a.s. Přerov)  - 1872   `#zubr`{:.key} <br>
 Komenského 35 // 750 51 Přerov  <br>
 [www.zubr.cz](http://www.zubr.cz)  <br>
-{:.brewery}
+{: .brewery #zubr }
 
 
-Pivovar Litovel (PMS a.s. Přerov) - 1893  <br>
+ Pivovar Litovel (PMS a.s. Přerov)  - 1893   `#litovel`{:.key} <br>
 Palackého 934 // 784 05  Litovel  <br>
 [www.litovel.cz](http://www.litovel.cz)  <br>
-{:.brewery}
+{: .brewery #litovel }
 
 
 
 
-### Zlín [• Zlin] _(1)_{:.count} {: #cz-zl }
+### Zlín [• Zlin] _(1)_{:.count}
+{: #cz-zl }
 
 
 
@@ -2462,15 +2988,16 @@ Palackého 934 // 784 05  Litovel  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Pivovar Janáček (Pivovary Lobkowicz) - 1894  <br>
+ Pivovar Janáček (Pivovary Lobkowicz)  - 1894   `#janacek`{:.key} <br>
 Neradice 369 // 688 16 Uherský Brod  <br>
 [www.pivovar-janacek.cz](http://www.pivovar-janacek.cz)  <br>
-{:.brewery}
+{: .brewery #janacek }
 
 
 
 
-### Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien] _(2)_{:.count} {: #cz-mo }
+### Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien] _(2)_{:.count}
+{: #cz-mo }
 
 
 
@@ -2479,21 +3006,24 @@ Neradice 369 // 688 16 Uherský Brod  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Pivovar Radegast - 1970  <br>
+ Pivovar Radegast  - 1970  _sabmiller_{:.tags} `#radegast`{:.key} <br>
 Nošovice // 739 51  Nošovice  <br>
 [www.radegast.cz](http://www.radegast.cz)  <br>
-{:.brewery}
+{: .brewery #radegast }
 
-Radegast Originál   • Radegast Premium   • Radegast Temně Hořký  
-{:.beers}
+**Radegast Originál** (4.0%, 10.0°) _czech pilsener pale lager_{:.tags}  • 
+**Radegast Premium** (5.1%, 12.0°) _czech pilsener pale lager_{:.tags}  • 
+**Radegast Temně Hořký**   
+{: .beers }
 
-Pivovar Ostravar - 1897  <br>
+ Pivovar Ostravar  - 1897   `#ostravar`{:.key} <br>
 Hornopolní 57 // 728 25  Ostrava 1  <br>
 [www.ostravar.cz](http://www.ostravar.cz)  <br>
-{:.brewery}
+{: .brewery #ostravar }
 
-Ostravar Originál   • Ostravar Premium  
-{:.beers}
+**Ostravar Originál** (4.3%, 10.0°) _pale lager_{:.tags}  • 
+**Ostravar Premium** (5.1%, 12.0°) _pale lager_{:.tags} 
+{: .beers }
 
 
  
@@ -2508,7 +3038,21 @@ Ostravar Originál   • Ostravar Premium
 
 ### Uncategorized Beers
 
-Odense Pilsner   • ‹Amager› IPA   • ‹Carlsberg›   • ‹Elephant› Beer   • ‹Tuborg›   • ‹Jacobson› Saaz Blonde   • ‹Jacobson› Sommer Wit   • ‹Midtfyns› Imperial Stout   • ‹Mikkeller› Beer Geek Breakfast   • ‹Mikkeller› Black   • ‹Mikkeler› From To   • Bombay Pale Ale   • Little Korkny Ale   • Julebuk   • Limfjords Porter  
+**Odense Pilsner** (4.6%) _pils_{:.tags}  • 
+**‹Amager› IPA** (7.0%) _ipa_{:.tags}  • 
+**‹Carlsberg›** (5.0%) _pils_{:.tags}  • 
+**‹Elephant› Beer** (7.2%) _pils_{:.tags}  • 
+**‹Tuborg›** (4.5%) _pils_{:.tags}  • 
+**‹Jacobson› Saaz Blonde** (7.1%) _blond_{:.tags}  • 
+**‹Jacobson› Sommer Wit** (5.1%) _witbier_{:.tags}  • 
+**‹Midtfyns› Imperial Stout** (9.5%) _stout_{:.tags}  • 
+**‹Mikkeller› Beer Geek Breakfast** (7.5%) _stout_{:.tags}  • 
+**‹Mikkeller› Black** (17.5%) _stout_{:.tags}  • 
+**‹Mikkeler› From To** (8.0%) _porter_{:.tags}  • 
+**Bombay Pale Ale** (6.5%) _ale_{:.tags}  • 
+**Little Korkny Ale** (12.25%) _ale_{:.tags}  • 
+**Julebuk** (6.3%) _kerstbier_{:.tags}  • 
+**Limfjords Porter** (7.9%) _porter_{:.tags} 
 
 
 
@@ -2524,20 +3068,14 @@ Odense Pilsner   • ‹Amager› IPA   • ‹Carlsberg›   • ‹Elephant›
 
 ### Uncategorized Beers
 
-John Smith Bitter   • Newcastle Brown Ale  
+**John Smith Bitter**    • 
+**Newcastle Brown Ale**  _brown ale_{:.tags} 
 
 
 
 
-### North East England _(0)_{:.count} {: #en-ne }
-
-
-
-
-
-
-
-### North West England _(0)_{:.count} {: #en-nw }
+### North East England _(0)_{:.count}
+{: #en-ne }
 
 
 
@@ -2545,7 +3083,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### Yorkshire and the Humber _(0)_{:.count} {: #en-yh }
+### North West England _(0)_{:.count}
+{: #en-nw }
 
 
 
@@ -2553,7 +3092,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### East Midlands _(0)_{:.count} {: #en-em }
+### Yorkshire and the Humber _(0)_{:.count}
+{: #en-yh }
 
 
 
@@ -2561,7 +3101,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### West Midlands _(0)_{:.count} {: #en-wm }
+### East Midlands _(0)_{:.count}
+{: #en-em }
 
 
 
@@ -2569,7 +3110,8 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### East of England _(0)_{:.count} {: #en-ee }
+### West Midlands _(0)_{:.count}
+{: #en-wm }
 
 
 
@@ -2577,33 +3119,53 @@ John Smith Bitter   • Newcastle Brown Ale
 
 
 
-### Greater London _(1)_{:.count} {: #en-gl }
+### East of England _(0)_{:.count}
+{: #en-ee }
 
 
 
 
-##### London 
 
 
-Fuller, Smith & Turner - 1845  <br>
+
+### Greater London _(1)_{:.count}
+{: #en-gl }
+
+
+
+
+##### London   _pop 7.619.800 (8.586.000)_{:.pop}
+{: .city #london }
+
+
+
+ Fuller, Smith & Turner  - 1845   `#fuller`{:.key} <br>
 The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
-{:.brewery}
+{: .brewery #fuller }
 
-‹Fuller's› London Pride   • ‹Fuller's› London Porter   • ‹Fuller's› Honey Dew   • ‹Fuller's› ESB   • ‹Fuller's› Discovery   • ‹Fuller's› Chiswick   • ‹Fuller's› 1845  
-{:.beers}
-
-
-
-
-### South East England _(0)_{:.count} {: #en-se }
-
-
-
+**‹Fuller's› London Pride** (4.7%) _english pale ale pale ale_{:.tags}  • 
+**‹Fuller's› London Porter** (5.4%) _english porter porter_{:.tags}  • 
+**‹Fuller's› Honey Dew** (5.0%) _english pale ale pale ale organic_{:.tags}  • 
+**‹Fuller's› ESB** (5.9%) _extra special strong bitter esb_{:.tags}  • 
+**‹Fuller's› Discovery** (3.9%) _english pale ale pale ale_{:.tags}  • 
+**‹Fuller's› Chiswick** (3.5%) _english bitter_{:.tags}  • 
+**‹Fuller's› 1845** (6.3%) _english strong ale strong ale_{:.tags} 
+{: .beers }
 
 
 
 
-### South West England _(0)_{:.count} {: #en-sw }
+### South East England _(0)_{:.count}
+{: #en-se }
+
+
+
+
+
+
+
+### South West England _(0)_{:.count}
+{: #en-sw }
 
 
 
@@ -2622,7 +3184,8 @@ The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
 
 ### Uncategorized Beers
 
-A. Le Coq Porter   • Saku Porter  
+**A. Le Coq Porter** (6.5%) _porter_{:.tags}  • 
+**Saku Porter** (7.5%) _porter_{:.tags} 
 
 
 
@@ -2638,7 +3201,12 @@ A. Le Coq Porter   • Saku Porter
 
 ### Uncategorized Beers
 
-Finlandia Sahti Strong   • Lapin Kulta   • Plevna Imperial Stout Siperia   • Koff   • Karhu   • Sinebrychoff Porter  
+**Finlandia Sahti Strong** (10.0%) _sahti_{:.tags}  • 
+**Lapin Kulta**  _pils lager_{:.tags}  • 
+**Plevna Imperial Stout Siperia** (8.0%) _stout_{:.tags}  • 
+**Koff**  _lager_{:.tags}  • 
+**Karhu**  _lager_{:.tags}  • 
+**Sinebrychoff Porter** (7.2%) _porter_{:.tags} 
 
 
 
@@ -2654,12 +3222,43 @@ Finlandia Sahti Strong   • Lapin Kulta   • Plevna Imperial Stout Siperia   �
 
 ### Uncategorized Beers
 
-Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   • Bercloux Bière Stout   • Bière Cognac   • Kasteel Cru   • Yeti   • Coreff Ambrée   • Bière des Naufrageurs Miel   • Anosteké Blonde   • Anosteké Brune   • Jenlain Ambrée   • Jenlain Blonde   • Jenlain Noel   • Hommelpap   • Adelscott   • Desperados   • La Choulette des Sans Culottes   • La Choulette Framboise   • Meteor Pils   • Pietra   • La Bavaisienne   • Etoile du Nord   • 1664   • Kronenbourg   • Premier Cru   • Bière de Brie Ambrée   • 3 Monts   • Gavroche   • La Goudale  
+**Cuvée des Jonquilles** (7.0%) _blond_{:.tags}  • 
+**Ch'ti Ambrée** (5.9%) _biere de garde_{:.tags}  • 
+**Ch'ti Blonde** (6.4%)   • 
+**L'Angelus** (7.0%) _blond_{:.tags}  • 
+**Bercloux Bière Stout** (5.0%) _stout_{:.tags}  • 
+**Bière Cognac** (7.0%)   • 
+**Kasteel Cru** (5.2%) _champagnebier_{:.tags}  • 
+**Yeti** (8.0%)   • 
+**Coreff Ambrée** (5.0%) _amber_{:.tags}  • 
+**Bière des Naufrageurs Miel** (7.5%) _honingbier_{:.tags}  • 
+**Anosteké Blonde** (8.0%) _tripel_{:.tags}  • 
+**Anosteké Brune** (8.5%) _bruin_{:.tags}  • 
+**Jenlain Ambrée** (7.5%) _amber_{:.tags}  • 
+**Jenlain Blonde** (7.5%) _biere de garde_{:.tags}  • 
+**Jenlain Noel** (6.8%) _kerstbier_{:.tags}  • 
+**Hommelpap** (7.0%) _blond_{:.tags}  • 
+**Adelscott** (6.0%)   • 
+**Desperados** (9.0%)   • 
+**La Choulette des Sans Culottes** (7.0%) _blond_{:.tags}  • 
+**La Choulette Framboise** (6.0%) _fruitbier_{:.tags}  • 
+**Meteor Pils** (5.0%) _pils_{:.tags}  • 
+**Pietra** (6.0%) _amber_{:.tags}  • 
+**La Bavaisienne** (7.0%) _biere de garde_{:.tags}  • 
+**Etoile du Nord** (4.5%) _blond_{:.tags}  • 
+**1664** (5.5%) _pils_{:.tags}  • 
+**Kronenbourg** (4.2%) _pils_{:.tags}  • 
+**Premier Cru** (6.0%) _lager_{:.tags}  • 
+**Bière de Brie Ambrée** (7.5%) _amber_{:.tags}  • 
+**3 Monts** (8.5%) _blond_{:.tags}  • 
+**Gavroche** (8.5%) _amber_{:.tags}  • 
+**La Goudale** (7.2%) _blond_{:.tags} 
 
 
 
 
-### Ile-de-France _(0)_{:.count} {: #fr-if }
+### Ile-de-France _(0)_{:.count}
+{: #fr-if }
 
 
 
@@ -2667,7 +3266,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Champagne-Ardenne _(0)_{:.count} {: #fr-ca }
+### Champagne-Ardenne _(0)_{:.count}
+{: #fr-ca }
 
 
 
@@ -2675,7 +3275,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Picardie _(0)_{:.count} {: #fr-pd }
+### Picardie _(0)_{:.count}
+{: #fr-pd }
 
 
 
@@ -2683,7 +3284,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Haute-Normandie _(0)_{:.count} {: #fr-hn }
+### Haute-Normandie _(0)_{:.count}
+{: #fr-hn }
 
 
 
@@ -2691,7 +3293,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Centre _(0)_{:.count} {: #fr-ct }
+### Centre _(0)_{:.count}
+{: #fr-ct }
 
 
 
@@ -2699,7 +3302,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Basse-Normandie _(0)_{:.count} {: #fr-bn }
+### Basse-Normandie _(0)_{:.count}
+{: #fr-bn }
 
 
 
@@ -2707,7 +3311,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Bourgogne _(0)_{:.count} {: #fr-bg }
+### Bourgogne _(0)_{:.count}
+{: #fr-bg }
 
 
 
@@ -2715,7 +3320,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Nord-Pas-de-Calais _(0)_{:.count} {: #fr-nc }
+### Nord-Pas-de-Calais _(0)_{:.count}
+{: #fr-nc }
 
 
 
@@ -2723,7 +3329,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Languedoc-Roussillon _(0)_{:.count} {: #fr-lr }
+### Languedoc-Roussillon _(0)_{:.count}
+{: #fr-lr }
 
 
 
@@ -2731,7 +3338,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Alsace _(0)_{:.count} {: #fr-al }
+### Alsace _(0)_{:.count}
+{: #fr-al }
 
 
 
@@ -2739,7 +3347,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Franche-Comté _(0)_{:.count} {: #fr-fc }
+### Franche-Comté _(0)_{:.count}
+{: #fr-fc }
 
 
 
@@ -2747,7 +3356,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Pays de la Loire _(0)_{:.count} {: #fr-pl }
+### Pays de la Loire _(0)_{:.count}
+{: #fr-pl }
 
 
 
@@ -2755,7 +3365,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Bretagne [Brittany] _(0)_{:.count} {: #fr-br }
+### Bretagne [Brittany] _(0)_{:.count}
+{: #fr-br }
 
 
 
@@ -2763,7 +3374,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Poitou-Charentes _(0)_{:.count} {: #fr-pc }
+### Poitou-Charentes _(0)_{:.count}
+{: #fr-pc }
 
 
 
@@ -2771,7 +3383,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Aquitaine _(0)_{:.count} {: #fr-aq }
+### Aquitaine _(0)_{:.count}
+{: #fr-aq }
 
 
 
@@ -2779,7 +3392,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Midi-Pyrénées _(0)_{:.count} {: #fr-mp }
+### Midi-Pyrénées _(0)_{:.count}
+{: #fr-mp }
 
 
 
@@ -2787,7 +3401,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Limousin _(0)_{:.count} {: #fr-lm }
+### Limousin _(0)_{:.count}
+{: #fr-lm }
 
 
 
@@ -2795,7 +3410,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Rhône-Alpes _(0)_{:.count} {: #fr-ra }
+### Rhône-Alpes _(0)_{:.count}
+{: #fr-ra }
 
 
 
@@ -2803,7 +3419,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Auvergne _(0)_{:.count} {: #fr-av }
+### Auvergne _(0)_{:.count}
+{: #fr-av }
 
 
 
@@ -2811,7 +3428,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Provence-Alpes-Côte d'Azur _(0)_{:.count} {: #fr-ac }
+### Provence-Alpes-Côte d'Azur _(0)_{:.count}
+{: #fr-ac }
 
 
 
@@ -2819,7 +3437,8 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 
 
-### Corse _(0)_{:.count} {: #fr-cr }
+### Corse _(0)_{:.count}
+{: #fr-cr }
 
 
 
@@ -2838,5347 +3457,6511 @@ Cuvée des Jonquilles   • Ch'ti Ambrée   • Ch'ti Blonde   • L'Angelus   �
 
 ### Uncategorized Beers
 
-Beck's Pilsner   • Beck's Gold   • Warsteiner   • Berliner Kindl Pils   • Berliner Kindl Jubiläums Pilsener   • Rothaus Pils Tannenzäpfle   • Tegernseer Hell   • Tegernseer Spezial   • Sternburg Export   • Flensburger Pilsener   • Krombacher Pils   • Waldhaus Diplom Pils   • Lübzer Pils   • Allgäuer Brauhaus Büble Bier   • Oettinger Pils   • Fuchsbeck Pils   • Bitburger Premium Pils   • Andechser Hell   • Andechser Weißbier   • Andechser Spezial Hell   • Rostocker Pilsener   • Rostocker Export Premium   • Schultheiss Pilsener   • Radeberger Pilsner   • Zirndorfer Landbier   • Fuchsbeck Weissbier   • Berliner Pilsner   • Wicküler Pilsener   • Sommerbecker Dachs Märzen   • Schöfferhofer Hefeweizen Hell   • Schönramer Hell   • Sommerbecker Dachs Pils   • Unertl Mühldorfer Weissbier Dunkel   • Duckstein Original   • Kapuziner Weißbier   • Päffgen Kölsch   • Astra Arschkalt   • Eichhofener Premium Pils   • Störtebeker Schwarzbier   • Hasseröder Premium Pils   • Fuchsbeck Weizenbock Primus   • Sternburg Pilsener   • Gaffel Kölsch   • Wernesgrüner Pils Legende   • Alpirsbacher Spezial   • Unertl Weißbier   • Föllsch Helles Fuldaer Altbier   • Weideneder Papst-Bier   • Reissdorf Kölsch   • Krombacher Weizen   • Störtebeker Pilsener   • König Pilsener   • Kuchlbauer Weisse   • Winkler Alt-Amberger Hefeweizen   • Hasseröder Premium Export   • Köstritzer Schwarzbier   • Früh Kölsch   • Naabecker Hell   • Märkischer Landmann   • Commerzienrat Riegele Privat   • Friedrichshainer Pilsner   • Potsdamer Rex Pils   • Braumanufaktur Hell   • Gaildorfer Zwickl   • Riedenburger Historisches Emmerbier   • Schlichter Ursprung Hell   • Aktien Spezialbier Edel   • Schneider Weisse   • Innstadt Passauer Weisse Hefe Naturtrüb   • Löwenbräu Original   • Spaten Münchner Hell   • Erdinger Weißbier   • Erdinger Kristall   • Erdinger Urweisse   • Franziskaner Hefe-Weißbier Hell   • Franziskaner Weißbier Kristallklar   • Franziskaner Royal   • König Ludwig Weissbier Hell   • Bayreuther Aktien Zwick'l Kellerbier   • Richard Wagner Dunkel  
+**Beck's Pilsner**    • 
+**Beck's Gold**    • 
+**Warsteiner**    • 
+**Berliner Kindl Pils**    • 
+**Berliner Kindl Jubiläums Pilsener**    • 
+**Rothaus Pils Tannenzäpfle**    • 
+**Tegernseer Hell**    • 
+**Tegernseer Spezial** (5.6%)   • 
+**Sternburg Export**    • 
+**Flensburger Pilsener**    • 
+**Krombacher Pils**    • 
+**Waldhaus Diplom Pils**    • 
+**Lübzer Pils**    • 
+**Allgäuer Brauhaus Büble Bier**    • 
+**Oettinger Pils**    • 
+**Fuchsbeck Pils**    • 
+**Bitburger Premium Pils**    • 
+**Andechser Hell**    • 
+**Andechser Weißbier**    • 
+**Andechser Spezial Hell**    • 
+**Rostocker Pilsener**    • 
+**Rostocker Export Premium**    • 
+**Schultheiss Pilsener**    • 
+**Radeberger Pilsner**    • 
+**Zirndorfer Landbier**    • 
+**Fuchsbeck Weissbier**    • 
+**Berliner Pilsner**    • 
+**Wicküler Pilsener**    • 
+**Sommerbecker Dachs Märzen**    • 
+**Schöfferhofer Hefeweizen Hell**    • 
+**Schönramer Hell**    • 
+**Sommerbecker Dachs Pils**    • 
+**Unertl Mühldorfer Weissbier Dunkel**    • 
+**Duckstein Original**    • 
+**Kapuziner Weißbier**    • 
+**Päffgen Kölsch**    • 
+**Astra Arschkalt**    • 
+**Eichhofener Premium Pils**    • 
+**Störtebeker Schwarzbier**    • 
+**Hasseröder Premium Pils**    • 
+**Fuchsbeck Weizenbock Primus**    • 
+**Sternburg Pilsener**    • 
+**Gaffel Kölsch**    • 
+**Wernesgrüner Pils Legende**    • 
+**Alpirsbacher Spezial**    • 
+**Unertl Weißbier**    • 
+**Föllsch Helles Fuldaer Altbier**    • 
+**Weideneder Papst-Bier**    • 
+**Reissdorf Kölsch**    • 
+**Krombacher Weizen**    • 
+**Störtebeker Pilsener**    • 
+**König Pilsener**    • 
+**Kuchlbauer Weisse**    • 
+**Winkler Alt-Amberger Hefeweizen**    • 
+**Hasseröder Premium Export**    • 
+**Köstritzer Schwarzbier**    • 
+**Früh Kölsch**    • 
+**Naabecker Hell**    • 
+**Märkischer Landmann**    • 
+**Commerzienrat Riegele Privat**    • 
+**Friedrichshainer Pilsner**    • 
+**Potsdamer Rex Pils**    • 
+**Braumanufaktur Hell**    • 
+**Gaildorfer Zwickl**    • 
+**Riedenburger Historisches Emmerbier** (5.5%)   • 
+**Schlichter Ursprung Hell**    • 
+**Aktien Spezialbier Edel**    • 
+**Schneider Weisse** (5.4%, 12.8°)   • 
+**Innstadt Passauer Weisse Hefe Naturtrüb** (5.3%, 12.0°)   • 
+**Löwenbräu Original**    • 
+**Spaten Münchner Hell**    • 
+**Erdinger Weißbier**    • 
+**Erdinger Kristall**    • 
+**Erdinger Urweisse**    • 
+**Franziskaner Hefe-Weißbier Hell**    • 
+**Franziskaner Weißbier Kristallklar**    • 
+**Franziskaner Royal**    • 
+**König Ludwig Weissbier Hell**    • 
+**Bayreuther Aktien Zwick'l Kellerbier**    • 
+**Richard Wagner Dunkel**   
 
 
 
 
-### Baden-Württemberg _(7)_{:.count} {: #de-bw }
+### Baden-Württemberg _(7)_{:.count}
+{: #de-bw }
 
 
 [Gaildorf](#gaildorf) • [Grafenhausen-Rothaus](#grafenhausenrothaus) • [Mannheim](#mannheim) • [Stuttgart](#stuttgart) _(3)_{:.count} • [Waldhaus](#waldhaus)
 
-##### Gaildorf 
+##### Gaildorf  
+{: .city #gaildorf }
 
 
-Brauerei Eugen Häberlen - 1875  <br>
+
+ Brauerei Eugen Häberlen  - 1875   `#haeberlen`{:.key} <br>
 74405 Gaildorf // Karlstraße 66  <br>
 [www.brauerei-haeberlen.de](http://www.brauerei-haeberlen.de)  <br>
-{:.brewery}
+{: .brewery #haeberlen }
 
 
-##### Grafenhausen-Rothaus 
+##### Grafenhausen-Rothaus  
+{: .city #grafenhausenrothaus }
 
 
-Badische Staatsbrauerei Rothaus - 1791  <br>
+
+ Badische Staatsbrauerei Rothaus  - 1791   `#rothaus`{:.key} <br>
 79865 Grafenhausen-Rothaus // Rothaus 1  <br>
 [www.rothaus.de](http://www.rothaus.de)  <br>
-{:.brewery}
+{: .brewery #rothaus }
 
 
-##### Mannheim 
+##### Mannheim  
+{: .city #mannheim }
 
 
-Privatbrauerei Eichbaum - 1679  <br>
+
+ Privatbrauerei Eichbaum  - 1679   `#eichbaum`{:.key} <br>
 68167 Mannheim // Käfertaler Straße 170  <br>
 [www.eichbaum.de](http://www.eichbaum.de)  <br>
-{:.brewery}
+{: .brewery #eichbaum }
 
 
-##### Stuttgart  _(3)_{:.count} 
+##### Stuttgart _(3)_{:.count}  _pop 613.392 (1.272.000)_{:.pop}
+{: .city #stuttgart }
 
 
-Dinkelacker - 1888  <br>
+
+ Dinkelacker  - 1888   `#dinkelacker`{:.key} <br>
 70178 Stuttgart // Tübinger Straße 48  <br>
 [www.dinkelacker.de](http://www.dinkelacker.de)  <br>
-{:.brewery}
+{: .brewery #dinkelacker }
 
 
-Schwabenbräu - 1878  <br>
+ Schwabenbräu  - 1878   `#schwabenbraeu`{:.key} <br>
 70178 Stuttgart // Tübinger Straße 46  <br>
 [www.schwabenbraeu.de](http://www.schwabenbraeu.de)  <br>
-{:.brewery}
+{: .brewery #schwabenbraeu }
 
 
-Stuttgarter Hofbräu - 1872  <br>
+ Stuttgarter Hofbräu  - 1872   `#stuttgarterhofbraeu`{:.key} <br>
 70199 Stuttgart // Böblinger Straße 104  <br>
 [www.stuttgarter-hofbraeu.de](http://www.stuttgarter-hofbraeu.de)  <br>
-{:.brewery}
+{: .brewery #stuttgarterhofbraeu }
 
 
-##### Waldhaus 
+##### Waldhaus  
+{: .city #waldhaus }
 
 
-Privatbrauerei Waldhaus - 1833  <br>
+
+ Privatbrauerei Waldhaus  - 1833   `#waldhaus`{:.key} <br>
 79809 Waldhaus // Waldhaus 1  <br>
 [www.waldhaus-bier.de](http://www.waldhaus-bier.de)  <br>
-{:.brewery}
+{: .brewery #waldhaus }
 
 
 
 
 
-### Bayern [Bavaria] _(566)_{:.count} {: #de-by }
+### Bayern [Bavaria] _(566)_{:.count}
+{: #de-by }
 
 
 [Abensberg](#abensberg) _(4)_{:.count} • [Adelsdorf-Aisch](#adelsdorfaisch) • [Adelsdorf-Neuhaus](#adelsdorfneuhaus) _(2)_{:.count} • [Adelsried](#adelsried) • [Ahorntal](#ahorntal) _(2)_{:.count} • [Aichach (Schloss Blumenthal)](#aichach) _(2)_{:.count} • [Aichach-Oberbernbach](#aichachoberbernbach) • [Aichach-Obermauerbach](#aichachobermauerbach) • [Aidenbach](#aidenbach) • [Albertshofen](#albertshofen) • [Aldersbach](#aldersbach) • [Altenkunstadt](#altenkunstadt) • [Altenmarkt an der Alz](#altenmarktanderalz) • [Altenstadt](#altenstadt) • [Altomünster](#altomuenster) _(2)_{:.count} • [Altötting](#altoetting) • [Amberg](#amberg) _(5)_{:.count} • [Andechs](#andechs) • [Apfeltrang](#apfeltrang) • [Appendorf](#appendorf) • [Arnschwang](#arnschwang) • [Arnstein](#arnstein) • [Arnstorf](#arnstorf) • [Arnstorf-Mariakirchen](#arnstorfmariakirchen) • [Aschaffenburg-Schweinheim](#aschaffenburgschweinheim) • [Aschau](#aschau) • [Au in der Hallertau](#auinderhallertau) • [Aufseß](#aufsess) _(3)_{:.count} • [Augsburg](#augsburg) _(5)_{:.count} • [Aying](#aying) • [Baar](#baar) • [Bad Abbach-Oberndorf](#badabbachoberndorf) • [Bad Kissingen-Arnshausen](#badkissingenarnshausen) • [Bad Kissingen-Garitz](#badkissingengaritz) • [Bad Kötzting](#badkoetzting) • [Bad Reichenhall](#badreichenhall) • [Bad Rodach](#badrodach) • [Bad Staffelstein-Frauendorf](#badstaffelsteinfrauendorf) • [Bad Staffelstein-Loffeld](#badstaffelsteinloffeld) • [Bad Staffelstein-Nedensdorf](#badstaffelsteinnedensdorf) • [Bad Staffelstein-Stublang](#badstaffelsteinstublang) _(2)_{:.count} • [Bad Staffelstein-Uetzing](#badstaffelsteinuetzing) • [Bad Staffelstein-Vierzehnheiligen](#badstaffelsteinvierzehnheiligen) • [Bad Staffelstein-Wiesen](#badstaffelsteinwiesen) _(2)_{:.count} • [Bad Tölz](#badtoelz) _(2)_{:.count} • [Bad Windsheim](#badwindsheim) _(3)_{:.count} • [Bad Wörishofen](#badwoerishofen) • [Bamberg](#bamberg) _(10)_{:.count} • [Bayreuth](#bayreuth) _(6)_{:.count} • [Berching](#berching) • [Berchtesgaden](#berchtesgaden) • [Bergen-Thalmannsfeld](#bergenthalmannsfeld) • [Biberach](#biberach) • [Bichl](#bichl) • [Bischberg](#bischberg) • [Bischofsheim an der Rhön](#bischofsheimanderrhoen) • [Bockhorn (Oberbayern)-Grünbach](#bockhorngruenbach) • [Bodenkirchen](#bodenkirchen) • [Bodenmais](#bodenmais) • [Bodenwöhr](#bodenwoehr) • [Breitengüßbach](#breitenguessbach) • [Bruckberg](#bruckberg) _(2)_{:.count} • [Bruckmühl](#bruckmuehl) • [Burgebrach](#burgebrach) _(2)_{:.count} • [Burgebrach-Ampferbach](#burgebrachampferbach) • [Burgkunstadt](#burgkunstadt) • [Buttenheim](#buttenheim) _(3)_{:.count} • [Böbrach](#boebrach) • [Cham](#cham) _(2)_{:.count} • [Cham-Thierlstein](#chamthierlstein) • [Creussen-Lindenhardt](#creussenlindenhardt) • [Debring](#debring) • [Deuerling](#deuerling) • [Dingolfing](#dingolfing) • [Dinkelsbühl](#dinkelsbuehl) _(3)_{:.count} • [Dorfen](#dorfen) _(2)_{:.count} • [Drachselsried](#drachselsried) _(2)_{:.count} • [Ebensfeld](#ebensfeld) _(2)_{:.count} • [Ebing](#ebing) • [Edelsfeld](#edelsfeld) • [Eggenfelden-Spanberg](#eggenfeldenspanberg) • [Eggolsheim](#eggolsheim) • [Eggolsheim-Weigelshofen](#eggolsheimweigelshofen) • [Eichendorf-Adldorf](#eichendorfadldorf) • [Eichstätt](#eichstaett) • [Eitting](#eitting) • [Ellingen](#ellingen) • [Elsendorf-Horneck](#elsendorfhorneck) • [Eltmann-Eschenbach](#eltmanneschenbach) • [Eltmann-Roßstadt](#eltmannrossstadt) • [Erding](#erding) _(2)_{:.count} • [Erharting](#erharting) • [Erlangen](#erlangen) _(2)_{:.count} • [Eslarn](#eslarn) • [Essing](#essing) • [Ettal](#ettal) • [Etzelwang](#etzelwang) • [Eurasburg](#eurasburg) • [Feldkirchen-Riem](#feldkirchenriem) • [Flughafen München](#flughafenmuenchen) • [Forchheim](#forchheim) _(4)_{:.count} • [Frammersbach](#frammersbach) • [Freilassing](#freilassing) • [Freising](#freising) _(2)_{:.count} • [Frensdorf-Reundorf](#frensdorfreundorf) • [Frensdorf-Untergreuth](#frensdorfuntergreuth) • [Freudenberg](#freudenberg) • [Freystadt](#freystadt) • [Freyung](#freyung) • [Fridolfing](#fridolfing) • [Friedberg](#friedberg) • [Friedenfels](#friedenfels) • [Frontenhausen](#frontenhausen) _(2)_{:.count} • [Furth](#furth) • [Furth im Wald](#furthimwald) _(2)_{:.count} • [Fürstenfeldbruck](#fuerstenfeldbruck) • [Gangkofen-Seemannshausen](#gangkofenseemannshausen) • [Geiselhöring](#geiselhoering) • [Gessertshausen](#gessertshausen) • [Glonn](#glonn) • [Gnodstadt](#gnodstadt) • [Grafenau](#grafenau) • [Grafing bei München](#grafingbeimuenchen) • [Großheirath-Rossach](#grossheirathrossach) • [Großostheim](#grossostheim) • [Gräfenberg](#graefenberg) _(4)_{:.count} • [Gunzendorf](#gunzendorf) • [Gunzenhausen](#gunzenhausen) • [Gutenstetten](#gutenstetten) • [Günzburg](#guenzburg) _(2)_{:.count} • [Haag in Oberbayern](#haaginoberbayern) • [Haimhausen](#haimhausen) • [Halfing](#halfing) • [Hallerndorf](#hallerndorf) _(6)_{:.count} • [Hallstadt](#hallstadt) • [Hausen-Herrnwahlthann](#hausenherrnwahlthann) • [Heiligenstadt](#heiligenstadt) _(2)_{:.count} • [Heimenkirch](#heimenkirch) • [Hemau](#hemau) • [Herrngiersdorf](#herrngiersdorf) • [Hersbruck](#hersbruck) • [Herzogenaurach](#herzogenaurach) • [Hirschaid](#hirschaid) • [Hirschau](#hirschau) • [Hof](#hof) _(2)_{:.count} • [Hofheim](#hofheim) • [Hohenthann](#hohenthann) • [Holzhausen bei Buchloe](#holzhausenbeibuchloe) • [Holzheim-Neuhausen](#holzheimneuhausen) • [Holzkirchen](#holzkirchen) • [Hutthurm](#hutthurm) • [Höchstadt](#hoechstadt) • [Höchstadt an der Aisch-Greuth](#hoechstadtanderaischgreuth) • [Ichenhausen-Autenried](#ichenhausenautenried) _(2)_{:.count} • [Illerberg](#illerberg) • [Illertissen](#illertissen) • [Ingolstadt](#ingolstadt) _(5)_{:.count} • [Irlbach](#irlbach) • [Irsee](#irsee) • [Itzgrund](#itzgrund) • [Jandelsbrunn](#jandelsbrunn) • [Jochsberg bei Leutershausen](#jochsbergbeileutershausen) • [Kammerstein-Barthelmesaurach](#kammersteinbarthelmesaurach) • [Karlstadt-Stadelhofen](#karlstadtstadelhofen) • [Kaufbeuren](#kaufbeuren) _(2)_{:.count} • [Kelheim](#kelheim) _(2)_{:.count} • [Kelheim-Weltenburg](#kelheimweltenburg) • [Kemmern](#kemmern) • [Kemnath](#kemnath) • [Kempten](#kempten) • [Kirchenthumbach](#kirchenthumbach) • [Konzell](#konzell) • [Krautheim](#krautheim) • [Kreuzwertheim](#kreuzwertheim) • [Kronach](#kronach) _(2)_{:.count} • [Kronburg](#kronburg) • [Kulmbach](#kulmbach) _(3)_{:.count} • [Kutzenhausen](#kutzenhausen) • [Königsberg in Bayern-Unfinden](#koenigsberginbayernunfinden) • [Königsfeld](#koenigsfeld) • [Kößlarn](#koesslarn) • [Kühbach](#kuehbach) _(2)_{:.count} • [Laaber](#laaber) • [Landau an der Isar](#landauanderisar) _(2)_{:.count} • [Landshut](#landshut) _(2)_{:.count} • [Lauf an der Pegnitz](#laufanderpegnitz) _(2)_{:.count} • [Lauf-Neunhof](#laufneunhof) • [Leinburg](#leinburg) • [Leipheim](#leipheim) _(2)_{:.count} • [Leutenbach](#leutenbach) _(2)_{:.count} • [Leuterschach](#leuterschach) • [Lichtenau](#lichtenau) • [Lichtenberg](#lichtenberg) • [Lichtenfels](#lichtenfels) _(2)_{:.count} • [Litzendorf-Lohndorf](#litzendorflohndorf) _(2)_{:.count} • [Litzendorf-Melkendorf](#litzendorfmelkendorf) • [Litzendorf-Tiefenellern](#litzendorftiefenellern) • [Mainburg](#mainburg) • [Maisach](#maisach) • [Malgersdorf-Heilmfurt](#malgersdorfheilmfurt) • [Mallersdorf](#mallersdorf) • [Markt Schwaben](#marktschwaben) • [Marktheidenfeld](#marktheidenfeld) • [Marktredwitz](#marktredwitz) • [Marktsteft](#marktsteft) • [Maroldsweisach](#maroldsweisach) • [Maxlrain](#maxlrain) • [Memmelsdorf](#memmelsdorf) _(2)_{:.count} • [Memmelsdorf-Drosendorf](#memmelsdorfdrosendorf) • [Memmelsdorf-Merkendorf](#memmelsdorfmerkendorf) • [Memmingen](#memmingen) • [Merkendorf](#merkendorf) • [Meßhofen](#messhofen) • [Michelsneukirchen](#michelsneukirchen) • [Miesbach](#miesbach) • [Miltenberg](#miltenberg) • [Mindelheim](#mindelheim) • [Missen](#missen) • [Mittenwald](#mittenwald) • [Mitterteich](#mitterteich) _(2)_{:.count} • [Mitwitz](#mitwitz) • [Moos](#moos) • [Moosbach](#moosbach) • [Motten](#motten) • [Murnau](#murnau) • [Murnau am Staffelsee](#murnauamstaffelsee) • [Mönchsambach](#moenchsambach) • [Mühldorf am Inn](#muehldorfaminn) _(2)_{:.count} • [Mühlhausen](#muehlhausen) • [München](#muenchen) _(9)_{:.count} • [München-Neuhausen](#muenchenneuhausen) • [Münchsteinach](#muenchsteinach) • [Naila](#naila) • [Nennslingen](#nennslingen) • [Nesselwang](#nesselwang) • [Neu-Ulm](#neuulm) • [Neu-Ulm-Offenhausen](#neuulmoffenhausen) • [Neu-Ulm-Reutti](#neuulmreutti) • [Neuburg an der Donau](#neuburganderdonau) • [Neuhaus an der Pegnitz](#neuhausanderpegnitz) _(3)_{:.count} • [Neukirchen bei Sulzbach-Rosenberg](#neukirchenbeisulzbachrosenberg) • [Neumarkt](#neumarkt) • [Neumarkt in der Oberpfalz](#neumarktinderoberpfalz) _(2)_{:.count} • [Neunburg vorm Wald](#neunburgvormwald) • [Neunkirchen am Brand](#neunkirchenambrand) • [Neunkirchen am Sand](#neunkirchenamsand) • [Neureichenau-Riedelsbach](#neureichenauriedelsbach) • [Neustadt an der Aisch](#neustadtanderaisch) • [Neusäß-Steppach](#neusaesssteppach) • [Nittenau](#nittenau) • [Nittendorf](#nittendorf) • [Nördlingen](#noerdlingen) _(2)_{:.count} • [Nürnberg](#nuernberg) _(5)_{:.count} • [Oberammergau](#oberammergau) • [Oberaurach-Trossenfurt](#oberaurachtrossenfurt) • [Oberelsbach](#oberelsbach) • [Oberhaching-Deisenhofen](#oberhachingdeisenhofen) • [Oberhaid](#oberhaid) _(2)_{:.count} • [Oberkotzau-Fattigau](#oberkotzaufattigau) • [Oberreichenbach](#oberreichenbach) • [Obertaufkirchen](#obertaufkirchen) • [Ochsenfurt](#ochsenfurt) _(2)_{:.count} • [Odelzhausen](#odelzhausen) • [Oettingen](#oettingen) • [Osterberg](#osterberg) • [Ostheim vor der Rhön](#ostheimvorderrhoen) _(2)_{:.count} • [Ottobeuren](#ottobeuren) • [Pahres](#pahres) • [Pappenheim-Bieswang](#pappenheimbieswang) • [Pappenheim-Zimmern](#pappenheimzimmern) • [Passau](#passau) _(2)_{:.count} • [Passau-Ries](#passauries) • [Pegnitz](#pegnitz) _(3)_{:.count} • [Pegnitz-Büchenbach](#pegnitzbuechenbach) • [Pettendorf](#pettendorf) • [Petting/Schönram](#pettingschoenram) • [Pfaffenberg](#pfaffenberg) • [Pfaffenhofen an der Ilm](#pfaffenhofenanderilm) _(2)_{:.count} • [Pfaffing-Forsting](#pfaffingforsting) • [Pfeffenhausen](#pfeffenhausen) _(2)_{:.count} • [Pfronten](#pfronten) • [Pilsting-Großköllnbach](#pilstinggrosskoellnbach) • [Pirk](#pirk) • [Plattling](#plattling) • [Plößberg](#ploessberg) • [Pommersfelden](#pommersfelden) • [Pottenstein](#pottenstein) _(3)_{:.count} • [Pretzfeld](#pretzfeld) _(3)_{:.count} • [Priesendorf](#priesendorf) • [Pullach-Großhesselohe](#pullachgrosshesselohe) • [Pörnbach](#poernbach) • [Pösing](#poesing) • [Raigering](#raigering) • [Rammingen](#rammingen) • [Rattelsdorf](#rattelsdorf) _(2)_{:.count} • [Rauhenebrach-Theinheim](#rauhenebrachtheinheim) • [Reckendorf](#reckendorf) _(2)_{:.count} • [Regen](#regen) • [Regensburg](#regensburg) _(4)_{:.count} • [Rehling](#rehling) • [Reischach](#reischach) • [Rettenberg](#rettenberg) _(2)_{:.count} • [Reuth bei Erbendorf](#reuthbeierbendorf) • [Ried bei Markt Indersdorf](#riedbeimarktindersdorf) • [Riedenburg](#riedenburg) _(2)_{:.count} • [Rosenheim](#rosenheim) _(3)_{:.count} • [Roth vor der Rhön](#rothvorderrhoen) • [Roßdorf am Forst](#rossdorfamforst) • [Ruderatshofen](#ruderatshofen) • [Runding](#runding) • [Röbersdorf](#roebersdorf) • [Rödental](#roedental) • [Röttenbach (bei Erlangen)](#roettenbach) • [Rötz](#roetz) • [Rüdenhausen](#ruedenhausen) • [Saal an der Saale-Waltershausen](#saalandersaalewaltershausen) • [Sachsendorf](#sachsendorf) • [Sachsenkam-Reutberg](#sachsenkamreutberg) • [Salz](#salz) • [Sandersdorf](#sandersdorf) • [Sankt Wolfgang](#sanktwolfgang) • [Schammelsdorf](#schammelsdorf) • [Scheyern](#scheyern) • [Scheßlitz](#schesslitz) _(2)_{:.count} • [Schierling](#schierling) • [Schlammersdorf](#schlammersdorf) • [Schloss Haselbach](#schlosshaselbach) • [Schlüsselfeld](#schluesselfeld) _(3)_{:.count} • [Schnaitsee](#schnaitsee) • [Schnaittach](#schnaittach) _(2)_{:.count} • [Schnaittach-Enzenreuth](#schnaittachenzenreuth) • [Schonungen-Hausen](#schonungenhausen) • [Schwandorf](#schwandorf) • [Schwangau](#schwangau) • [Schwarzach](#schwarzach) • [Schweinfurt](#schweinfurt) _(2)_{:.count} • [Schöllkrippen](#schoellkrippen) • [Schönbrunn-Zettmannsdorf](#schoenbrunnzettmannsdorf) • [Schönthal](#schoenthal) • [Seinsheim](#seinsheim) • [Selb](#selb) • [Seßlach](#sesslach) • [Seßlach-Heilgersdorf](#sesslachheilgersdorf) • [Siegenburg](#siegenburg) • [Solnhofen-Hochholz](#solnhofenhochholz) • [Sonthofen](#sonthofen) • [Spalt](#spalt) • [Speiden](#speiden) • [Spiegelau-Klingenbrunn](#spiegelauklingenbrunn) • [Stadelhofen](#stadelhofen) • [Stadelhofen-Schederndorf](#stadelhofenschederndorf) • [Stadtsteinach](#stadtsteinach) • [Stegaurach](#stegaurach) • [Stegaurach-Mühlendorf](#stegaurachmuehlendorf) • [Stein an der Traun](#steinandertraun) • [Steinfeld-Waldzell](#steinfeldwaldzell) • [Steinsfeld-Reichelshofen](#steinsfeldreichelshofen) • [Stettfeld](#stettfeld) • [Straubing](#straubing) _(2)_{:.count} • [Straßkirchen (Salzweg)](#strasskirchen) • [Strullendorf-Geisfeld](#strullendorfgeisfeld) _(2)_{:.count} • [Sulzbach-Rosenberg](#sulzbachrosenberg) _(2)_{:.count} • [Tacherting](#tacherting) • [Taufkirchen (Vils)](#taufkirchen) • [Tegernsee](#tegernsee) • [Teisendorf](#teisendorf) • [Teisnach](#teisnach) • [Teunz](#teunz) • [Thalmässing-Pyras](#thalmaessingpyras) • [Thannhausen](#thannhausen) • [Thüngen](#thuengen) • [Titting](#titting) • [Trabelsdorf](#trabelsdorf) • [Traitsching-Loifling](#traitschingloifling) • [Traunstein](#traunstein) _(4)_{:.count} • [Trebgast](#trebgast) • [Triefenstein-Homburg](#triefensteinhomburg) • [Truchtlaching](#truchtlaching) • [Tüßling](#tuessling) • [Uehlfeld](#uehlfeld) _(2)_{:.count} • [Unterneukirchen](#unterneukirchen) • [Untersiemau](#untersiemau) • [Untersiemau-Birkach am Forst](#untersiemaubirkachamforst) • [Ursberg](#ursberg) • [Ustersbach](#ustersbach) • [Velburg-Lengenfeld](#velburglengenfeld) • [Velden](#velden) • [Viechtach](#viechtach) • [Viereth-Trunstadt](#vierethtrunstadt) _(2)_{:.count} • [Vilseck](#vilseck) • [Vilshofen an der Donau](#vilshofenanderdonau) • [Vohenstrauß](#vohenstrauss) • [Waischenfeld](#waischenfeld) _(3)_{:.count} • [Walkertshofen](#walkertshofen) • [Wallerstein](#wallerstein) • [Warmensteinach](#warmensteinach) • [Wartenberg](#wartenberg) • [Wassertrüdingen-Fürnheim](#wassertruedingenfuernheim) • [Wattendorf](#wattendorf) _(2)_{:.count} • [Weiden in der Oberpfalz](#weideninderoberpfalz) • [Weihmichl](#weihmichl) • [Weiler-Simmerberg](#weilersimmerberg) • [Weilheim in Oberbayern](#weilheiminoberbayern) • [Weismain](#weismain) • [Weissenstadt](#weissenstadt) • [Weißenbrunn](#weissenbrunn) • [Weißenburg in Bayern](#weissenburginbayern) _(2)_{:.count} • [Weißenohe](#weissenohe) • [Werneck](#werneck) • [Wertingen](#wertingen) • [Wettelsheim](#wettelsheim) • [Weyarn](#weyarn) • [Wiesen](#wiesen) • [Wildenberg](#wildenberg) • [Windischeschenbach](#windischeschenbach) • [Wolnzach](#wolnzach) • [Wunsiedel](#wunsiedel) • [Wunsiedel-Schönbrunn](#wunsiedelschoenbrunn) • [Würgau](#wuergau) • [Würzburg](#wuerzburg) _(2)_{:.count} • [Zeil am Main](#zeilammain) • [Zentbechhofen-Höchstadt](#zentbechhofenhoechstadt) • [Zirndorf](#zirndorf) • [Zwiesel](#zwiesel) _(2)_{:.count}
 
-##### Abensberg  _(4)_{:.count} 
+##### Abensberg _(4)_{:.count} 
+{: .city #abensberg }
 
 
-Hofbräu Abensberg -   <br>
+
+ Hofbräu Abensberg   `#hofbraeuabensberg`{:.key} <br>
 Abensberg //  <br>
-{:.brewery}
+{: .brewery #hofbraeuabensberg }
 
 
-Brauerei Kuchlbauer -   <br>
+ Brauerei Kuchlbauer   `#brauereikuchlbauer`{:.key} <br>
 Abensberg //  <br>
-{:.brewery}
+{: .brewery #brauereikuchlbauer }
 
 
-Ottenbräu -   <br>
+ Ottenbräu   `#ottenbraeu`{:.key} <br>
 Abensberg //  <br>
-{:.brewery}
+{: .brewery #ottenbraeu }
 
 
-Weißbierbrauer -   <br>
+ Weißbierbrauer   `#weissbierbrauer`{:.key} <br>
 Abensberg //  <br>
-{:.brewery}
+{: .brewery #weissbierbrauer }
 
 
-##### Adelsdorf-Aisch 
+##### Adelsdorf-Aisch  
+{: .city #adelsdorfaisch }
 
 
-Brauerei Rittmayer -   <br>
+
+ Brauerei Rittmayer   `#brauereirittmayer`{:.key} <br>
 Adelsdorf-Aisch //  <br>
-{:.brewery}
+{: .brewery #brauereirittmayer }
 
 
-##### Adelsdorf-Neuhaus  _(2)_{:.count} 
+##### Adelsdorf-Neuhaus _(2)_{:.count} 
+{: .city #adelsdorfneuhaus }
 
 
-Brauerei Gasthof Hotel Zum Löwenbräu -   <br>
+
+ Brauerei Gasthof Hotel Zum Löwenbräu   `#brauereigasthofhotelzumloewenbraeu`{:.key} <br>
 91325 Adelsdorf/Neuhaus // Neuhauser Hauptstraße 3  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhotelzumloewenbraeu }
 
 
-Zum Löwenbräu -   <br>
+ Zum Löwenbräu   `#zumloewenbraeu`{:.key} <br>
 Adelsdorf-Neuhaus //  <br>
-{:.brewery}
+{: .brewery #zumloewenbraeu }
 
 
-##### Adelsried 
+##### Adelsried  
+{: .city #adelsried }
 
 
-Stadelbräu -   <br>
+
+ Stadelbräu   `#stadelbraeu`{:.key} <br>
 Adelsried //  <br>
-{:.brewery}
+{: .brewery #stadelbraeu }
 
 
-##### Ahorntal  _(2)_{:.count} 
+##### Ahorntal _(2)_{:.count} 
+{: .city #ahorntal }
 
 
-Stöckel-Bräu Hintergereuth -   <br>
+
+ Stöckel-Bräu Hintergereuth   `#stoeckelbraeuhintergereuth`{:.key} <br>
 95491 Ahorntal // Hintergereuth 4  <br>
-{:.brewery}
+{: .brewery #stoeckelbraeuhintergereuth }
 
 
-Held Bräu -   <br>
+ Held Bräu   `#heldbraeu`{:.key} <br>
 95491 Ahorntal // Oberailsfeld 19  <br>
-{:.brewery}
+{: .brewery #heldbraeu }
 
 
-##### Aichach (Schloss Blumenthal)  _(2)_{:.count} 
+##### Aichach (Schloss Blumenthal) _(2)_{:.count} 
+{: .city #aichach }
 
 
-Hinterhofbräu Aichach -   <br>
+
+ Hinterhofbräu Aichach   `#hinterhofbraeuaichach`{:.key} <br>
 Aichach //  <br>
-{:.brewery}
+{: .brewery #hinterhofbraeuaichach }
 
 
-Schlossbrauerei Blumenthal -   <br>
+ Schlossbrauerei Blumenthal   `#schlossbrauereiblumenthal`{:.key} <br>
 Aichach (Schloss Blumenthal) //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiblumenthal }
 
 
-##### Aichach-Oberbernbach 
+##### Aichach-Oberbernbach  
+{: .city #aichachoberbernbach }
 
 
-Boandlbräu -   <br>
+
+ Boandlbräu   `#boandlbraeu`{:.key} <br>
 Aichach-Oberbernbach //  <br>
-{:.brewery}
+{: .brewery #boandlbraeu }
 
 
-##### Aichach-Obermauerbach 
+##### Aichach-Obermauerbach  
+{: .city #aichachobermauerbach }
 
 
-Canada Mauerbacher Bräustüberl -   <br>
+
+ Canada Mauerbacher Bräustüberl   `#canadamauerbacherbraeustueberl`{:.key} <br>
 Aichach-Obermauerbach //  <br>
-{:.brewery}
+{: .brewery #canadamauerbacherbraeustueberl }
 
 
-##### Aidenbach 
+##### Aidenbach  
+{: .city #aidenbach }
 
 
-Brauhaus Aidenbach Woerlein -   <br>
+
+ Brauhaus Aidenbach Woerlein   `#brauhausaidenbachwoerlein`{:.key} <br>
 Aidenbach //  <br>
-{:.brewery}
+{: .brewery #brauhausaidenbachwoerlein }
 
 
-##### Albertshofen 
+##### Albertshofen  
+{: .city #albertshofen }
 
 
-Albertshöfer Sternbräu -   <br>
+
+ Albertshöfer Sternbräu   `#albertshoefersternbraeu`{:.key} <br>
 Albertshofen //  <br>
-{:.brewery}
+{: .brewery #albertshoefersternbraeu }
 
 
-##### Aldersbach 
+##### Aldersbach  
+{: .city #aldersbach }
 
 
-Brauerei Aldersbach Freiherr von Aretin -   <br>
+
+ Brauerei Aldersbach Freiherr von Aretin   `#brauereialdersbachfreiherrvonaretin`{:.key} <br>
 Aldersbach //  <br>
-{:.brewery}
+{: .brewery #brauereialdersbachfreiherrvonaretin }
 
 
-##### Altenkunstadt 
+##### Altenkunstadt  
+{: .city #altenkunstadt }
 
 
-Brauhaus Altenkunstadt Andreas Leikeim -   <br>
+
+ Brauhaus Altenkunstadt Andreas Leikeim   `#brauhausaltenkunstadtandreasleikeim`{:.key} <br>
 96264 Altenkunstadt // Langheimer Straße 14  <br>
-{:.brewery}
+{: .brewery #brauhausaltenkunstadtandreasleikeim }
 
 
-##### Altenmarkt an der Alz 
+##### Altenmarkt an der Alz  
+{: .city #altenmarktanderalz }
 
 
-Klosterbrauerei Baumburg -   <br>
+
+ Klosterbrauerei Baumburg   `#klosterbrauereibaumburg`{:.key} <br>
 Altenmarkt an der Alz //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereibaumburg }
 
 
-##### Altenstadt 
+##### Altenstadt  
+{: .city #altenstadt }
 
 
-Maxbrauerei Biermanufaktur -   <br>
+
+ Maxbrauerei Biermanufaktur   `#maxbrauereibiermanufaktur`{:.key} <br>
 Altenstadt //  <br>
-{:.brewery}
+{: .brewery #maxbrauereibiermanufaktur }
 
 
-##### Altomünster  _(2)_{:.count} 
+##### Altomünster _(2)_{:.count} 
+{: .city #altomuenster }
 
 
-Kapplerbräu Hans Wiedemann -   <br>
+
+ Kapplerbräu Hans Wiedemann   `#kapplerbraeuhanswiedemann`{:.key} <br>
 Altomünster //  <br>
-{:.brewery}
+{: .brewery #kapplerbraeuhanswiedemann }
 
 
-Maierbräu Altomünster -   <br>
+ Maierbräu Altomünster   `#maierbraeualtomuenster`{:.key} <br>
 Altomünster //  <br>
-{:.brewery}
+{: .brewery #maierbraeualtomuenster }
 
 
-##### Altötting 
+##### Altötting  
+{: .city #altoetting }
 
 
-Graminger Weißbräu -   <br>
+
+ Graminger Weißbräu   `#gramingerweissbraeu`{:.key} <br>
 Altötting //  <br>
-{:.brewery}
+{: .brewery #gramingerweissbraeu }
 
 
-##### Amberg  _(5)_{:.count} 
+##### Amberg _(5)_{:.count} 
+{: .city #amberg }
 
 
-Bruckmüller -   <br>
+
+ Bruckmüller   `#bruckmueller`{:.key} <br>
 Amberg //  <br>
-{:.brewery}
+{: .brewery #bruckmueller }
 
 
-Kummert -   <br>
+ Kummert   `#kummert`{:.key} <br>
 Amberg //  <br>
-{:.brewery}
+{: .brewery #kummert }
 
 
-Sudhang Hausbrauerei -   <br>
+ Sudhang Hausbrauerei   `#sudhanghausbrauerei`{:.key} <br>
 Amberg //  <br>
-{:.brewery}
+{: .brewery #sudhanghausbrauerei }
 
 
-Privatbrauerei Winkler - 1617  <br>
+ Privatbrauerei Winkler  - 1617   `#privatbrauereiwinkler`{:.key} <br>
 92224 Amberg // Schanzgäßchen 6  <br>
 [www.brauerei-winkler.de](http://www.brauerei-winkler.de)  <br>
-{:.brewery}
+{: .brewery #privatbrauereiwinkler }
 
 
-Schloderer -   <br>
+ Schloderer   `#schloderer`{:.key} <br>
 Amberg //  <br>
-{:.brewery}
+{: .brewery #schloderer }
 
 
-##### Andechs 
+##### Andechs  
+{: .city #andechs }
 
 
-Klosterbrauerei Andechs - 1455  <br>
+
+♣♣♣  Klosterbrauerei Andechs  - 1455   `#andechs`{:.key} <br>
 82346 Andechs // Bergstraße 2  <br>
 [www.andechs.de](http://www.andechs.de)  <br>
-{:.brewery}
+{: .brewery #andechs }
 
 
-##### Apfeltrang 
+##### Apfeltrang  
+{: .city #apfeltrang }
 
 
-Landgasthof Hubertus -   <br>
+
+ Landgasthof Hubertus   `#landgasthofhubertus`{:.key} <br>
 Apfeltrang //  <br>
-{:.brewery}
+{: .brewery #landgasthofhubertus }
 
 
-##### Appendorf 
+##### Appendorf  
+{: .city #appendorf }
 
 
-Brauerei Mazour-Fößel -   <br>
+
+ Brauerei Mazour-Fößel   `#brauereimazourfoessel`{:.key} <br>
 96169 Appendorf // Baunacher Straße 28  <br>
-{:.brewery}
+{: .brewery #brauereimazourfoessel }
 
 
-##### Arnschwang 
+##### Arnschwang  
+{: .city #arnschwang }
 
 
-Mühlbauer Brauerei -   <br>
+
+ Mühlbauer Brauerei   `#muehlbauerbrauerei`{:.key} <br>
 Arnschwang //  <br>
-{:.brewery}
+{: .brewery #muehlbauerbrauerei }
 
 
-##### Arnstein 
+##### Arnstein  
+{: .city #arnstein }
 
 
-Arnsteiner Brauerei Max Bender -   <br>
+
+ Arnsteiner Brauerei Max Bender   `#arnsteinerbrauereimaxbender`{:.key} <br>
 Arnstein //  <br>
-{:.brewery}
+{: .brewery #arnsteinerbrauereimaxbender }
 
 
-##### Arnstorf 
+##### Arnstorf  
+{: .city #arnstorf }
 
 
-Schlossbrauerei Arnstorf Josef Graf von Deym -   <br>
+
+ Schlossbrauerei Arnstorf Josef Graf von Deym   `#schlossbrauereiarnstorfjosefgrafvondeym`{:.key} <br>
 Arnstorf //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiarnstorfjosefgrafvondeym }
 
 
-##### Arnstorf-Mariakirchen 
+##### Arnstorf-Mariakirchen  
+{: .city #arnstorfmariakirchen }
 
 
-Schlossbräu Mariakirchen -   <br>
+
+ Schlossbräu Mariakirchen   `#schlossbraeumariakirchen`{:.key} <br>
 Arnstorf-Mariakirchen //  <br>
-{:.brewery}
+{: .brewery #schlossbraeumariakirchen }
 
 
-##### Aschaffenburg-Schweinheim 
+##### Aschaffenburg-Schweinheim  
+{: .city #aschaffenburgschweinheim }
 
 
-Schwind-Bräu -   <br>
+
+ Schwind-Bräu   `#schwindbraeu`{:.key} <br>
 Aschaffenburg-Schweinheim //  <br>
-{:.brewery}
+{: .brewery #schwindbraeu }
 
 
-##### Aschau 
+##### Aschau  
+{: .city #aschau }
 
 
-Brauerei Ametsbichler -   <br>
+
+ Brauerei Ametsbichler   `#brauereiametsbichler`{:.key} <br>
 Aschau //  <br>
-{:.brewery}
+{: .brewery #brauereiametsbichler }
 
 
-##### Au in der Hallertau 
+##### Au in der Hallertau  
+{: .city #auinderhallertau }
 
 
-Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz -   <br>
+
+ Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz   `#schlossbrauereiauhallertauwillibaldfreiherrbeckvonpeccoz`{:.key} <br>
 Au in der Hallertau //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiauhallertauwillibaldfreiherrbeckvonpeccoz }
 
 
-##### Aufseß  _(3)_{:.count} 
+##### Aufseß _(3)_{:.count} 
+{: .city #aufsess }
 
 
-Aufsesser Brauerei -   <br>
+
+ Aufsesser Brauerei   `#aufsesserbrauerei`{:.key} <br>
 91347 Aufseß // Im Tal 70b  <br>
-{:.brewery}
+{: .brewery #aufsesserbrauerei }
 
 
-Brauereigasthof Reichold -   <br>
+ Brauereigasthof Reichold   `#brauereigasthofreichold`{:.key} <br>
 91347 Aufseß // Hochstahl 24  <br>
-{:.brewery}
+{: .brewery #brauereigasthofreichold }
 
 
-Kathi Bräu Heckenhof -   <br>
+ Kathi Bräu Heckenhof   `#kathibraeuheckenhof`{:.key} <br>
 91347 Aufseß // Heckenhof 1  <br>
-{:.brewery}
+{: .brewery #kathibraeuheckenhof }
 
 
-##### Augsburg  _(5)_{:.count} 
+##### Augsburg _(5)_{:.count}  _pop 266.647_{:.pop}
+{: .city #augsburg }
 
 
-Brauerei Thorbräu - 1582  <br>
+
+ Brauerei Thorbräu • Thorbräu  - 1582   `#thorbraeu`{:.key} <br>
 86152 Augsburg // Wertachbrucker-Tor-Straße 9  <br>
 [www.thorbraeu.de](http://www.thorbraeu.de)  <br>
-{:.brewery}
+{: .brewery #thorbraeu }
 
 
-Augusta Brauerei - 1488  <br>
+ Augusta Brauerei  - 1488   `#augusta`{:.key} <br>
 86152 Augsburg // Lauterlech 10-14  <br>
 [www.augusta-brauerei.de](http://www.augusta-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #augusta }
 
 
-Hasen-Bräu - 1464  <br>
+ Hasen-Bräu  - 1464   `#hasenbraeu`{:.key} <br>
 86179 Augsburg // Unterer Talweg 87  <br>
 [www.hasen-braeu.de](http://www.hasen-braeu.de)  <br>
-{:.brewery}
+{: .brewery #hasenbraeu }
 
 
-Brauhaus Riegele - 1386  <br>
+ Brauhaus Riegele • Brauerei S. Riegele  - 1386   `#riegele`{:.key} <br>
 86150 Augsburg // Frölichstraße 26  <br>
 [www.riegele.de](http://www.riegele.de)  <br>
-{:.brewery}
+{: .brewery #riegele }
 
 
-König von Flandern -   <br>
+ König von Flandern   `#koenigvonflandern`{:.key} <br>
 86150 Augsburg // Karolinenstraße 12  <br>
 [www.koenigvonflandern.de](http://www.koenigvonflandern.de)  <br>
-{:.brewery}
+{: .brewery #koenigvonflandern }
 
 
-##### Aying 
+##### Aying  
+{: .city #aying }
 
 
-Brauerei Aying -   <br>
+
+ Brauerei Aying   `#brauereiaying`{:.key} <br>
 Aying //  <br>
-{:.brewery}
+{: .brewery #brauereiaying }
 
 
-##### Baar 
+##### Baar  
+{: .city #baar }
 
 
-Schlossbrauerei Unterbaar -   <br>
+
+ Schlossbrauerei Unterbaar   `#schlossbrauereiunterbaar`{:.key} <br>
 Baar //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiunterbaar }
 
 
-##### Bad Abbach-Oberndorf 
+##### Bad Abbach-Oberndorf  
+{: .city #badabbachoberndorf }
 
 
-Brauerei Berghammer -   <br>
+
+ Brauerei Berghammer   `#brauereiberghammer`{:.key} <br>
 Bad Abbach-Oberndorf //  <br>
-{:.brewery}
+{: .brewery #brauereiberghammer }
 
 
-##### Bad Kissingen-Arnshausen 
+##### Bad Kissingen-Arnshausen  
+{: .city #badkissingenarnshausen }
 
 
-Wittelsbacher Turm Bräu -   <br>
+
+ Wittelsbacher Turm Bräu   `#wittelsbacherturmbraeu`{:.key} <br>
 Bad Kissingen-Arnshausen //  <br>
-{:.brewery}
+{: .brewery #wittelsbacherturmbraeu }
 
 
-##### Bad Kissingen-Garitz 
+##### Bad Kissingen-Garitz  
+{: .city #badkissingengaritz }
 
 
-Museums Brau Gasthaus Jägersruh -   <br>
+
+ Museums Brau Gasthaus Jägersruh   `#museumsbraugasthausjaegersruh`{:.key} <br>
 Bad Kissingen-Garitz //  <br>
-{:.brewery}
+{: .brewery #museumsbraugasthausjaegersruh }
 
 
-##### Bad Kötzting 
+##### Bad Kötzting  
+{: .city #badkoetzting }
 
 
-Lindner Bräu -   <br>
+
+ Lindner Bräu   `#lindnerbraeu`{:.key} <br>
 Bad Kötzting //  <br>
-{:.brewery}
+{: .brewery #lindnerbraeu }
 
 
-##### Bad Reichenhall 
+##### Bad Reichenhall  
+{: .city #badreichenhall }
 
 
-Bürgerbräu Bad Reichenhall August Röhm & Söhne -   <br>
+
+ Bürgerbräu Bad Reichenhall August Röhm & Söhne   `#buergerbraeubadreichenhallaugustroehmsoehne`{:.key} <br>
 Bad Reichenhall //  <br>
-{:.brewery}
+{: .brewery #buergerbraeubadreichenhallaugustroehmsoehne }
 
 
-##### Bad Rodach 
+##### Bad Rodach  
+{: .city #badrodach }
 
 
-Gemeinschaftsbrauerei Roßfeld -   <br>
+
+ Gemeinschaftsbrauerei Roßfeld   `#gemeinschaftsbrauereirossfeld`{:.key} <br>
 96476 Bad Rodach // Streufdorfer Straße 3  <br>
-{:.brewery}
+{: .brewery #gemeinschaftsbrauereirossfeld }
 
 
-##### Bad Staffelstein-Frauendorf 
+##### Bad Staffelstein-Frauendorf  
+{: .city #badstaffelsteinfrauendorf }
 
 
-Brauerei Hetzel -   <br>
+
+ Brauerei Hetzel   `#brauereihetzel`{:.key} <br>
 96231 Bad Staffelstein-Frauendorf // Frauendorf 11  <br>
-{:.brewery}
+{: .brewery #brauereihetzel }
 
 
-##### Bad Staffelstein-Loffeld 
+##### Bad Staffelstein-Loffeld  
+{: .city #badstaffelsteinloffeld }
 
 
-Staffelberg-Bräu -   <br>
+
+ Staffelberg-Bräu   `#staffelbergbraeu`{:.key} <br>
 96231 Bad Staffelstein-Loffeld // Mühlteich 4  <br>
-{:.brewery}
+{: .brewery #staffelbergbraeu }
 
 
-##### Bad Staffelstein-Nedensdorf 
+##### Bad Staffelstein-Nedensdorf  
+{: .city #badstaffelsteinnedensdorf }
 
 
-Brauerei Reblitz -   <br>
+
+ Brauerei Reblitz   `#brauereireblitz`{:.key} <br>
 96231 Bad Staffelstein-Nedensdorf // Am Mahlberg 1  <br>
-{:.brewery}
+{: .brewery #brauereireblitz }
 
 
-##### Bad Staffelstein-Stublang  _(2)_{:.count} 
+##### Bad Staffelstein-Stublang _(2)_{:.count} 
+{: .city #badstaffelsteinstublang }
 
 
-Brauerei Dinkel -   <br>
+
+ Brauerei Dinkel   `#brauereidinkel`{:.key} <br>
 96231 Bad Staffelstein-Stublang // Am Dorfbrunnen 19  <br>
-{:.brewery}
+{: .brewery #brauereidinkel }
 
 
-Brauerei Gasthof Hennemann -   <br>
+ Brauerei Gasthof Hennemann   `#brauereigasthofhennemann`{:.key} <br>
 96231 Bad Staffelstein-Stublang // Am Dorfbrunnen 13  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhennemann }
 
 
-##### Bad Staffelstein-Uetzing 
+##### Bad Staffelstein-Uetzing  
+{: .city #badstaffelsteinuetzing }
 
 
-Hausbrauerei Reichert -   <br>
+
+ Hausbrauerei Reichert   `#hausbrauereireichert`{:.key} <br>
 96231 Bad Staffelstein-Uetzing // Stublanger Straße 2  <br>
-{:.brewery}
+{: .brewery #hausbrauereireichert }
 
 
-##### Bad Staffelstein-Vierzehnheiligen 
+##### Bad Staffelstein-Vierzehnheiligen  
+{: .city #badstaffelsteinvierzehnheiligen }
 
 
-Brauerei Trunk Alte Klosterbrauerei -   <br>
+
+ Brauerei Trunk Alte Klosterbrauerei   `#brauereitrunkalteklosterbrauerei`{:.key} <br>
 96231 Bad Staffelstein-Vierzehnheiligen // Vierzehnheiligen 3  <br>
-{:.brewery}
+{: .brewery #brauereitrunkalteklosterbrauerei }
 
 
-##### Bad Staffelstein-Wiesen  _(2)_{:.count} 
+##### Bad Staffelstein-Wiesen _(2)_{:.count} 
+{: .city #badstaffelsteinwiesen }
 
 
-Brauerei Gasthof Hellmuth -   <br>
+
+ Brauerei Gasthof Hellmuth   `#brauereigasthofhellmuth`{:.key} <br>
 96231 Bad Staffelstein-Wiesen // Wiesen 14  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhellmuth }
 
 
-Brauerei Gaststätte Thomann -   <br>
+ Brauerei Gaststätte Thomann   `#brauereigaststaettethomann`{:.key} <br>
 96231 Bad Staffelstein-Wiesen // Altmainstraße 5  <br>
-{:.brewery}
+{: .brewery #brauereigaststaettethomann }
 
 
-##### Bad Tölz  _(2)_{:.count} 
+##### Bad Tölz _(2)_{:.count} 
+{: .city #badtoelz }
 
 
-Mühlfeldbräu -   <br>
+
+ Mühlfeldbräu   `#muehlfeldbraeu`{:.key} <br>
 Bad Tölz //  <br>
-{:.brewery}
+{: .brewery #muehlfeldbraeu }
 
 
-Tölzer Mühlfeldbräu -   <br>
+ Tölzer Mühlfeldbräu   `#toelzermuehlfeldbraeu`{:.key} <br>
 Bad Tölz //  <br>
-{:.brewery}
+{: .brewery #toelzermuehlfeldbraeu }
 
 
-##### Bad Windsheim  _(3)_{:.count} 
+##### Bad Windsheim _(3)_{:.count} 
+{: .city #badwindsheim }
 
 
-Brauereigasthof Bürgerbräustuben "Schalander" -   <br>
+
+ Brauereigasthof Bürgerbräustuben "Schalander"   `#brauereigasthofbuergerbraeustubenschalander`{:.key} <br>
 Bad Windsheim  //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofbuergerbraeustubenschalander }
 
 
-Brauhaus Döbler -   <br>
+ Brauhaus Döbler   `#brauhausdoebler`{:.key} <br>
 Bad Windsheim //  <br>
-{:.brewery}
+{: .brewery #brauhausdoebler }
 
 
-Fränkisches Freilandmuseum Bad Windsheim -   <br>
+ Fränkisches Freilandmuseum Bad Windsheim   `#fraenkischesfreilandmuseumbadwindsheim`{:.key} <br>
 Bad Windsheim //  <br>
-{:.brewery}
+{: .brewery #fraenkischesfreilandmuseumbadwindsheim }
 
 
-##### Bad Wörishofen 
+##### Bad Wörishofen  
+{: .city #badwoerishofen }
 
 
-Bad Wörishofer Löwenbräu -   <br>
+
+ Bad Wörishofer Löwenbräu   `#badwoerishoferloewenbraeu`{:.key} <br>
 Bad Wörishofen //  <br>
-{:.brewery}
+{: .brewery #badwoerishoferloewenbraeu }
 
 
-##### Bamberg  _(10)_{:.count} 
+##### Bamberg _(10)_{:.count} 
+{: .city #bamberg }
 
 
-Ambräusianum (1. Gasthausbrauerei in Bamberg) - 2004  <br>
+
+ Ambräusianum (1. Gasthausbrauerei in Bamberg)  - 2004   `#ambraeusianum`{:.key} <br>
 96049 Bamberg // Dominikanerstraße 10  <br>
 [www.ambraeusianum.de](http://www.ambraeusianum.de)  <br>
-{:.brewery}
+{: .brewery #ambraeusianum }
 
 
-Brauerei Fässla - 1649  <br>
+ Brauerei Fässla  - 1649   `#brauereifaessla`{:.key} <br>
 96052 Bamberg // Obere Königstraße 19-21  <br>
 [www.faessla.de](http://www.faessla.de)  <br>
-{:.brewery}
+{: .brewery #brauereifaessla }
 
 
-Brauerei Greifenklau - 1719  <br>
+ Brauerei Greifenklau  - 1719   `#brauereigreifenklau`{:.key} <br>
 96049 Bamberg // Laurenziplatz 20  <br>
 [www.greifenklau.de](http://www.greifenklau.de)  <br>
-{:.brewery}
+{: .brewery #brauereigreifenklau }
 
 
-Kaiserdom Specialitäten-Brauerei - 1718  <br>
+ Kaiserdom Specialitäten-Brauerei  - 1718   `#kaiserdomspecialitaetenbrauerei`{:.key} <br>
 96049 Bamberg // Breitäckerstraße 9  <br>
 [www.kaiserdom.de](http://www.kaiserdom.de)  <br>
-{:.brewery}
+{: .brewery #kaiserdomspecialitaetenbrauerei }
 
 
-Brauerei Keesmann - 1867  <br>
+ Brauerei Keesmann  - 1867   `#brauereikeesmann`{:.key} <br>
 96050 Bamberg // Wunderburg 5  <br>
-{:.brewery}
+{: .brewery #brauereikeesmann }
 
 
-Klosterbräu Bamberg - 1533  <br>
+ Klosterbräu Bamberg  - 1533   `#klosterbraeubamberg`{:.key} <br>
 96049 Bamberg // Obere Mühlbrücke 3  <br>
 [www.klosterbraeu.de](http://www.klosterbraeu.de)  <br>
-{:.brewery}
+{: .brewery #klosterbraeubamberg }
 
 
-Mahrs-Bräu Bamberg - 1602  <br>
+ Mahrs-Bräu Bamberg  - 1602   `#mahrsbraeubamberg`{:.key} <br>
 96050 Bamberg // Wunderburg 10  <br>
 [www.mahrs.de](http://www.mahrs.de)  <br>
-{:.brewery}
+{: .brewery #mahrsbraeubamberg }
 
 
-Brauerei Schlenkerla - 1405  <br>
+ Brauerei Schlenkerla  - 1405   `#brauereischlenkerla`{:.key} <br>
 96049 Bamberg // Dominikanerstraße 6  <br>
 [www.schlenkerla.de](http://www.schlenkerla.de)  <br>
-{:.brewery}
+{: .brewery #brauereischlenkerla }
 
 
-Brauerei Spezial - 1536  <br>
+ Brauerei Spezial  - 1536   `#brauereispezial`{:.key} <br>
 96052 Bamberg // Obere Königstraße 10  <br>
 [www.brauerei-spezial.de](http://www.brauerei-spezial.de)  <br>
-{:.brewery}
+{: .brewery #brauereispezial }
 
 
-Weyermann Braumanufaktur - 1903  <br>
+ Weyermann Braumanufaktur • Weyermann Malzfabrik • Weyermann Röstmalzbierbrauerei  - 1903   `#weyermannbraumanufaktur`{:.key} <br>
 96052 Bamberg // Brennerstraße 17/19  <br>
 [www.weyermann.de](http://www.weyermann.de)  <br>
-{:.brewery}
+{: .brewery #weyermannbraumanufaktur }
 
 
-##### Bayreuth  _(6)_{:.count} 
+##### Bayreuth _(6)_{:.count} 
+{: .city #bayreuth }
 
 
-Bayreuther Bierbrauerei (Maisel) - 1857  <br>
+
+ Bayreuther Bierbrauerei (Maisel)  - 1857   `#bayreutherbierbrauerei`{:.key} <br>
 Bayreuth //  <br>
-{:.brewery}
+{: .brewery #bayreutherbierbrauerei }
 
 
-Bayreuther Bio-Brauer (Maisel) -   <br>
+ Bayreuther Bio-Brauer (Maisel)   `#bayreutherbiobrauer`{:.key} <br>
 Bayreuth //  <br>
-{:.brewery}
+{: .brewery #bayreutherbiobrauer }
 
 
-Becher Bräu - 1781  <br>
+ Becher Bräu  - 1781   `#becherbraeu`{:.key} <br>
 95445 Bayreuth // St.-Nikolaus-Straße 25  <br>
 [www.becherbraeu.de](http://www.becherbraeu.de)  <br>
-{:.brewery}
+{: .brewery #becherbraeu }
 
 
-Brauerei Gebr. Maisel -   <br>
+ Brauerei Gebr. Maisel   `#brauereigebrmaisel`{:.key} <br>
 95445 Bayreuth // Hindenburgstraße 9  <br>
-{:.brewery}
+{: .brewery #brauereigebrmaisel }
 
 
-Buschenschänke Lang -   <br>
+ Buschenschänke Lang   `#buschenschaenkelang`{:.key} <br>
 95444 Bayreuth // Jean-Paul-Straße 7  <br>
-{:.brewery}
+{: .brewery #buschenschaenkelang }
 
 
-Brauerei Gebrüder Maisel - 1887  <br>
+ Brauerei Gebrüder Maisel  - 1887   `#brauereigebruedermaisel`{:.key} <br>
 Bayreuth //  <br>
-{:.brewery}
+{: .brewery #brauereigebruedermaisel }
 
 
-##### Berching 
+##### Berching  
+{: .city #berching }
 
 
-Schuller -   <br>
+
+ Schuller   `#schuller`{:.key} <br>
 Berching //  <br>
-{:.brewery}
+{: .brewery #schuller }
 
 
-##### Berchtesgaden 
+##### Berchtesgaden  
+{: .city #berchtesgaden }
 
 
-Hofbräuhaus Berchtesgaden -   <br>
+
+ Hofbräuhaus Berchtesgaden   `#hofbraeuhausberchtesgaden`{:.key} <br>
 Berchtesgaden //  <br>
-{:.brewery}
+{: .brewery #hofbraeuhausberchtesgaden }
 
 
-##### Bergen-Thalmannsfeld 
+##### Bergen-Thalmannsfeld  
+{: .city #bergenthalmannsfeld }
 
 
-W. Gloßner -   <br>
+
+ W. Gloßner   `#wglossner`{:.key} <br>
 Bergen-Thalmannsfeld  //  <br>
-{:.brewery}
+{: .brewery #wglossner }
 
 
-##### Biberach 
+##### Biberach  
+{: .city #biberach }
 
 
-Biberacher Brauerei Schmid -   <br>
+
+ Biberacher Brauerei Schmid   `#biberacherbrauereischmid`{:.key} <br>
 Biberach //  <br>
-{:.brewery}
+{: .brewery #biberacherbrauereischmid }
 
 
-##### Bichl 
+##### Bichl  
+{: .city #bichl }
 
 
-Wampenbräu -   <br>
+
+ Wampenbräu   `#wampenbraeu`{:.key} <br>
 Bichl //  <br>
-{:.brewery}
+{: .brewery #wampenbraeu }
 
 
-##### Bischberg 
+##### Bischberg  
+{: .city #bischberg }
 
 
-Brauerei-Gasthof Zur Sonne -   <br>
+
+ Brauerei-Gasthof Zur Sonne   `#brauereigasthofzursonne`{:.key} <br>
 96120 Bischberg // Regnitzstraße 2  <br>
-{:.brewery}
+{: .brewery #brauereigasthofzursonne }
 
 
-##### Bischofsheim an der Rhön 
+##### Bischofsheim an der Rhön  
+{: .city #bischofsheimanderrhoen }
 
 
-Klosterbrauerei Kreuzberg -   <br>
+
+ Klosterbrauerei Kreuzberg   `#klosterbrauereikreuzberg`{:.key} <br>
 Bischofsheim an der Rhön //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereikreuzberg }
 
 
-##### Bockhorn (Oberbayern)-Grünbach 
+##### Bockhorn (Oberbayern)-Grünbach  
+{: .city #bockhorngruenbach }
 
 
-Schloßbrauerei Grünbach bei Erding -   <br>
+
+ Schloßbrauerei Grünbach bei Erding   `#schlossbrauereigruenbachbeierding`{:.key} <br>
 Bockhorn (Oberbayern)-Grünbach //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereigruenbachbeierding }
 
 
-##### Bodenkirchen 
+##### Bodenkirchen  
+{: .city #bodenkirchen }
 
 
-Bodenkirchener -   <br>
+
+ Bodenkirchener   `#bodenkirchener`{:.key} <br>
 Bodenkirchen //  <br>
-{:.brewery}
+{: .brewery #bodenkirchener }
 
 
-##### Bodenmais 
+##### Bodenmais  
+{: .city #bodenmais }
 
 
-Adam-Bräu -   <br>
+
+ Adam-Bräu   `#adambraeu`{:.key} <br>
 94249 Bodenmais // Bahnhofstrasse 49-53  <br>
 [www.adam-braeu.de](http://www.adam-braeu.de)  <br>
-{:.brewery}
+{: .brewery #adambraeu }
 
 
-##### Bodenwöhr 
+##### Bodenwöhr  
+{: .city #bodenwoehr }
 
 
-Jacob -   <br>
+
+ Jacob   `#jacob`{:.key} <br>
 Bodenwöhr //  <br>
-{:.brewery}
+{: .brewery #jacob }
 
 
-##### Breitengüßbach 
+##### Breitengüßbach  
+{: .city #breitenguessbach }
 
 
-Brauhaus Binkert -   <br>
+
+ Brauhaus Binkert   `#brauhausbinkert`{:.key} <br>
 96149 Breitengüßbach // Westring 5  <br>
-{:.brewery}
+{: .brewery #brauhausbinkert }
 
 
-##### Bruckberg  _(2)_{:.count} 
+##### Bruckberg _(2)_{:.count} 
+{: .city #bruckberg }
 
 
-Brauerei Wimmer -   <br>
+
+ Brauerei Wimmer   `#brauereiwimmer`{:.key} <br>
 Bruckberg //  <br>
-{:.brewery}
+{: .brewery #brauereiwimmer }
 
 
-Dornbräu -   <br>
+ Dornbräu   `#dornbraeu`{:.key} <br>
 Bruckberg //  <br>
-{:.brewery}
+{: .brewery #dornbraeu }
 
 
-##### Bruckmühl 
+##### Bruckmühl  
+{: .city #bruckmuehl }
 
 
-Brauerei Starkmeth -   <br>
+
+ Brauerei Starkmeth   `#brauereistarkmeth`{:.key} <br>
 Bruckmühl //  <br>
-{:.brewery}
+{: .brewery #brauereistarkmeth }
 
 
-##### Burgebrach  _(2)_{:.count} 
+##### Burgebrach _(2)_{:.count} 
+{: .city #burgebrach }
 
 
-Brauerei Gasthof Schwan -   <br>
+
+ Brauerei Gasthof Schwan   `#brauereigasthofschwan`{:.key} <br>
 96138 Burgebrach // Hauptstraße 16  <br>
-{:.brewery}
+{: .brewery #brauereigasthofschwan }
 
 
-Brauerei Kaiser -   <br>
+ Brauerei Kaiser   `#brauereikaiser`{:.key} <br>
 96138 Burgebrach // Grasmannsdorf 9  <br>
-{:.brewery}
+{: .brewery #brauereikaiser }
 
 
-##### Burgebrach-Ampferbach 
+##### Burgebrach-Ampferbach  
+{: .city #burgebrachampferbach }
 
 
-Brauerei Herrmann -   <br>
+
+ Brauerei Herrmann   `#brauereiherrmann`{:.key} <br>
 96138 Burgebrach-Ampferbach // Brückenstraße 3  <br>
-{:.brewery}
+{: .brewery #brauereiherrmann }
 
 
-##### Burgkunstadt 
+##### Burgkunstadt  
+{: .city #burgkunstadt }
 
 
-Günther-Bräu -   <br>
+
+ Günther-Bräu   `#guentherbraeu`{:.key} <br>
 96224 Burgkunstadt // In der Au 27  <br>
-{:.brewery}
+{: .brewery #guentherbraeu }
 
 
-##### Buttenheim  _(3)_{:.count} 
+##### Buttenheim _(3)_{:.count} 
+{: .city #buttenheim }
 
 
-Löwenbräu Buttenheim - 1880  <br>
+
+ Löwenbräu Buttenheim  - 1880   `#loewenbraeubuttenheim`{:.key} <br>
 96155 Buttenheim // Marktstrasse 8  <br>
 [www.loewenbraeu-buttenheim.de](http://www.loewenbraeu-buttenheim.de)  <br>
-{:.brewery}
+{: .brewery #loewenbraeubuttenheim }
 
 
-Meusel-Bräu Ottmar Meusel - 1579  <br>
+ Meusel-Bräu Ottmar Meusel  - 1579   `#meuselbraeuottmarmeusel`{:.key} <br>
 96155 Buttenheim // Dreuschendorf 27  <br>
-{:.brewery}
+{: .brewery #meuselbraeuottmarmeusel }
 
 
-St. Georgen Bräu Buttenheim - 1624  <br>
+ St. Georgen Bräu Buttenheim  - 1624   `#stgeorgenbraeubuttenheim`{:.key} <br>
 96155 Buttenheim // Marktstraße 12  <br>
 [www.kellerbier.de](http://www.kellerbier.de)  <br>
-{:.brewery}
+{: .brewery #stgeorgenbraeubuttenheim }
 
 
-##### Böbrach 
+##### Böbrach  
+{: .city #boebrach }
 
 
-Brauerei Gasthof Hotel Eck -   <br>
+
+ Brauerei Gasthof Hotel Eck   `#brauereigasthofhoteleck`{:.key} <br>
 Böbrach //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhoteleck }
 
 
-##### Cham  _(2)_{:.count} 
+##### Cham _(2)_{:.count} 
+{: .city #cham }
 
 
-Alfons Hintereder -   <br>
+
+ Alfons Hintereder   `#alfonshintereder`{:.key} <br>
 Cham //  <br>
-{:.brewery}
+{: .brewery #alfonshintereder }
 
 
-Zur Luitpoldhöhe -   <br>
+ Zur Luitpoldhöhe   `#zurluitpoldhoehe`{:.key} <br>
 Cham //  <br>
-{:.brewery}
+{: .brewery #zurluitpoldhoehe }
 
 
-##### Cham-Thierlstein 
+##### Cham-Thierlstein  
+{: .city #chamthierlstein }
 
 
-Sauer -   <br>
+
+ Sauer   `#sauer`{:.key} <br>
 Cham-Thierlstein //  <br>
-{:.brewery}
+{: .brewery #sauer }
 
 
-##### Creussen-Lindenhardt 
+##### Creussen-Lindenhardt  
+{: .city #creussenlindenhardt }
 
 
-Brauerei & Gasthof Kürzdörfer -   <br>
+
+ Brauerei & Gasthof Kürzdörfer   `#brauereigasthofkuerzdoerfer`{:.key} <br>
 95473 Creussen-Lindenhardt // Brauhausgasse 3  <br>
-{:.brewery}
+{: .brewery #brauereigasthofkuerzdoerfer }
 
 
-##### Debring 
+##### Debring  
+{: .city #debring }
 
 
-Brauerei Müller Debring -   <br>
+
+ Brauerei Müller Debring   `#brauereimuellerdebring`{:.key} <br>
 96135 Debring // Würzburger Straße 1  <br>
-{:.brewery}
+{: .brewery #brauereimuellerdebring }
 
 
-##### Deuerling 
+##### Deuerling  
+{: .city #deuerling }
 
 
-Goss -   <br>
+
+ Goss   `#goss`{:.key} <br>
 Deuerling //  <br>
-{:.brewery}
+{: .brewery #goss }
 
 
-##### Dingolfing 
+##### Dingolfing  
+{: .city #dingolfing }
 
 
-Brauerei Xaver Wasserburger -   <br>
+
+ Brauerei Xaver Wasserburger   `#brauereixaverwasserburger`{:.key} <br>
 Dingolfing  //  <br>
-{:.brewery}
+{: .brewery #brauereixaverwasserburger }
 
 
-##### Dinkelsbühl  _(3)_{:.count} 
+##### Dinkelsbühl _(3)_{:.count} 
+{: .city #dinkelsbuehl }
 
 
-Brauerei Hauf -   <br>
+
+ Brauerei Hauf   `#brauereihauf`{:.key} <br>
 Dinkelsbühl //  <br>
-{:.brewery}
+{: .brewery #brauereihauf }
 
 
-Brauerei Stefansbräu -   <br>
+ Brauerei Stefansbräu   `#brauereistefansbraeu`{:.key} <br>
 Dinkelsbühl //  <br>
-{:.brewery}
+{: .brewery #brauereistefansbraeu }
 
 
-Weib's Brauhaus Dinkelsbühl -   <br>
+ Weib's Brauhaus Dinkelsbühl   `#weibsbrauhausdinkelsbuehl`{:.key} <br>
 Dinkelsbühl //  <br>
-{:.brewery}
+{: .brewery #weibsbrauhausdinkelsbuehl }
 
 
-##### Dorfen  _(2)_{:.count} 
+##### Dorfen _(2)_{:.count} 
+{: .city #dorfen }
 
 
-Bräu z'Loh -   <br>
+
+ Bräu z'Loh   `#braeuzloh`{:.key} <br>
 Dorfen //  <br>
-{:.brewery}
+{: .brewery #braeuzloh }
 
 
-Brauerei Bachmayer -   <br>
+ Brauerei Bachmayer   `#brauereibachmayer`{:.key} <br>
 Dorfen //  <br>
-{:.brewery}
+{: .brewery #brauereibachmayer }
 
 
-##### Drachselsried  _(2)_{:.count} 
+##### Drachselsried _(2)_{:.count} 
+{: .city #drachselsried }
 
 
-Drachselsrieder Schlossbräu -   <br>
+
+ Drachselsrieder Schlossbräu   `#drachselsriederschlossbraeu`{:.key} <br>
 Drachselsried //  <br>
-{:.brewery}
+{: .brewery #drachselsriederschlossbraeu }
 
 
-Falterbräu -   <br>
+ Falterbräu   `#falterbraeu`{:.key} <br>
 Drachselsried //  <br>
-{:.brewery}
+{: .brewery #falterbraeu }
 
 
-##### Ebensfeld  _(2)_{:.count} 
+##### Ebensfeld _(2)_{:.count} 
+{: .city #ebensfeld }
 
 
-Brauerei Leicht -   <br>
+
+ Brauerei Leicht   `#brauereileicht`{:.key} <br>
 96250 Ebensfeld // Pferdsfeld 22  <br>
-{:.brewery}
+{: .brewery #brauereileicht }
 
 
-Ebensfelder Brauhaus -   <br>
+ Ebensfelder Brauhaus   `#ebensfelderbrauhaus`{:.key} <br>
 96250 Ebensfeld // Oberer Kellbachdamm 7  <br>
-{:.brewery}
+{: .brewery #ebensfelderbrauhaus }
 
 
-##### Ebing 
+##### Ebing  
+{: .city #ebing }
 
 
-Brauerei Schwanen-Bräu -   <br>
+
+ Brauerei Schwanen-Bräu   `#brauereischwanenbraeu`{:.key} <br>
 96179 Ebing // Marktplatz 11  <br>
-{:.brewery}
+{: .brewery #brauereischwanenbraeu }
 
 
-##### Edelsfeld 
+##### Edelsfeld  
+{: .city #edelsfeld }
 
 
-Heldrich -   <br>
+
+ Heldrich   `#heldrich`{:.key} <br>
 Edelsfeld //  <br>
-{:.brewery}
+{: .brewery #heldrich }
 
 
-##### Eggenfelden-Spanberg 
+##### Eggenfelden-Spanberg  
+{: .city #eggenfeldenspanberg }
 
 
-Brunner Bräu -   <br>
+
+ Brunner Bräu   `#brunnerbraeu`{:.key} <br>
 Eggenfelden-Spanberg //  <br>
-{:.brewery}
+{: .brewery #brunnerbraeu }
 
 
-##### Eggolsheim 
+##### Eggolsheim  
+{: .city #eggolsheim }
 
 
-Brauerei Först -   <br>
+
+ Brauerei Först   `#brauereifoerst`{:.key} <br>
 91330 Eggolsheim // Drügendorf 26  <br>
-{:.brewery}
+{: .brewery #brauereifoerst }
 
 
-##### Eggolsheim-Weigelshofen 
+##### Eggolsheim-Weigelshofen  
+{: .city #eggolsheimweigelshofen }
 
 
-Brauerei Gasthof Pfister -   <br>
+
+ Brauerei Gasthof Pfister   `#brauereigasthofpfister`{:.key} <br>
 91330 Eggolsheim-Weigelshofen // Eggerbachstraße 22  <br>
-{:.brewery}
+{: .brewery #brauereigasthofpfister }
 
 
-##### Eichendorf-Adldorf 
+##### Eichendorf-Adldorf  
+{: .city #eichendorfadldorf }
 
 
-Gräfliche Brauerei Arco-Valley -   <br>
+
+ Gräfliche Brauerei Arco-Valley   `#graeflichebrauereiarcovalley`{:.key} <br>
 Eichendorf-Adldorf //  <br>
-{:.brewery}
+{: .brewery #graeflichebrauereiarcovalley }
 
 
-##### Eichstätt 
+##### Eichstätt  
+{: .city #eichstaett }
 
 
-Privatbrauerei Hofmühl -   <br>
+
+ Privatbrauerei Hofmühl   `#privatbrauereihofmuehl`{:.key} <br>
 Eichstätt //  <br>
-{:.brewery}
+{: .brewery #privatbrauereihofmuehl }
 
 
-##### Eitting 
+##### Eitting  
+{: .city #eitting }
 
 
-Eittinger Fischerbräu -   <br>
+
+ Eittinger Fischerbräu   `#eittingerfischerbraeu`{:.key} <br>
 Eitting //  <br>
-{:.brewery}
+{: .brewery #eittingerfischerbraeu }
 
 
-##### Ellingen 
+##### Ellingen  
+{: .city #ellingen }
 
 
-Fürstliches Brauhaus Ellingen -   <br>
+
+ Fürstliches Brauhaus Ellingen   `#fuerstlichesbrauhausellingen`{:.key} <br>
 Ellingen //  <br>
-{:.brewery}
+{: .brewery #fuerstlichesbrauhausellingen }
 
 
-##### Elsendorf-Horneck 
+##### Elsendorf-Horneck  
+{: .city #elsendorfhorneck }
 
 
-Brauerei Horneck -   <br>
+
+ Brauerei Horneck   `#brauereihorneck`{:.key} <br>
 Elsendorf-Horneck //  <br>
-{:.brewery}
+{: .brewery #brauereihorneck }
 
 
-##### Eltmann-Eschenbach 
+##### Eltmann-Eschenbach  
+{: .city #eltmanneschenbach }
 
 
-Eschenbacher Privatbrauerei -   <br>
+
+ Eschenbacher Privatbrauerei   `#eschenbacherprivatbrauerei`{:.key} <br>
 Eltmann-Eschenbach //  <br>
-{:.brewery}
+{: .brewery #eschenbacherprivatbrauerei }
 
 
-##### Eltmann-Roßstadt 
+##### Eltmann-Roßstadt  
+{: .city #eltmannrossstadt }
 
 
-Weiß Rössl Bräu -   <br>
+
+ Weiß Rössl Bräu   `#weissroesslbraeu`{:.key} <br>
 Eltmann-Roßstadt  //  <br>
-{:.brewery}
+{: .brewery #weissroesslbraeu }
 
 
-##### Erding  _(2)_{:.count} 
+##### Erding _(2)_{:.count} 
+{: .city #erding }
 
 
-Privatbrauerei Erdinger Weißbräu - 1886  <br>
+
+♣♣♣  Privatbrauerei Erdinger Weißbräu  - 1886   `#erdinger`{:.key} <br>
 85435 Erding // Franz-Brombach-Straße 1  <br>
 [www.erdinger.de](http://www.erdinger.de)  <br>
-{:.brewery}
+{: .brewery #erdinger }
 
 
-Stiftungsbrauerei Fischer -   <br>
+ Stiftungsbrauerei Fischer   `#stiftungsbrauereifischer`{:.key} <br>
 Erding //  <br>
-{:.brewery}
+{: .brewery #stiftungsbrauereifischer }
 
 
-##### Erharting 
+##### Erharting  
+{: .city #erharting }
 
 
-Brauerei Erharting Jakob Röhrl -   <br>
+
+ Brauerei Erharting Jakob Röhrl   `#brauereierhartingjakobroehrl`{:.key} <br>
 Erharting //  <br>
-{:.brewery}
+{: .brewery #brauereierhartingjakobroehrl }
 
 
-##### Erlangen  _(2)_{:.count} 
+##### Erlangen _(2)_{:.count} 
+{: .city #erlangen }
 
 
-Kitzmann-Bräu -   <br>
+
+ Kitzmann-Bräu   `#kitzmannbraeu`{:.key} <br>
 Erlangen //  <br>
-{:.brewery}
+{: .brewery #kitzmannbraeu }
 
 
-Spezialitätenbrauerei Steinbach Bräu -   <br>
+ Spezialitätenbrauerei Steinbach Bräu   `#spezialitaetenbrauereisteinbachbraeu`{:.key} <br>
 Erlangen //  <br>
-{:.brewery}
+{: .brewery #spezialitaetenbrauereisteinbachbraeu }
 
 
-##### Eslarn 
+##### Eslarn  
+{: .city #eslarn }
 
 
-Brauerei Bauriedl -   <br>
+
+ Brauerei Bauriedl   `#brauereibauriedl`{:.key} <br>
 Eslarn //  <br>
-{:.brewery}
+{: .brewery #brauereibauriedl }
 
 
-##### Essing 
+##### Essing  
+{: .city #essing }
 
 
-Josef Schneider's Kleines Brauhaus -   <br>
+
+ Josef Schneider's Kleines Brauhaus   `#josefschneiderskleinesbrauhaus`{:.key} <br>
 Essing //  <br>
-{:.brewery}
+{: .brewery #josefschneiderskleinesbrauhaus }
 
 
-##### Ettal 
+##### Ettal  
+{: .city #ettal }
 
 
-Ettaler Klosterbrauerei -   <br>
+
+ Ettaler Klosterbrauerei   `#ettalerklosterbrauerei`{:.key} <br>
 Ettal //  <br>
-{:.brewery}
+{: .brewery #ettalerklosterbrauerei }
 
 
-##### Etzelwang 
+##### Etzelwang  
+{: .city #etzelwang }
 
 
-Pürner -   <br>
+
+ Pürner   `#puerner`{:.key} <br>
 Etzelwang //  <br>
-{:.brewery}
+{: .brewery #puerner }
 
 
-##### Eurasburg 
+##### Eurasburg  
+{: .city #eurasburg }
 
 
-Landhausbräu Koller -   <br>
+
+ Landhausbräu Koller   `#landhausbraeukoller`{:.key} <br>
 Eurasburg //  <br>
-{:.brewery}
+{: .brewery #landhausbraeukoller }
 
 
-##### Feldkirchen-Riem 
+##### Feldkirchen-Riem  
+{: .city #feldkirchenriem }
 
 
-Di Gastro Fliegerbräu -   <br>
+
+ Di Gastro Fliegerbräu   `#digastrofliegerbraeu`{:.key} <br>
 Feldkirchen-Riem //  <br>
-{:.brewery}
+{: .brewery #digastrofliegerbraeu }
 
 
-##### Flughafen München 
+##### Flughafen München  
+{: .city #flughafenmuenchen }
 
 
-Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH -   <br>
+
+ Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH   `#airbraeuallrestoflughafenmuenchenhotelundgaststaettengmbh`{:.key} <br>
 Flughafen München //  <br>
-{:.brewery}
+{: .brewery #airbraeuallrestoflughafenmuenchenhotelundgaststaettengmbh }
 
 
-##### Forchheim  _(4)_{:.count} 
+##### Forchheim _(4)_{:.count} 
+{: .city #forchheim }
 
 
-Brauerei Hebendanz -   <br>
+
+ Brauerei Hebendanz   `#brauereihebendanz`{:.key} <br>
 91301 Forchheim // Sattlertorstraße 14  <br>
-{:.brewery}
+{: .brewery #brauereihebendanz }
 
 
-Brauerei Josef Greif -   <br>
+ Brauerei Josef Greif   `#brauereijosefgreif`{:.key} <br>
 91301 Forchheim // Serlbacher Straße 10  <br>
-{:.brewery}
+{: .brewery #brauereijosefgreif }
 
 
-Brauerei Neder -   <br>
+ Brauerei Neder   `#brauereineder`{:.key} <br>
 91301 Forchheim // Sattlertorstraße 10  <br>
-{:.brewery}
+{: .brewery #brauereineder }
 
 
-Privatbrauerei Eichhorn -   <br>
+ Privatbrauerei Eichhorn   `#privatbrauereieichhorn`{:.key} <br>
 91301 Forchheim // Bamberger Straße 9  <br>
-{:.brewery}
+{: .brewery #privatbrauereieichhorn }
 
 
-##### Frammersbach 
+##### Frammersbach  
+{: .city #frammersbach }
 
 
-Waldschloss-Brauerei -   <br>
+
+ Waldschloss-Brauerei   `#waldschlossbrauerei`{:.key} <br>
 Frammersbach //  <br>
-{:.brewery}
+{: .brewery #waldschlossbrauerei }
 
 
-##### Freilassing 
+##### Freilassing  
+{: .city #freilassing }
 
 
-Brauerei Gasthof Weißbräu -   <br>
+
+ Brauerei Gasthof Weißbräu   `#brauereigasthofweissbraeu`{:.key} <br>
 Freilassing //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofweissbraeu }
 
 
-##### Freising  _(2)_{:.count} 
+##### Freising _(2)_{:.count} 
+{: .city #freising }
 
 
-Bayrische Staatsbrauerei Weihenstephan - 1040  <br>
+
+♣♣♣  Bayrische Staatsbrauerei Weihenstephan  - 1040   `#weihenstephan`{:.key} <br>
 285354 Freising // Alte Akademie  <br>
 [www.brauerei-weihenstephan.de](http://www.brauerei-weihenstephan.de)  <br>
-{:.brewery}
+{: .brewery #weihenstephan }
 
-Weihenstephaner Hefeweissbier   • Weihenstephaner Hefeweissbier Dunkel   • Weihenstephaner Kristallweissbier   • Weihenstephaner Original Bayrisch Mild   • Weihenstephaner Infinium   • Weihenstephaner Hefeweissbier Leicht   • Weihenstephaner Pilsner   • Weihenstephaner Tradition   • Weihenstephaner Festbier  
-{:.beers}
+**Weihenstephaner Hefeweissbier** (5.4%, 12.0°) _weisse_{:.tags}  • 
+**Weihenstephaner Hefeweissbier Dunkel** (5.3%, 12.7°) _weisse dunkel_{:.tags}  • 
+**Weihenstephaner Kristallweissbier** (5.4%, 12.7°) _weisse kristall_{:.tags}  • 
+**Weihenstephaner Original Bayrisch Mild** (5.1%, 11.6°) _helles_{:.tags}  • 
+**Weihenstephaner Infinium** (10.5%) _starkbier_{:.tags}  • 
+**Weihenstephaner Hefeweissbier Leicht** (3.2%, 7.7°) _weisse leicht_{:.tags}  • 
+**Weihenstephaner Pilsner** (5.1%, 11.8°) _pilsner_{:.tags}  • 
+**Weihenstephaner Tradition** (5.2%, 12.8°) _dunkel_{:.tags}  • 
+**Weihenstephaner Festbier** (5.8%, 13.3°) _festbier oktoberfest_{:.tags} 
+{: .beers }
 
-Gräfliches Hofbrauhaus Freising GmbH -   <br>
+ Gräfliches Hofbrauhaus Freising GmbH   `#graeflicheshofbrauhausfreisinggmbh`{:.key} <br>
 Freising //  <br>
-{:.brewery}
+{: .brewery #graeflicheshofbrauhausfreisinggmbh }
 
 
-##### Frensdorf-Reundorf 
+##### Frensdorf-Reundorf  
+{: .city #frensdorfreundorf }
 
 
-Brauerei Müller -   <br>
+
+ Brauerei Müller   `#brauereimueller`{:.key} <br>
 96158 Frensdorf-Reundorf // Lange Straße 2  <br>
-{:.brewery}
+{: .brewery #brauereimueller }
 
 
-##### Frensdorf-Untergreuth 
+##### Frensdorf-Untergreuth  
+{: .city #frensdorfuntergreuth }
 
 
-Brauerei Büttner -   <br>
+
+ Brauerei Büttner   `#brauereibuettner`{:.key} <br>
 96158 Frensdorf-Untergreuth // Untergreuth 8  <br>
-{:.brewery}
+{: .brewery #brauereibuettner }
 
 
-##### Freudenberg 
+##### Freudenberg  
+{: .city #freudenberg }
 
 
-Brauerei Märkl -   <br>
+
+ Brauerei Märkl   `#brauereimaerkl`{:.key} <br>
 Freudenberg //  <br>
-{:.brewery}
+{: .brewery #brauereimaerkl }
 
 
-##### Freystadt 
+##### Freystadt  
+{: .city #freystadt }
 
 
-Katzerer -   <br>
+
+ Katzerer   `#katzerer`{:.key} <br>
 Freystadt //  <br>
-{:.brewery}
+{: .brewery #katzerer }
 
 
-##### Freyung 
+##### Freyung  
+{: .city #freyung }
 
 
-Lang-Bräu -   <br>
+
+ Lang-Bräu   `#langbraeu`{:.key} <br>
 Freyung //  <br>
-{:.brewery}
+{: .brewery #langbraeu }
 
 
-##### Fridolfing 
+##### Fridolfing  
+{: .city #fridolfing }
 
 
-Stadler-Bräu -   <br>
+
+ Stadler-Bräu   `#stadlerbraeu`{:.key} <br>
 Fridolfing //  <br>
-{:.brewery}
+{: .brewery #stadlerbraeu }
 
 
-##### Friedberg 
+##### Friedberg  
+{: .city #friedberg }
 
 
-Brauereigasthof St. Afra im Felde -   <br>
+
+ Brauereigasthof St. Afra im Felde   `#brauereigasthofstafraimfelde`{:.key} <br>
 Friedberg //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofstafraimfelde }
 
 
-##### Friedenfels 
+##### Friedenfels  
+{: .city #friedenfels }
 
 
-Schlossbrauerei Friedenfels -   <br>
+
+ Schlossbrauerei Friedenfels   `#schlossbrauereifriedenfels`{:.key} <br>
 Friedenfels //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereifriedenfels }
 
 
-##### Frontenhausen  _(2)_{:.count} 
+##### Frontenhausen _(2)_{:.count} 
+{: .city #frontenhausen }
 
 
-Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen -   <br>
+
+ Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen   `#brauereigebruederroehrlzweigbetriebfrontenhausen`{:.key} <br>
 Frontenhausen  //  <br>
-{:.brewery}
+{: .brewery #brauereigebruederroehrlzweigbetriebfrontenhausen }
 
 
-Postbrauerei Renkl -   <br>
+ Postbrauerei Renkl   `#postbrauereirenkl`{:.key} <br>
 Frontenhausen //  <br>
-{:.brewery}
+{: .brewery #postbrauereirenkl }
 
 
-##### Furth 
+##### Furth  
+{: .city #furth }
 
 
-Further Klosterbier -   <br>
+
+ Further Klosterbier   `#furtherklosterbier`{:.key} <br>
 Furth //  <br>
-{:.brewery}
+{: .brewery #furtherklosterbier }
 
 
-##### Furth im Wald  _(2)_{:.count} 
+##### Furth im Wald _(2)_{:.count} 
+{: .city #furthimwald }
 
 
-Dimpflbräu -   <br>
+
+ Dimpflbräu   `#dimpflbraeu`{:.key} <br>
 Furth im Wald //  <br>
-{:.brewery}
+{: .brewery #dimpflbraeu }
 
 
-Späth Bräu -   <br>
+ Späth Bräu   `#spaethbraeu`{:.key} <br>
 Furth im Wald //  <br>
-{:.brewery}
+{: .brewery #spaethbraeu }
 
 
-##### Fürstenfeldbruck 
+##### Fürstenfeldbruck  
+{: .city #fuerstenfeldbruck }
 
 
-König Ludwig Brauerei -   <br>
+
+♣♣  König Ludwig Brauerei • König Ludwig Schlossbrauerei Kaltenberg   `#koenigludwig`{:.key} <br>
 82256 Fürstenfeldbruck // Augsburger Straße 41  <br>
 [www.koenig-ludwig-brauerei.com](http://www.koenig-ludwig-brauerei.com)  <br>
-{:.brewery}
+{: .brewery #koenigludwig }
 
 
-##### Gangkofen-Seemannshausen 
+##### Gangkofen-Seemannshausen  
+{: .city #gangkofenseemannshausen }
 
 
-Klosterbräu Seemannshausen -   <br>
+
+ Klosterbräu Seemannshausen   `#klosterbraeuseemannshausen`{:.key} <br>
 Gangkofen-Seemannshausen //  <br>
-{:.brewery}
+{: .brewery #klosterbraeuseemannshausen }
 
 
-##### Geiselhöring 
+##### Geiselhöring  
+{: .city #geiselhoering }
 
 
-Brauerei Ludwig Erl -   <br>
+
+ Brauerei Ludwig Erl   `#brauereiludwigerl`{:.key} <br>
 Geiselhöring //  <br>
-{:.brewery}
+{: .brewery #brauereiludwigerl }
 
 
-##### Gessertshausen 
+##### Gessertshausen  
+{: .city #gessertshausen }
 
 
-Schimpfle -   <br>
+
+ Schimpfle   `#schimpfle`{:.key} <br>
 Gessertshausen //  <br>
-{:.brewery}
+{: .brewery #schimpfle }
 
 
-##### Glonn 
+##### Glonn  
+{: .city #glonn }
 
 
-Herrmannsdorfer Schweinsbräu (Naturtrübbrauerei) -   <br>
+
+ Herrmannsdorfer Schweinsbräu (Naturtrübbrauerei)   `#herrmannsdorferschweinsbraeu`{:.key} <br>
 Glonn //  <br>
-{:.brewery}
+{: .brewery #herrmannsdorferschweinsbraeu }
 
 
-##### Gnodstadt 
+##### Gnodstadt  
+{: .city #gnodstadt }
 
 
-Brauerei Düll -   <br>
+
+ Brauerei Düll   `#brauereiduell`{:.key} <br>
 Gnodstadt //  <br>
-{:.brewery}
+{: .brewery #brauereiduell }
 
 
-##### Grafenau 
+##### Grafenau  
+{: .city #grafenau }
 
 
-Bucher Bräu Grafenau -   <br>
+
+ Bucher Bräu Grafenau   `#bucherbraeugrafenau`{:.key} <br>
 Grafenau //  <br>
-{:.brewery}
+{: .brewery #bucherbraeugrafenau }
 
 
-##### Grafing bei München 
+##### Grafing bei München  
+{: .city #grafingbeimuenchen }
 
 
-Wildbräu Grafing -   <br>
+
+ Wildbräu Grafing   `#wildbraeugrafing`{:.key} <br>
 Grafing bei München //  <br>
-{:.brewery}
+{: .brewery #wildbraeugrafing }
 
 
-##### Großheirath-Rossach 
+##### Großheirath-Rossach  
+{: .city #grossheirathrossach }
 
 
-Kommunbrauhaus Rossach -   <br>
+
+ Kommunbrauhaus Rossach   `#kommunbrauhausrossach`{:.key} <br>
 96269 Großheirath-Rossach // Coburger Straße  <br>
-{:.brewery}
+{: .brewery #kommunbrauhausrossach }
 
 
-##### Großostheim 
+##### Großostheim  
+{: .city #grossostheim }
 
 
-Eder & Heylands Brauerei -   <br>
+
+ Eder & Heylands Brauerei   `#ederheylandsbrauerei`{:.key} <br>
 Großostheim //  <br>
-{:.brewery}
+{: .brewery #ederheylandsbrauerei }
 
 
-##### Gräfenberg  _(4)_{:.count} 
+##### Gräfenberg _(4)_{:.count} 
+{: .city #graefenberg }
 
 
-Brauerei Friedmann -   <br>
+
+ Brauerei Friedmann   `#brauereifriedmann`{:.key} <br>
 91322 Gräfenberg // Jägersberg 16  <br>
-{:.brewery}
+{: .brewery #brauereifriedmann }
 
 
-Brauerei-Gasthof Lindenbräu -   <br>
+ Brauerei-Gasthof Lindenbräu   `#brauereigasthoflindenbraeu`{:.key} <br>
 91322 Gräfenberg // Am Bach 3  <br>
-{:.brewery}
+{: .brewery #brauereigasthoflindenbraeu }
 
 
-Brauereigasthof Hofmann -   <br>
+ Brauereigasthof Hofmann   `#brauereigasthofhofmann`{:.key} <br>
 91322 Gräfenberg // Hohenschwärz 16  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhofmann }
 
 
-Elch-Bräu -   <br>
+ Elch-Bräu   `#elchbraeu`{:.key} <br>
 91322 Gräfenberg // Thuisbrunn 11  <br>
-{:.brewery}
+{: .brewery #elchbraeu }
 
 
-##### Gunzendorf 
+##### Gunzendorf  
+{: .city #gunzendorf }
 
 
-Gunzendorfer Bier - 1612  <br>
+
+ Gunzendorfer Bier  - 1612   `#gunzendorferbier`{:.key} <br>
 96155 Gunzendorf // Jurastraße 30  <br>
-{:.brewery}
+{: .brewery #gunzendorferbier }
 
 
-##### Gunzenhausen 
+##### Gunzenhausen  
+{: .city #gunzenhausen }
 
 
-Schorschbräu -   <br>
+
+ Schorschbräu   `#schorschbraeu`{:.key} <br>
 Gunzenhausen //  <br>
-{:.brewery}
+{: .brewery #schorschbraeu }
 
 
-##### Gutenstetten 
+##### Gutenstetten  
+{: .city #gutenstetten }
 
 
-Brauerei Windsheimer -   <br>
+
+ Brauerei Windsheimer   `#brauereiwindsheimer`{:.key} <br>
 Gutenstetten //  <br>
-{:.brewery}
+{: .brewery #brauereiwindsheimer }
 
 
-##### Günzburg  _(2)_{:.count} 
+##### Günzburg _(2)_{:.count} 
+{: .city #guenzburg }
 
 
-Münzbrauerei -   <br>
+
+ Münzbrauerei   `#muenzbrauerei`{:.key} <br>
 Günzburg //  <br>
-{:.brewery}
+{: .brewery #muenzbrauerei }
 
 
-Radbrauerei -   <br>
+ Radbrauerei   `#radbrauerei`{:.key} <br>
 Günzburg //  <br>
-{:.brewery}
+{: .brewery #radbrauerei }
 
 
-##### Haag in Oberbayern 
+##### Haag in Oberbayern  
+{: .city #haaginoberbayern }
 
 
-Unertl Weißbier -   <br>
+
+ Unertl Weißbier   `#unertl`{:.key} <br>
 83527 Haag in Oberbayern // Lerchenberger Straße 6  <br>
 [www.unertl.de](http://www.unertl.de)  <br>
-{:.brewery}
+{: .brewery #unertl }
 
 
-##### Haimhausen 
+##### Haimhausen  
+{: .city #haimhausen }
 
 
-Schlossbrauerei Haimhausen -   <br>
+
+ Schlossbrauerei Haimhausen   `#schlossbrauereihaimhausen`{:.key} <br>
 Haimhausen //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereihaimhausen }
 
 
-##### Halfing 
+##### Halfing  
+{: .city #halfing }
 
 
-Brauerei Rothmoos A.Kirnberger -   <br>
+
+ Brauerei Rothmoos A.Kirnberger   `#brauereirothmoosakirnberger`{:.key} <br>
 Halfing //  <br>
-{:.brewery}
+{: .brewery #brauereirothmoosakirnberger }
 
 
-##### Hallerndorf  _(6)_{:.count} 
+##### Hallerndorf _(6)_{:.count} 
+{: .city #hallerndorf }
 
 
-Brauerei Gasthaus Roppelt -   <br>
+
+ Brauerei Gasthaus Roppelt   `#brauereigasthausroppelt`{:.key} <br>
 91352 Hallerndorf // Stiebarlimbach 9  <br>
-{:.brewery}
+{: .brewery #brauereigasthausroppelt }
 
 
-Brauerei Lieberth -   <br>
+ Brauerei Lieberth   `#brauereilieberth`{:.key} <br>
 91352 Hallerndorf // Forchheimer Straße 2  <br>
-{:.brewery}
+{: .brewery #brauereilieberth }
 
 
-Brauerei Rittmayer Hallerndorf -   <br>
+ Brauerei Rittmayer Hallerndorf   `#brauereirittmayerhallerndorf`{:.key} <br>
 91352 Hallerndorf // An der Mark 1  <br>
-{:.brewery}
+{: .brewery #brauereirittmayerhallerndorf }
 
 
-Brauereigaststätte Witzgall -   <br>
+ Brauereigaststätte Witzgall   `#brauereigaststaettewitzgall`{:.key} <br>
 91352 Hallerndorf // Schlammersdorfer Straße 17  <br>
-{:.brewery}
+{: .brewery #brauereigaststaettewitzgall }
 
 
-Brauhaus am Kreuzberg (Friedels Keller) -   <br>
+ Brauhaus am Kreuzberg (Friedels Keller)   `#brauhausamkreuzberg`{:.key} <br>
 91352 Hallerndorf // Kreuzberg 1  <br>
-{:.brewery}
+{: .brewery #brauhausamkreuzberg }
 
 
-Gänstaller Bräu Hallerndorf -   <br>
+ Gänstaller Bräu Hallerndorf   `#gaenstallerbraeuhallerndorf`{:.key} <br>
 91352 Hallerndorf // Schnaid 10  <br>
-{:.brewery}
+{: .brewery #gaenstallerbraeuhallerndorf }
 
 
-##### Hallstadt 
+##### Hallstadt  
+{: .city #hallstadt }
 
 
-Brauerei Eichhorn Schwarzer Adler -   <br>
+
+ Brauerei Eichhorn Schwarzer Adler   `#brauereieichhornschwarzeradler`{:.key} <br>
 96103 Hallstadt // Dörfleinser Straße 43  <br>
 [www.brauerei-eichhorn.de](http://www.brauerei-eichhorn.de)  <br>
-{:.brewery}
+{: .brewery #brauereieichhornschwarzeradler }
 
 
-##### Hausen-Herrnwahlthann 
+##### Hausen-Herrnwahlthann  
+{: .city #hausenherrnwahlthann }
 
 
-Gasthausbrauerei Stanglbräu -   <br>
+
+ Gasthausbrauerei Stanglbräu   `#gasthausbrauereistanglbraeu`{:.key} <br>
 Hausen-Herrnwahlthann //  <br>
-{:.brewery}
+{: .brewery #gasthausbrauereistanglbraeu }
 
 
-##### Heiligenstadt  _(2)_{:.count} 
+##### Heiligenstadt _(2)_{:.count} 
+{: .city #heiligenstadt }
 
 
-Brauerei Gasthof Ott - 1678  <br>
+
+ Brauerei Gasthof Ott  - 1678   `#brauereigasthofott`{:.key} <br>
 91332 Heiligenstadt // Oberleinleiter 6  <br>
 [www.brauerei-ott.de](http://www.brauerei-ott.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofott }
 
 
-Gasthaus Brauerei Aichinger - 1870  <br>
+ Gasthaus Brauerei Aichinger  - 1870   `#gasthausbrauereiaichinger`{:.key} <br>
 91332 Heiligenstadt // Marktplatz 5  <br>
-{:.brewery}
+{: .brewery #gasthausbrauereiaichinger }
 
 
-##### Heimenkirch 
+##### Heimenkirch  
+{: .city #heimenkirch }
 
 
-Meckatzer Löwenbräu -   <br>
+
+ Meckatzer Löwenbräu   `#meckatzerloewenbraeu`{:.key} <br>
 Heimenkirch //  <br>
-{:.brewery}
+{: .brewery #meckatzerloewenbraeu }
 
 
-##### Hemau 
+##### Hemau  
+{: .city #hemau }
 
 
-Brauereigasthof Donhauser -   <br>
+
+ Brauereigasthof Donhauser   `#brauereigasthofdonhauser`{:.key} <br>
 Hemau //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofdonhauser }
 
 
-##### Herrngiersdorf 
+##### Herrngiersdorf  
+{: .city #herrngiersdorf }
 
 
-Schlossbrauerei Herrngiersdorf -   <br>
+
+ Schlossbrauerei Herrngiersdorf   `#schlossbrauereiherrngiersdorf`{:.key} <br>
 Herrngiersdorf //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiherrngiersdorf }
 
 
-##### Hersbruck 
+##### Hersbruck  
+{: .city #hersbruck }
 
 
-Bürgerbräu Hersbruck Deinlein -   <br>
+
+ Bürgerbräu Hersbruck Deinlein   `#buergerbraeuhersbruckdeinlein`{:.key} <br>
 Hersbruck //  <br>
-{:.brewery}
+{: .brewery #buergerbraeuhersbruckdeinlein }
 
 
-##### Herzogenaurach 
+##### Herzogenaurach  
+{: .city #herzogenaurach }
 
 
-Brauerei Heller -   <br>
+
+ Brauerei Heller   `#brauereiheller`{:.key} <br>
 Herzogenaurach //  <br>
-{:.brewery}
+{: .brewery #brauereiheller }
 
 
-##### Hirschaid 
+##### Hirschaid  
+{: .city #hirschaid }
 
 
-Brauerei-Gasthof Georg und Barbara Kraus - 1845  <br>
+
+ Brauerei-Gasthof Georg und Barbara Kraus  - 1845   `#brauereigasthofgeorgundbarbarakraus`{:.key} <br>
 96114 Hirschaid // Luitpoldstraße 11  <br>
 [www.brauerei-kraus.de](http://www.brauerei-kraus.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofgeorgundbarbarakraus }
 
 
-##### Hirschau 
+##### Hirschau  
+{: .city #hirschau }
 
 
-Schlossbrauerei Hirschau -   <br>
+
+ Schlossbrauerei Hirschau   `#schlossbrauereihirschau`{:.key} <br>
 Hirschau //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereihirschau }
 
 
-##### Hof  _(2)_{:.count} 
+##### Hof _(2)_{:.count} 
+{: .city #hof }
 
 
-Familienbrauerei Georg Meinel -   <br>
+
+ Familienbrauerei Georg Meinel   `#familienbrauereigeorgmeinel`{:.key} <br>
 95028 Hof // Alte Plauener Straße 24  <br>
-{:.brewery}
+{: .brewery #familienbrauereigeorgmeinel }
 
 
-Scherdel Bier -   <br>
+ Scherdel Bier   `#scherdelbier`{:.key} <br>
 95028 Hof // Unterkotzauer Weg 14  <br>
-{:.brewery}
+{: .brewery #scherdelbier }
 
 
-##### Hofheim 
+##### Hofheim  
+{: .city #hofheim }
 
 
-Privatbrauerei Michael Raab -   <br>
+
+ Privatbrauerei Michael Raab   `#privatbrauereimichaelraab`{:.key} <br>
 Hofheim //  <br>
-{:.brewery}
+{: .brewery #privatbrauereimichaelraab }
 
 
-##### Hohenthann 
+##### Hohenthann  
+{: .city #hohenthann }
 
 
-Schlossbrauerei Hohenthann -   <br>
+
+ Schlossbrauerei Hohenthann   `#schlossbrauereihohenthann`{:.key} <br>
 Hohenthann //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereihohenthann }
 
 
-##### Holzhausen bei Buchloe 
+##### Holzhausen bei Buchloe  
+{: .city #holzhausenbeibuchloe }
 
 
-Brauereigasthaus Holzhausen -   <br>
+
+ Brauereigasthaus Holzhausen   `#brauereigasthausholzhausen`{:.key} <br>
 Holzhausen bei Buchloe //  <br>
-{:.brewery}
+{: .brewery #brauereigasthausholzhausen }
 
 
-##### Holzheim-Neuhausen 
+##### Holzheim-Neuhausen  
+{: .city #holzheimneuhausen }
 
 
-Bärenbrauerei Neuhausen -   <br>
+
+ Bärenbrauerei Neuhausen   `#baerenbrauereineuhausen`{:.key} <br>
 Holzheim-Neuhausen //  <br>
-{:.brewery}
+{: .brewery #baerenbrauereineuhausen }
 
 
-##### Holzkirchen 
+##### Holzkirchen  
+{: .city #holzkirchen }
 
 
-Holzkirchner Oberbräu -   <br>
+
+ Holzkirchner Oberbräu   `#holzkirchneroberbraeu`{:.key} <br>
 Holzkirchen //  <br>
-{:.brewery}
+{: .brewery #holzkirchneroberbraeu }
 
 
-##### Hutthurm 
+##### Hutthurm  
+{: .city #hutthurm }
 
 
-Hutthurmer Bayerwald-Brauerei -   <br>
+
+ Hutthurmer Bayerwald-Brauerei   `#hutthurmerbayerwaldbrauerei`{:.key} <br>
 Hutthurm //  <br>
-{:.brewery}
+{: .brewery #hutthurmerbayerwaldbrauerei }
 
 
-##### Höchstadt 
+##### Höchstadt  
+{: .city #hoechstadt }
 
 
-Brauhaus Höchstadt -   <br>
+
+ Brauhaus Höchstadt   `#brauhaushoechstadt`{:.key} <br>
 Höchstadt //  <br>
-{:.brewery}
+{: .brewery #brauhaushoechstadt }
 
 
-##### Höchstadt an der Aisch-Greuth 
+##### Höchstadt an der Aisch-Greuth  
+{: .city #hoechstadtanderaischgreuth }
 
 
-Brauerei Fischer -   <br>
+
+ Brauerei Fischer   `#brauereifischer`{:.key} <br>
 Höchstadt an der Aisch-Greuth //  <br>
-{:.brewery}
+{: .brewery #brauereifischer }
 
 
-##### Ichenhausen-Autenried  _(2)_{:.count} 
+##### Ichenhausen-Autenried _(2)_{:.count} 
+{: .city #ichenhausenautenried }
 
 
-Autenrieder Brauereigasthof -   <br>
+
+ Autenrieder Brauereigasthof   `#autenriederbrauereigasthof`{:.key} <br>
 Ichenhausen-Autenried //  <br>
-{:.brewery}
+{: .brewery #autenriederbrauereigasthof }
 
 
-Schlossbrauerei Autenried -   <br>
+ Schlossbrauerei Autenried   `#schlossbrauereiautenried`{:.key} <br>
 Ichenhausen-Autenried //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiautenried }
 
 
-##### Illerberg 
+##### Illerberg  
+{: .city #illerberg }
 
 
-Kronbräu Illerberg -   <br>
+
+ Kronbräu Illerberg   `#kronbraeuillerberg`{:.key} <br>
 Illerberg //  <br>
-{:.brewery}
+{: .brewery #kronbraeuillerberg }
 
 
-##### Illertissen 
+##### Illertissen  
+{: .city #illertissen }
 
 
-Illertisser Schlossbräu -   <br>
+
+ Illertisser Schlossbräu   `#illertisserschlossbraeu`{:.key} <br>
 Illertissen //  <br>
-{:.brewery}
+{: .brewery #illertisserschlossbraeu }
 
 
-##### Ingolstadt  _(5)_{:.count} 
+##### Ingolstadt _(5)_{:.count} 
+{: .city #ingolstadt }
 
 
-Herrnbräu -   <br>
+
+ Herrnbräu   `#herrnbraeu`{:.key} <br>
 Ingolstadt //  <br>
-{:.brewery}
+{: .brewery #herrnbraeu }
 
 
-Nordbräu -   <br>
+ Nordbräu   `#nordbraeu`{:.key} <br>
 Ingolstadt //  <br>
-{:.brewery}
+{: .brewery #nordbraeu }
 
 
-Schöffbräu -   <br>
+ Schöffbräu   `#schoeffbraeu`{:.key} <br>
 Ingolstadt //  <br>
-{:.brewery}
+{: .brewery #schoeffbraeu }
 
 
-Schwalbenbräu -   <br>
+ Schwalbenbräu   `#schwalbenbraeu`{:.key} <br>
 Ingolstadt //  <br>
-{:.brewery}
+{: .brewery #schwalbenbraeu }
 
 
-Westparkbräu/Brauhaus 1516 -   <br>
+ Westparkbräu/Brauhaus 1516   `#westparkbraeubrauhaus1516`{:.key} <br>
 Ingolstadt //  <br>
-{:.brewery}
+{: .brewery #westparkbraeubrauhaus1516 }
 
 
-##### Irlbach 
+##### Irlbach  
+{: .city #irlbach }
 
 
-Frhr. v. Poschinger-Bray'sche Schlossbrauerei Irlbach -   <br>
+
+ Frhr. v. Poschinger-Bray'sche Schlossbrauerei Irlbach   `#frhrvposchingerbrayscheschlossbrauereiirlbach`{:.key} <br>
 Irlbach //  <br>
-{:.brewery}
+{: .brewery #frhrvposchingerbrayscheschlossbrauereiirlbach }
 
 
-##### Irsee 
+##### Irsee  
+{: .city #irsee }
 
 
-Irseer Klosterbräu -   <br>
+
+ Irseer Klosterbräu   `#irseerklosterbraeu`{:.key} <br>
 Irsee //  <br>
-{:.brewery}
+{: .brewery #irseerklosterbraeu }
 
 
-##### Itzgrund 
+##### Itzgrund  
+{: .city #itzgrund }
 
 
-Brauerei Schleicher -   <br>
+
+ Brauerei Schleicher   `#brauereischleicher`{:.key} <br>
 96274 Itzgrund // Coburger Straße 22  <br>
-{:.brewery}
+{: .brewery #brauereischleicher }
 
 
-##### Jandelsbrunn 
+##### Jandelsbrunn  
+{: .city #jandelsbrunn }
 
 
-Privatbrauerei Josef Lang -   <br>
+
+ Privatbrauerei Josef Lang   `#privatbrauereijoseflang`{:.key} <br>
 Jandelsbrunn //  <br>
-{:.brewery}
+{: .brewery #privatbrauereijoseflang }
 
 
-##### Jochsberg bei Leutershausen 
+##### Jochsberg bei Leutershausen  
+{: .city #jochsbergbeileutershausen }
 
 
-Brauerei Gasthof Reindler Bräu -   <br>
+
+ Brauerei Gasthof Reindler Bräu   `#brauereigasthofreindlerbraeu`{:.key} <br>
 Jochsberg bei Leutershausen //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofreindlerbraeu }
 
 
-##### Kammerstein-Barthelmesaurach 
+##### Kammerstein-Barthelmesaurach  
+{: .city #kammersteinbarthelmesaurach }
 
 
-Brauerei Gundel -   <br>
+
+ Brauerei Gundel   `#brauereigundel`{:.key} <br>
 Kammerstein-Barthelmesaurach //  <br>
-{:.brewery}
+{: .brewery #brauereigundel }
 
 
-##### Karlstadt-Stadelhofen 
+##### Karlstadt-Stadelhofen  
+{: .city #karlstadtstadelhofen }
 
 
-Pfarrbräu -   <br>
+
+ Pfarrbräu   `#pfarrbraeu`{:.key} <br>
 Karlstadt-Stadelhofen //  <br>
-{:.brewery}
+{: .brewery #pfarrbraeu }
 
 
-##### Kaufbeuren  _(2)_{:.count} 
+##### Kaufbeuren _(2)_{:.count} 
+{: .city #kaufbeuren }
 
 
-Aktienbrauerei Kaufbeuren - 1308  <br>
+
+ Aktienbrauerei Kaufbeuren  - 1308   `#aktienbrauerei`{:.key} <br>
 87600 Kaufbeuren // Hohe Buchleuthe 3  <br>
 [www.aktien-brauerei.de](http://www.aktien-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #aktienbrauerei }
 
 
-Communebrauerei Kaufbeuren -   <br>
+ Communebrauerei Kaufbeuren   `#communebrauereikaufbeuren`{:.key} <br>
 87600 Kaufbeuren // Kappeneck 1  <br>
 [www.communebrauerei-kaufbeuren.de](http://www.communebrauerei-kaufbeuren.de)  <br>
-{:.brewery}
+{: .brewery #communebrauereikaufbeuren }
 
 
-##### Kelheim  _(2)_{:.count} 
+##### Kelheim _(2)_{:.count} 
+{: .city #kelheim }
 
 
-Weisses Bräuhaus G. Schneider & Sohn -   <br>
+
+ Weisses Bräuhaus G. Schneider & Sohn   `#schneider`{:.key} <br>
 93309 Kelheim // Emil-Ott-Straße 5  <br>
 [www.schneider-weisse.de](http://www.schneider-weisse.de)  <br>
-{:.brewery}
+{: .brewery #schneider }
 
 
-Brauerei und Gasthof Frischeisen -   <br>
+ Brauerei und Gasthof Frischeisen   `#brauereiundgasthoffrischeisen`{:.key} <br>
 Kelheim //  <br>
-{:.brewery}
+{: .brewery #brauereiundgasthoffrischeisen }
 
 
-##### Kelheim-Weltenburg 
+##### Kelheim-Weltenburg  
+{: .city #kelheimweltenburg }
 
 
-Klosterbrauerei Weltenburg -   <br>
+
+ Klosterbrauerei Weltenburg   `#klosterbrauereiweltenburg`{:.key} <br>
 Kelheim-Weltenburg //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereiweltenburg }
 
 
-##### Kemmern 
+##### Kemmern  
+{: .city #kemmern }
 
 
-Wagner-Bräu -   <br>
+
+ Wagner-Bräu   `#wagnerbraeu`{:.key} <br>
 96164 Kemmern // Hauptstraße 15  <br>
-{:.brewery}
+{: .brewery #wagnerbraeu }
 
 
-##### Kemnath 
+##### Kemnath  
+{: .city #kemnath }
 
 
-Klosterbrauerei Kemnath -   <br>
+
+ Klosterbrauerei Kemnath   `#klosterbrauereikemnath`{:.key} <br>
 Kemnath //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereikemnath }
 
 
-##### Kempten 
+##### Kempten  
+{: .city #kempten }
 
 
-Allgäuer Brauhaus - 1394  <br>
+
+ Allgäuer Brauhaus  - 1394   `#allgaeuer`{:.key} <br>
 87435 Kempten // Beethovenstraße 7  <br>
 [www.allgaeuer-brauhaus.de](http://www.allgaeuer-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #allgaeuer }
 
 
-##### Kirchenthumbach 
+##### Kirchenthumbach  
+{: .city #kirchenthumbach }
 
 
-Heberbräu -   <br>
+
+ Heberbräu   `#heberbraeu`{:.key} <br>
 Kirchenthumbach //  <br>
-{:.brewery}
+{: .brewery #heberbraeu }
 
 
-##### Konzell 
+##### Konzell  
+{: .city #konzell }
 
 
-Brauerei Klett -   <br>
+
+ Brauerei Klett   `#brauereiklett`{:.key} <br>
 Konzell //  <br>
-{:.brewery}
+{: .brewery #brauereiklett }
 
 
-##### Krautheim 
+##### Krautheim  
+{: .city #krautheim }
 
 
-Privatbrauerei Friedrich Düll -   <br>
+
+ Privatbrauerei Friedrich Düll   `#privatbrauereifriedrichduell`{:.key} <br>
 Krautheim  //  <br>
-{:.brewery}
+{: .brewery #privatbrauereifriedrichduell }
 
 
-##### Kreuzwertheim 
+##### Kreuzwertheim  
+{: .city #kreuzwertheim }
 
 
-Spessart-Brauerei -   <br>
+
+ Spessart-Brauerei   `#spessartbrauerei`{:.key} <br>
 Kreuzwertheim //  <br>
-{:.brewery}
+{: .brewery #spessartbrauerei }
 
 
-##### Kronach  _(2)_{:.count} 
+##### Kronach _(2)_{:.count} 
+{: .city #kronach }
 
 
-Kaiserhof Brauerei Gebr. Kaiser -   <br>
+
+ Kaiserhof Brauerei Gebr. Kaiser   `#kaiserhofbrauereigebrkaiser`{:.key} <br>
 96317 Kronach // Friesener Straße 1  <br>
-{:.brewery}
+{: .brewery #kaiserhofbrauereigebrkaiser }
 
 
-Antlabräu -   <br>
+ Antlabräu   `#antlabraeu`{:.key} <br>
 96317 Kronach // Amtsgerichtsstraße 21  <br>
-{:.brewery}
+{: .brewery #antlabraeu }
 
 
-##### Kronburg 
+##### Kronburg  
+{: .city #kronburg }
 
 
-Brauerei Kronburg -   <br>
+
+ Brauerei Kronburg   `#brauereikronburg`{:.key} <br>
 Kronburg //  <br>
-{:.brewery}
+{: .brewery #brauereikronburg }
 
 
-##### Kulmbach  _(3)_{:.count} 
+##### Kulmbach _(3)_{:.count} 
+{: .city #kulmbach }
 
 
-Kulmbacher Brauerei - 1846  <br>
+
+ Kulmbacher Brauerei  - 1846   `#kulmbacher`{:.key} <br>
 95326 Kulmbach // Lichtenfelser Straße 9  <br>
 [www.kulmbacher.de](http://www.kulmbacher.de)  <br>
-{:.brewery}
+{: .brewery #kulmbacher }
 
 
-Bayrisches Brauereimuseum Kulmbach -   <br>
+ Bayrisches Brauereimuseum Kulmbach   `#bayrischesbrauereimuseumkulmbach`{:.key} <br>
 95326 Kulmbach // Hofer Straße 20  <br>
-{:.brewery}
+{: .brewery #bayrischesbrauereimuseumkulmbach }
 
 
-Kommunbräu Kulmbach -   <br>
+ Kommunbräu Kulmbach   `#kommunbraeukulmbach`{:.key} <br>
 95326 Kulmbach // Grünwehr 17  <br>
-{:.brewery}
+{: .brewery #kommunbraeukulmbach }
 
 
-##### Kutzenhausen 
+##### Kutzenhausen  
+{: .city #kutzenhausen }
 
 
-Brauerei Rapp -   <br>
+
+ Brauerei Rapp   `#brauereirapp`{:.key} <br>
 Kutzenhausen //  <br>
-{:.brewery}
+{: .brewery #brauereirapp }
 
 
-##### Königsberg in Bayern-Unfinden 
+##### Königsberg in Bayern-Unfinden  
+{: .city #koenigsberginbayernunfinden }
 
 
-Kommunbrauhaus Unfinden -   <br>
+
+ Kommunbrauhaus Unfinden   `#kommunbrauhausunfinden`{:.key} <br>
 Königsberg in Bayern-Unfinden //  <br>
-{:.brewery}
+{: .brewery #kommunbrauhausunfinden }
 
 
-##### Königsfeld 
+##### Königsfeld  
+{: .city #koenigsfeld }
 
 
-Brauerei Grasser - 1503  <br>
+
+ Brauerei Grasser  - 1503   `#brauereigrasser`{:.key} <br>
 96167 Königsfeld // Huppendorf 25  <br>
 [www.huppendorfer-bier.de](http://www.huppendorfer-bier.de)  <br>
-{:.brewery}
+{: .brewery #brauereigrasser }
 
 
-##### Kößlarn 
+##### Kößlarn  
+{: .city #koesslarn }
 
 
-Weißbräu Sven Grünleitner -   <br>
+
+ Weißbräu Sven Grünleitner   `#weissbraeusvengruenleitner`{:.key} <br>
 Kößlarn //  <br>
-{:.brewery}
+{: .brewery #weissbraeusvengruenleitner }
 
 
-##### Kühbach  _(2)_{:.count} 
+##### Kühbach _(2)_{:.count} 
+{: .city #kuehbach }
 
 
-Brauerei Gasthof Peterhof -   <br>
+
+ Brauerei Gasthof Peterhof   `#brauereigasthofpeterhof`{:.key} <br>
 Kühbach //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofpeterhof }
 
 
-Brauerei Kühbach -   <br>
+ Brauerei Kühbach   `#brauereikuehbach`{:.key} <br>
 Kühbach //  <br>
-{:.brewery}
+{: .brewery #brauereikuehbach }
 
 
-##### Laaber 
+##### Laaber  
+{: .city #laaber }
 
 
-Privatbrauerei Plank -   <br>
+
+ Privatbrauerei Plank   `#privatbrauereiplank`{:.key} <br>
 Laaber //  <br>
-{:.brewery}
+{: .brewery #privatbrauereiplank }
 
 
-##### Landau an der Isar  _(2)_{:.count} 
+##### Landau an der Isar _(2)_{:.count} 
+{: .city #landauanderisar }
 
 
-Kurt Landauer Brauerei -   <br>
+
+ Kurt Landauer Brauerei   `#kurtlandauerbrauerei`{:.key} <br>
 Landau an der Isar //  <br>
-{:.brewery}
+{: .brewery #kurtlandauerbrauerei }
 
 
-Brauerei Wilhelm Krieger -   <br>
+ Brauerei Wilhelm Krieger   `#brauereiwilhelmkrieger`{:.key} <br>
 Landau an der Isar //  <br>
-{:.brewery}
+{: .brewery #brauereiwilhelmkrieger }
 
 
-##### Landshut  _(2)_{:.count} 
+##### Landshut _(2)_{:.count} 
+{: .city #landshut }
 
 
-Brauerei C. Wittmann -   <br>
+
+ Brauerei C. Wittmann   `#brauereicwittmann`{:.key} <br>
 Landshut //  <br>
-{:.brewery}
+{: .brewery #brauereicwittmann }
 
 
-Landshuter Brauhaus -   <br>
+ Landshuter Brauhaus   `#landshuterbrauhaus`{:.key} <br>
 Landshut //  <br>
-{:.brewery}
+{: .brewery #landshuterbrauhaus }
 
 
-##### Lauf an der Pegnitz  _(2)_{:.count} 
+##### Lauf an der Pegnitz _(2)_{:.count} 
+{: .city #laufanderpegnitz }
 
 
-Brauerei Simon GmbH -   <br>
+
+ Brauerei Simon GmbH   `#brauereisimongmbh`{:.key} <br>
 Lauf an der Pegnitz //  <br>
-{:.brewery}
+{: .brewery #brauereisimongmbh }
 
 
-Dreykorn Brauerei -   <br>
+ Dreykorn Brauerei   `#dreykornbrauerei`{:.key} <br>
 Lauf an der Pegnitz //  <br>
-{:.brewery}
+{: .brewery #dreykornbrauerei }
 
 
-##### Lauf-Neunhof 
+##### Lauf-Neunhof  
+{: .city #laufneunhof }
 
 
-Brauerei Wiethaler -   <br>
+
+ Brauerei Wiethaler   `#brauereiwiethaler`{:.key} <br>
 Lauf-Neunhof //  <br>
-{:.brewery}
+{: .brewery #brauereiwiethaler }
 
 
-##### Leinburg 
+##### Leinburg  
+{: .city #leinburg }
 
 
-Brauerei Bub -   <br>
+
+ Brauerei Bub   `#brauereibub`{:.key} <br>
 Leinburg //  <br>
-{:.brewery}
+{: .brewery #brauereibub }
 
 
-##### Leipheim  _(2)_{:.count} 
+##### Leipheim _(2)_{:.count} 
+{: .city #leipheim }
 
 
-Brauereigasthof Hirschbräu -   <br>
+
+ Brauereigasthof Hirschbräu   `#brauereigasthofhirschbraeu`{:.key} <br>
 Leipheim //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhirschbraeu }
 
 
-Heimat- und Bauernkriegsmuseum Blaue Ente -   <br>
+ Heimat- und Bauernkriegsmuseum Blaue Ente   `#heimatundbauernkriegsmuseumblaueente`{:.key} <br>
 Leipheim //  <br>
-{:.brewery}
+{: .brewery #heimatundbauernkriegsmuseumblaueente }
 
 
-##### Leutenbach  _(2)_{:.count} 
+##### Leutenbach _(2)_{:.count} 
+{: .city #leutenbach }
 
 
-Brauerei Alt Dietzhof -   <br>
+
+ Brauerei Alt Dietzhof   `#brauereialtdietzhof`{:.key} <br>
 91359 Leutenbach // Dietzhof 42  <br>
-{:.brewery}
+{: .brewery #brauereialtdietzhof }
 
 
-Brauerei Gasthof Drummer -   <br>
+ Brauerei Gasthof Drummer   `#brauereigasthofdrummer`{:.key} <br>
 91359 Leutenbach // Dorfstraße 10  <br>
-{:.brewery}
+{: .brewery #brauereigasthofdrummer }
 
 
-##### Leuterschach 
+##### Leuterschach  
+{: .city #leuterschach }
 
 
-Sailerbräu -   <br>
+
+ Sailerbräu   `#sailerbraeu`{:.key} <br>
 Leuterschach //  <br>
-{:.brewery}
+{: .brewery #sailerbraeu }
 
 
-##### Lichtenau 
+##### Lichtenau  
+{: .city #lichtenau }
 
 
-Hauff-Bräu R. Weid -   <br>
+
+ Hauff-Bräu R. Weid   `#hauffbraeurweid`{:.key} <br>
 Lichtenau //  <br>
-{:.brewery}
+{: .brewery #hauffbraeurweid }
 
 
-##### Lichtenberg 
+##### Lichtenberg  
+{: .city #lichtenberg }
 
 
-Sonnenbräu Lichtenberg -   <br>
+
+ Sonnenbräu Lichtenberg   `#sonnenbraeulichtenberg`{:.key} <br>
 95192 Lichtenberg // Nailaer Straße 20  <br>
-{:.brewery}
+{: .brewery #sonnenbraeulichtenberg }
 
 
-##### Lichtenfels  _(2)_{:.count} 
+##### Lichtenfels _(2)_{:.count} 
+{: .city #lichtenfels }
 
 
-Brauerei-Gasthof Wichert -   <br>
+
+ Brauerei-Gasthof Wichert   `#brauereigasthofwichert`{:.key} <br>
 96215 Lichtenfels // Alte Reichsstrasse 50  <br>
-{:.brewery}
+{: .brewery #brauereigasthofwichert }
 
 
-Braumanufaktur Lippert -   <br>
+ Braumanufaktur Lippert   `#braumanufakturlippert`{:.key} <br>
 96215 Lichtenfels // Wittelsbacher Straße 8  <br>
-{:.brewery}
+{: .brewery #braumanufakturlippert }
 
 
-##### Litzendorf-Lohndorf  _(2)_{:.count} 
+##### Litzendorf-Lohndorf _(2)_{:.count} 
+{: .city #litzendorflohndorf }
 
 
-Brauerei Reh - 1901  <br>
+
+ Brauerei Reh  - 1901   `#brauereireh`{:.key} <br>
 96123 Litzendorf-Lohndorf // Ellertalstraße 36  <br>
 [www.reh-bier.de](http://www.reh-bier.de)  <br>
-{:.brewery}
+{: .brewery #brauereireh }
 
 
-Brauereigaststätte Hölzlein - 1781  <br>
+ Brauereigaststätte Hölzlein  - 1781   `#brauereigaststaettehoelzlein`{:.key} <br>
 96123 Litzendorf-Lohndorf // Ellertalstraße 13  <br>
-{:.brewery}
+{: .brewery #brauereigaststaettehoelzlein }
 
 
-##### Litzendorf-Melkendorf 
+##### Litzendorf-Melkendorf  
+{: .city #litzendorfmelkendorf }
 
 
-Brauereigasthof Winkler - 1889  <br>
+
+ Brauereigasthof Winkler  - 1889   `#brauereigasthofwinkler`{:.key} <br>
 96123 Litzendorf-Melkendorf // Otterbachstraße 13  <br>
 [www.brauereigasthof-winkler.de](http://www.brauereigasthof-winkler.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofwinkler }
 
 
-##### Litzendorf-Tiefenellern 
+##### Litzendorf-Tiefenellern  
+{: .city #litzendorftiefenellern }
 
 
-Brauerei Hönig (Gasthof zur Post) - 1478  <br>
+
+ Brauerei Hönig (Gasthof zur Post)  - 1478   `#brauereihoenig`{:.key} <br>
 96123 Litzendorf-Tiefenellern // Ellerbergstraße 15  <br>
 [www.brauerei-hoenig.de](http://www.brauerei-hoenig.de)  <br>
-{:.brewery}
+{: .brewery #brauereihoenig }
 
 
-##### Mainburg 
+##### Mainburg  
+{: .city #mainburg }
 
 
-Ziegler Bräu -   <br>
+
+ Ziegler Bräu   `#zieglerbraeu`{:.key} <br>
 Mainburg //  <br>
-{:.brewery}
+{: .brewery #zieglerbraeu }
 
 
-##### Maisach 
+##### Maisach  
+{: .city #maisach }
 
 
-Privatbrauerei J. Sedlmayr -   <br>
+
+ Privatbrauerei J. Sedlmayr   `#privatbrauereijsedlmayr`{:.key} <br>
 Maisach //  <br>
-{:.brewery}
+{: .brewery #privatbrauereijsedlmayr }
 
 
-##### Malgersdorf-Heilmfurt 
+##### Malgersdorf-Heilmfurt  
+{: .city #malgersdorfheilmfurt }
 
 
-Brauerei Büchner -   <br>
+
+ Brauerei Büchner   `#brauereibuechner`{:.key} <br>
 Malgersdorf-Heilmfurt //  <br>
-{:.brewery}
+{: .brewery #brauereibuechner }
 
 
-##### Mallersdorf 
+##### Mallersdorf  
+{: .city #mallersdorf }
 
 
-Klosterbrauerei Mallersdorf -   <br>
+
+ Klosterbrauerei Mallersdorf   `#klosterbrauereimallersdorf`{:.key} <br>
 Mallersdorf //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereimallersdorf }
 
 
-##### Markt Schwaben 
+##### Markt Schwaben  
+{: .city #marktschwaben }
 
 
-Privatbrauerei Schweiger -   <br>
+
+ Privatbrauerei Schweiger   `#privatbrauereischweiger`{:.key} <br>
 Markt Schwaben //  <br>
-{:.brewery}
+{: .brewery #privatbrauereischweiger }
 
 
-##### Marktheidenfeld 
+##### Marktheidenfeld  
+{: .city #marktheidenfeld }
 
 
-Martinsbräu Georg Mayr -   <br>
+
+ Martinsbräu Georg Mayr   `#martinsbraeugeorgmayr`{:.key} <br>
 Marktheidenfeld //  <br>
-{:.brewery}
+{: .brewery #martinsbraeugeorgmayr }
 
 
-##### Marktredwitz 
+##### Marktredwitz  
+{: .city #marktredwitz }
 
 
-Brauerei Nothhaft -   <br>
+
+ Brauerei Nothhaft   `#brauereinothhaft`{:.key} <br>
 95615 Marktredwitz // Ottostraße 30  <br>
-{:.brewery}
+{: .brewery #brauereinothhaft }
 
 
-##### Marktsteft 
+##### Marktsteft  
+{: .city #marktsteft }
 
 
-Privatbrauerei Kesselring -   <br>
+
+ Privatbrauerei Kesselring   `#privatbrauereikesselring`{:.key} <br>
 Marktsteft //  <br>
-{:.brewery}
+{: .brewery #privatbrauereikesselring }
 
 
-##### Maroldsweisach 
+##### Maroldsweisach  
+{: .city #maroldsweisach }
 
 
-Brauerei Hartleb -   <br>
+
+ Brauerei Hartleb   `#brauereihartleb`{:.key} <br>
 Maroldsweisach //  <br>
-{:.brewery}
+{: .brewery #brauereihartleb }
 
 
-##### Maxlrain 
+##### Maxlrain  
+{: .city #maxlrain }
 
 
-Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen -   <br>
+
+ Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen   `#schlossbrauereimaxlrainleografvonhohenthalundbergen`{:.key} <br>
 Maxlrain //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereimaxlrainleografvonhohenthalundbergen }
 
 
-##### Memmelsdorf  _(2)_{:.count} 
+##### Memmelsdorf _(2)_{:.count} 
+{: .city #memmelsdorf }
 
 
-Brauerei Gasthof Höhn - 1783  <br>
+
+ Brauerei Gasthof Höhn  - 1783   `#brauereigasthofhoehn`{:.key} <br>
 96117 Memmelsdorf // Hauptstrasse 11  <br>
 [www.gasthof-hoehn.de](http://www.gasthof-hoehn.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhoehn }
 
 
-Brauerei-Gasthof Drei Kronen - 1457  <br>
+ Brauerei-Gasthof Drei Kronen  - 1457   `#brauereigasthofdreikronen`{:.key} <br>
 96117 Memmelsdorf // Hauptstraße 19  <br>
 [www.drei-kronen.de](http://www.drei-kronen.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofdreikronen }
 
 
-##### Memmelsdorf-Drosendorf 
+##### Memmelsdorf-Drosendorf  
+{: .city #memmelsdorfdrosendorf }
 
 
-Brauerei und Gasthof Göller - 1865  <br>
+
+ Brauerei und Gasthof Göller  - 1865   `#brauereiundgasthofgoeller`{:.key} <br>
 96117 Memmelsdorf-Drosendorf // Scheßlitzer Straße 7  <br>
 [www.goeller-brauerei.de](http://www.goeller-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #brauereiundgasthofgoeller }
 
 
-##### Memmelsdorf-Merkendorf 
+##### Memmelsdorf-Merkendorf  
+{: .city #memmelsdorfmerkendorf }
 
 
-Brauerei Hummel - 1556  <br>
+
+ Brauerei Hummel • Merkendorfer Hummel-Bräu  - 1556   `#brauereihummel`{:.key} <br>
 96117 Memmelsdorf-Merkendorf // Lindenstraße 9  <br>
 [www.brauerei-hummel.de](http://www.brauerei-hummel.de)  <br>
-{:.brewery}
+{: .brewery #brauereihummel }
 
 
-##### Memmingen 
+##### Memmingen  
+{: .city #memmingen }
 
 
-Memminger Brauerei -   <br>
+
+ Memminger Brauerei   `#memmingerbrauerei`{:.key} <br>
 Memmingen //  <br>
-{:.brewery}
+{: .brewery #memmingerbrauerei }
 
 
-##### Merkendorf 
+##### Merkendorf  
+{: .city #merkendorf }
 
 
-Brauerei Wagner Merkendorf - 1797  <br>
+
+ Brauerei Wagner Merkendorf  - 1797   `#wagnermerkendorf`{:.key} <br>
 96117 Merkendorf // Pointstraße 1  <br>
 [www.wagner-merkendorf.de](http://www.wagner-merkendorf.de)  <br>
-{:.brewery}
+{: .brewery #wagnermerkendorf }
 
 
-##### Meßhofen 
+##### Meßhofen  
+{: .city #messhofen }
 
 
-Brauerei Kolb -   <br>
+
+ Brauerei Kolb   `#brauereikolb`{:.key} <br>
 Meßhofen //  <br>
-{:.brewery}
+{: .brewery #brauereikolb }
 
 
-##### Michelsneukirchen 
+##### Michelsneukirchen  
+{: .city #michelsneukirchen }
 
 
-Schröttinger Bräu -   <br>
+
+ Schröttinger Bräu   `#schroettingerbraeu`{:.key} <br>
 Michelsneukirchen //  <br>
-{:.brewery}
+{: .brewery #schroettingerbraeu }
 
 
-##### Miesbach 
+##### Miesbach  
+{: .city #miesbach }
 
 
-Weißbierbrauerei Hopf - 1892  <br>
+
+ Weißbierbrauerei Hopf  - 1892   `#hopf`{:.key} <br>
 83714 Miesbach // Schützenstraße 8+10  <br>
 [www.hopfweisse.de](http://www.hopfweisse.de)  <br>
-{:.brewery}
+{: .brewery #hopf }
 
-Hopf Helle Weiße   • Hopf Dunkle Weiße  
-{:.beers}
+**Hopf Helle Weiße** (5.3%, 12.7°)   • 
+**Hopf Dunkle Weiße** (5.0%, 12.8°)  
+{: .beers }
 
-##### Miltenberg 
+##### Miltenberg  
+{: .city #miltenberg }
 
 
-Brauhaus Faust -   <br>
+
+ Brauhaus Faust   `#brauhausfaust`{:.key} <br>
 Miltenberg //  <br>
-{:.brewery}
+{: .brewery #brauhausfaust }
 
 
-##### Mindelheim 
+##### Mindelheim  
+{: .city #mindelheim }
 
 
-Lindenbrauerei -   <br>
+
+ Lindenbrauerei   `#lindenbrauerei`{:.key} <br>
 Mindelheim //  <br>
-{:.brewery}
+{: .brewery #lindenbrauerei }
 
 
-##### Missen 
+##### Missen  
+{: .city #missen }
 
 
-Schäffler-Bräu -   <br>
+
+ Schäffler-Bräu   `#schaefflerbraeu`{:.key} <br>
 Missen //  <br>
-{:.brewery}
+{: .brewery #schaefflerbraeu }
 
 
-##### Mittenwald 
+##### Mittenwald  
+{: .city #mittenwald }
 
 
-Brauerei Mittenwald Johann Neuner -   <br>
+
+ Brauerei Mittenwald Johann Neuner   `#brauereimittenwaldjohannneuner`{:.key} <br>
 Mittenwald //  <br>
-{:.brewery}
+{: .brewery #brauereimittenwaldjohannneuner }
 
 
-##### Mitterteich  _(2)_{:.count} 
+##### Mitterteich _(2)_{:.count} 
+{: .city #mitterteich }
 
 
-Hösl Brauerei -   <br>
+
+ Hösl Brauerei   `#hoeslbrauerei`{:.key} <br>
 Mitterteich //  <br>
-{:.brewery}
+{: .brewery #hoeslbrauerei }
 
 
-Kommunbrauhaus -   <br>
+ Kommunbrauhaus   `#kommunbrauhaus`{:.key} <br>
 Mitterteich //  <br>
-{:.brewery}
+{: .brewery #kommunbrauhaus }
 
 
-##### Mitwitz 
+##### Mitwitz  
+{: .city #mitwitz }
 
 
-Franken Bräu Lorenz Bauer -   <br>
+
+ Franken Bräu Lorenz Bauer   `#frankenbraeulorenzbauer`{:.key} <br>
 96268 Mitwitz // Neundorf 41-43  <br>
-{:.brewery}
+{: .brewery #frankenbraeulorenzbauer }
 
 
-##### Moos 
+##### Moos  
+{: .city #moos }
 
 
-Arcobräu Gräfliches Brauhaus -   <br>
+
+ Arcobräu Gräfliches Brauhaus   `#arcobraeugraeflichesbrauhaus`{:.key} <br>
 Moos //  <br>
-{:.brewery}
+{: .brewery #arcobraeugraeflichesbrauhaus }
 
 
-##### Moosbach 
+##### Moosbach  
+{: .city #moosbach }
 
 
-Moosbacher Brauerei -   <br>
+
+ Moosbacher Brauerei   `#moosbacherbrauerei`{:.key} <br>
 Moosbach //  <br>
-{:.brewery}
+{: .brewery #moosbacherbrauerei }
 
 
-##### Motten 
+##### Motten  
+{: .city #motten }
 
 
-Will Bräu - Hochstiftliches Brauhaus in Bayern -   <br>
+
+ Will Bräu - Hochstiftliches Brauhaus in Bayern   `#willbraeuhochstiftlichesbrauhausinbayern`{:.key} <br>
 Motten //  <br>
-{:.brewery}
+{: .brewery #willbraeuhochstiftlichesbrauhausinbayern }
 
 
-##### Murnau 
+##### Murnau  
+{: .city #murnau }
 
 
-Brauerei Karg -   <br>
+
+ Brauerei Karg   `#brauereikarg`{:.key} <br>
 Murnau //  <br>
-{:.brewery}
+{: .brewery #brauereikarg }
 
 
-##### Murnau am Staffelsee 
+##### Murnau am Staffelsee  
+{: .city #murnauamstaffelsee }
 
 
-Brauerei Griesbräu zu Murnau -   <br>
+
+ Brauerei Griesbräu zu Murnau   `#brauereigriesbraeuzumurnau`{:.key} <br>
 Murnau am Staffelsee //  <br>
-{:.brewery}
+{: .brewery #brauereigriesbraeuzumurnau }
 
 
-##### Mönchsambach 
+##### Mönchsambach  
+{: .city #moenchsambach }
 
 
-Brauerei Zehendner -   <br>
+
+ Brauerei Zehendner   `#brauereizehendner`{:.key} <br>
 96138 Mönchsambach // Haus Nr. 18  <br>
-{:.brewery}
+{: .brewery #brauereizehendner }
 
 
-##### Mühldorf am Inn  _(2)_{:.count} 
+##### Mühldorf am Inn _(2)_{:.count} 
+{: .city #muehldorfaminn }
 
 
-Weißbräu Unertl -   <br>
+
+ Weißbräu Unertl   `#weissbraeuunertl`{:.key} <br>
 Mühldorf am Inn //  <br>
-{:.brewery}
+{: .brewery #weissbraeuunertl }
 
 
-Zum Steer -   <br>
+ Zum Steer   `#zumsteer`{:.key} <br>
 Mühldorf am Inn //  <br>
-{:.brewery}
+{: .brewery #zumsteer }
 
 
-##### Mühlhausen 
+##### Mühlhausen  
+{: .city #muehlhausen }
 
 
-Bender -   <br>
+
+ Bender   `#bender`{:.key} <br>
 Mühlhausen //  <br>
-{:.brewery}
+{: .brewery #bender }
 
 
-##### München  _(9)_{:.count} 
+##### München _(9)_{:.count}  _pop 1.378.176 (1.355.000)_{:.pop}
+{: .city #muenchen }
 
 
-Augustiner Bräu München - 1328  <br>
+
+♣♣♣  Augustiner Bräu München  - 1328   `#augustiner`{:.key} <br>
 80339 München // Landsberger Straße 31‎  <br>
 [www.augustiner-braeu.de](http://www.augustiner-braeu.de)  <br>
-{:.brewery}
+{: .brewery #augustiner }
 
-Augustiner Lagerbier Hell   • Augustiner Edelstoff   • Augustiner Weißbier   • Augustiner Oktoberfestbier   • Augustiner Dunkel   • Augustiner Pils   • Augustiner Maximator  
-{:.beers}
+**Augustiner Lagerbier Hell** (5.2%) _helles_{:.tags}  • 
+**Augustiner Edelstoff** (5.6%) _muenchner_{:.tags}  • 
+**Augustiner Weißbier** (5.4%) _weisse_{:.tags}  • 
+**Augustiner Oktoberfestbier** (6.0%) _muenchner_{:.tags}  • 
+**Augustiner Dunkel** (5.6%) _dunkel_{:.tags}  • 
+**Augustiner Pils** (5.6%) _pilsner_{:.tags}  • 
+**Augustiner Maximator** (7.5%) _doppelbock_{:.tags} 
+{: .beers }
 
-Paulaner Brauerei - 1634  <br>
+♣♣♣  Paulaner Brauerei  - 1634   `#paulaner`{:.key} <br>
 81541 München // Hochstraße 75‎  <br>
 [www.paulaner.de](http://www.paulaner.de)  <br>
-{:.brewery}
+{: .brewery #paulaner }
 
-Paulaner Hefe-Weißbier Naturtrüb   • Paulaner Original Münchner Hell   • Paulaner Hefe-Weißbier Leicht   • Paulaner Salvator   • Paulaner Original Münchner Urtyp   • Paulaner Weißbier Kristallklar   • Paulaner Münchner Hell Leicht   • Paulaner Premium Pils   • Paulaner Original Münchner Dunkel   • Paulaner Hefe-Weißbier Dunkel   • Paulaner Oktoberfestbier  
-{:.beers}
+**Paulaner Hefe-Weißbier Naturtrüb** (5.5%, 12.5°) _weisse weisse_{:.tags}  • 
+**Paulaner Original Münchner Hell** (4.9%) _helles_{:.tags}  • 
+**Paulaner Hefe-Weißbier Leicht** (3.2%) _weisse leicht_{:.tags}  • 
+**Paulaner Salvator** (7.9%, 18.3°) _doppelbock_{:.tags}  • 
+**Paulaner Original Münchner Urtyp**  _export_{:.tags}  • 
+**Paulaner Weißbier Kristallklar** (5.2%, 11.8°) _weisse kristall_{:.tags}  • 
+**Paulaner Münchner Hell Leicht**  _vollbier_{:.tags}  • 
+**Paulaner Premium Pils**  _pilsner_{:.tags}  • 
+**Paulaner Original Münchner Dunkel**  _dunkel_{:.tags}  • 
+**Paulaner Hefe-Weißbier Dunkel**  _weisse dunkel_{:.tags}  • 
+**Paulaner Oktoberfestbier**  _festbier oktoberfest_{:.tags} 
+{: .beers }
 
-Hacker-Pschorr Bräu - 1417  <br>
+♣♣♣  Hacker-Pschorr Bräu  - 1417   `#hackerpschorr`{:.key} <br>
 81541 München // Hochstraße 75‎  <br>
 [www.hacker-pschorr.de](http://www.hacker-pschorr.de)  <br>
-{:.brewery}
+{: .brewery #hackerpschorr }
 
-Hacker-Pschorr Münchner Hell   • Hacker-Pschorr Oktoberfest Märzen   • Hacker-Pschorr Anno 1417   • Hacker-Pschorr Hefe Weisse   • Hacker-Pschorr Leichte Weisse   • Hacker-Pschorr Superior   • Hacker-Pschorr Münchener Gold   • Hacker-Pschorr Münchner Dunkel   • Hacker-Pschorr Braumeister Pils   • Hacker-Pschorr Animator   • Hacker-Pschorr Dunkle Weisse   • Hacker-Pschorr Sternweisse  
-{:.beers}
+**Hacker-Pschorr Münchner Hell** (5.0%, 11.5°) _helles_{:.tags}  • 
+**Hacker-Pschorr Oktoberfest Märzen** (5.8%, 13.7°) _maerzen_{:.tags}  • 
+**Hacker-Pschorr Anno 1417** (5.5%, 12.5°)   • 
+**Hacker-Pschorr Hefe Weisse** (5.5%, 12.5°) _weisse_{:.tags}  • 
+**Hacker-Pschorr Leichte Weisse** (3.2%, 7.7°) _weisse leicht_{:.tags}  • 
+**Hacker-Pschorr Superior** (6.0%, 13.7°) _muechner_{:.tags}  • 
+**Hacker-Pschorr Münchener Gold** (5.5%, 12.5°) _export_{:.tags}  • 
+**Hacker-Pschorr Münchner Dunkel** (5.0%, 12.5°) _dunkelbier_{:.tags}  • 
+**Hacker-Pschorr Braumeister Pils** (5.0%, 11.5°) _pilsner_{:.tags}  • 
+**Hacker-Pschorr Animator** (8.1%, 19.3°) _doppelbock_{:.tags}  • 
+**Hacker-Pschorr Dunkle Weisse** (5.3%, 12.4°) _weisse dunkel_{:.tags}  • 
+**Hacker-Pschorr Sternweisse** (5.5%, 12.0°) _weisse_{:.tags} 
+{: .beers }
 
-Spaten-Franziskaner-Bräu - 1397  <br>
+♣♣♣  Spaten-Franziskaner-Bräu  - 1397   `#spatenbraeu`{:.key} <br>
 München //  <br>
 [www.spatenbraeu.de](http://www.spatenbraeu.de)  <br>
-{:.brewery}
+{: .brewery #spatenbraeu }
 
 
-Löwenbräu - 1383  <br>
+♣♣♣  Löwenbräu  - 1383   `#loewenbraeu`{:.key} <br>
 80335 München // Nymphenburger Straße 7‎  <br>
 [www.loewenbraeu.de](http://www.loewenbraeu.de)  <br>
-{:.brewery}
+{: .brewery #loewenbraeu }
 
 
-Hofbräu München - 1589  <br>
+♣♣♣  Hofbräu München • Hofbräuhaus München • Staatliches Hofbräuhaus München  - 1589   `#hofbraeu`{:.key} <br>
 81829 München // Hofbräuallee 1  <br>
 [www.hofbraeu-muenchen.de](http://www.hofbraeu-muenchen.de)  <br>
-{:.brewery}
+{: .brewery #hofbraeu }
 
 
-CREW AleWerkstatt -   <br>
+ CREW AleWerkstatt   `#crewalewerkstatt`{:.key} <br>
 München //  <br>
-{:.brewery}
+{: .brewery #crewalewerkstatt }
 
 
-Forschungsbrauerei Jakob -   <br>
+ Forschungsbrauerei Jakob   `#forschungsbrauereijakob`{:.key} <br>
 München //  <br>
-{:.brewery}
+{: .brewery #forschungsbrauereijakob }
 
 
-Giesinger Bräu -   <br>
+ Giesinger Bräu   `#giesingerbraeu`{:.key} <br>
 München //  <br>
-{:.brewery}
+{: .brewery #giesingerbraeu }
 
 
-##### München-Neuhausen 
+##### München-Neuhausen  
+{: .city #muenchenneuhausen }
 
 
-Richelbräu -   <br>
+
+ Richelbräu   `#richelbraeu`{:.key} <br>
 München-Neuhausen //  <br>
-{:.brewery}
+{: .brewery #richelbraeu }
 
 
-##### Münchsteinach 
+##### Münchsteinach  
+{: .city #muenchsteinach }
 
 
-Brauerei Loscher -   <br>
+
+ Brauerei Loscher   `#brauereiloscher`{:.key} <br>
 Münchsteinach //  <br>
-{:.brewery}
+{: .brewery #brauereiloscher }
 
 
-##### Naila 
+##### Naila  
+{: .city #naila }
 
 
-Frankenwälder Brauhaus -   <br>
+
+ Frankenwälder Brauhaus   `#frankenwaelderbrauhaus`{:.key} <br>
 95119 Naila // Hofer Straße 21  <br>
-{:.brewery}
+{: .brewery #frankenwaelderbrauhaus }
 
 
-##### Nennslingen 
+##### Nennslingen  
+{: .city #nennslingen }
 
 
-Ritter St. Georgenbrauerei -   <br>
+
+ Ritter St. Georgenbrauerei   `#ritterstgeorgenbrauerei`{:.key} <br>
 Nennslingen //  <br>
-{:.brewery}
+{: .brewery #ritterstgeorgenbrauerei }
 
 
-##### Nesselwang 
+##### Nesselwang  
+{: .city #nesselwang }
 
 
-Postbrauerei Nesselwang -   <br>
+
+ Postbrauerei Nesselwang   `#postbrauereinesselwang`{:.key} <br>
 Nesselwang //  <br>
-{:.brewery}
+{: .brewery #postbrauereinesselwang }
 
 
-##### Neu-Ulm 
+##### Neu-Ulm  
+{: .city #neuulm }
 
 
-Barfüßer -   <br>
+
+ Barfüßer   `#barfuesser`{:.key} <br>
 Neu-Ulm //  <br>
-{:.brewery}
+{: .brewery #barfuesser }
 
 
-##### Neu-Ulm-Offenhausen 
+##### Neu-Ulm-Offenhausen  
+{: .city #neuulmoffenhausen }
 
 
-Privatbrauerei Schlössle -   <br>
+
+ Privatbrauerei Schlössle   `#privatbrauereischloessle`{:.key} <br>
 Neu-Ulm-Offenhausen //  <br>
-{:.brewery}
+{: .brewery #privatbrauereischloessle }
 
 
-##### Neu-Ulm-Reutti 
+##### Neu-Ulm-Reutti  
+{: .city #neuulmreutti }
 
 
-Roberts GenussBräu -   <br>
+
+ Roberts GenussBräu   `#robertsgenussbraeu`{:.key} <br>
 Neu-Ulm-Reutti //  <br>
-{:.brewery}
+{: .brewery #robertsgenussbraeu }
 
 
-##### Neuburg an der Donau 
+##### Neuburg an der Donau  
+{: .city #neuburganderdonau }
 
 
-Juliusbräu -   <br>
+
+ Juliusbräu   `#juliusbraeu`{:.key} <br>
 Neuburg an der Donau //  <br>
-{:.brewery}
+{: .brewery #juliusbraeu }
 
 
-##### Neuhaus an der Pegnitz  _(3)_{:.count} 
+##### Neuhaus an der Pegnitz _(3)_{:.count} 
+{: .city #neuhausanderpegnitz }
 
 
-Kaiser Bräu -   <br>
+
+ Kaiser Bräu   `#kaiserbraeu`{:.key} <br>
 Neuhaus an der Pegnitz //  <br>
-{:.brewery}
+{: .brewery #kaiserbraeu }
 
 
-Kommunbräu -   <br>
+ Kommunbräu   `#kommunbraeu`{:.key} <br>
 Neuhaus an der Pegnitz //  <br>
-{:.brewery}
+{: .brewery #kommunbraeu }
 
 
-Veldensteiner Kaiser Bräu -   <br>
+ Veldensteiner Kaiser Bräu   `#veldensteinerkaiserbraeu`{:.key} <br>
 Neuhaus an der Pegnitz //  <br>
-{:.brewery}
+{: .brewery #veldensteinerkaiserbraeu }
 
 
-##### Neukirchen bei Sulzbach-Rosenberg 
+##### Neukirchen bei Sulzbach-Rosenberg  
+{: .city #neukirchenbeisulzbachrosenberg }
 
 
-Schlossbrauerei Holnstein -   <br>
+
+ Schlossbrauerei Holnstein   `#schlossbrauereiholnstein`{:.key} <br>
 Neukirchen bei Sulzbach-Rosenberg //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiholnstein }
 
 
-##### Neumarkt 
+##### Neumarkt  
+{: .city #neumarkt }
 
 
-Neumarkter Lammsbräu -   <br>
+
+ Neumarkter Lammsbräu   `#lammsbraeu`{:.key} <br>
 92318 Neumarkt // Amberger Straße 1  <br>
 [www.lammsbraeu.de](http://www.lammsbraeu.de)  <br>
-{:.brewery}
+{: .brewery #lammsbraeu }
 
-Neumarkter Lammsbräu Zzzisch Edelpils   • Neumarkter Lammsbräu Urstoff   • Neumarkter Lammsbräu Weisse   • Neumarkter Lammsbräu Schwarze  
-{:.beers}
+**Neumarkter Lammsbräu Zzzisch Edelpils** (4.8%, 11.5°) _pilsner_{:.tags}  • 
+**Neumarkter Lammsbräu Urstoff** (4.7%, 11.6°) _helles_{:.tags}  • 
+**Neumarkter Lammsbräu Weisse** (5.1%, 12.5°) _weisse_{:.tags}  • 
+**Neumarkter Lammsbräu Schwarze** (5.1%, 12.5°) _weisse dunkel_{:.tags} 
+{: .beers }
 
-##### Neumarkt in der Oberpfalz  _(2)_{:.count} 
+##### Neumarkt in der Oberpfalz _(2)_{:.count} 
+{: .city #neumarktinderoberpfalz }
 
 
-Oberer Ganskeller -   <br>
+
+ Oberer Ganskeller   `#obererganskeller`{:.key} <br>
 Neumarkt in der Oberpfalz //  <br>
-{:.brewery}
+{: .brewery #obererganskeller }
 
 
-Glossner -   <br>
+ Glossner   `#glossner`{:.key} <br>
 Neumarkt in der Oberpfalz //  <br>
-{:.brewery}
+{: .brewery #glossner }
 
 
-##### Neunburg vorm Wald 
+##### Neunburg vorm Wald  
+{: .city #neunburgvormwald }
 
 
-Weisses Brauhaus Mehringer -   <br>
+
+ Weisses Brauhaus Mehringer   `#weissesbrauhausmehringer`{:.key} <br>
 Neunburg vorm Wald //  <br>
-{:.brewery}
+{: .brewery #weissesbrauhausmehringer }
 
 
-##### Neunkirchen am Brand 
+##### Neunkirchen am Brand  
+{: .city #neunkirchenambrand }
 
 
-Vasold & Schmitt Privatbrauerei -   <br>
+
+ Vasold & Schmitt Privatbrauerei   `#vasoldschmittprivatbrauerei`{:.key} <br>
 91077 Neunkirchen am Brand // Schellenberger Weg 3  <br>
-{:.brewery}
+{: .brewery #vasoldschmittprivatbrauerei }
 
 
-##### Neunkirchen am Sand 
+##### Neunkirchen am Sand  
+{: .city #neunkirchenamsand }
 
 
-Wolfshöher Privatbrauerei K. u. F. Weber -   <br>
+
+ Wolfshöher Privatbrauerei K. u. F. Weber   `#wolfshoeherprivatbrauereikufweber`{:.key} <br>
 Neunkirchen am Sand //  <br>
-{:.brewery}
+{: .brewery #wolfshoeherprivatbrauereikufweber }
 
 
-##### Neureichenau-Riedelsbach 
+##### Neureichenau-Riedelsbach  
+{: .city #neureichenauriedelsbach }
 
 
-Gut Riedelsbach Familie Bernhard Sitter -   <br>
+
+ Gut Riedelsbach Familie Bernhard Sitter   `#gutriedelsbachfamiliebernhardsitter`{:.key} <br>
 Neureichenau-Riedelsbach //  <br>
-{:.brewery}
+{: .brewery #gutriedelsbachfamiliebernhardsitter }
 
 
-##### Neustadt an der Aisch 
+##### Neustadt an der Aisch  
+{: .city #neustadtanderaisch }
 
 
-Hausbrauerei Kohlenmühle -   <br>
+
+ Hausbrauerei Kohlenmühle   `#hausbrauereikohlenmuehle`{:.key} <br>
 Neustadt an der Aisch //  <br>
-{:.brewery}
+{: .brewery #hausbrauereikohlenmuehle }
 
 
-##### Neusäß-Steppach 
+##### Neusäß-Steppach  
+{: .city #neusaesssteppach }
 
 
-Brauereigasthof Fuchs -   <br>
+
+ Brauereigasthof Fuchs   `#brauereigasthoffuchs`{:.key} <br>
 Neusäß-Steppach //  <br>
-{:.brewery}
+{: .brewery #brauereigasthoffuchs }
 
 
-##### Nittenau 
+##### Nittenau  
+{: .city #nittenau }
 
 
-Brauhaus Nittenau -   <br>
+
+ Brauhaus Nittenau   `#brauhausnittenau`{:.key} <br>
 Nittenau //  <br>
-{:.brewery}
+{: .brewery #brauhausnittenau }
 
 
-##### Nittendorf 
+##### Nittendorf  
+{: .city #nittendorf }
 
 
-Schlossbrauerei Eichhofen -   <br>
+
+ Schlossbrauerei Eichhofen   `#schlossbrauereieichhofen`{:.key} <br>
 Nittendorf //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereieichhofen }
 
 
-##### Nördlingen  _(2)_{:.count} 
+##### Nördlingen _(2)_{:.count} 
+{: .city #noerdlingen }
 
 
-Anker Bräu -   <br>
+
+ Anker Bräu   `#ankerbraeu`{:.key} <br>
 Nördlingen //  <br>
-{:.brewery}
+{: .brewery #ankerbraeu }
 
 
-Maierbier -   <br>
+ Maierbier   `#maierbier`{:.key} <br>
 Nördlingen //  <br>
-{:.brewery}
+{: .brewery #maierbier }
 
 
-##### Nürnberg  _(5)_{:.count} 
+##### Nürnberg _(5)_{:.count}  _pop 510.602 (1.020.000)_{:.pop}
+{: .city #nuernberg }
 
 
-Hausbrauerei Barfüßer -   <br>
+
+ Hausbrauerei Barfüßer   `#hausbrauereibarfuesser`{:.key} <br>
 Nürnberg //  <br>
-{:.brewery}
+{: .brewery #hausbrauereibarfuesser }
 
 
-Lederer Bräu -   <br>
+ Lederer Bräu   `#ledererbraeu`{:.key} <br>
 Nürnberg //  <br>
-{:.brewery}
+{: .brewery #ledererbraeu }
 
 
-Nürnberger Altstadthof -   <br>
+ Nürnberger Altstadthof   `#nuernbergeraltstadthof`{:.key} <br>
 Nürnberg //  <br>
-{:.brewery}
+{: .brewery #nuernbergeraltstadthof }
 
 
-Schanzenbräu -   <br>
+ Schanzenbräu   `#schanzenbraeu`{:.key} <br>
 Nürnberg //  <br>
-{:.brewery}
+{: .brewery #schanzenbraeu }
 
 
-Tucher Bräu -   <br>
+ Tucher Bräu   `#tucherbraeu`{:.key} <br>
 Nürnberg //  <br>
-{:.brewery}
+{: .brewery #tucherbraeu }
 
 
-##### Oberammergau 
+##### Oberammergau  
+{: .city #oberammergau }
 
 
-Ammergauer Maxbräu -   <br>
+
+ Ammergauer Maxbräu   `#ammergauermaxbraeu`{:.key} <br>
 Oberammergau //  <br>
-{:.brewery}
+{: .brewery #ammergauermaxbraeu }
 
 
-##### Oberaurach-Trossenfurt 
+##### Oberaurach-Trossenfurt  
+{: .city #oberaurachtrossenfurt }
 
 
-Brauerei Roppelt -   <br>
+
+ Brauerei Roppelt   `#brauereiroppelt`{:.key} <br>
 Oberaurach-Trossenfurt //  <br>
-{:.brewery}
+{: .brewery #brauereiroppelt }
 
 
-##### Oberelsbach 
+##### Oberelsbach  
+{: .city #oberelsbach }
 
 
-Pax Bräu -   <br>
+
+ Pax Bräu   `#paxbraeu`{:.key} <br>
 Oberelsbach //  <br>
-{:.brewery}
+{: .brewery #paxbraeu }
 
 
-##### Oberhaching-Deisenhofen 
+##### Oberhaching-Deisenhofen  
+{: .city #oberhachingdeisenhofen }
 
 
-Weißbräu Bartholomäus Gmeineder -   <br>
+
+ Weißbräu Bartholomäus Gmeineder   `#weissbraeubartholomaeusgmeineder`{:.key} <br>
 Oberhaching-Deisenhofen //  <br>
-{:.brewery}
+{: .brewery #weissbraeubartholomaeusgmeineder }
 
 
-##### Oberhaid  _(2)_{:.count} 
+##### Oberhaid _(2)_{:.count} 
+{: .city #oberhaid }
 
 
-Brauerei Hertlein - 1870  <br>
+
+ Brauerei Hertlein  - 1870   `#brauereihertlein`{:.key} <br>
 96173 Oberhaid // Hallstadter Straße 12  <br>
-{:.brewery}
+{: .brewery #brauereihertlein }
 
 
-Brauerei Wagner - 1550  <br>
+ Brauerei Wagner  - 1550   `#brauereiwagner`{:.key} <br>
 96173 Oberhaid // Bamberger Straße 2  <br>
 [www.brauerei-wagner-oberhaid.de](http://www.brauerei-wagner-oberhaid.de)  <br>
-{:.brewery}
+{: .brewery #brauereiwagner }
 
 
-##### Oberkotzau-Fattigau 
+##### Oberkotzau-Fattigau  
+{: .city #oberkotzaufattigau }
 
 
-Schlossbrauerei Stelzer -   <br>
+
+ Schlossbrauerei Stelzer   `#schlossbrauereistelzer`{:.key} <br>
 95145 Oberkotzau-Fattigau // Hauptstrasse 3  <br>
-{:.brewery}
+{: .brewery #schlossbrauereistelzer }
 
 
-##### Oberreichenbach 
+##### Oberreichenbach  
+{: .city #oberreichenbach }
 
 
-Brauerei Geyer Landgasthof -   <br>
+
+ Brauerei Geyer Landgasthof   `#brauereigeyerlandgasthof`{:.key} <br>
 Oberreichenbach //  <br>
-{:.brewery}
+{: .brewery #brauereigeyerlandgasthof }
 
 
-##### Obertaufkirchen 
+##### Obertaufkirchen  
+{: .city #obertaufkirchen }
 
 
-Brauerei Stierberg -   <br>
+
+ Brauerei Stierberg   `#brauereistierberg`{:.key} <br>
 Obertaufkirchen //  <br>
-{:.brewery}
+{: .brewery #brauereistierberg }
 
 
-##### Ochsenfurt  _(2)_{:.count} 
+##### Ochsenfurt _(2)_{:.count} 
+{: .city #ochsenfurt }
 
 
-Kauzen-Bräu -   <br>
+
+ Kauzen-Bräu   `#kauzenbraeu`{:.key} <br>
 Ochsenfurt //  <br>
-{:.brewery}
+{: .brewery #kauzenbraeu }
 
 
-Privatbrauerei Oechsner -   <br>
+ Privatbrauerei Oechsner   `#privatbrauereioechsner`{:.key} <br>
 Ochsenfurt //  <br>
-{:.brewery}
+{: .brewery #privatbrauereioechsner }
 
 
-##### Odelzhausen 
+##### Odelzhausen  
+{: .city #odelzhausen }
 
 
-Schlossbrauerei Odelzhausen -   <br>
+
+ Schlossbrauerei Odelzhausen   `#schlossbrauereiodelzhausen`{:.key} <br>
 Odelzhausen //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereiodelzhausen }
 
 
-##### Oettingen 
+##### Oettingen  
+{: .city #oettingen }
 
 
-Oettinger Brauerei - 1731  <br>
+
+ Oettinger Brauerei  - 1731   `#oettinger`{:.key} <br>
 86732 Oettingen // Brauhausstraße 8  <br>
 [www.oettinger-bier.de](http://www.oettinger-bier.de)  <br>
-{:.brewery}
+{: .brewery #oettinger }
 
 
-##### Osterberg 
+##### Osterberg  
+{: .city #osterberg }
 
 
-Deilbräu -   <br>
+
+ Deilbräu   `#deilbraeu`{:.key} <br>
 Osterberg //  <br>
-{:.brewery}
+{: .brewery #deilbraeu }
 
 
-##### Ostheim vor der Rhön  _(2)_{:.count} 
+##### Ostheim vor der Rhön _(2)_{:.count} 
+{: .city #ostheimvorderrhoen }
 
 
-Privatbrauerei Peter -   <br>
+
+ Privatbrauerei Peter   `#privatbrauereipeter`{:.key} <br>
 Ostheim vor der Rhön //  <br>
-{:.brewery}
+{: .brewery #privatbrauereipeter }
 
 
-Streck-Bräu -   <br>
+ Streck-Bräu   `#streckbraeu`{:.key} <br>
 Ostheim vor der Rhön //  <br>
-{:.brewery}
+{: .brewery #streckbraeu }
 
 
-##### Ottobeuren 
+##### Ottobeuren  
+{: .city #ottobeuren }
 
 
-Hotel Hirsch Gasthausbrauerei -   <br>
+
+ Hotel Hirsch Gasthausbrauerei   `#hotelhirschgasthausbrauerei`{:.key} <br>
 Ottobeuren //  <br>
-{:.brewery}
+{: .brewery #hotelhirschgasthausbrauerei }
 
 
-##### Pahres 
+##### Pahres  
+{: .city #pahres }
 
 
-Privatbrauerei Hofmann -   <br>
+
+ Privatbrauerei Hofmann   `#privatbrauereihofmann`{:.key} <br>
 Pahres //  <br>
-{:.brewery}
+{: .brewery #privatbrauereihofmann }
 
 
-##### Pappenheim-Bieswang 
+##### Pappenheim-Bieswang  
+{: .city #pappenheimbieswang }
 
 
-F. Wurm -   <br>
+
+ F. Wurm   `#fwurm`{:.key} <br>
 Pappenheim-Bieswang  //  <br>
-{:.brewery}
+{: .brewery #fwurm }
 
 
-##### Pappenheim-Zimmern 
+##### Pappenheim-Zimmern  
+{: .city #pappenheimzimmern }
 
 
-Hechtbräu Zimmern -   <br>
+
+ Hechtbräu Zimmern   `#hechtbraeuzimmern`{:.key} <br>
 Pappenheim-Zimmern //  <br>
-{:.brewery}
+{: .brewery #hechtbraeuzimmern }
 
 
-##### Passau  _(2)_{:.count} 
+##### Passau _(2)_{:.count} 
+{: .city #passau }
 
 
-Brauerei Hacklberg -   <br>
+
+ Brauerei Hacklberg   `#brauereihacklberg`{:.key} <br>
 Passau //  <br>
-{:.brewery}
+{: .brewery #brauereihacklberg }
 
 
-Innstadt Brauerei Bierspezialitäten -   <br>
+ Innstadt Brauerei Bierspezialitäten   `#innstadtbrauereibierspezialitaeten`{:.key} <br>
 Passau //  <br>
-{:.brewery}
+{: .brewery #innstadtbrauereibierspezialitaeten }
 
 
-##### Passau-Ries 
+##### Passau-Ries  
+{: .city #passauries }
 
 
-Weizenbierbrauerei Andorfer -   <br>
+
+ Weizenbierbrauerei Andorfer   `#weizenbierbrauereiandorfer`{:.key} <br>
 Passau-Ries //  <br>
-{:.brewery}
+{: .brewery #weizenbierbrauereiandorfer }
 
 
-##### Pegnitz  _(3)_{:.count} 
+##### Pegnitz _(3)_{:.count} 
+{: .city #pegnitz }
 
 
-Brauer-Vereinigung Pegnitz -   <br>
+
+ Brauer-Vereinigung Pegnitz   `#brauervereinigungpegnitz`{:.key} <br>
 91257 Pegnitz // Am Buchauer Berg 4  <br>
-{:.brewery}
+{: .brewery #brauervereinigungpegnitz }
 
 
-Brauerei Gradl -   <br>
+ Brauerei Gradl   `#brauereigradl`{:.key} <br>
 91257 Pegnitz // Leups 6  <br>
-{:.brewery}
+{: .brewery #brauereigradl }
 
 
-Jura Bräu -   <br>
+ Jura Bräu   `#jurabraeu`{:.key} <br>
 91257 Pegnitz // Buchauer Berg 8-10  <br>
-{:.brewery}
+{: .brewery #jurabraeu }
 
 
-##### Pegnitz-Büchenbach 
+##### Pegnitz-Büchenbach  
+{: .city #pegnitzbuechenbach }
 
 
-Brauerei Gasthof Herold -   <br>
+
+ Brauerei Gasthof Herold   `#brauereigasthofherold`{:.key} <br>
 91257 Pegnitz-Büchenbach // Marktstraße 29  <br>
-{:.brewery}
+{: .brewery #brauereigasthofherold }
 
 
-##### Pettendorf 
+##### Pettendorf  
+{: .city #pettendorf }
 
 
-Prösslbräu in Adlersberg -   <br>
+
+ Prösslbräu in Adlersberg   `#proesslbraeuinadlersberg`{:.key} <br>
 Pettendorf //  <br>
-{:.brewery}
+{: .brewery #proesslbraeuinadlersberg }
 
 
-##### Petting/Schönram 
+##### Petting/Schönram  
+{: .city #pettingschoenram }
 
 
-Brauerei Schönram -   <br>
+
+ Brauerei Schönram   `#brauereischoenram`{:.key} <br>
 83367 Petting/Schönram // Salzburger Str. 17  <br>
 [www.brauerei-schoenram.de](http://www.brauerei-schoenram.de)  <br>
-{:.brewery}
+{: .brewery #brauereischoenram }
 
 
-##### Pfaffenberg 
+##### Pfaffenberg  
+{: .city #pfaffenberg }
 
 
-Privatbrauerei Stöttner -   <br>
+
+ Privatbrauerei Stöttner   `#privatbrauereistoettner`{:.key} <br>
 Pfaffenberg //  <br>
-{:.brewery}
+{: .brewery #privatbrauereistoettner }
 
 
-##### Pfaffenhofen an der Ilm  _(2)_{:.count} 
+##### Pfaffenhofen an der Ilm _(2)_{:.count} 
+{: .city #pfaffenhofenanderilm }
 
 
-Müllerbräu -   <br>
+
+ Müllerbräu   `#muellerbraeu`{:.key} <br>
 Pfaffenhofen an der Ilm //  <br>
-{:.brewery}
+{: .brewery #muellerbraeu }
 
 
-Urbanusbräu - Brauhaus Pfaffenhofen -   <br>
+ Urbanusbräu - Brauhaus Pfaffenhofen   `#urbanusbraeubrauhauspfaffenhofen`{:.key} <br>
 Pfaffenhofen an der Ilm //  <br>
-{:.brewery}
+{: .brewery #urbanusbraeubrauhauspfaffenhofen }
 
 
-##### Pfaffing-Forsting 
+##### Pfaffing-Forsting  
+{: .city #pfaffingforsting }
 
 
-Brauerei Gut Forsting -   <br>
+
+ Brauerei Gut Forsting   `#brauereigutforsting`{:.key} <br>
 Pfaffing-Forsting //  <br>
-{:.brewery}
+{: .brewery #brauereigutforsting }
 
 
-##### Pfeffenhausen  _(2)_{:.count} 
+##### Pfeffenhausen _(2)_{:.count} 
+{: .city #pfeffenhausen }
 
 
-Anton Pöllinger Brauerei -   <br>
+
+ Anton Pöllinger Brauerei   `#antonpoellingerbrauerei`{:.key} <br>
 Pfeffenhausen //  <br>
-{:.brewery}
+{: .brewery #antonpoellingerbrauerei }
 
 
-Brauerei Reder -   <br>
+ Brauerei Reder   `#brauereireder`{:.key} <br>
 Pfeffenhausen //  <br>
-{:.brewery}
+{: .brewery #brauereireder }
 
 
-##### Pfronten 
+##### Pfronten  
+{: .city #pfronten }
 
 
-Braugasthof Falkenstein -   <br>
+
+ Braugasthof Falkenstein   `#braugasthoffalkenstein`{:.key} <br>
 Pfronten //  <br>
-{:.brewery}
+{: .brewery #braugasthoffalkenstein }
 
 
-##### Pilsting-Großköllnbach 
+##### Pilsting-Großköllnbach  
+{: .city #pilstinggrosskoellnbach }
 
 
-Privatbrauerei H. Egerer -   <br>
+
+ Privatbrauerei H. Egerer   `#privatbrauereihegerer`{:.key} <br>
 Pilsting-Großköllnbach //  <br>
-{:.brewery}
+{: .brewery #privatbrauereihegerer }
 
 
-##### Pirk 
+##### Pirk  
+{: .city #pirk }
 
 
-Pirker Brauhaus -   <br>
+
+ Pirker Brauhaus   `#pirkerbrauhaus`{:.key} <br>
 Pirk //  <br>
-{:.brewery}
+{: .brewery #pirkerbrauhaus }
 
 
-##### Plattling 
+##### Plattling  
+{: .city #plattling }
 
 
-Schaubrauerei Bräu zur Isar -   <br>
+
+ Schaubrauerei Bräu zur Isar   `#schaubrauereibraeuzurisar`{:.key} <br>
 Plattling //  <br>
-{:.brewery}
+{: .brewery #schaubrauereibraeuzurisar }
 
 
-##### Plößberg 
+##### Plößberg  
+{: .city #ploessberg }
 
 
-Brauerei Hans Riedl -   <br>
+
+ Brauerei Hans Riedl   `#brauereihansriedl`{:.key} <br>
 Plößberg //  <br>
-{:.brewery}
+{: .brewery #brauereihansriedl }
 
 
-##### Pommersfelden 
+##### Pommersfelden  
+{: .city #pommersfelden }
 
 
-Brauerei Hennemann -   <br>
+
+ Brauerei Hennemann   `#brauereihennemann`{:.key} <br>
 96178 Pommersfelden // Sambach 33  <br>
-{:.brewery}
+{: .brewery #brauereihennemann }
 
 
-##### Pottenstein  _(3)_{:.count} 
+##### Pottenstein _(3)_{:.count} 
+{: .city #pottenstein }
 
 
-Brauerei Mager -   <br>
+
+ Brauerei Mager   `#brauereimager`{:.key} <br>
 91278 Pottenstein // Hauptstraße 15  <br>
-{:.brewery}
+{: .brewery #brauereimager }
 
 
-Bruckmayer's Urbräu Fränkisches Wirtshaus -   <br>
+ Bruckmayer's Urbräu Fränkisches Wirtshaus   `#bruckmayersurbraeufraenkischeswirtshaus`{:.key} <br>
 91278 Pottenstein // Nürnberger Straße 10  <br>
-{:.brewery}
+{: .brewery #bruckmayersurbraeufraenkischeswirtshaus }
 
 
-Gasthausbrauerei Hufeisen -   <br>
+ Gasthausbrauerei Hufeisen   `#gasthausbrauereihufeisen`{:.key} <br>
 91278 Pottenstein // Hauptstraße 38  <br>
-{:.brewery}
+{: .brewery #gasthausbrauereihufeisen }
 
 
-##### Pretzfeld  _(3)_{:.count} 
+##### Pretzfeld _(3)_{:.count} 
+{: .city #pretzfeld }
 
 
-Brauerei Gasthof Georg Meister -   <br>
+
+ Brauerei Gasthof Georg Meister   `#brauereigasthofgeorgmeister`{:.key} <br>
 91362 Pretzfeld // Unterzaunsbach 8  <br>
-{:.brewery}
+{: .brewery #brauereigasthofgeorgmeister }
 
 
-Brauerei Penning-Zeissler -   <br>
+ Brauerei Penning-Zeissler   `#brauereipenningzeissler`{:.key} <br>
 91362 Pretzfeld // Hetzelsdorf 9  <br>
-{:.brewery}
+{: .brewery #brauereipenningzeissler }
 
 
-Nikl Bräu -   <br>
+ Nikl Bräu   `#niklbraeu`{:.key} <br>
 91362 Pretzfeld // Egloffsteiner Straße 19  <br>
-{:.brewery}
+{: .brewery #niklbraeu }
 
 
-##### Priesendorf 
+##### Priesendorf  
+{: .city #priesendorf }
 
 
-Brauerei Schrüfer Priesendorf -   <br>
+
+ Brauerei Schrüfer Priesendorf   `#brauereischrueferpriesendorf`{:.key} <br>
 96170 Priesendorf // Hauptstraße 31  <br>
-{:.brewery}
+{: .brewery #brauereischrueferpriesendorf }
 
 
-##### Pullach-Großhesselohe 
+##### Pullach-Großhesselohe  
+{: .city #pullachgrosshesselohe }
 
 
-Di Gastro Isarbräu -   <br>
+
+ Di Gastro Isarbräu   `#digastroisarbraeu`{:.key} <br>
 Pullach-Großhesselohe //  <br>
-{:.brewery}
+{: .brewery #digastroisarbraeu }
 
 
-##### Pörnbach 
+##### Pörnbach  
+{: .city #poernbach }
 
 
-Bayrische Graf zu Toerring-Jettenbach-Brauereien -   <br>
+
+ Bayrische Graf zu Toerring-Jettenbach-Brauereien   `#bayrischegrafzutoerringjettenbachbrauereien`{:.key} <br>
 Pörnbach //  <br>
-{:.brewery}
+{: .brewery #bayrischegrafzutoerringjettenbachbrauereien }
 
 
-##### Pösing 
+##### Pösing  
+{: .city #poesing }
 
 
-Drexler Bräu -   <br>
+
+ Drexler Bräu   `#drexlerbraeu`{:.key} <br>
 Pösing //  <br>
-{:.brewery}
+{: .brewery #drexlerbraeu }
 
 
-##### Raigering 
+##### Raigering  
+{: .city #raigering }
 
 
-Privatbrauerei Sterk -   <br>
+
+ Privatbrauerei Sterk   `#privatbrauereisterk`{:.key} <br>
 Raigering //  <br>
-{:.brewery}
+{: .brewery #privatbrauereisterk }
 
 
-##### Rammingen 
+##### Rammingen  
+{: .city #rammingen }
 
 
-Häpfenbräu -   <br>
+
+ Häpfenbräu   `#haepfenbraeu`{:.key} <br>
 Rammingen //  <br>
-{:.brewery}
+{: .brewery #haepfenbraeu }
 
 
-##### Rattelsdorf  _(2)_{:.count} 
+##### Rattelsdorf _(2)_{:.count} 
+{: .city #rattelsdorf }
 
 
-Brauerei Zum Goldenen Adler -   <br>
+
+ Brauerei Zum Goldenen Adler   `#brauereizumgoldenenadler`{:.key} <br>
 96179 Rattelsdorf // Höfen 21  <br>
-{:.brewery}
+{: .brewery #brauereizumgoldenenadler }
 
 
-Freudenecker Fischer-Bräu -   <br>
+ Freudenecker Fischer-Bräu   `#freudeneckerfischerbraeu`{:.key} <br>
 96179 Rattelsdorf // Freudeneck 2  <br>
-{:.brewery}
+{: .brewery #freudeneckerfischerbraeu }
 
 
-##### Rauhenebrach-Theinheim 
+##### Rauhenebrach-Theinheim  
+{: .city #rauhenebrachtheinheim }
 
 
-Zum grünen Baum -   <br>
+
+ Zum grünen Baum   `#zumgruenenbaum`{:.key} <br>
 Rauhenebrach-Theinheim //  <br>
-{:.brewery}
+{: .brewery #zumgruenenbaum }
 
 
-##### Reckendorf  _(2)_{:.count} 
+##### Reckendorf _(2)_{:.count} 
+{: .city #reckendorf }
 
 
-Brauerei Gasthof Schroll -   <br>
+
+ Brauerei Gasthof Schroll   `#brauereigasthofschroll`{:.key} <br>
 96182 Reckendorf // Hauptstraße 38  <br>
-{:.brewery}
+{: .brewery #brauereigasthofschroll }
 
 
-Schlossbrauerei Reckendorf - 1597  <br>
+ Schlossbrauerei Reckendorf  - 1597   `#schlossbrauereireckendorf`{:.key} <br>
 96182 Reckendorf // Mühlweg 16  <br>
 [www.recken.de](http://www.recken.de)  <br>
-{:.brewery}
+{: .brewery #schlossbrauereireckendorf }
 
 
-##### Regen 
+##### Regen  
+{: .city #regen }
 
 
-Privatbrauerei J. B. Falter -   <br>
+
+ Privatbrauerei J. B. Falter   `#privatbrauereijbfalter`{:.key} <br>
 Regen //  <br>
-{:.brewery}
+{: .brewery #privatbrauereijbfalter }
 
 
-##### Regensburg  _(4)_{:.count} 
+##### Regensburg _(4)_{:.count} 
+{: .city #regensburg }
 
 
-Brauerei Bischofshof -   <br>
+
+ Brauerei Bischofshof   `#brauereibischofshof`{:.key} <br>
 Regensburg //  <br>
-{:.brewery}
+{: .brewery #brauereibischofshof }
 
 
-Fürstliches Brauhaus Thurn und Taxis -   <br>
+ Fürstliches Brauhaus Thurn und Taxis   `#fuerstlichesbrauhausthurnundtaxis`{:.key} <br>
 Regensburg //  <br>
-{:.brewery}
+{: .brewery #fuerstlichesbrauhausthurnundtaxis }
 
 
-Kneitinger -   <br>
+ Kneitinger   `#kneitinger`{:.key} <br>
 Regensburg //  <br>
-{:.brewery}
+{: .brewery #kneitinger }
 
 
-Spitalbrauerei -   <br>
+ Spitalbrauerei   `#spitalbrauerei`{:.key} <br>
 Regensburg //  <br>
-{:.brewery}
+{: .brewery #spitalbrauerei }
 
 
-##### Rehling 
+##### Rehling  
+{: .city #rehling }
 
 
-Schlossbrauerei Scherneck -   <br>
+
+ Schlossbrauerei Scherneck   `#schlossbrauereischerneck`{:.key} <br>
 Rehling //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereischerneck }
 
 
-##### Reischach 
+##### Reischach  
+{: .city #reischach }
 
 
-Brauerei Berger -   <br>
+
+ Brauerei Berger   `#brauereiberger`{:.key} <br>
 Reischach //  <br>
-{:.brewery}
+{: .brewery #brauereiberger }
 
 
-##### Rettenberg  _(2)_{:.count} 
+##### Rettenberg _(2)_{:.count} 
+{: .city #rettenberg }
 
 
-Brauerei Zötler -   <br>
+
+ Brauerei Zötler   `#brauereizoetler`{:.key} <br>
 Rettenberg //  <br>
-{:.brewery}
+{: .brewery #brauereizoetler }
 
 
-Engelbräu -   <br>
+ Engelbräu   `#engelbraeu`{:.key} <br>
 Rettenberg //  <br>
-{:.brewery}
+{: .brewery #engelbraeu }
 
 
-##### Reuth bei Erbendorf 
+##### Reuth bei Erbendorf  
+{: .city #reuthbeierbendorf }
 
 
-Schloßbrauerei Reuth -   <br>
+
+ Schloßbrauerei Reuth   `#schlossbrauereireuth`{:.key} <br>
 Reuth bei Erbendorf //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereireuth }
 
 
-##### Ried bei Markt Indersdorf 
+##### Ried bei Markt Indersdorf  
+{: .city #riedbeimarktindersdorf }
 
 
-Tobiasbräu -   <br>
+
+ Tobiasbräu   `#tobiasbraeu`{:.key} <br>
 Ried bei Markt Indersdorf //  <br>
-{:.brewery}
+{: .brewery #tobiasbraeu }
 
 
-##### Riedenburg  _(2)_{:.count} 
+##### Riedenburg _(2)_{:.count} 
+{: .city #riedenburg }
 
 
-Riedenburger Brauhaus - 1866  <br>
+
+ Riedenburger Brauhaus  - 1866   `#riedenburger`{:.key} <br>
 93339 Riedenburg // Hammerweg 5  <br>
 [www.riedenburger.de](http://www.riedenburger.de)  <br>
-{:.brewery}
+{: .brewery #riedenburger }
 
 
-Brauerei Friedrich Riemhofer -   <br>
+ Brauerei Friedrich Riemhofer   `#brauereifriedrichriemhofer`{:.key} <br>
 Riedenburg //  <br>
-{:.brewery}
+{: .brewery #brauereifriedrichriemhofer }
 
 
-##### Rosenheim  _(3)_{:.count} 
+##### Rosenheim _(3)_{:.count} 
+{: .city #rosenheim }
 
 
-Auerbräu -   <br>
+
+ Auerbräu   `#auerbraeu`{:.key} <br>
 Rosenheim //  <br>
-{:.brewery}
+{: .brewery #auerbraeu }
 
 
-Chiemgauer Brauhaus -   <br>
+ Chiemgauer Brauhaus   `#chiemgauerbrauhaus`{:.key} <br>
 Rosenheim //  <br>
-{:.brewery}
+{: .brewery #chiemgauerbrauhaus }
 
 
-Flötzinger Bräu (Privatbrauerei Franz Steegmüller) -   <br>
+ Flötzinger Bräu (Privatbrauerei Franz Steegmüller)   `#floetzingerbraeu`{:.key} <br>
 Rosenheim //  <br>
-{:.brewery}
+{: .brewery #floetzingerbraeu }
 
 
-##### Roth vor der Rhön 
+##### Roth vor der Rhön  
+{: .city #rothvorderrhoen }
 
 
-Rother Bräu -   <br>
+
+ Rother Bräu   `#rotherbraeu`{:.key} <br>
 Roth vor der Rhön //  <br>
-{:.brewery}
+{: .brewery #rotherbraeu }
 
 
-##### Roßdorf am Forst 
+##### Roßdorf am Forst  
+{: .city #rossdorfamforst }
 
 
-Brauerei Sauer Roßdorf - 1784  <br>
+
+ Brauerei Sauer Roßdorf  - 1784   `#brauereisauerrossdorf`{:.key} <br>
 96129 Roßdorf am Forst // Sutte 5  <br>
 [www.brauerei-sauer.de](http://www.brauerei-sauer.de)  <br>
-{:.brewery}
+{: .brewery #brauereisauerrossdorf }
 
 
-##### Ruderatshofen 
+##### Ruderatshofen  
+{: .city #ruderatshofen }
 
 
-Kirnach Stuben -   <br>
+
+ Kirnach Stuben   `#kirnachstuben`{:.key} <br>
 Ruderatshofen //  <br>
-{:.brewery}
+{: .brewery #kirnachstuben }
 
 
-##### Runding 
+##### Runding  
+{: .city #runding }
 
 
-Schlossbrauerei Brandl -   <br>
+
+ Schlossbrauerei Brandl   `#schlossbrauereibrandl`{:.key} <br>
 Runding //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereibrandl }
 
 
-##### Röbersdorf 
+##### Röbersdorf  
+{: .city #roebersdorf }
 
 
-Brauerei Weber - 1800  <br>
+
+ Brauerei Weber  - 1800   `#brauereiweber`{:.key} <br>
 96114 Röbersdorf // Ringstraße 46  <br>
-{:.brewery}
+{: .brewery #brauereiweber }
 
 
-##### Rödental 
+##### Rödental  
+{: .city #roedental }
 
 
-Brauerei Gasthof Grosch -   <br>
+
+ Brauerei Gasthof Grosch   `#brauereigasthofgrosch`{:.key} <br>
 96472 Rödental // Oeslauerstraße 115  <br>
-{:.brewery}
+{: .brewery #brauereigasthofgrosch }
 
 
-##### Röttenbach (bei Erlangen) 
+##### Röttenbach (bei Erlangen)  
+{: .city #roettenbach }
 
 
-Brauerei Sauer -   <br>
+
+ Brauerei Sauer   `#brauereisauer`{:.key} <br>
 Röttenbach (bei Erlangen) //  <br>
-{:.brewery}
+{: .brewery #brauereisauer }
 
 
-##### Rötz 
+##### Rötz  
+{: .city #roetz }
 
 
-Genossenschaftsbrauerei -   <br>
+
+ Genossenschaftsbrauerei   `#genossenschaftsbrauerei`{:.key} <br>
 Rötz //  <br>
-{:.brewery}
+{: .brewery #genossenschaftsbrauerei }
 
 
-##### Rüdenhausen 
+##### Rüdenhausen  
+{: .city #ruedenhausen }
 
 
-Brauerei Wolf -   <br>
+
+ Brauerei Wolf   `#brauereiwolf`{:.key} <br>
 Rüdenhausen //  <br>
-{:.brewery}
+{: .brewery #brauereiwolf }
 
 
-##### Saal an der Saale-Waltershausen 
+##### Saal an der Saale-Waltershausen  
+{: .city #saalandersaalewaltershausen }
 
 
-Privatbrauerei Lang -   <br>
+
+ Privatbrauerei Lang   `#privatbrauereilang`{:.key} <br>
 Saal an der Saale-Waltershausen //  <br>
-{:.brewery}
+{: .brewery #privatbrauereilang }
 
 
-##### Sachsendorf 
+##### Sachsendorf  
+{: .city #sachsendorf }
 
 
-Brauerei-Gasthof Stadter - 1884  <br>
+
+ Brauerei-Gasthof Stadter  - 1884   `#brauereigasthofstadter`{:.key} <br>
 91347 Sachsendorf // Hauptstr. 26  <br>
-{:.brewery}
+{: .brewery #brauereigasthofstadter }
 
 
-##### Sachsenkam-Reutberg 
+##### Sachsenkam-Reutberg  
+{: .city #sachsenkamreutberg }
 
 
-Genossenschaftsbrauerei Reutberg -   <br>
+
+ Genossenschaftsbrauerei Reutberg   `#genossenschaftsbrauereireutberg`{:.key} <br>
 Sachsenkam-Reutberg //  <br>
-{:.brewery}
+{: .brewery #genossenschaftsbrauereireutberg }
 
 
-##### Salz 
+##### Salz  
+{: .city #salz }
 
 
-Karmeliter Bräu -   <br>
+
+ Karmeliter Bräu   `#karmeliterbraeu`{:.key} <br>
 Salz //  <br>
-{:.brewery}
+{: .brewery #karmeliterbraeu }
 
 
-##### Sandersdorf 
+##### Sandersdorf  
+{: .city #sandersdorf }
 
 
-de Bassus Schlossbrauerei zu Sandersdorf -   <br>
+
+ de Bassus Schlossbrauerei zu Sandersdorf   `#debassusschlossbrauereizusandersdorf`{:.key} <br>
 Sandersdorf //  <br>
-{:.brewery}
+{: .brewery #debassusschlossbrauereizusandersdorf }
 
 
-##### Sankt Wolfgang 
+##### Sankt Wolfgang  
+{: .city #sanktwolfgang }
 
 
-Brauerei Bauer -   <br>
+
+ Brauerei Bauer   `#brauereibauer`{:.key} <br>
 Sankt Wolfgang //  <br>
-{:.brewery}
+{: .brewery #brauereibauer }
 
 
-##### Schammelsdorf 
+##### Schammelsdorf  
+{: .city #schammelsdorf }
 
 
-Brauerei Knoblach - 1880  <br>
+
+ Brauerei Knoblach  - 1880   `#brauereiknoblach`{:.key} <br>
 96129 Schammelsdorf // Kremmeldorfer Straße 1  <br>
 [www.brauerei-knoblach.de](http://www.brauerei-knoblach.de)  <br>
-{:.brewery}
+{: .brewery #brauereiknoblach }
 
 
-##### Scheyern 
+##### Scheyern  
+{: .city #scheyern }
 
 
-Klosterbrauerei Scheyern -   <br>
+
+ Klosterbrauerei Scheyern   `#klosterbrauereischeyern`{:.key} <br>
 Scheyern //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereischeyern }
 
 
-##### Scheßlitz  _(2)_{:.count} 
+##### Scheßlitz _(2)_{:.count} 
+{: .city #schesslitz }
 
 
-Brauerei Drei Kronen - 1749  <br>
+
+ Brauerei Drei Kronen  - 1749   `#brauereidreikronen`{:.key} <br>
 96110 Scheßlitz // Hauptstraße 39  <br>
 [www.kronabier.de](http://www.kronabier.de)  <br>
-{:.brewery}
+{: .brewery #brauereidreikronen }
 
 
-Brauereigaststätte Hoh - 1775  <br>
+ Brauereigaststätte Hoh  - 1775   `#brauereigaststaettehoh`{:.key} <br>
 96110 Scheßlitz // Köttensdorf 4  <br>
-{:.brewery}
+{: .brewery #brauereigaststaettehoh }
 
 
-##### Schierling 
+##### Schierling  
+{: .city #schierling }
 
 
-Spezialbrauerei Schierling -   <br>
+
+ Spezialbrauerei Schierling   `#spezialbrauereischierling`{:.key} <br>
 Schierling //  <br>
-{:.brewery}
+{: .brewery #spezialbrauereischierling }
 
 
-##### Schlammersdorf 
+##### Schlammersdorf  
+{: .city #schlammersdorf }
 
 
-Püttner -   <br>
+
+ Püttner   `#puettner`{:.key} <br>
 Schlammersdorf //  <br>
-{:.brewery}
+{: .brewery #puettner }
 
 
-##### Schloss Haselbach 
+##### Schloss Haselbach  
+{: .city #schlosshaselbach }
 
 
-Bayerische Löwenbrauerei Franz Stockbauer (Schlossbrauerei Haselbach) -   <br>
+
+ Bayerische Löwenbrauerei Franz Stockbauer (Schlossbrauerei Haselbach)   `#bayerischeloewenbrauereifranzstockbauer`{:.key} <br>
 Schloss Haselbach //  <br>
-{:.brewery}
+{: .brewery #bayerischeloewenbrauereifranzstockbauer }
 
 
-##### Schlüsselfeld  _(3)_{:.count} 
+##### Schlüsselfeld _(3)_{:.count} 
+{: .city #schluesselfeld }
 
 
-Brauerei und Gasthof Adler-Bräu Schwarzer Adler -   <br>
+
+ Brauerei und Gasthof Adler-Bräu Schwarzer Adler   `#brauereiundgasthofadlerbraeuschwarzeradler`{:.key} <br>
 96132 Schlüsselfeld // Marktplatz 6  <br>
-{:.brewery}
+{: .brewery #brauereiundgasthofadlerbraeuschwarzeradler }
 
 
-Brauereigasthof Günter Scheubel Sternbräu -   <br>
+ Brauereigasthof Günter Scheubel Sternbräu   `#brauereigasthofguenterscheubelsternbraeu`{:.key} <br>
 96132 Schlüsselfeld // Kirchplatz 12  <br>
-{:.brewery}
+{: .brewery #brauereigasthofguenterscheubelsternbraeu }
 
 
-Braumanufaktur Hertl -   <br>
+ Braumanufaktur Hertl   `#braumanufakturhertl`{:.key} <br>
 96132 Schlüsselfeld // Thüngfeld 61  <br>
-{:.brewery}
+{: .brewery #braumanufakturhertl }
 
 
-##### Schnaitsee 
+##### Schnaitsee  
+{: .city #schnaitsee }
 
 
-Baderbräu -   <br>
+
+ Baderbräu   `#baderbraeu`{:.key} <br>
 Schnaitsee //  <br>
-{:.brewery}
+{: .brewery #baderbraeu }
 
 
-##### Schnaittach  _(2)_{:.count} 
+##### Schnaittach _(2)_{:.count} 
+{: .city #schnaittach }
 
 
-Brauerei Kanone Löhr -   <br>
+
+ Brauerei Kanone Löhr   `#brauereikanoneloehr`{:.key} <br>
 Schnaittach //  <br>
-{:.brewery}
+{: .brewery #brauereikanoneloehr }
 
 
-Brauerei Schaffer -   <br>
+ Brauerei Schaffer   `#brauereischaffer`{:.key} <br>
 Schnaittach //  <br>
-{:.brewery}
+{: .brewery #brauereischaffer }
 
 
-##### Schnaittach-Enzenreuth 
+##### Schnaittach-Enzenreuth  
+{: .city #schnaittachenzenreuth }
 
 
-Brauerei Enzensteiner -   <br>
+
+ Brauerei Enzensteiner   `#brauereienzensteiner`{:.key} <br>
 Schnaittach-Enzenreuth //  <br>
-{:.brewery}
+{: .brewery #brauereienzensteiner }
 
 
-##### Schonungen-Hausen 
+##### Schonungen-Hausen  
+{: .city #schonungenhausen }
 
 
-Brauerei Martin (Privatbrauerei Ulrich Martin) -   <br>
+
+ Brauerei Martin (Privatbrauerei Ulrich Martin)   `#brauereimartin`{:.key} <br>
 97453 Schonungen-Hausen // Hausener Hauptstraße 5  <br>
 [www.brauerei-martin.de](http://www.brauerei-martin.de)  <br>
-{:.brewery}
+{: .brewery #brauereimartin }
 
 
-##### Schwandorf 
+##### Schwandorf  
+{: .city #schwandorf }
 
 
-Schlossbrauerei Naabeck - 1620  <br>
+
+ Schlossbrauerei Naabeck  - 1620   `#naabeck`{:.key} <br>
 Schwandorf //  <br>
 [www.naabecker.de](http://www.naabecker.de)  <br>
-{:.brewery}
+{: .brewery #naabeck }
 
 
-##### Schwangau 
+##### Schwangau  
+{: .city #schwangau }
 
 
-Schlossbrauhaus Schwangau -   <br>
+
+ Schlossbrauhaus Schwangau   `#schlossbrauhausschwangau`{:.key} <br>
 Schwangau //  <br>
-{:.brewery}
+{: .brewery #schlossbrauhausschwangau }
 
 
-##### Schwarzach 
+##### Schwarzach  
+{: .city #schwarzach }
 
 
-Bräuhaus Schwarzach -   <br>
+
+ Bräuhaus Schwarzach   `#braeuhausschwarzach`{:.key} <br>
 Schwarzach //  <br>
-{:.brewery}
+{: .brewery #braeuhausschwarzach }
 
 
-##### Schweinfurt  _(2)_{:.count} 
+##### Schweinfurt _(2)_{:.count} 
+{: .city #schweinfurt }
 
 
-Brauerei Roth -   <br>
+
+ Brauerei Roth   `#brauereiroth`{:.key} <br>
 Schweinfurt //  <br>
-{:.brewery}
+{: .brewery #brauereiroth }
 
 
-Brauhaus Schweinfurt -   <br>
+ Brauhaus Schweinfurt   `#brauhausschweinfurt`{:.key} <br>
 Schweinfurt //  <br>
-{:.brewery}
+{: .brewery #brauhausschweinfurt }
 
 
-##### Schöllkrippen 
+##### Schöllkrippen  
+{: .city #schoellkrippen }
 
 
-Brauhaus Barbarossa -   <br>
+
+ Brauhaus Barbarossa   `#brauhausbarbarossa`{:.key} <br>
 Schöllkrippen //  <br>
-{:.brewery}
+{: .brewery #brauhausbarbarossa }
 
 
-##### Schönbrunn-Zettmannsdorf 
+##### Schönbrunn-Zettmannsdorf  
+{: .city #schoenbrunnzettmannsdorf }
 
 
-Seelmann Bräu - 1608  <br>
+
+ Seelmann Bräu  - 1608   `#seelmannbraeu`{:.key} <br>
 96185 Schönbrunn-Zettmannsdorf // Zettmannsdorfer Hauptstraße 18  <br>
 [www.brauerei-seelmann.de](http://www.brauerei-seelmann.de)  <br>
-{:.brewery}
+{: .brewery #seelmannbraeu }
 
 
-##### Schönthal 
+##### Schönthal  
+{: .city #schoenthal }
 
 
-Rhaner Bräu -   <br>
+
+ Rhaner Bräu   `#rhanerbraeu`{:.key} <br>
 Schönthal //  <br>
-{:.brewery}
+{: .brewery #rhanerbraeu }
 
 
-##### Seinsheim 
+##### Seinsheim  
+{: .city #seinsheim }
 
 
-Seinsheimer Kellerbräu -   <br>
+
+ Seinsheimer Kellerbräu   `#seinsheimerkellerbraeu`{:.key} <br>
 Seinsheim //  <br>
-{:.brewery}
+{: .brewery #seinsheimerkellerbraeu }
 
 
-##### Selb 
+##### Selb  
+{: .city #selb }
 
 
-Gasthausbrauerei Ploß -   <br>
+
+ Gasthausbrauerei Ploß   `#gasthausbrauereiploss`{:.key} <br>
 95100 Selb // Schillerstraße 23  <br>
-{:.brewery}
+{: .brewery #gasthausbrauereiploss }
 
 
-##### Seßlach 
+##### Seßlach  
+{: .city #sesslach }
 
 
-Kommunbrauhaus Seßlach -   <br>
+
+ Kommunbrauhaus Seßlach   `#kommunbrauhaussesslach`{:.key} <br>
 96145 Seßlach // Pfarrgasse 1  <br>
-{:.brewery}
+{: .brewery #kommunbrauhaussesslach }
 
 
-##### Seßlach-Heilgersdorf 
+##### Seßlach-Heilgersdorf  
+{: .city #sesslachheilgersdorf }
 
 
-Brauerei - Gastwirtschaft Scharpf -   <br>
+
+ Brauerei - Gastwirtschaft Scharpf   `#brauereigastwirtschaftscharpf`{:.key} <br>
 96145 Seßlach-Heilgersdorf // Hauptstraße 16  <br>
-{:.brewery}
+{: .brewery #brauereigastwirtschaftscharpf }
 
 
-##### Siegenburg 
+##### Siegenburg  
+{: .city #siegenburg }
 
 
-Schmidmayer Bräu -   <br>
+
+ Schmidmayer Bräu   `#schmidmayerbraeu`{:.key} <br>
 Siegenburg //  <br>
-{:.brewery}
+{: .brewery #schmidmayerbraeu }
 
 
-##### Solnhofen-Hochholz 
+##### Solnhofen-Hochholz  
+{: .city #solnhofenhochholz }
 
 
-Hochholzer Brauhaus -   <br>
+
+ Hochholzer Brauhaus   `#hochholzerbrauhaus`{:.key} <br>
 Solnhofen-Hochholz //  <br>
-{:.brewery}
+{: .brewery #hochholzerbrauhaus }
 
 
-##### Sonthofen 
+##### Sonthofen  
+{: .city #sonthofen }
 
 
-Hirschbräu Privatbrauerei Höss -   <br>
+
+ Hirschbräu Privatbrauerei Höss   `#hirschbraeuprivatbrauereihoess`{:.key} <br>
 Sonthofen //  <br>
-{:.brewery}
+{: .brewery #hirschbraeuprivatbrauereihoess }
 
 
-##### Spalt 
+##### Spalt  
+{: .city #spalt }
 
 
-Stadtbrauerei Spalt -   <br>
+
+ Stadtbrauerei Spalt   `#stadtbrauereispalt`{:.key} <br>
 Spalt //  <br>
-{:.brewery}
+{: .brewery #stadtbrauereispalt }
 
 
-##### Speiden 
+##### Speiden  
+{: .city #speiden }
 
 
-Kössel-Bräu -   <br>
+
+ Kössel-Bräu   `#koesselbraeu`{:.key} <br>
 Speiden //  <br>
-{:.brewery}
+{: .brewery #koesselbraeu }
 
 
-##### Spiegelau-Klingenbrunn 
+##### Spiegelau-Klingenbrunn  
+{: .city #spiegelauklingenbrunn }
 
 
-Klingenbrunner -   <br>
+
+ Klingenbrunner   `#klingenbrunner`{:.key} <br>
 Spiegelau-Klingenbrunn //  <br>
-{:.brewery}
+{: .brewery #klingenbrunner }
 
 
-##### Stadelhofen 
+##### Stadelhofen  
+{: .city #stadelhofen }
 
 
-Hübner Bräu - 1720  <br>
+
+ Hübner Bräu  - 1720   `#huebnerbraeu`{:.key} <br>
 96187 Stadelhofen // Steinfeld 69  <br>
 [www.huebner-braeu.de](http://www.huebner-braeu.de)  <br>
-{:.brewery}
+{: .brewery #huebnerbraeu }
 
 
-##### Stadelhofen-Schederndorf 
+##### Stadelhofen-Schederndorf  
+{: .city #stadelhofenschederndorf }
 
 
-Brauerei Will - 1742  <br>
+
+ Brauerei Will  - 1742   `#brauereiwill`{:.key} <br>
 96187 Stadelhofen-Schederndorf // Haus Nr. 19  <br>
 [www.schederndorf.de](http://www.schederndorf.de)  <br>
-{:.brewery}
+{: .brewery #brauereiwill }
 
 
-##### Stadtsteinach 
+##### Stadtsteinach  
+{: .city #stadtsteinach }
 
 
-Brauerei Leonhard Schübel -   <br>
+
+ Brauerei Leonhard Schübel   `#brauereileonhardschuebel`{:.key} <br>
 95346 Stadtsteinach // Knollenstraße 12  <br>
-{:.brewery}
+{: .brewery #brauereileonhardschuebel }
 
 
-##### Stegaurach 
+##### Stegaurach  
+{: .city #stegaurach }
 
 
-Hausbräu Stegaurach -   <br>
+
+ Hausbräu Stegaurach   `#hausbraeustegaurach`{:.key} <br>
 96135 Stegaurach // Ruhlstrasse 6  <br>
-{:.brewery}
+{: .brewery #hausbraeustegaurach }
 
 
-##### Stegaurach-Mühlendorf 
+##### Stegaurach-Mühlendorf  
+{: .city #stegaurachmuehlendorf }
 
 
-Mühlenbräu Mühlendorf - 1875  <br>
+
+ Mühlenbräu Mühlendorf  - 1875   `#muehlenbraeumuehlendorf`{:.key} <br>
 96135 Stegaurach-Mühlendorf // Brückenstraße 19  <br>
-{:.brewery}
+{: .brewery #muehlenbraeumuehlendorf }
 
 
-##### Stein an der Traun 
+##### Stein an der Traun  
+{: .city #steinandertraun }
 
 
-Schlossbrauerei Stein Wiskott -   <br>
+
+ Schlossbrauerei Stein Wiskott   `#schlossbrauereisteinwiskott`{:.key} <br>
 Stein an der Traun //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereisteinwiskott }
 
 
-##### Steinfeld-Waldzell 
+##### Steinfeld-Waldzell  
+{: .city #steinfeldwaldzell }
 
 
-Hausbrauerei Höpfl -   <br>
+
+ Hausbrauerei Höpfl   `#hausbrauereihoepfl`{:.key} <br>
 Steinfeld-Waldzell //  <br>
-{:.brewery}
+{: .brewery #hausbrauereihoepfl }
 
 
-##### Steinsfeld-Reichelshofen 
+##### Steinsfeld-Reichelshofen  
+{: .city #steinsfeldreichelshofen }
 
 
-Landwehr-Bräu Wörner -   <br>
+
+ Landwehr-Bräu Wörner   `#landwehrbraeuwoerner`{:.key} <br>
 Steinsfeld-Reichelshofen //  <br>
-{:.brewery}
+{: .brewery #landwehrbraeuwoerner }
 
 
-##### Stettfeld 
+##### Stettfeld  
+{: .city #stettfeld }
 
 
-Adler-Bräu -   <br>
+
+ Adler-Bräu   `#adlerbraeu`{:.key} <br>
 Stettfeld //  <br>
-{:.brewery}
+{: .brewery #adlerbraeu }
 
 
-##### Straubing  _(2)_{:.count} 
+##### Straubing _(2)_{:.count} 
+{: .city #straubing }
 
 
-Brauerei Gebrüder Röhrl -   <br>
+
+ Brauerei Gebrüder Röhrl   `#brauereigebruederroehrl`{:.key} <br>
 Straubing //  <br>
-{:.brewery}
+{: .brewery #brauereigebruederroehrl }
 
 
-Karmelitenbrauerei Karl Sturm -   <br>
+ Karmelitenbrauerei Karl Sturm   `#karmelitenbrauereikarlsturm`{:.key} <br>
 Straubing //  <br>
-{:.brewery}
+{: .brewery #karmelitenbrauereikarlsturm }
 
 
-##### Straßkirchen (Salzweg) 
+##### Straßkirchen (Salzweg)  
+{: .city #strasskirchen }
 
 
-Gutsbräu Straßkirchen -   <br>
+
+ Gutsbräu Straßkirchen   `#gutsbraeustrasskirchen`{:.key} <br>
 Straßkirchen (Salzweg) //  <br>
-{:.brewery}
+{: .brewery #gutsbraeustrasskirchen }
 
 
-##### Strullendorf-Geisfeld  _(2)_{:.count} 
+##### Strullendorf-Geisfeld _(2)_{:.count} 
+{: .city #strullendorfgeisfeld }
 
 
-Brauerei Gasthof Krug - 1820  <br>
+
+ Brauerei Gasthof Krug • Krugbräu  - 1820   `#brauereigasthofkrug`{:.key} <br>
 96129 Strullendorf-Geisfeld // Alte Dorfstraße 11  <br>
 [www.brauerei-krug.de](http://www.brauerei-krug.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofkrug }
 
 
-Brauerei-Gasthof Griess - 1872  <br>
+ Brauerei-Gasthof Griess  - 1872   `#brauereigasthofgriess`{:.key} <br>
 96129 Strullendorf-Geisfeld // Magdalenenstraße 6  <br>
 [www.brauerei-griess.de](http://www.brauerei-griess.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofgriess }
 
 
-##### Sulzbach-Rosenberg  _(2)_{:.count} 
+##### Sulzbach-Rosenberg _(2)_{:.count} 
+{: .city #sulzbachrosenberg }
 
 
-Brauerei Fuchsbeck - 1834  <br>
+
+ Brauerei Fuchsbeck  - 1834   `#fuchsbeck`{:.key} <br>
 92237 Sulzbach-Rosenberg // Hagtor 1  <br>
 [www.fuchsbeck.de](http://www.fuchsbeck.de)  <br>
-{:.brewery}
+{: .brewery #fuchsbeck }
 
 
-Sperber -   <br>
+ Sperber   `#sperber`{:.key} <br>
 Sulzbach-Rosenberg //  <br>
-{:.brewery}
+{: .brewery #sperber }
 
 
-##### Tacherting 
+##### Tacherting  
+{: .city #tacherting }
 
 
-Weissbräu Schwendl -   <br>
+
+ Weissbräu Schwendl   `#weissbraeuschwendl`{:.key} <br>
 Tacherting //  <br>
-{:.brewery}
+{: .brewery #weissbraeuschwendl }
 
 
-##### Taufkirchen (Vils) 
+##### Taufkirchen (Vils)  
+{: .city #taufkirchen }
 
 
-Guts- und Brauereigenossenschaft Taufkirchen -   <br>
+
+ Guts- und Brauereigenossenschaft Taufkirchen   `#gutsundbrauereigenossenschafttaufkirchen`{:.key} <br>
 Taufkirchen (Vils) //  <br>
-{:.brewery}
+{: .brewery #gutsundbrauereigenossenschafttaufkirchen }
 
 
-##### Tegernsee 
+##### Tegernsee  
+{: .city #tegernsee }
 
 
-Herzoglich Bayerisches Brauhaus Tegernsee -   <br>
+
+ Herzoglich Bayerisches Brauhaus Tegernsee • Herzogliches Bräustüberl Tegernsee   `#tegernsee`{:.key} <br>
 83684 Tegernsee // Schloßplatz 1  <br>
 [www.braustuberl.de](http://www.braustuberl.de)  <br>
-{:.brewery}
+{: .brewery #tegernsee }
 
 
-##### Teisendorf 
+##### Teisendorf  
+{: .city #teisendorf }
 
 
-Privatbrauerei M. C. Wieninger -   <br>
+
+ Privatbrauerei M. C. Wieninger   `#privatbrauereimcwieninger`{:.key} <br>
 Teisendorf //  <br>
-{:.brewery}
+{: .brewery #privatbrauereimcwieninger }
 
 
-##### Teisnach 
+##### Teisnach  
+{: .city #teisnach }
 
 
-Ettl-Bräu -   <br>
+
+ Ettl-Bräu   `#ettlbraeu`{:.key} <br>
 Teisnach //  <br>
-{:.brewery}
+{: .brewery #ettlbraeu }
 
 
-##### Teunz 
+##### Teunz  
+{: .city #teunz }
 
 
-Fuchsberger Schlossbrauerei -   <br>
+
+ Fuchsberger Schlossbrauerei   `#fuchsbergerschlossbrauerei`{:.key} <br>
 Teunz //  <br>
-{:.brewery}
+{: .brewery #fuchsbergerschlossbrauerei }
 
 
-##### Thalmässing-Pyras 
+##### Thalmässing-Pyras  
+{: .city #thalmaessingpyras }
 
 
-Pyraser Landbrauerei -   <br>
+
+ Pyraser Landbrauerei   `#pyraserlandbrauerei`{:.key} <br>
 Thalmässing-Pyras //  <br>
-{:.brewery}
+{: .brewery #pyraserlandbrauerei }
 
 
-##### Thannhausen 
+##### Thannhausen  
+{: .city #thannhausen }
 
 
-Postbräu -   <br>
+
+ Postbräu   `#postbraeu`{:.key} <br>
 Thannhausen //  <br>
-{:.brewery}
+{: .brewery #postbraeu }
 
 
-##### Thüngen 
+##### Thüngen  
+{: .city #thuengen }
 
 
-Burgbrauerei Herzog von Franken -   <br>
+
+ Burgbrauerei Herzog von Franken   `#burgbrauereiherzogvonfranken`{:.key} <br>
 Thüngen //  <br>
-{:.brewery}
+{: .brewery #burgbrauereiherzogvonfranken }
 
 
-##### Titting 
+##### Titting  
+{: .city #titting }
 
 
-Brauerei Fritz Gutmann -   <br>
+
+ Brauerei Fritz Gutmann   `#brauereifritzgutmann`{:.key} <br>
 Titting //  <br>
-{:.brewery}
+{: .brewery #brauereifritzgutmann }
 
 
-##### Trabelsdorf 
+##### Trabelsdorf  
+{: .city #trabelsdorf }
 
 
-Beck-Bräu -   <br>
+
+ Beck-Bräu   `#beckbraeu`{:.key} <br>
 96170 Trabelsdorf // Steigerwaldstraße 6-8  <br>
-{:.brewery}
+{: .brewery #beckbraeu }
 
 
-##### Traitsching-Loifling 
+##### Traitsching-Loifling  
+{: .city #traitschingloifling }
 
 
-Hofmark Brauerei -   <br>
+
+ Hofmark Brauerei   `#hofmarkbrauerei`{:.key} <br>
 Traitsching-Loifling //  <br>
-{:.brewery}
+{: .brewery #hofmarkbrauerei }
 
 
-##### Traunstein  _(4)_{:.count} 
+##### Traunstein _(4)_{:.count} 
+{: .city #traunstein }
 
 
-Brauhaus Jacob Wochinger & Sohn -   <br>
+
+ Brauhaus Jacob Wochinger & Sohn   `#brauhausjacobwochingersohn`{:.key} <br>
 Traunstein //  <br>
-{:.brewery}
+{: .brewery #brauhausjacobwochingersohn }
 
 
-Hofbräuhaus Traunstein Josef Sailer -   <br>
+ Hofbräuhaus Traunstein Josef Sailer   `#hofbraeuhaustraunsteinjosefsailer`{:.key} <br>
 Traunstein //  <br>
-{:.brewery}
+{: .brewery #hofbraeuhaustraunsteinjosefsailer }
 
 
-Maximiliansbräu GmbH -   <br>
+ Maximiliansbräu GmbH   `#maximiliansbraeugmbh`{:.key} <br>
 Traunstein //  <br>
-{:.brewery}
+{: .brewery #maximiliansbraeugmbh }
 
 
-Privatbrauerei Schnitzlbaumer -   <br>
+ Privatbrauerei Schnitzlbaumer   `#privatbrauereischnitzlbaumer`{:.key} <br>
 Traunstein //  <br>
-{:.brewery}
+{: .brewery #privatbrauereischnitzlbaumer }
 
 
-##### Trebgast 
+##### Trebgast  
+{: .city #trebgast }
 
 
-Brauerei Haberstumpf -   <br>
+
+ Brauerei Haberstumpf   `#brauereihaberstumpf`{:.key} <br>
 95367 Trebgast // Bergstraße 31  <br>
-{:.brewery}
+{: .brewery #brauereihaberstumpf }
 
 
-##### Triefenstein-Homburg 
+##### Triefenstein-Homburg  
+{: .city #triefensteinhomburg }
 
 
-Homburger Bräuscheuere -   <br>
+
+ Homburger Bräuscheuere   `#homburgerbraeuscheuere`{:.key} <br>
 Triefenstein-Homburg //  <br>
-{:.brewery}
+{: .brewery #homburgerbraeuscheuere }
 
 
-##### Truchtlaching 
+##### Truchtlaching  
+{: .city #truchtlaching }
 
 
-Camba Bavaria -   <br>
+
+ Camba Bavaria   `#cambabavaria`{:.key} <br>
 Truchtlaching //  <br>
-{:.brewery}
+{: .brewery #cambabavaria }
 
 
-##### Tüßling 
+##### Tüßling  
+{: .city #tuessling }
 
 
-Bräu im Moos -   <br>
+
+ Bräu im Moos   `#braeuimmoos`{:.key} <br>
 Tüßling //  <br>
-{:.brewery}
+{: .brewery #braeuimmoos }
 
 
-##### Uehlfeld  _(2)_{:.count} 
+##### Uehlfeld _(2)_{:.count} 
+{: .city #uehlfeld }
 
 
-Brauerei Zwanzger -   <br>
+
+ Brauerei Zwanzger   `#brauereizwanzger`{:.key} <br>
 Uehlfeld //  <br>
-{:.brewery}
+{: .brewery #brauereizwanzger }
 
 
-Brauerei-Gasthof Prechtel -   <br>
+ Brauerei-Gasthof Prechtel   `#brauereigasthofprechtel`{:.key} <br>
 Uehlfeld //  <br>
-{:.brewery}
+{: .brewery #brauereigasthofprechtel }
 
 
-##### Unterneukirchen 
+##### Unterneukirchen  
+{: .city #unterneukirchen }
 
 
-Brauerei Leidmann -   <br>
+
+ Brauerei Leidmann   `#brauereileidmann`{:.key} <br>
 Unterneukirchen //  <br>
-{:.brewery}
+{: .brewery #brauereileidmann }
 
 
-##### Untersiemau 
+##### Untersiemau  
+{: .city #untersiemau }
 
 
-Brauerei Murmann -   <br>
+
+ Brauerei Murmann   `#brauereimurmann`{:.key} <br>
 96253 Untersiemau // Coburger Straße 6  <br>
-{:.brewery}
+{: .brewery #brauereimurmann }
 
 
-##### Untersiemau-Birkach am Forst 
+##### Untersiemau-Birkach am Forst  
+{: .city #untersiemaubirkachamforst }
 
 
-Brauerei Eller -   <br>
+
+ Brauerei Eller   `#brauereieller`{:.key} <br>
 96253 Untersiemau-Birkach am Forst // Brunnenstraße 10  <br>
-{:.brewery}
+{: .brewery #brauereieller }
 
 
-##### Ursberg 
+##### Ursberg  
+{: .city #ursberg }
 
 
-Klosterbrauerei Ursberg -   <br>
+
+ Klosterbrauerei Ursberg   `#klosterbrauereiursberg`{:.key} <br>
 Ursberg //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereiursberg }
 
 
-##### Ustersbach 
+##### Ustersbach  
+{: .city #ustersbach }
 
 
-Ustersbacher -   <br>
+
+ Ustersbacher   `#ustersbacher`{:.key} <br>
 Ustersbach //  <br>
-{:.brewery}
+{: .brewery #ustersbacher }
 
 
-##### Velburg-Lengenfeld 
+##### Velburg-Lengenfeld  
+{: .city #velburglengenfeld }
 
 
-Winkler Bräu -   <br>
+
+ Winkler Bräu   `#winklerbraeu`{:.key} <br>
 92355 Velburg-Lengenfeld // St.-Martin-Straße 6  <br>
 [www.winkler-braeu.de](http://www.winkler-braeu.de)  <br>
-{:.brewery}
+{: .brewery #winklerbraeu }
 
 
-##### Velden 
+##### Velden  
+{: .city #velden }
 
 
-Brauerei Hans Stammler -   <br>
+
+ Brauerei Hans Stammler   `#brauereihansstammler`{:.key} <br>
 Velden //  <br>
-{:.brewery}
+{: .brewery #brauereihansstammler }
 
 
-##### Viechtach 
+##### Viechtach  
+{: .city #viechtach }
 
 
-Gesellschaftsbrauerei Viechtach -   <br>
+
+ Gesellschaftsbrauerei Viechtach   `#gesellschaftsbrauereiviechtach`{:.key} <br>
 Viechtach //  <br>
-{:.brewery}
+{: .brewery #gesellschaftsbrauereiviechtach }
 
 
-##### Viereth-Trunstadt  _(2)_{:.count} 
+##### Viereth-Trunstadt _(2)_{:.count} 
+{: .city #vierethtrunstadt }
 
 
-Brauerei Gasthof Kundmüller -   <br>
+
+ Brauerei Gasthof Kundmüller   `#brauereigasthofkundmueller`{:.key} <br>
 96191 Viereth-Trunstadt // Weiher 13  <br>
-{:.brewery}
+{: .brewery #brauereigasthofkundmueller }
 
 
-Brauerei-Gasthof Mainlust Bayer -   <br>
+ Brauerei-Gasthof Mainlust Bayer   `#brauereigasthofmainlustbayer`{:.key} <br>
 96191 Viereth-Trunstadt // Hauptstraße 9  <br>
-{:.brewery}
+{: .brewery #brauereigasthofmainlustbayer }
 
 
-##### Vilseck 
+##### Vilseck  
+{: .city #vilseck }
 
 
-Schlichter Winkler Bräu - 1528  <br>
+
+ Schlichter Winkler Bräu  - 1528   `#schlichterwinklerbraeu`{:.key} <br>
 92249 Vilseck // Winklergasse 1  <br>
 [www.winklerbier.de](http://www.winklerbier.de)  <br>
-{:.brewery}
+{: .brewery #schlichterwinklerbraeu }
 
 
-##### Vilshofen an der Donau 
+##### Vilshofen an der Donau  
+{: .city #vilshofenanderdonau }
 
 
-Brauerei Wolferstetter Georg Huber -   <br>
+
+ Brauerei Wolferstetter Georg Huber   `#brauereiwolferstettergeorghuber`{:.key} <br>
 Vilshofen an der Donau //  <br>
-{:.brewery}
+{: .brewery #brauereiwolferstettergeorghuber }
 
 
-##### Vohenstrauß 
+##### Vohenstrauß  
+{: .city #vohenstrauss }
 
 
-Behringer Weissbierbrauerei -   <br>
+
+ Behringer Weissbierbrauerei   `#behringerweissbierbrauerei`{:.key} <br>
 Vohenstrauß //  <br>
-{:.brewery}
+{: .brewery #behringerweissbierbrauerei }
 
 
-##### Waischenfeld  _(3)_{:.count} 
+##### Waischenfeld _(3)_{:.count} 
+{: .city #waischenfeld }
 
 
-Brauerei Heckel -   <br>
+
+ Brauerei Heckel   `#brauereiheckel`{:.key} <br>
 91344 Waischenfeld // Vorstadt 3  <br>
-{:.brewery}
+{: .brewery #brauereiheckel }
 
 
-Brauerei-Gaststätte Schroll Zum Weißen Lamm -   <br>
+ Brauerei-Gaststätte Schroll Zum Weißen Lamm   `#brauereigaststaetteschrollzumweissenlamm`{:.key} <br>
 91344 Waischenfeld // Nankendorf 41  <br>
-{:.brewery}
+{: .brewery #brauereigaststaetteschrollzumweissenlamm }
 
 
-Konrad Krug Brauerei -   <br>
+ Konrad Krug Brauerei   `#konradkrugbrauerei`{:.key} <br>
 91344 Waischenfeld // Breitenlesau 1b  <br>
-{:.brewery}
+{: .brewery #konradkrugbrauerei }
 
 
-##### Walkertshofen 
+##### Walkertshofen  
+{: .city #walkertshofen }
 
 
-Staudenbräu -   <br>
+
+ Staudenbräu   `#staudenbraeu`{:.key} <br>
 Walkertshofen //  <br>
-{:.brewery}
+{: .brewery #staudenbraeu }
 
 
-##### Wallerstein 
+##### Wallerstein  
+{: .city #wallerstein }
 
 
-Wallersteiner Fürstenbier -   <br>
+
+ Wallersteiner Fürstenbier   `#wallersteinerfuerstenbier`{:.key} <br>
 Wallerstein //  <br>
-{:.brewery}
+{: .brewery #wallersteinerfuerstenbier }
 
 
-##### Warmensteinach 
+##### Warmensteinach  
+{: .city #warmensteinach }
 
 
-Brauerei Hütten Michael Trassl -   <br>
+
+ Brauerei Hütten Michael Trassl   `#brauereihuettenmichaeltrassl`{:.key} <br>
 95485 Warmensteinach // Hütten 6-8  <br>
-{:.brewery}
+{: .brewery #brauereihuettenmichaeltrassl }
 
 
-##### Wartenberg 
+##### Wartenberg  
+{: .city #wartenberg }
 
 
-Reiter Bräu -   <br>
+
+ Reiter Bräu   `#reiterbraeu`{:.key} <br>
 Wartenberg //  <br>
-{:.brewery}
+{: .brewery #reiterbraeu }
 
 
-##### Wassertrüdingen-Fürnheim 
+##### Wassertrüdingen-Fürnheim  
+{: .city #wassertruedingenfuernheim }
 
 
-Forstquell-Brauerei -   <br>
+
+ Forstquell-Brauerei   `#forstquellbrauerei`{:.key} <br>
 Wassertrüdingen-Fürnheim //  <br>
-{:.brewery}
+{: .brewery #forstquellbrauerei }
 
 
-##### Wattendorf  _(2)_{:.count} 
+##### Wattendorf _(2)_{:.count} 
+{: .city #wattendorf }
 
 
-Brauerei Gaststätte Dremel - 1773  <br>
+
+ Brauerei Gaststätte Dremel  - 1773   `#brauereigaststaettedremel`{:.key} <br>
 96196 Wattendorf // Hauptstraße 21  <br>
 [www.brauerei-dremel.de](http://www.brauerei-dremel.de)  <br>
-{:.brewery}
+{: .brewery #brauereigaststaettedremel }
 
 
-Brauerei Hübner - 1806  <br>
+ Brauerei Hübner  - 1806   `#brauereihuebner`{:.key} <br>
 96196 Wattendorf // Hauptstraße 28  <br>
 [www.brauerei-huebner.de](http://www.brauerei-huebner.de)  <br>
-{:.brewery}
+{: .brewery #brauereihuebner }
 
 
-##### Weiden in der Oberpfalz 
+##### Weiden in der Oberpfalz  
+{: .city #weideninderoberpfalz }
 
 
-Gambrinus -   <br>
+
+ Gambrinus   `#gambrinusweiden`{:.key} <br>
 Weiden in der Oberpfalz //  <br>
-{:.brewery}
+{: .brewery #gambrinusweiden }
 
 
-##### Weihmichl 
+##### Weihmichl  
+{: .city #weihmichl }
 
 
-Brauerei Josef Weinzierl -   <br>
+
+ Brauerei Josef Weinzierl   `#brauereijosefweinzierl`{:.key} <br>
 Weihmichl //  <br>
-{:.brewery}
+{: .brewery #brauereijosefweinzierl }
 
 
-##### Weiler-Simmerberg 
+##### Weiler-Simmerberg  
+{: .city #weilersimmerberg }
 
 
-Aktienbrauerei Simmerberg -   <br>
+
+ Aktienbrauerei Simmerberg   `#aktienbrauereisimmerberg`{:.key} <br>
 Weiler-Simmerberg //  <br>
-{:.brewery}
+{: .brewery #aktienbrauereisimmerberg }
 
 
-##### Weilheim in Oberbayern 
+##### Weilheim in Oberbayern  
+{: .city #weilheiminoberbayern }
 
 
-Dachsbräu -   <br>
+
+ Dachsbräu   `#dachsbraeu`{:.key} <br>
 Weilheim in Oberbayern //  <br>
-{:.brewery}
+{: .brewery #dachsbraeu }
 
 
-##### Weismain 
+##### Weismain  
+{: .city #weismain }
 
 
-Weismainer Püls-Bräu -   <br>
+
+ Weismainer Püls-Bräu   `#weismainerpuelsbraeu`{:.key} <br>
 96260 Weismain // Burgkunstadter Straße 41-43  <br>
-{:.brewery}
+{: .brewery #weismainerpuelsbraeu }
 
 
-##### Weissenstadt 
+##### Weissenstadt  
+{: .city #weissenstadt }
 
 
-Brauerei Hermann Michael -   <br>
+
+ Brauerei Hermann Michael   `#brauereihermannmichael`{:.key} <br>
 95163 Weissenstadt // Kirchenlamitzer Straße 64-66  <br>
-{:.brewery}
+{: .brewery #brauereihermannmichael }
 
 
-##### Weißenbrunn 
+##### Weißenbrunn  
+{: .city #weissenbrunn }
 
 
-Gampert Bräu Gebr. Gampert -   <br>
+
+ Gampert Bräu Gebr. Gampert   `#gampertbraeugebrgampert`{:.key} <br>
 96369 Weißenbrunn // Braustraße 2-4  <br>
-{:.brewery}
+{: .brewery #gampertbraeugebrgampert }
 
 
-##### Weißenburg in Bayern  _(2)_{:.count} 
+##### Weißenburg in Bayern _(2)_{:.count} 
+{: .city #weissenburginbayern }
 
 
-Schneider Bräu -   <br>
+
+ Schneider Bräu   `#schneiderbraeu`{:.key} <br>
 Weißenburg in Bayern  //  <br>
-{:.brewery}
+{: .brewery #schneiderbraeu }
 
 
-Brauerei Sigwart -   <br>
+ Brauerei Sigwart   `#brauereisigwart`{:.key} <br>
 Weißenburg in Bayern //  <br>
-{:.brewery}
+{: .brewery #brauereisigwart }
 
 
-##### Weißenohe 
+##### Weißenohe  
+{: .city #weissenohe }
 
 
-Klosterbrauerei Weissenohe -   <br>
+
+ Klosterbrauerei Weissenohe   `#klosterbrauereiweissenohe`{:.key} <br>
 91367 Weißenohe // Klosterstraße 20  <br>
-{:.brewery}
+{: .brewery #klosterbrauereiweissenohe }
 
 
-##### Werneck 
+##### Werneck  
+{: .city #werneck }
 
 
-Wernecker Brauerei -   <br>
+
+ Wernecker Brauerei   `#werneckerbrauerei`{:.key} <br>
 Werneck //  <br>
-{:.brewery}
+{: .brewery #werneckerbrauerei }
 
 
-##### Wertingen 
+##### Wertingen  
+{: .city #wertingen }
 
 
-Schwanenbräu -   <br>
+
+ Schwanenbräu   `#schwanenbraeu`{:.key} <br>
 Wertingen //  <br>
-{:.brewery}
+{: .brewery #schwanenbraeu }
 
 
-##### Wettelsheim 
+##### Wettelsheim  
+{: .city #wettelsheim }
 
 
-Brauerei Strauß -   <br>
+
+ Brauerei Strauß   `#brauereistrauss`{:.key} <br>
 Wettelsheim //  <br>
-{:.brewery}
+{: .brewery #brauereistrauss }
 
 
-##### Weyarn 
+##### Weyarn  
+{: .city #weyarn }
 
 
-Dietl Bräu -   <br>
+
+ Dietl Bräu   `#dietlbraeu`{:.key} <br>
 Weyarn //  <br>
-{:.brewery}
+{: .brewery #dietlbraeu }
 
 
-##### Wiesen 
+##### Wiesen  
+{: .city #wiesen }
 
 
-Bürgerliches Brauhaus Wiesen -   <br>
+
+ Bürgerliches Brauhaus Wiesen   `#buergerlichesbrauhauswiesen`{:.key} <br>
 Wiesen //  <br>
-{:.brewery}
+{: .brewery #buergerlichesbrauhauswiesen }
 
 
-##### Wildenberg 
+##### Wildenberg  
+{: .city #wildenberg }
 
 
-Gasthausbrauerei Frühmorgen -   <br>
+
+ Gasthausbrauerei Frühmorgen   `#gasthausbrauereifruehmorgen`{:.key} <br>
 Wildenberg //  <br>
-{:.brewery}
+{: .brewery #gasthausbrauereifruehmorgen }
 
 
-##### Windischeschenbach 
+##### Windischeschenbach  
+{: .city #windischeschenbach }
 
 
-Würth Brauerei -   <br>
+
+ Würth Brauerei   `#wuerthbrauerei`{:.key} <br>
 Windischeschenbach //  <br>
-{:.brewery}
+{: .brewery #wuerthbrauerei }
 
 
-##### Wolnzach 
+##### Wolnzach  
+{: .city #wolnzach }
 
 
-Bürgerbräu Wolnzach -   <br>
+
+ Bürgerbräu Wolnzach   `#buergerbraeuwolnzach`{:.key} <br>
 Wolnzach //  <br>
-{:.brewery}
+{: .brewery #buergerbraeuwolnzach }
 
 
-##### Wunsiedel 
+##### Wunsiedel  
+{: .city #wunsiedel }
 
 
-Hönicka-Bräu -   <br>
+
+ Hönicka-Bräu   `#hoenickabraeu`{:.key} <br>
 95632 Wunsiedel // Hofer Straße 31  <br>
-{:.brewery}
+{: .brewery #hoenickabraeu }
 
 
-##### Wunsiedel-Schönbrunn 
+##### Wunsiedel-Schönbrunn  
+{: .city #wunsiedelschoenbrunn }
 
 
-Lang-Bräu Schönbrunn -   <br>
+
+ Lang-Bräu Schönbrunn   `#langbraeuschoenbrunn`{:.key} <br>
 95632 Wunsiedel-Schönbrunn // Bayreuther Straße 19  <br>
-{:.brewery}
+{: .brewery #langbraeuschoenbrunn }
 
 
-##### Würgau 
+##### Würgau  
+{: .city #wuergau }
 
 
-Brauerei Gasthof Hartmann - 1550  <br>
+
+ Brauerei Gasthof Hartmann  - 1550   `#brauereigasthofhartmann`{:.key} <br>
 96110 Würgau // Fränkische-Schweiz-Straße 26  <br>
 [www.brauerei-hartmann.de](http://www.brauerei-hartmann.de)  <br>
-{:.brewery}
+{: .brewery #brauereigasthofhartmann }
 
 
-##### Würzburg  _(2)_{:.count} 
+##### Würzburg _(2)_{:.count} 
+{: .city #wuerzburg }
 
 
-Goldene Gans -   <br>
+
+ Goldene Gans   `#goldenegans`{:.key} <br>
 Würzburg //  <br>
-{:.brewery}
+{: .brewery #goldenegans }
 
 
-Würzburger Hofbräu -   <br>
+ Würzburger Hofbräu   `#wuerzburgerhofbraeu`{:.key} <br>
 Würzburg //  <br>
-{:.brewery}
+{: .brewery #wuerzburgerhofbraeu }
 
 
-##### Zeil am Main 
+##### Zeil am Main  
+{: .city #zeilammain }
 
 
-Brauerei Göller -   <br>
+
+ Brauerei Göller   `#brauereigoeller`{:.key} <br>
 Zeil am Main //  <br>
-{:.brewery}
+{: .brewery #brauereigoeller }
 
 
-##### Zentbechhofen-Höchstadt 
+##### Zentbechhofen-Höchstadt  
+{: .city #zentbechhofenhoechstadt }
 
 
-Brauerei Friedel -   <br>
+
+ Brauerei Friedel   `#brauereifriedel`{:.key} <br>
 Zentbechhofen-Höchstadt //  <br>
-{:.brewery}
+{: .brewery #brauereifriedel }
 
 
-##### Zirndorf 
+##### Zirndorf  
+{: .city #zirndorf }
 
 
-Zirndorfer Brauerei -   <br>
+
+ Zirndorfer Brauerei   `#zirndorferbrauerei`{:.key} <br>
 Zirndorf //  <br>
-{:.brewery}
+{: .brewery #zirndorferbrauerei }
 
 
-##### Zwiesel  _(2)_{:.count} 
+##### Zwiesel _(2)_{:.count} 
+{: .city #zwiesel }
 
 
-1. Dampfbierbrauerei Zwiesel -   <br>
+
+ 1. Dampfbierbrauerei Zwiesel   `#zwiesel`{:.key} <br>
 94227 Zwiesel // Regener Straße 9  <br>
 [www.dampfbier.de](http://www.dampfbier.de)  <br>
-{:.brewery}
+{: .brewery #zwiesel }
 
 
-Janka Bräu -   <br>
+ Janka Bräu   `#jankabraeu`{:.key} <br>
 Zwiesel //  <br>
-{:.brewery}
+{: .brewery #jankabraeu }
 
 
 
 
 
-### Berlin _(21)_{:.count} {: #de-be }
+### Berlin _(21)_{:.count}
+{: #de-be }
 
 
 
 
-##### Berlin  _(21)_{:.count} 
+##### Berlin _(21)_{:.count}  _pop 3.501.872 (3.453.000)_{:.pop}
+{: .city #berlin }
 
 
-Berliner-Kindl-Schultheiss-Brauerei - 1870  <br>
+
+ Berliner-Kindl-Schultheiss-Brauerei  - 1870   `#berlinerkindl`{:.key} <br>
 13053 Berlin // Indira-Gandhi-Straße 66  <br>
 [www.berliner-kindl.de](http://www.berliner-kindl.de)  <br>
-{:.brewery}
+{: .brewery #berlinerkindl }
 
 
-Berliner Bürgerbräu - 1869  <br>
+ Berliner Bürgerbräu  - 1869   `#berlinerbuergerbraeu`{:.key} <br>
 Berlin //  <br>
-{:.brewery}
+{: .brewery #berlinerbuergerbraeu }
 
 
-Bier-Company -   <br>
+ Bier-Company   `#biercompany`{:.key} <br>
 Berlin //  <br>
 [www.bier-company.de](http://www.bier-company.de)  <br>
-{:.brewery}
+{: .brewery #biercompany }
 
 
-Bolzen Bier -   <br>
+ Bolzen Bier   `#bolzenbier`{:.key} <br>
 Berlin //  <br>
 [www.bolzen-bier.de](http://www.bolzen-bier.de)  <br>
-{:.brewery}
+{: .brewery #bolzenbier }
 
 
-Brauhaus Bohnsdorf -   <br>
+ Brauhaus Bohnsdorf   `#bohnsdorf`{:.key} <br>
 Berlin //  <br>
 [www.brauhaus-bohnsdorf.com](http://www.brauhaus-bohnsdorf.com)  <br>
-{:.brewery}
+{: .brewery #bohnsdorf }
 
 
-Brauhaus Georgbräu - 1992  <br>
+ Brauhaus Georgbräu  - 1992   `#georgbraeu`{:.key} <br>
 Berlin //  <br>
-{:.brewery}
+{: .brewery #georgbraeu }
 
 
-Brauhaus in Rixdorf -   <br>
+ Brauhaus in Rixdorf   `#brauhausinrixdorf`{:.key} <br>
 Berlin //  <br>
 [www.brauhaus-rixdorf.de](http://www.brauhaus-rixdorf.de)  <br>
-{:.brewery}
+{: .brewery #brauhausinrixdorf }
 
 
-Brauhaus in Spandau -   <br>
+ Brauhaus in Spandau   `#brauhausinspandau`{:.key} <br>
 Berlin //  <br>
 [www.brauhaus-spandau.de](http://www.brauhaus-spandau.de)  <br>
-{:.brewery}
+{: .brewery #brauhausinspandau }
 
 
-Brauhaus Südstern -   <br>
+ Brauhaus Südstern   `#suedstern`{:.key} <br>
 Berlin //  <br>
 [www.brauhaus-suedstern.de](http://www.brauhaus-suedstern.de)  <br>
-{:.brewery}
+{: .brewery #suedstern }
 
 
-BrewBaker -   <br>
+ BrewBaker   `#brewbaker`{:.key} <br>
 10551 Berlin // Arminiusstr. 2-4  <br>
 [www.brewbaker.de](http://www.brewbaker.de)  <br>
-{:.brewery}
+{: .brewery #brewbaker }
 
 
-Flessa Bräu -   <br>
+ Flessa Bräu   `#flessabraeu`{:.key} <br>
 Berlin //  <br>
 [www.brauerei-flessa.de](http://www.brauerei-flessa.de)  <br>
-{:.brewery}
+{: .brewery #flessabraeu }
 
 
-Fucking Hell -   <br>
+ Fucking Hell   `#fuckinghell`{:.key} <br>
 Berlin //  <br>
 [www.fucking-hell.de](http://www.fucking-hell.de)  <br>
-{:.brewery}
+{: .brewery #fuckinghell }
 
 
-Bären-Bräu (Getränkezukunft) -   <br>
+ Bären-Bräu (Getränkezukunft)   `#baerenbraeu`{:.key} <br>
 Berlin //  <br>
 [www.berlinerbaerenbraeu.de](http://www.berlinerbaerenbraeu.de)  <br>
-{:.brewery}
+{: .brewery #baerenbraeu }
 
 
-Hausbrauerei Eschenbräu -   <br>
+ Hausbrauerei Eschenbräu   `#eschenbraeu`{:.key} <br>
 Berlin //  <br>
 [www.eschenbraeu.de](http://www.eschenbraeu.de)  <br>
-{:.brewery}
+{: .brewery #eschenbraeu }
 
 
-Microbrauerei Barkowsky - 2000  <br>
+ Microbrauerei Barkowsky  - 2000   `#barkowsky`{:.key} <br>
 Berlin //  <br>
 [www.brau-dein-bier.de](http://www.brau-dein-bier.de)  <br>
-{:.brewery}
+{: .brewery #barkowsky }
 
 
-Privatbrauerei Am Rollberg -   <br>
+ Privatbrauerei Am Rollberg   `#rollberg`{:.key} <br>
 Berlin //  <br>
 [www.rollberger.de](http://www.rollberger.de)  <br>
-{:.brewery}
+{: .brewery #rollberg }
 
 
-Schlossplatz Brauerei Cöpenick -   <br>
+ Schlossplatz Brauerei Cöpenick   `#coepenick`{:.key} <br>
 Berlin //  <br>
-{:.brewery}
+{: .brewery #coepenick }
 
 
-Vagabund Brauerei - 2011  <br>
+ Vagabund Brauerei  - 2011   `#vagabund`{:.key} <br>
 13353 Berlin // Antwerpenerstr. 3  <br>
 [www.vagabundbrauerei.com](http://www.vagabundbrauerei.com)  <br>
-{:.brewery}
+{: .brewery #vagabund }
 
 
-Schoppe Bräu - 1990  <br>
+ Schoppe Bräu  - 1990   `#schoppebraeu`{:.key} <br>
 10967 Berlin // Hasenheide 69  <br>
 [www.schoppebraeu.de](http://www.schoppebraeu.de)  <br>
-{:.brewery}
+{: .brewery #schoppebraeu }
 
 
-Hops & Barley Hausbrauerei - 2008  <br>
+ Hops & Barley Hausbrauerei  - 2008   `#hopsandbarley`{:.key} <br>
 10245 Berlin // Wühlischstraße 22-23  <br>
 [www.hopsandbarley-berlin.de](http://www.hopsandbarley-berlin.de)  <br>
-{:.brewery}
+{: .brewery #hopsandbarley }
 
 
-Schalander Hausbrauerei - 2009  <br>
+ Schalander Hausbrauerei  - 2009   `#schalander`{:.key} <br>
 Berlin //  <br>
-{:.brewery}
+{: .brewery #schalander }
 
 
 
 
 
-### Brandenburg _(14)_{:.count} {: #de-bb }
+### Brandenburg _(14)_{:.count}
+{: #de-bb }
 
 
 [Brandenburg a.d. Havel](#brandenburgadhavel) • [Drebkau](#drebkau) • [Finsterwalde](#finsterwalde) • [Luckau](#luckau) • [Lübbenau](#luebbenau) • [Müncheberg](#muencheberg) • [Neuzelle](#neuzelle) • [Potsdam](#potsdam) _(3)_{:.count} • [Rathenow](#rathenow) • [Schlepzig](#schlepzig) • [Wusterhausen](#wusterhausen)
 
-##### Brandenburg a.d. Havel 
+##### Brandenburg a.d. Havel  
+{: .city #brandenburgadhavel }
 
 
-Bräuhaus Kneipe Pur -   <br>
+
+ Bräuhaus Kneipe Pur   `#braeuhauskneipepur`{:.key} <br>
 Brandenburg a.d. Havel //  <br>
 [www.kneipepur.de](http://www.kneipepur.de)  <br>
-{:.brewery}
+{: .brewery #braeuhauskneipepur }
 
 
-##### Drebkau 
+##### Drebkau  
+{: .city #drebkau }
 
 
-Kircher Brauhaus -   <br>
+
+ Kircher Brauhaus   `#kircherbrauhaus`{:.key} <br>
 Drebkau //  <br>
 [www.kircher-brauhaus.de](http://www.kircher-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #kircherbrauhaus }
 
 
-##### Finsterwalde 
+##### Finsterwalde  
+{: .city #finsterwalde }
 
 
-Radigks Brauhaus Finsterwalde - 1997  <br>
+
+ Radigks Brauhaus Finsterwalde  - 1997   `#radigksbrauhausfinsterwalde`{:.key} <br>
 Finsterwalde //  <br>
-{:.brewery}
+{: .brewery #radigksbrauhausfinsterwalde }
 
 
-##### Luckau 
+##### Luckau  
+{: .city #luckau }
 
 
-Schlossbrauerei Fürstlich Drehna - 1745  <br>
+
+ Schlossbrauerei Fürstlich Drehna  - 1745   `#schlossbrauereifuerstlichdrehna`{:.key} <br>
 Luckau //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereifuerstlichdrehna }
 
 
-##### Lübbenau 
+##### Lübbenau  
+{: .city #luebbenau }
 
 
-Brauhaus und Pension Babben -   <br>
+
+ Brauhaus und Pension Babben   `#brauhausundpensionbabben`{:.key} <br>
 Lübbenau //  <br>
 [www.babben-bier.de](http://www.babben-bier.de)  <br>
-{:.brewery}
+{: .brewery #brauhausundpensionbabben }
 
 
-##### Müncheberg 
+##### Müncheberg  
+{: .city #muencheberg }
 
 
-Pilgerbier -   <br>
+
+ Pilgerbier   `#pilgerbier`{:.key} <br>
 Müncheberg //  <br>
 [www.pilgerbier.com](http://www.pilgerbier.com)  <br>
-{:.brewery}
+{: .brewery #pilgerbier }
 
 
-##### Neuzelle 
+##### Neuzelle  
+{: .city #neuzelle }
 
 
-Klosterbrauerei Neuzelle - 1589  <br>
+
+ Klosterbrauerei Neuzelle  - 1589   `#klosterbrauereineuzelle`{:.key} <br>
 Neuzelle //  <br>
-{:.brewery}
+{: .brewery #klosterbrauereineuzelle }
 
 
-##### Potsdam  _(3)_{:.count} 
+##### Potsdam _(3)_{:.count} 
+{: .city #potsdam }
 
 
-Braumanufaktur Forsthaus Templin -   <br>
+
+ Braumanufaktur Forsthaus Templin   `#braumanufaktur`{:.key} <br>
 14473 Potsdam // Templiner Straße 102  <br>
 [www.braumanufaktur.de](http://www.braumanufaktur.de)  <br>
-{:.brewery}
+{: .brewery #braumanufaktur }
 
 
-Laggner Krongut Bornstedt -   <br>
+ Laggner Krongut Bornstedt   `#laggnerkrongutbornstedt`{:.key} <br>
 Potsdam //  <br>
 [www.krongut-bornstedt.de](http://www.krongut-bornstedt.de)  <br>
-{:.brewery}
+{: .brewery #laggnerkrongutbornstedt }
 
 
-Gasthausbrauerei Meierei im Neuen Garten -   <br>
+ Gasthausbrauerei Meierei im Neuen Garten   `#gasthausbrauereimeiereiimneuengarten`{:.key} <br>
 Potsdam //  <br>
 [www.meierei-potsdam.de](http://www.meierei-potsdam.de)  <br>
-{:.brewery}
+{: .brewery #gasthausbrauereimeiereiimneuengarten }
 
 
-##### Rathenow 
+##### Rathenow  
+{: .city #rathenow }
 
 
-Märkische Bierstuben -   <br>
+
+ Märkische Bierstuben   `#maerkischebierstuben`{:.key} <br>
 Rathenow //  <br>
 [www.maerkische-bierstuben.de](http://www.maerkische-bierstuben.de)  <br>
-{:.brewery}
+{: .brewery #maerkischebierstuben }
 
 
-##### Schlepzig 
+##### Schlepzig  
+{: .city #schlepzig }
 
 
-Spreewälder Privatbrauerei - 1788  <br>
+
+ Spreewälder Privatbrauerei  - 1788   `#spreewaelderprivatbrauerei`{:.key} <br>
 Schlepzig //  <br>
-{:.brewery}
+{: .brewery #spreewaelderprivatbrauerei }
 
 
-##### Wusterhausen 
+##### Wusterhausen  
+{: .city #wusterhausen }
 
 
-Schlossbrauerei Dessow -   <br>
+
+ Schlossbrauerei Dessow   `#schlossbrauereidessow`{:.key} <br>
 Wusterhausen //  <br>
-{:.brewery}
+{: .brewery #schlossbrauereidessow }
 
 
 
 
 
-### Bremen _(4)_{:.count} {: #de-hb }
+### Bremen _(4)_{:.count}
+{: #de-hb }
 
 
 
 
-##### Bremen  _(4)_{:.count} 
+##### Bremen _(4)_{:.count}  _pop 548.319_{:.pop}
+{: .city #bremen }
 
 
-Brauerei Beck - 1873  <br>
+
+ Brauerei Beck  - 1873   `#beck`{:.key} <br>
 28199 Bremen // Am Deich 18/19  <br>
 [www.becks.de](http://www.becks.de)  <br>
-{:.brewery}
+{: .brewery #beck }
 
 
-Haake-Beck Brauerei - 1826  <br>
+ Haake-Beck Brauerei  - 1826   `#haakebeck`{:.key} <br>
 28199 Bremen // Am Deich 18/19  <br>
 [www.haake-beck.de](http://www.haake-beck.de)  <br>
-{:.brewery}
+{: .brewery #haakebeck }
 
 
-Schüttinger Gasthausbrauerei (Erste Bremer Gasthausbrauerei) - 1990  <br>
+ Schüttinger Gasthausbrauerei (Erste Bremer Gasthausbrauerei)  - 1990   `#schuettinger`{:.key} <br>
 Bremen //  <br>
 [www.schuettinger.de](http://www.schuettinger.de)  <br>
-{:.brewery}
+{: .brewery #schuettinger }
 
 
-Borgfelder Landhaus -   <br>
+ Borgfelder Landhaus   `#borgfelder`{:.key} <br>
 Bremen //  <br>
 [www.borgfelder-landhaus.de](http://www.borgfelder-landhaus.de)  <br>
-{:.brewery}
+{: .brewery #borgfelder }
 
 
 
 
 
-### Hamburg _(6)_{:.count} {: #de-hh }
+### Hamburg _(6)_{:.count}
+{: #de-hh }
 
 
 
 
-##### Hamburg  _(6)_{:.count} 
+##### Hamburg _(6)_{:.count}  _pop 1.798.836 (1.794.000)_{:.pop}
+{: .city #hamburg }
 
 
-Holsten Brauerei - 1879  <br>
+
+ Holsten Brauerei  - 1879   `#holsten`{:.key} <br>
 22765 Hamburg (Altona-Nord) // Holstenstraße 224  <br>
 [www.holsten-pilsener.de](http://www.holsten-pilsener.de)  <br>
-{:.brewery}
+{: .brewery #holsten }
 
 
-Gröninger Privatbrauerei - 1982  <br>
+ Gröninger Privatbrauerei  - 1982   `#groeninger`{:.key} <br>
 20457 Hamburg (Altstadt) // Willy-Brandt-Straße 47  <br>
 [www.groeninger-hamburg.de](http://www.groeninger-hamburg.de)  <br>
-{:.brewery}
+{: .brewery #groeninger }
 
 
-Gröninger Braukeller -   <br>
+ Gröninger Braukeller   `#groenigerbraukeller`{:.key} <br>
 Hamburg //  <br>
-{:.brewery}
+{: .brewery #groenigerbraukeller }
 
 
-Gröninger Brauhaus -   <br>
+ Gröninger Brauhaus   `#groeningerbrauhaus`{:.key} <br>
 Hamburg //  <br>
-{:.brewery}
+{: .brewery #groeningerbrauhaus }
 
 
-Ratsherrn Brauerei - 2010  <br>
+ Ratsherrn Brauerei  - 2010   `#ratsherrn`{:.key} <br>
 20357 Hamburg (St. Pauli) // Lagerstraße 30A  <br>
 [www.ratsherrn.de](http://www.ratsherrn.de)  <br>
-{:.brewery}
+{: .brewery #ratsherrn }
 
 
-Premium Kollektiv -   <br>
+ Premium Kollektiv   `#premiumkollektiv`{:.key} <br>
 20539 Hamburg // Vierländer Damm 56  <br>
-{:.brewery}
+{: .brewery #premiumkollektiv }
 
 
 
 
 
-### Hessen [Hesse] _(28)_{:.count} {: #de-he }
+### Hessen [Hesse] _(28)_{:.count}
+{: #de-he }
 
 
 [Alsfeld](#alsfeld) • [Babenhausen](#babenhausen) • [Bad Orb](#badorb) • [Baunatal](#baunatal) _(2)_{:.count} • [Darmstadt](#darmstadt) _(2)_{:.count} • [Erbach im Odenwald](#erbachimodenwald) • [Eschwege](#eschwege) _(2)_{:.count} • [Frankfurt](#frankfurt) _(2)_{:.count} • [Frankfurt / Main](#frankfurtmain) • [Frankfurt am Main](#frankfurtammain) _(2)_{:.count} • [Frankfurt-Sachsenhausen-Süd](#frankfurtsachsenhausensued) • [Fulda](#fulda) _(2)_{:.count} • [Kassel](#kassel) • [Lich](#lich) • [Michelstadt](#michelstadt) _(3)_{:.count} • [Mossautal](#mossautal) • [Offenbach am Main](#offenbachammain) • [Pfungstadt](#pfungstadt) • [Seligenstadt](#seligenstadt) • [Willingen](#willingen) • [Witzenhausen](#witzenhausen)
 
-##### Alsfeld 
+##### Alsfeld  
+{: .city #alsfeld }
 
 
-Brauerei Alsfeld - 1858  <br>
+
+ Brauerei Alsfeld  - 1858   `#alsfeld`{:.key} <br>
 Alsfeld //  <br>
 [www.alsfelder.de](http://www.alsfelder.de)  <br>
-{:.brewery}
+{: .brewery #alsfeld }
 
 
-##### Babenhausen 
+##### Babenhausen  
+{: .city #babenhausen }
 
 
-Privatbrauerei Michelsbräu - 1707  <br>
+
+ Privatbrauerei Michelsbräu  - 1707   `#michelsbraeu`{:.key} <br>
 Babenhausen //  <br>
-{:.brewery}
+{: .brewery #michelsbraeu }
 
 
-##### Bad Orb 
+##### Bad Orb  
+{: .city #badorb }
 
 
-Kärrners Hausbrauerei -   <br>
+
+ Kärrners Hausbrauerei   `#kaerrners`{:.key} <br>
 63619 Bad Orb // Kurparkstraße 7  <br>
 [www.kaerrners.de](http://www.kaerrners.de)  <br>
-{:.brewery}
+{: .brewery #kaerrners }
 
 
-##### Baunatal  _(2)_{:.count} 
+##### Baunatal _(2)_{:.count} 
+{: .city #baunatal }
 
 
-Hütt-Brauerei - 1752  <br>
+
+ Hütt-Brauerei  - 1752   `#huett`{:.key} <br>
 34225 Baunatal // Knallhütte  <br>
 [www.huett.de](http://www.huett.de)  <br>
-{:.brewery}
+{: .brewery #huett }
 
 
-Hessische Löwenbier Brauerei - 1870  <br>
+ Hessische Löwenbier Brauerei  - 1870   `#hessische`{:.key} <br>
 Baunatal //  <br>
 [www.hessisches-loewenbier.de](http://www.hessisches-loewenbier.de)  <br>
-{:.brewery}
+{: .brewery #hessische }
 
 
-##### Darmstadt  _(2)_{:.count} 
+##### Darmstadt _(2)_{:.count} 
+{: .city #darmstadt }
 
 
-Darmstädter Privatbrauerei - 1847  <br>
+
+ Darmstädter Privatbrauerei  - 1847  _freien brauer_{:.tags} `#darmstaedter`{:.key} <br>
 64293 Darmstadt // Goebelstraße 7  <br>
 [www.darmstaedter.de](http://www.darmstaedter.de)  <br>
-{:.brewery}
+{: .brewery #darmstaedter }
 
 
-Brauerei Grohe -   <br>
+ Brauerei Grohe   `#grohe`{:.key} <br>
 64283 Darmstadt // Nieder-Ramstädter Straße 3  <br>
 [www.brauerei-grohe.de](http://www.brauerei-grohe.de)  <br>
-{:.brewery}
+{: .brewery #grohe }
 
 
-##### Erbach im Odenwald 
+##### Erbach im Odenwald  
+{: .city #erbachimodenwald }
 
 
-Erbacher Brauhaus - 1786  <br>
+
+ Erbacher Brauhaus  - 1786   `#erbacher`{:.key} <br>
 64711 Erbach im Odenwald // Jahnstr.1  <br>
 [www.brauereiausschank.de](http://www.brauereiausschank.de)  <br>
-{:.brewery}
+{: .brewery #erbacher }
 
 
-##### Eschwege  _(2)_{:.count} 
+##### Eschwege _(2)_{:.count} 
+{: .city #eschwege }
 
 
-Eschweger Klosterbrauerei - 1839  <br>
+
+ Eschweger Klosterbrauerei  - 1839   `#eschweger`{:.key} <br>
 Eschwege //  <br>
-{:.brewery}
+{: .brewery #eschweger }
 
 
-Duff Beer -   <br>
+ Duff Beer   `#duff`{:.key} <br>
 37269 Eschwege // Thüringer Straße 19  <br>
 [www.duff-bier.de](http://www.duff-bier.de)  <br>
-{:.brewery}
+{: .brewery #duff }
 
 
-##### Frankfurt  _(2)_{:.count} 
+##### Frankfurt _(2)_{:.count}  _pop 691.518 (2.300.000)_{:.pop}
+{: .city #frankfurt }
 
 
-Frankfurter Brauhaus - 1988  <br>
+
+ Frankfurter Brauhaus  - 1988   `#frankfurterbrauhaus`{:.key} <br>
 Frankfurt (Oder) //  <br>
-{:.brewery}
+{: .brewery #frankfurterbrauhaus }
 
 
-Schöfferhofer Weizenbier -   <br>
+ Schöfferhofer Weizenbier   `#schoefferhofer`{:.key} <br>
 Frankfurt //  <br>
 [www.schoefferhofer.de](http://www.schoefferhofer.de)  <br>
-{:.brewery}
+{: .brewery #schoefferhofer }
 
 
-##### Frankfurt / Main 
+##### Frankfurt / Main  
+{: .city #frankfurtmain }
 
 
-Braufactum -   <br>
+
+ Braufactum   `#braufactum`{:.key} <br>
 Frankfurt / Main //  <br>
 [www.brau-manufacturen.de](http://www.brau-manufacturen.de)  <br>
-{:.brewery}
+{: .brewery #braufactum }
 
 
-##### Frankfurt am Main  _(2)_{:.count} 
+##### Frankfurt am Main _(2)_{:.count} 
+{: .city #frankfurtammain }
 
 
-Die Internationale Brau-Manufacturen -   <br>
+
+ Die Internationale Brau-Manufacturen   `#braumanufacturen`{:.key} <br>
 Frankfurt am Main //  <br>
 [www.brau-manufacturen.de](http://www.brau-manufacturen.de)  <br>
-{:.brewery}
+{: .brewery #braumanufacturen }
 
 
-Henninger Bräu - 1655  <br>
+ Henninger Bräu  - 1655   `#hinninger`{:.key} <br>
 Frankfurt am Main //  <br>
-{:.brewery}
+{: .brewery #hinninger }
 
 
-##### Frankfurt-Sachsenhausen-Süd 
+##### Frankfurt-Sachsenhausen-Süd  
+{: .city #frankfurtsachsenhausensued }
 
 
-Binding-Brauerei - 1870  <br>
+
+ Binding-Brauerei  - 1870   `#binding`{:.key} <br>
 60598 Frankfurt-Sachsenhausen-Süd // Darmstädter Landstr. 185  <br>
 [www.binding.de](http://www.binding.de)  <br>
-{:.brewery}
+{: .brewery #binding }
 
 
-##### Fulda  _(2)_{:.count} 
+##### Fulda _(2)_{:.count} 
+{: .city #fulda }
 
 
-Föllsch Brauerei - 2011  <br>
+
+ Föllsch Brauerei  - 2011   `#foelsch`{:.key} <br>
 Fulda //  <br>
-{:.brewery}
+{: .brewery #foelsch }
 
 
-Hochstiftliches Brauhaus Fulda - 1848  <br>
+ Hochstiftliches Brauhaus Fulda • Hochstift  - 1848   `#hochstift`{:.key} <br>
 36037 Fulda // Leipziger Straße 12  <br>
 [www.hochstift.de](http://www.hochstift.de)  <br>
-{:.brewery}
+{: .brewery #hochstift }
 
 
-##### Kassel 
+##### Kassel  
+{: .city #kassel }
 
 
-Martini Brauerei - 1859  <br>
+
+ Martini Brauerei  - 1859   `#martini`{:.key} <br>
 Kassel //  <br>
-{:.brewery}
+{: .brewery #martini }
 
 
-##### Lich 
+##### Lich  
+{: .city #lich }
 
 
-Licher Privatbrauerei 1854 -   <br>
+
+ Licher Privatbrauerei 1854   `#licher`{:.key} <br>
 Lich //  <br>
-{:.brewery}
+{: .brewery #licher }
 
 
-##### Michelstadt  _(3)_{:.count} 
+##### Michelstadt _(3)_{:.count} 
+{: .city #michelstadt }
 
 
-Brauerei Dörr -   <br>
+
+ Brauerei Dörr   `#michelstaedter`{:.key} <br>
 Michelstadt //  <br>
 [www.michelstaedterbier.de](http://www.michelstaedterbier.de)  <br>
-{:.brewery}
+{: .brewery #michelstaedter }
 
 
-Braukunstkeller -   <br>
+ Braukunstkeller   `#braukunstkeller`{:.key} <br>
 Michelstadt //  <br>
 [www.braukunstkeller.de](http://www.braukunstkeller.de)  <br>
-{:.brewery}
+{: .brewery #braukunstkeller }
 
 
-Michelstädter Rathausbräu -   <br>
+ Michelstädter Rathausbräu   `#rathausbraeu`{:.key} <br>
 Michelstadt //  <br>
 [www.rathausbraeu.de](http://www.rathausbraeu.de)  <br>
-{:.brewery}
+{: .brewery #rathausbraeu }
 
 
-##### Mossautal 
+##### Mossautal  
+{: .city #mossautal }
 
 
-Privat-Brauerei Schmucker - 1780  <br>
+
+ Privat-Brauerei Schmucker  - 1780   `#schmucker`{:.key} <br>
 Mossautal //  <br>
-{:.brewery}
+{: .brewery #schmucker }
 
 
-##### Offenbach am Main 
+##### Offenbach am Main  
+{: .city #offenbachammain }
 
 
-Wäldches Bräu -   <br>
+
+ Wäldches Bräu   `#waeldches`{:.key} <br>
 Offenbach am Main //  <br>
 [www.waeldches.de](http://www.waeldches.de)  <br>
-{:.brewery}
+{: .brewery #waeldches }
 
 
-##### Pfungstadt 
+##### Pfungstadt  
+{: .city #pfungstadt }
 
 
-Pfungstädter Brauerei - 1831  <br>
+
+ Pfungstädter Brauerei  - 1831   `#pfungstaedter`{:.key} <br>
 Pfungstadt //  <br>
-{:.brewery}
+{: .brewery #pfungstaedter }
 
 
-##### Seligenstadt 
+##### Seligenstadt  
+{: .city #seligenstadt }
 
 
-Glaabsbräu - 1744  <br>
+
+ Glaabsbräu  - 1744   `#glaasbraeu`{:.key} <br>
 Seligenstadt //  <br>
-{:.brewery}
+{: .brewery #glaasbraeu }
 
 
-##### Willingen 
+##### Willingen  
+{: .city #willingen }
 
 
-Willinger Brauhaus www.willinger-brauhaus.de -   <br>
+
+ Willinger Brauhaus www.willinger-brauhaus.de   `#willinger`{:.key} <br>
 34508 Willingen // In den Kämpen 2  <br>
-{:.brewery}
+{: .brewery #willinger }
 
 
-##### Witzenhausen 
+##### Witzenhausen  
+{: .city #witzenhausen }
 
 
-Schinkels Brauhaus -   <br>
+
+ Schinkels Brauhaus   `#schinkels`{:.key} <br>
 37213 Witzenhausen // Burgstraße 20  <br>
 [www.schinkels-brauhaus.de](http://www.schinkels-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #schinkels }
 
 
 
 
 
-### Mecklenburg-Vorpommern _(7)_{:.count} {: #de-mv }
+### Mecklenburg-Vorpommern _(7)_{:.count}
+{: #de-mv }
 
 
 [Dargun](#dargun) • [Groß Gievitz](#grossgievitz) • [Hansestadt Stralsund](#hansestadtstralsund) • [Lübz](#luebz) • [Mellenthin](#mellenthin) • [Rostock](#rostock) • [Vielank](#vielank)
 
-##### Dargun 
+##### Dargun  
+{: .city #dargun }
 
 
-Darguner Brauerei - 1991  <br>
+
+ Darguner Brauerei  - 1991   `#darunger`{:.key} <br>
 17159 Dargun // Brauereistraße 3  <br>
 [www.brauerei-dargun.de](http://www.brauerei-dargun.de)  <br>
-{:.brewery}
+{: .brewery #darunger }
 
 
-##### Groß Gievitz 
+##### Groß Gievitz  
+{: .city #grossgievitz }
 
 
-Eick Bräu -   <br>
+
+ Eick Bräu   `#eickbraeu`{:.key} <br>
 Groß Gievitz //  <br>
 [www.eickbraeu.de](http://www.eickbraeu.de)  <br>
-{:.brewery}
+{: .brewery #eickbraeu }
 
 
-##### Hansestadt Stralsund 
+##### Hansestadt Stralsund  
+{: .city #hansestadtstralsund }
 
 
-Stralsunder Brauerei - 1827  <br>
+
+ Stralsunder Brauerei • Störtebeker Braumanufaktur  - 1827   `#stralsunder`{:.key} <br>
 18439 Hansestadt Stralsund // Greifswalder Chaussee 84-85  <br>
 [www.stralsunder.de](http://www.stralsunder.de)  <br>
-{:.brewery}
+{: .brewery #stralsunder }
 
 
-##### Lübz 
+##### Lübz  
+{: .city #luebz }
 
 
-Mecklenburgische Brauerei Lübz - 1877  <br>
+
+ Mecklenburgische Brauerei Lübz  - 1877   `#luebz`{:.key} <br>
 19386 Lübz // Eisenbeissstraße 1  <br>
 [www.luebzer.de](http://www.luebzer.de)  <br>
-{:.brewery}
+{: .brewery #luebz }
 
 
-##### Mellenthin 
+##### Mellenthin  
+{: .city #mellenthin }
 
 
-Wasserschloss Mellenthin Brauerei - 2011  <br>
+
+ Wasserschloss Mellenthin Brauerei  - 2011   `#wasserschlossmellenthinbrauerei`{:.key} <br>
 Mellenthin //  <br>
-{:.brewery}
+{: .brewery #wasserschlossmellenthinbrauerei }
 
 
-##### Rostock 
+##### Rostock  
+{: .city #rostock }
 
 
-Hanseatische Brauerei Rostock - 1878  <br>
+
+ Hanseatische Brauerei Rostock  - 1878   `#rostock`{:.key} <br>
 18057 Rostock // Doberaner Straße 27  <br>
 [www.rostocker.de](http://www.rostocker.de)  <br>
-{:.brewery}
+{: .brewery #rostock }
 
 
-##### Vielank 
+##### Vielank  
+{: .city #vielank }
 
 
-Vielanker Brauhaus -   <br>
+
+ Vielanker Brauhaus   `#vielankerbrauhaus`{:.key} <br>
 Vielank //  <br>
 [www.vielanker-brauhaus.de](http://www.vielanker-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #vielankerbrauhaus }
 
 
 
 
 
-### Niedersachsen [Lower Saxony] _(25)_{:.count} {: #de-ni }
+### Niedersachsen [Lower Saxony] _(25)_{:.count}
+{: #de-ni }
 
 
 [Braunschweig](#braunschweig) _(3)_{:.count} • [Celle](#celle) • [Dahlenburg](#dahlenburg) • [Einbeck](#einbeck) • [Großefehn](#grossefehn) • [Großefehn-Bagband](#grossefehnbagband) • [Hannover](#hannover) _(2)_{:.count} • [Hannover-Altstadt](#hannoveraltstadt) • [Holzminden](#holzminden) • [Jever](#jever) • [Langeoog](#langeoog) • [Lauenau](#lauenau) • [Lüneburg](#lueneburg) • [Lünne](#luenne) • [Nortrup](#nortrup) • [Nörten-Hardenberg](#noertenhardenberg) • [Osnabrück](#osnabrueck) • [Peine](#peine) • [Stadthagen](#stadthagen) • [Uslar](#uslar) • [Varel](#varel) • [Wittingen](#wittingen)
 
-##### Braunschweig  _(3)_{:.count} 
+##### Braunschweig _(3)_{:.count} 
+{: .city #braunschweig }
 
 
-5,0 Biervertrieb -   <br>
+
+ 5,0 Biervertrieb   `#fix50bier`{:.key} <br>
 38102 Braunschweig // Böcklerstrasse 31  <br>
 [www.5-0-original.de](http://www.5-0-original.de)  <br>
-{:.brewery}
+{: .brewery #fix50bier }
 
 
-Hofbrauhaus Wolters -   <br>
+ Hofbrauhaus Wolters   `#wolters`{:.key} <br>
 Braunschweig //  <br>
 [www.hofbrauhaus-wolters.de](http://www.hofbrauhaus-wolters.de)  <br>
-{:.brewery}
+{: .brewery #wolters }
 
 
-Mumme Brauerei -   <br>
+ Mumme Brauerei   `#mumme`{:.key} <br>
 Braunschweig //  <br>
 [www.bs-mumme.de](http://www.bs-mumme.de)  <br>
-{:.brewery}
+{: .brewery #mumme }
 
 
-##### Celle 
+##### Celle  
+{: .city #celle }
 
 
-Brauerei Carl Betz - 1893  <br>
+
+ Brauerei Carl Betz  - 1893   `#carlbetz`{:.key} <br>
 Celle //  <br>
-{:.brewery}
+{: .brewery #carlbetz }
 
 
-##### Dahlenburg 
+##### Dahlenburg  
+{: .city #dahlenburg }
 
 
-Sommerbecker Brauerei -   <br>
+
+ Sommerbecker Brauerei   `#sommerbecker`{:.key} <br>
 Dahlenburg //  <br>
 [www.sommerbecker-dachs.de](http://www.sommerbecker-dachs.de)  <br>
-{:.brewery}
+{: .brewery #sommerbecker }
 
 
-##### Einbeck 
+##### Einbeck  
+{: .city #einbeck }
 
 
-Einbecker Brauhaus - 1378  <br>
+
+ Einbecker Brauhaus  - 1378   `#einbecker`{:.key} <br>
 Einbeck //  <br>
-{:.brewery}
+{: .brewery #einbecker }
 
 
-##### Großefehn 
+##### Großefehn  
+{: .city #grossefehn }
 
 
-Friesenbräu Privat Brauerei -   <br>
+
+ Friesenbräu Privat Brauerei   `#friesenbraeu`{:.key} <br>
 Großefehn //  <br>
-{:.brewery}
+{: .brewery #friesenbraeu }
 
 
-##### Großefehn-Bagband 
+##### Großefehn-Bagband  
+{: .city #grossefehnbagband }
 
 
-Ostfriesen Bräu -   <br>
+
+ Ostfriesen Bräu   `#ostfriesenbraeu`{:.key} <br>
 Großefehn-Bagband //  <br>
 [www.ostfriesenbraeu.de](http://www.ostfriesenbraeu.de)  <br>
-{:.brewery}
+{: .brewery #ostfriesenbraeu }
 
 
-##### Hannover  _(2)_{:.count} 
+##### Hannover _(2)_{:.count}  _pop 525.875_{:.pop}
+{: .city #hannover }
 
 
-Gilde Brauerei -   <br>
+
+ Gilde Brauerei   `#gildebrau`{:.key} <br>
 Hannover //  <br>
 [www.gildebrau.de](http://www.gildebrau.de)  <br>
-{:.brewery}
+{: .brewery #gildebrau }
 
 
-Privatbrauerei Herrenhausen - 1868  <br>
+ Privatbrauerei Herrenhausen  - 1868   `#herrenhausen`{:.key} <br>
 Hannover //  <br>
-{:.brewery}
+{: .brewery #herrenhausen }
 
 
-##### Hannover-Altstadt 
+##### Hannover-Altstadt  
+{: .city #hannoveraltstadt }
 
 
-Brauhaus Ernst August - 1986  <br>
+
+ Brauhaus Ernst August  - 1986   `#ernstaugust`{:.key} <br>
 Hannover-Altstadt //  <br>
-{:.brewery}
+{: .brewery #ernstaugust }
 
 
-##### Holzminden 
+##### Holzminden  
+{: .city #holzminden }
 
 
-Brauerei Allersheim - 1854  <br>
+
+ Brauerei Allersheim  - 1854   `#allersheim`{:.key} <br>
 Holzminden //  <br>
-{:.brewery}
+{: .brewery #allersheim }
 
 
-##### Jever 
+##### Jever  
+{: .city #jever }
 
 
-Friesisches Brauhaus zu Jever - 1848  <br>
+
+ Friesisches Brauhaus zu Jever  - 1848  _radeberger_{:.tags} `#jever`{:.key} <br>
 26441 Jever // Elisabethufer 18  <br>
-{:.brewery}
+{: .brewery #jever }
 
-Jever Pilsener  
-{:.beers}
+**Jever Pilsener** (4.9%) _pilsner_{:.tags} 
+{: .beers }
 
-##### Langeoog 
+##### Langeoog  
+{: .city #langeoog }
 
 
-Langeooger Inselbrauerei - 2007  <br>
+
+ Langeooger Inselbrauerei  - 2007   `#langeooger`{:.key} <br>
 Langeoog //  <br>
-{:.brewery}
+{: .brewery #langeooger }
 
 
-##### Lauenau 
+##### Lauenau  
+{: .city #lauenau }
 
 
-Rupp-Bräu - 1861  <br>
+
+ Rupp-Bräu  - 1861   `#ruppbraeu`{:.key} <br>
 Lauenau //  <br>
-{:.brewery}
+{: .brewery #ruppbraeu }
 
 
-##### Lüneburg 
+##### Lüneburg  
+{: .city #lueneburg }
 
 
-Gasthausbrauerei Nolte - 1906  <br>
+
+ Gasthausbrauerei Nolte  - 1906   `#nolte`{:.key} <br>
 Lüneburg //  <br>
-{:.brewery}
+{: .brewery #nolte }
 
 
-##### Lünne 
+##### Lünne  
+{: .city #luenne }
 
 
-Landhaus Brauerei Borchert -   <br>
+
+ Landhaus Brauerei Borchert   `#borchert`{:.key} <br>
 Lünne //  <br>
 [www.landhaus-brauerei.de](http://www.landhaus-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #borchert }
 
 
-##### Nortrup 
+##### Nortrup  
+{: .city #nortrup }
 
 
-Artland Brauerei -   <br>
+
+ Artland Brauerei   `#artland`{:.key} <br>
 Nortrup //  <br>
 [www.artland-brauerei.de](http://www.artland-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #artland }
 
 
-##### Nörten-Hardenberg 
+##### Nörten-Hardenberg  
+{: .city #noertenhardenberg }
 
 
-Hardenberg-Wilthen -   <br>
+
+ Hardenberg-Wilthen   `#hardenbergwilthen`{:.key} <br>
 Nörten-Hardenberg //  <br>
 [www.hardenberg-wilthen.de](http://www.hardenberg-wilthen.de)  <br>
-{:.brewery}
+{: .brewery #hardenbergwilthen }
 
 
-##### Osnabrück 
+##### Osnabrück  
+{: .city #osnabrueck }
 
 
-Hausbrauerei Rampendahl -   <br>
+
+ Hausbrauerei Rampendahl   `#rampendahl`{:.key} <br>
 Osnabrück //  <br>
-{:.brewery}
+{: .brewery #rampendahl }
 
 
-##### Peine 
+##### Peine  
+{: .city #peine }
 
 
-Privatbrauerei Härke -   <br>
+
+ Privatbrauerei Härke   `#haerke`{:.key} <br>
 Peine //  <br>
 [www.haerke-brauerei.de](http://www.haerke-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #haerke }
 
 
-##### Stadthagen 
+##### Stadthagen  
+{: .city #stadthagen }
 
 
-Schaumburger Privat-Brauerei - 1873  <br>
+
+ Schaumburger Privat-Brauerei  - 1873   `#schaumburger`{:.key} <br>
 Stadthagen //  <br>
-{:.brewery}
+{: .brewery #schaumburger }
 
 
-##### Uslar 
+##### Uslar  
+{: .city #uslar }
 
 
-Privatbrauerei Haffner - 1868  <br>
+
+ Privatbrauerei Haffner  - 1868   `#haffner`{:.key} <br>
 Uslar //  <br>
-{:.brewery}
+{: .brewery #haffner }
 
 
-##### Varel 
+##### Varel  
+{: .city #varel }
 
 
-Vareler Brauhaus -   <br>
+
+ Vareler Brauhaus   `#vareler`{:.key} <br>
 Varel //  <br>
 [www.vareler-brauhaus.de](http://www.vareler-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #vareler }
 
 
-##### Wittingen 
+##### Wittingen  
+{: .city #wittingen }
 
 
-Privatbrauerei Wittingen - 1429  <br>
+
+ Privatbrauerei Wittingen  - 1429   `#wittingen`{:.key} <br>
 Wittingen //  <br>
-{:.brewery}
+{: .brewery #wittingen }
 
 
 
 
 
-### Nordrhein-Westfalen [North Rhine-Westphalia] _(9)_{:.count} {: #de-nw }
+### Nordrhein-Westfalen [North Rhine-Westphalia] _(9)_{:.count}
+{: #de-nw }
 
 
 [Dortmund (Hafen)](#dortmund) _(3)_{:.count} • [Hagen (Dahl)](#hagen) • [Kreuztal](#kreuztal) • [Köln](#koeln) _(2)_{:.count} • [Meschede](#meschede) • [Warstein](#warstein)
 
-##### Dortmund (Hafen)  _(3)_{:.count} 
+##### Dortmund (Hafen) _(3)_{:.count}  _pop 580.956_{:.pop}
+{: .city #dortmund }
 
 
-Dortmunder Actien-Brauerei (DAB) - 1875  <br>
+
+ Dortmunder Actien-Brauerei (DAB)  - 1875   `#dab`{:.key} <br>
 44145 Dortmund (Nordmarkt) // Steigerstraße 20  <br>
 [www.dab.de](http://www.dab.de)  <br>
-{:.brewery}
+{: .brewery #dab }
 
 
-Hövels Hausbrauerei - 1854  <br>
+ Hövels Hausbrauerei  - 1854   `#hoevels`{:.key} <br>
 44137 Dortmund (City) // Hoher Wall 5  <br>
 [www.hoevels-hausbrauerei.de](http://www.hoevels-hausbrauerei.de)  <br>
-{:.brewery}
+{: .brewery #hoevels }
 
 
-Bergmann Brauerei - 2010  <br>
+ Bergmann Brauerei  - 2010   `#bergmann`{:.key} <br>
 44137 Dortmund (Hafen) // Ritterstraße 18  <br>
 [www.bergmann-brauerei.de](http://www.bergmann-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #bergmann }
 
 
-##### Hagen (Dahl) 
+##### Hagen (Dahl)  
+{: .city #hagen }
 
 
-Vormann Brauerei - 1877  <br>
+
+ Vormann Brauerei  - 1877   `#vormann`{:.key} <br>
 58091 Hagen (Dahl) // Braugasse 5  <br>
 [www.vormann-brauerei.de](http://www.vormann-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #vormann }
 
-Vormann Pils   • Alt aus Dahl   • Vormann Malz   • Sauerländer Weizenbier   • Vormann Doppelbock   • Vormann Vorderbier   • Dahler Urbräu  
-{:.beers}
+**Vormann Pils** (5.0%, 11.3°) _pils_{:.tags}  • 
+**Alt aus Dahl** (5.0%, 11.6°) _alt_{:.tags}  • 
+**Vormann Malz** (1.5%, 11.5°) _malt_{:.tags}  • 
+**Sauerländer Weizenbier** (5.0%, 11.7°) _weisse dunkel_{:.tags}  • 
+**Vormann Doppelbock** (8.0%, 19.3°) _doppelbock_{:.tags}  • 
+**Vormann Vorderbier** (5.2%, 12.2°) _export_{:.tags}  • 
+**Dahler Urbräu** (5.0%, 11.3°) _zwickl_{:.tags} 
+{: .beers }
 
-##### Kreuztal 
+##### Kreuztal  
+{: .city #kreuztal }
 
 
-Krombacher Brauerei - 1803  <br>
+
+ Krombacher Brauerei  - 1803   `#krombacher`{:.key} <br>
 57223 Kreuztal // Hagener Straße 261  <br>
 [www.krombacher.de](http://www.krombacher.de)  <br>
-{:.brewery}
+{: .brewery #krombacher }
 
 
-##### Köln  _(2)_{:.count} 
+##### Köln _(2)_{:.count}  _pop 1.017.155_{:.pop}
+{: .city #koeln }
 
 
-Dom-Brauerei - 1894  <br>
+
+ Dom-Brauerei  - 1894   `#dombrauerei`{:.key} <br>
 51149 Köln // Charlottenstraße 72  <br>
 [www.domkoelsch.de](http://www.domkoelsch.de)  <br>
-{:.brewery}
+{: .brewery #dombrauerei }
 
 
-Cölner Hofbräu Früh - 1904  <br>
+ Cölner Hofbräu Früh • Früh  - 1904   `#frueh`{:.key} <br>
 50667 Köln // Am Hof 12-18  <br>
 [www.frueh.de](http://www.frueh.de)  <br>
-{:.brewery}
+{: .brewery #frueh }
 
 
-##### Meschede 
+##### Meschede  
+{: .city #meschede }
 
 
-Brauerei C. & A. Veltins - 1824  <br>
+
+ Brauerei C. & A. Veltins  - 1824   `#veltins`{:.key} <br>
 59872 Meschede // An der Streue  <br>
 [www.veltins.de](http://www.veltins.de)  <br>
-{:.brewery}
+{: .brewery #veltins }
 
 
-##### Warstein 
+##### Warstein  
+{: .city #warstein }
 
 
-Warsteiner Brauerei - 1753  <br>
+
+ Warsteiner Brauerei  - 1753   `#warsteiner`{:.key} <br>
 59581 Warstein // Im Waldpark  <br>
 [www.warsteiner.de](http://www.warsteiner.de)  <br>
-{:.brewery}
+{: .brewery #warsteiner }
 
 
 
 
 
-### Rheinland-Pfalz [Rhineland-Palatinate] _(17)_{:.count} {: #de-rp }
+### Rheinland-Pfalz [Rhineland-Palatinate] _(17)_{:.count}
+{: #de-rp }
 
 
 [Bernkastel-Wehlen](#bernkastelwehlen) • [Bitburg](#bitburg) • [Hachenburg](#hachenburg) • [Kirn](#kirn) • [Koblenz](#koblenz) _(3)_{:.count} • [Lahnstein](#lahnstein) • [Linz am Rhein](#linzamrhein) • [Mainz](#mainz) • [Mainz-Kastel](#mainzkastel) • [Naurath](#naurath) • [Pirmasens](#pirmasens) • [Ransbach-Baumbach](#ransbachbaumbach) • [Remagen](#remagen) • [Trier](#trier) • [Winnweiler](#winnweiler)
 
-##### Bernkastel-Wehlen 
+##### Bernkastel-Wehlen  
+{: .city #bernkastelwehlen }
 
 
-Brauhaus Kloster Machern -   <br>
+
+ Brauhaus Kloster Machern   `#klostermachern`{:.key} <br>
 54470 Bernkastel-Wehlen // An der Zeltinger Brücke  <br>
 [www.brauhaus-kloster-machern.de](http://www.brauhaus-kloster-machern.de)  <br>
-{:.brewery}
+{: .brewery #klostermachern }
 
 
-##### Bitburg 
+##### Bitburg  
+{: .city #bitburg }
 
 
-Bitburger Brauerei - 1817  <br>
+
+ Bitburger Brauerei  - 1817   `#bitburger`{:.key} <br>
 Bitburg //  <br>
 [www.bitburger.de](http://www.bitburger.de)  <br>
-{:.brewery}
+{: .brewery #bitburger }
 
 
-##### Hachenburg 
+##### Hachenburg  
+{: .city #hachenburg }
 
 
-Westerwald Brauerei - 1861  <br>
+
+ Westerwald Brauerei  - 1861   `#westerwald`{:.key} <br>
 57627 Hachenburg // Gehlerter Weg 12  <br>
 [www.hachenburger.de](http://www.hachenburger.de)  <br>
-{:.brewery}
+{: .brewery #westerwald }
 
 
-##### Kirn 
+##### Kirn  
+{: .city #kirn }
 
 
-Kirner Privatbrauerei - 1798  <br>
+
+ Kirner Privatbrauerei  - 1798   `#kirner`{:.key} <br>
 Kirn //  <br>
-{:.brewery}
+{: .brewery #kirner }
 
 
-##### Koblenz  _(3)_{:.count} 
+##### Koblenz _(3)_{:.count} 
+{: .city #koblenz }
 
 
-Königsbacher Brauerei - 1689  <br>
+
+ Königsbacher Brauerei  - 1689   `#koenigsbacher`{:.key} <br>
 Koblenz //  <br>
 [www.koenigsbacher.de](http://www.koenigsbacher.de)  <br>
-{:.brewery}
+{: .brewery #koenigsbacher }
 
 
-Koblenzer Brauerei - 1689  <br>
+ Koblenzer Brauerei  - 1689   `#koblenzer`{:.key} <br>
 56075 Koblenz // An der Königsbach 8  <br>
 [www.koblenzer-brauerei.de](http://www.koblenzer-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #koblenzer }
 
 
-Brauerei zur Nette - 1849  <br>
+ Brauerei zur Nette  - 1849   `#nette`{:.key} <br>
 Koblenz //  <br>
 [www.nette.de](http://www.nette.de)  <br>
-{:.brewery}
+{: .brewery #nette }
 
 
-##### Lahnstein 
+##### Lahnstein  
+{: .city #lahnstein }
 
 
-Lahnsteiner Brauerei - 1667  <br>
+
+ Lahnsteiner Brauerei  - 1667   `#lahnsteiner`{:.key} <br>
 56112 Lahnstein // Sandgasse 1  <br>
 [www.lahnsteiner-brauerei.de](http://www.lahnsteiner-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #lahnsteiner }
 
 
-##### Linz am Rhein 
+##### Linz am Rhein  
+{: .city #linzamrhein }
 
 
-Privat-Brauerei Steffens - 1866  <br>
+
+ Privat-Brauerei Steffens  - 1866   `#steffens`{:.key} <br>
 Linz am Rhein //  <br>
-{:.brewery}
+{: .brewery #steffens }
 
 
-##### Mainz 
+##### Mainz   _pop 200.957_{:.pop}
+{: .city #mainz }
 
 
-Eisgrub-Bräu (1. Mainzer Gasthausbrauerei) - 1989  <br>
+
+ Eisgrub-Bräu (1. Mainzer Gasthausbrauerei)  - 1989   `#eisgrub`{:.key} <br>
 55116 Mainz // Weissliliengasse 1a  <br>
 [www.eisgrub.de](http://www.eisgrub.de)  <br>
-{:.brewery}
+{: .brewery #eisgrub }
 
 
-##### Mainz-Kastel 
+##### Mainz-Kastel  
+{: .city #mainzkastel }
 
 
-Brauhaus Castel -   <br>
+
+ Brauhaus Castel   `#castel`{:.key} <br>
 55252 Mainz-Kastel // Otto-Suhr-Ring 27  <br>
 [www.brauhaus-castel.de](http://www.brauhaus-castel.de)  <br>
-{:.brewery}
+{: .brewery #castel }
 
 
-##### Naurath 
+##### Naurath  
+{: .city #naurath }
 
 
-Brauhaus Zils -   <br>
+
+ Brauhaus Zils   `#zils`{:.key} <br>
 54340 Naurath // Waldstraße 1  <br>
 [www.brauhaus-zils.de](http://www.brauhaus-zils.de)  <br>
-{:.brewery}
+{: .brewery #zils }
 
 
-##### Pirmasens 
+##### Pirmasens  
+{: .city #pirmasens }
 
 
-Park & Bellheimer - 1888  <br>
+
+ Park & Bellheimer  - 1888   `#parkbellheimer`{:.key} <br>
 66953 Pirmasens // Zweibrücker Straße 2  <br>
-{:.brewery}
+{: .brewery #parkbellheimer }
 
 
-##### Ransbach-Baumbach 
+##### Ransbach-Baumbach  
+{: .city #ransbachbaumbach }
 
 
-Privatbrauerei Fohr - 1676  <br>
+
+ Privatbrauerei Fohr  - 1676   `#fohr`{:.key} <br>
 56235 Ransbach-Baumbach // An der Brauerei  <br>
 [www.fohr.de](http://www.fohr.de)  <br>
-{:.brewery}
+{: .brewery #fohr }
 
 
-##### Remagen 
+##### Remagen  
+{: .city #remagen }
 
 
-Brauhaus Remagen -   <br>
+
+ Brauhaus Remagen   `#remagen`{:.key} <br>
 53424 Remagen // Rheinpromenade 44  <br>
 [www.brauhaus-remagen.de](http://www.brauhaus-remagen.de)  <br>
-{:.brewery}
+{: .brewery #remagen }
 
 
-##### Trier 
+##### Trier  
+{: .city #trier }
 
 
-Kraft Bräu (1. Trierer Hausbrauerei) - 1998  <br>
+
+ Kraft Bräu (1. Trierer Hausbrauerei)  - 1998   `#kraftbraeu`{:.key} <br>
 54295 Trier // Olewiger Straße 135  <br>
 [www.kraftbraeu.de](http://www.kraftbraeu.de)  <br>
-{:.brewery}
+{: .brewery #kraftbraeu }
 
 
-##### Winnweiler 
+##### Winnweiler  
+{: .city #winnweiler }
 
 
-Privatbrauerei Bischoff - 1866  <br>
+
+ Privatbrauerei Bischoff  - 1866   `#bischoff`{:.key} <br>
 67722 Winnweiler // An den Hopfengärten 6  <br>
 [www.bischoff-bier.de](http://www.bischoff-bier.de)  <br>
-{:.brewery}
+{: .brewery #bischoff }
 
 
 
 
 
-### Saarland _(0)_{:.count} {: #de-sl }
+### Saarland _(0)_{:.count}
+{: #de-sl }
 
 
 
@@ -8186,572 +9969,692 @@ Privatbrauerei Bischoff - 1866  <br>
 
 
 
-### Sachsen [Saxony] _(28)_{:.count} {: #de-sn }
+### Sachsen [Saxony] _(28)_{:.count}
+{: #de-sn }
 
 
 [Bautzen](#bautzen) • [Chemnitz](#chemnitz) • [Coswig](#coswig) • [Dresden](#dresden) _(3)_{:.count} • [Ehrenfriedersdorf](#ehrenfriedersdorf) • [Eibau](#eibau) • [Freiberg](#freiberg) • [Gersdorf](#gersdorf) • [Großröhrsdorf](#grossroehrsdorf) • [Görlitz](#goerlitz) • [Krostitz](#krostitz) • [Leipzig](#leipzig) _(3)_{:.count} • [Löbau](#loebau) • [Meißen](#meissen) • [Penig](#penig) • [Pirna-Copitz](#pirnacopitz) • [Plauen](#plauen) • [Radeberg](#radeberg) • [Rechenberg-Bienenmühle](#rechenbergbienenmuehle) • [Scheibenberg-Oberscheibe](#scheibenbergoberscheibe) • [Torgau](#torgau) • [Wernesgrün](#wernesgruen) • [Wittichenau](#wittichenau) • [Zwickau](#zwickau)
 
-##### Bautzen 
+##### Bautzen  
+{: .city #bautzen }
 
 
-Bautzener Brauerei - 1847  <br>
+
+ Bautzener Brauerei  - 1847   `#bautzenerbrauerei`{:.key} <br>
 Bautzen //  <br>
-{:.brewery}
+{: .brewery #bautzenerbrauerei }
 
 
-##### Chemnitz 
+##### Chemnitz  
+{: .city #chemnitz }
 
 
-Braustolz - 1868  <br>
+
+ Braustolz  - 1868   `#braustolz`{:.key} <br>
 Chemnitz //  <br>
-{:.brewery}
+{: .brewery #braustolz }
 
 
-##### Coswig 
+##### Coswig  
+{: .city #coswig }
 
 
-Adler Brauerei Coswig -   <br>
+
+ Adler Brauerei Coswig   `#adlerbrauereicoswig`{:.key} <br>
 Coswig //  <br>
 [www.adler-brauerei-coswig.de](http://www.adler-brauerei-coswig.de)  <br>
-{:.brewery}
+{: .brewery #adlerbrauereicoswig }
 
 
-##### Dresden  _(3)_{:.count} 
+##### Dresden _(3)_{:.count}  _pop 473.300_{:.pop}
+{: .city #dresden }
 
 
-Feldschlößchen -   <br>
+
+ Feldschlößchen   `#feldschloesschen`{:.key} <br>
 Dresden //  <br>
 [www.feldschloesschen.de](http://www.feldschloesschen.de)  <br>
-{:.brewery}
+{: .brewery #feldschloesschen }
 
 
-Hausbrauerei Laubegast -   <br>
+ Hausbrauerei Laubegast   `#hausbrauereilaubegast`{:.key} <br>
 Dresden //  <br>
 [www.hausbrauerei-laubegast.de](http://www.hausbrauerei-laubegast.de)  <br>
-{:.brewery}
+{: .brewery #hausbrauereilaubegast }
 
 
-Neustädter Hausbrauerei -   <br>
+ Neustädter Hausbrauerei   `#neustaedterhausbrauerei`{:.key} <br>
 Dresden //  <br>
 [www.obergaerig.de](http://www.obergaerig.de)  <br>
-{:.brewery}
+{: .brewery #neustaedterhausbrauerei }
 
 
-##### Ehrenfriedersdorf 
+##### Ehrenfriedersdorf  
+{: .city #ehrenfriedersdorf }
 
 
-Privatbrauerei Specht - 1844  <br>
+
+ Privatbrauerei Specht  - 1844   `#privatbrauereispecht`{:.key} <br>
 Ehrenfriedersdorf //  <br>
-{:.brewery}
+{: .brewery #privatbrauereispecht }
 
 
-##### Eibau 
+##### Eibau  
+{: .city #eibau }
 
 
-Privatbrauerei Eibau - 1810  <br>
+
+ Privatbrauerei Eibau  - 1810   `#privatbrauereieibau`{:.key} <br>
 Eibau //  <br>
-{:.brewery}
+{: .brewery #privatbrauereieibau }
 
 
-##### Freiberg 
+##### Freiberg  
+{: .city #freiberg }
 
 
-Freiberger Brauhaus - 1850  <br>
+
+ Freiberger Brauhaus  - 1850   `#freibergerbrauhaus`{:.key} <br>
 Freiberg //  <br>
-{:.brewery}
+{: .brewery #freibergerbrauhaus }
 
 
-##### Gersdorf 
+##### Gersdorf  
+{: .city #gersdorf }
 
 
-Glückauf-Brauerei - 1880  <br>
+
+ Glückauf-Brauerei  - 1880   `#glueckaufbrauerei`{:.key} <br>
 Gersdorf //  <br>
-{:.brewery}
+{: .brewery #glueckaufbrauerei }
 
 
-##### Großröhrsdorf 
+##### Großröhrsdorf  
+{: .city #grossroehrsdorf }
 
 
-Böhmisch Brauhaus Großröhrsdorf - 1887  <br>
+
+ Böhmisch Brauhaus Großröhrsdorf  - 1887   `#boehmischbrauhausgrossroehrsdorf`{:.key} <br>
 Großröhrsdorf //  <br>
-{:.brewery}
+{: .brewery #boehmischbrauhausgrossroehrsdorf }
 
 
-##### Görlitz 
+##### Görlitz  
+{: .city #goerlitz }
 
 
-Landskron Brauerei Görlitz - 1869  <br>
+
+ Landskron Brauerei Görlitz  - 1869   `#landskronbrauereigoerlitz`{:.key} <br>
 Görlitz //  <br>
-{:.brewery}
+{: .brewery #landskronbrauereigoerlitz }
 
 
-##### Krostitz 
+##### Krostitz  
+{: .city #krostitz }
 
 
-Krostitzer Brauerei - 1534  <br>
+
+ Krostitzer Brauerei  - 1534   `#krostitzerbrauerei`{:.key} <br>
 Krostitz //  <br>
-{:.brewery}
+{: .brewery #krostitzerbrauerei }
 
 
-##### Leipzig  _(3)_{:.count} 
+##### Leipzig _(3)_{:.count}  _pop 486.100_{:.pop}
+{: .city #leipzig }
 
 
-Leipziger Brauhaus zu Reudnitz -   <br>
+
+ Leipziger Brauhaus zu Reudnitz   `#reudnitz`{:.key} <br>
 04317 Leipzig // Mühlstraße 13  <br>
-{:.brewery}
+{: .brewery #reudnitz }
 
 
-Bayerischer Bahnhof -   <br>
+ Bayerischer Bahnhof   `#bayerischerbahnhof`{:.key} <br>
 Leipzig //  <br>
 [www.bayerischer-bahnhof.de](http://www.bayerischer-bahnhof.de)  <br>
-{:.brewery}
+{: .brewery #bayerischerbahnhof }
 
 
-Brauerei an der Thomaskirche -   <br>
+ Brauerei an der Thomaskirche   `#brauereianderthomaskirche`{:.key} <br>
 Leipzig //  <br>
 [www.brauhaus-thomaskirche.de](http://www.brauhaus-thomaskirche.de)  <br>
-{:.brewery}
+{: .brewery #brauereianderthomaskirche }
 
 
-##### Löbau 
+##### Löbau  
+{: .city #loebau }
 
 
-Bergquell-Brauerei Löbau - 1846  <br>
+
+ Bergquell-Brauerei Löbau  - 1846   `#bergquellbrauereiloebau`{:.key} <br>
 Löbau //  <br>
-{:.brewery}
+{: .brewery #bergquellbrauereiloebau }
 
 
-##### Meißen 
+##### Meißen  
+{: .city #meissen }
 
 
-Privatbrauerei Schwerter Meißen - 1460  <br>
+
+ Privatbrauerei Schwerter Meißen  - 1460   `#privatbrauereischwertermeissen`{:.key} <br>
 Meißen //  <br>
-{:.brewery}
+{: .brewery #privatbrauereischwertermeissen }
 
 
-##### Penig 
+##### Penig  
+{: .city #penig }
 
 
-Peniger Spezialitäten Brauerei - 1706  <br>
+
+ Peniger Spezialitäten Brauerei  - 1706   `#penigerspezialitaetenbrauerei`{:.key} <br>
 Penig //  <br>
-{:.brewery}
+{: .brewery #penigerspezialitaetenbrauerei }
 
 
-##### Pirna-Copitz 
+##### Pirna-Copitz  
+{: .city #pirnacopitz }
 
 
-Brauhaus Pirna -   <br>
+
+ Brauhaus Pirna   `#brauhauspirna`{:.key} <br>
 Pirna-Copitz //  <br>
 [www.brauhaus-pirna.de](http://www.brauhaus-pirna.de)  <br>
-{:.brewery}
+{: .brewery #brauhauspirna }
 
 
-##### Plauen 
+##### Plauen  
+{: .city #plauen }
 
 
-Sternquell-Brauerei - 1857  <br>
+
+ Sternquell-Brauerei  - 1857   `#sternquellbrauerei`{:.key} <br>
 Plauen //  <br>
-{:.brewery}
+{: .brewery #sternquellbrauerei }
 
 
-##### Radeberg 
+##### Radeberg  
+{: .city #radeberg }
 
 
-Radeberger Exportbierbrauerei - 1872  <br>
+
+ Radeberger Exportbierbrauerei  - 1872   `#radebergerexportbierbrauerei`{:.key} <br>
 Radeberg //  <br>
-{:.brewery}
+{: .brewery #radebergerexportbierbrauerei }
 
 
-##### Rechenberg-Bienenmühle 
+##### Rechenberg-Bienenmühle  
+{: .city #rechenbergbienenmuehle }
 
 
-Private Traditionsbrauerei Meyer -   <br>
+
+ Private Traditionsbrauerei Meyer   `#privatetraditionsbrauereimeyer`{:.key} <br>
 Rechenberg-Bienenmühle //  <br>
 [www.rechenberger.com](http://www.rechenberger.com)  <br>
-{:.brewery}
+{: .brewery #privatetraditionsbrauereimeyer }
 
 
-##### Scheibenberg-Oberscheibe 
+##### Scheibenberg-Oberscheibe  
+{: .city #scheibenbergoberscheibe }
 
 
-Privatbrauerei Christian Fiedler - 1813  <br>
+
+ Privatbrauerei Christian Fiedler  - 1813   `#privatbrauereichristianfiedler`{:.key} <br>
 Scheibenberg-Oberscheibe //  <br>
-{:.brewery}
+{: .brewery #privatbrauereichristianfiedler }
 
 
-##### Torgau 
+##### Torgau  
+{: .city #torgau }
 
 
-Neue Torgauer Brauhaus -   <br>
+
+ Neue Torgauer Brauhaus   `#neuetorgauerbrauhaus`{:.key} <br>
 Torgau //  <br>
 [www.torgauer.de](http://www.torgauer.de)  <br>
-{:.brewery}
+{: .brewery #neuetorgauerbrauhaus }
 
 
-##### Wernesgrün 
+##### Wernesgrün  
+{: .city #wernesgruen }
 
 
-Wernesgrüner Brauerei -   <br>
+
+ Wernesgrüner Brauerei   `#wernesgruenerbrauerei`{:.key} <br>
 Wernesgrün //  <br>
 [www.wernesgruener.de](http://www.wernesgruener.de)  <br>
-{:.brewery}
+{: .brewery #wernesgruenerbrauerei }
 
 
-##### Wittichenau 
+##### Wittichenau  
+{: .city #wittichenau }
 
 
-Stadtbrauerei Wittichenau - 1356  <br>
+
+ Stadtbrauerei Wittichenau  - 1356   `#stadtbrauereiwittichenau`{:.key} <br>
 Wittichenau //  <br>
-{:.brewery}
+{: .brewery #stadtbrauereiwittichenau }
 
 
-##### Zwickau 
+##### Zwickau  
+{: .city #zwickau }
 
 
-Mauritius Brauerei Zwickau - 1859  <br>
+
+ Mauritius Brauerei Zwickau  - 1859   `#mauritiusbrauereizwickau`{:.key} <br>
 Zwickau //  <br>
-{:.brewery}
+{: .brewery #mauritiusbrauereizwickau }
 
 
 
 
 
-### Sachsen-Anhalt [Saxony-Anhalt] _(10)_{:.count} {: #de-st }
+### Sachsen-Anhalt [Saxony-Anhalt] _(10)_{:.count}
+{: #de-st }
 
 
 [Bitterfeld-Wolfen](#bitterfeldwolfen) • [Gardelegen](#gardelegen) • [Köthen](#koethen) • [Landsberg](#landsberg) • [Lutherstadt Wittenberg](#lutherstadtwittenberg) • [Magdeburg](#magdeburg) • [Neuendorf](#neuendorf) • [Sangerhausen / Wippra](#sangerhausenwippra) • [Schkopau OT Röglitz](#schkopauotroeglitz) • [Wernigerode](#wernigerode)
 
-##### Bitterfeld-Wolfen 
+##### Bitterfeld-Wolfen  
+{: .city #bitterfeldwolfen }
 
 
-Bitterfelder Brauerei - 1880  <br>
+
+ Bitterfelder Brauerei  - 1880   `#bitterfelderbrauerei`{:.key} <br>
 Bitterfeld-Wolfen //  <br>
-{:.brewery}
+{: .brewery #bitterfelderbrauerei }
 
 
-##### Gardelegen 
+##### Gardelegen  
+{: .city #gardelegen }
 
 
-Garley Traditionsbrauhaus - 1314  <br>
+
+ Garley Traditionsbrauhaus  - 1314   `#garleytraditionsbrauhaus`{:.key} <br>
 Gardelegen //  <br>
-{:.brewery}
+{: .brewery #garleytraditionsbrauhaus }
 
 
-##### Köthen 
+##### Köthen  
+{: .city #koethen }
 
 
-Köthener Brauerei - 1861  <br>
+
+ Köthener Brauerei  - 1861   `#koethenerbrauerei`{:.key} <br>
 Köthen //  <br>
-{:.brewery}
+{: .brewery #koethenerbrauerei }
 
 
-##### Landsberg 
+##### Landsberg  
+{: .city #landsberg }
 
 
-Brauerei Landsberg - 1996  <br>
+
+ Brauerei Landsberg  - 1996   `#brauereilandsberg`{:.key} <br>
 Landsberg //  <br>
-{:.brewery}
+{: .brewery #brauereilandsberg }
 
 
-##### Lutherstadt Wittenberg 
+##### Lutherstadt Wittenberg  
+{: .city #lutherstadtwittenberg }
 
 
-Brauhaus Wittenberg -   <br>
+
+ Brauhaus Wittenberg   `#brauhauswittenberg`{:.key} <br>
 Lutherstadt Wittenberg //  <br>
 [www.brauhaus-wittenberg.de](http://www.brauhaus-wittenberg.de)  <br>
-{:.brewery}
+{: .brewery #brauhauswittenberg }
 
 
-##### Magdeburg 
+##### Magdeburg  
+{: .city #magdeburg }
 
 
-Diamant Brauhaus -   <br>
+
+ Diamant Brauhaus   `#diamantbrauhaus`{:.key} <br>
 Magdeburg //  <br>
 [www.diamant-brauhaus.de](http://www.diamant-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #diamantbrauhaus }
 
 
-##### Neuendorf 
+##### Neuendorf  
+{: .city #neuendorf }
 
 
-Demmert-Bräu -   <br>
+
+ Demmert-Bräu   `#demmertbraeu`{:.key} <br>
 Neuendorf //  <br>
 [www.demmert-brauerei.de](http://www.demmert-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #demmertbraeu }
 
 
-##### Sangerhausen / Wippra 
+##### Sangerhausen / Wippra  
+{: .city #sangerhausenwippra }
 
 
-Museums- und Traditionsbrauerei Wippra -   <br>
+
+ Museums- und Traditionsbrauerei Wippra   `#museumsundtraditionsbrauereiwippra`{:.key} <br>
 Sangerhausen / Wippra //  <br>
 [www.wippra-bier.de](http://www.wippra-bier.de)  <br>
-{:.brewery}
+{: .brewery #museumsundtraditionsbrauereiwippra }
 
 
-##### Schkopau OT Röglitz 
+##### Schkopau OT Röglitz  
+{: .city #schkopauotroeglitz }
 
 
-Brauhaus zu Röglitz - 2010  <br>
+
+ Brauhaus zu Röglitz  - 2010   `#brauhauszuroeglitz`{:.key} <br>
 Schkopau OT Röglitz //  <br>
-{:.brewery}
+{: .brewery #brauhauszuroeglitz }
 
 
-##### Wernigerode 
+##### Wernigerode  
+{: .city #wernigerode }
 
 
-Hasseröder Brauerei -   <br>
+
+ Hasseröder Brauerei   `#hasseroederbrauerei`{:.key} <br>
 Wernigerode //  <br>
 [www.hasseroeder.de](http://www.hasseroeder.de)  <br>
-{:.brewery}
+{: .brewery #hasseroederbrauerei }
 
 
 
 
 
-### Schleswig-Holstein _(13)_{:.count} {: #de-sh }
+### Schleswig-Holstein _(13)_{:.count}
+{: #de-sh }
 
 
 [Eutin](#eutin) • [Flensburg](#flensburg) _(3)_{:.count} • [Husum](#husum) • [Kiel](#kiel) _(2)_{:.count} • [Lübeck](#luebeck) • [Marne](#marne) • [Neustadt in Holstein](#neustadtinholstein) • [Rickling](#rickling) • [Schenefeld](#schenefeld) • [Schillsdorf](#schillsdorf)
 
-##### Eutin 
+##### Eutin  
+{: .city #eutin }
 
 
-Brauhaus Eutin -   <br>
+
+ Brauhaus Eutin   `#brauhauseutin`{:.key} <br>
 Eutin //  <br>
 [www.brauhaus-eutin.de](http://www.brauhaus-eutin.de)  <br>
-{:.brewery}
+{: .brewery #brauhauseutin }
 
 
-##### Flensburg  _(3)_{:.count} 
+##### Flensburg _(3)_{:.count} 
+{: .city #flensburg }
 
 
-Flensburger Brauerei - 1888  <br>
+
+ Flensburger Brauerei  - 1888   `#flens`{:.key} <br>
 Flensburg //  <br>
 [www.flens.de](http://www.flens.de)  <br>
-{:.brewery}
+{: .brewery #flens }
 
 
-Westindien Compagnie -   <br>
+ Westindien Compagnie   `#westindiencompagnie`{:.key} <br>
 24939 Flensburg // Brauereiweg 21  <br>
 [www.westindien.com](http://www.westindien.com)  <br>
-{:.brewery}
+{: .brewery #westindiencompagnie }
 
 
-Hansens Brauerei -   <br>
+ Hansens Brauerei   `#hansensbrauerei`{:.key} <br>
 Flensburg //  <br>
 [www.hansensbrauerei.de](http://www.hansensbrauerei.de)  <br>
-{:.brewery}
+{: .brewery #hansensbrauerei }
 
 
-##### Husum 
+##### Husum  
+{: .city #husum }
 
 
-Husums Brauhaus -   <br>
+
+ Husums Brauhaus   `#husumsbrauhaus`{:.key} <br>
 Husum //  <br>
 [www.husums-brauhaus.de](http://www.husums-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #husumsbrauhaus }
 
 
-##### Kiel  _(2)_{:.count} 
+##### Kiel _(2)_{:.count} 
+{: .city #kiel }
 
 
-Kieler Brauerei am Alten Markt - 1988  <br>
+
+ Kieler Brauerei am Alten Markt  - 1988   `#kielerbrauereiamaltenmarkt`{:.key} <br>
 24103 Kiel // Alter Markt 9  <br>
 [www.kieler-brauerei.de](http://www.kieler-brauerei.de)  <br>
-{:.brewery}
+{: .brewery #kielerbrauereiamaltenmarkt }
 
 
-Bartels-Langness -   <br>
+ Bartels-Langness   `#bartelslangness`{:.key} <br>
 Kiel //  <br>
 [www.hofgut-gutes-essen.de](http://www.hofgut-gutes-essen.de)  <br>
-{:.brewery}
+{: .brewery #bartelslangness }
 
 
-##### Lübeck 
+##### Lübeck  
+{: .city #luebeck }
 
 
-Brauberger zu Lübeck - 1450  <br>
+
+ Brauberger zu Lübeck  - 1450   `#braubergerzuluebeck`{:.key} <br>
 Lübeck //  <br>
-{:.brewery}
+{: .brewery #braubergerzuluebeck }
 
 
-##### Marne 
+##### Marne  
+{: .city #marne }
 
 
-Dithmarscher Brauerei -   <br>
+
+ Dithmarscher Brauerei   `#dithmarscherbrauerei`{:.key} <br>
 Marne //  <br>
 [www.dithmarscher.de](http://www.dithmarscher.de)  <br>
-{:.brewery}
+{: .brewery #dithmarscherbrauerei }
 
 
-##### Neustadt in Holstein 
+##### Neustadt in Holstein  
+{: .city #neustadtinholstein }
 
 
-Klüver's Brauhaus -   <br>
+
+ Klüver's Brauhaus   `#klueversbrauhaus`{:.key} <br>
 Neustadt in Holstein //  <br>
 [www.kluevers-brauhaus.de](http://www.kluevers-brauhaus.de)  <br>
-{:.brewery}
+{: .brewery #klueversbrauhaus }
 
 
-##### Rickling 
+##### Rickling  
+{: .city #rickling }
 
 
-Ricklinger Landbrauerei (Zur Alten Försterei) -   <br>
+
+ Ricklinger Landbrauerei (Zur Alten Försterei)   `#ricklingerlandbrauerei`{:.key} <br>
 24635 Rickling // Grüner Weg 1  <br>
 [www.ricklinger-landbrauerei.de](http://www.ricklinger-landbrauerei.de)  <br>
-{:.brewery}
+{: .brewery #ricklingerlandbrauerei }
 
 
-##### Schenefeld 
+##### Schenefeld  
+{: .city #schenefeld }
 
 
-Hannen Brauerei -   <br>
+
+ Hannen Brauerei   `#hannenbrauerei`{:.key} <br>
 Schenefeld //  <br>
 [www.hannen.de](http://www.hannen.de)  <br>
-{:.brewery}
+{: .brewery #hannenbrauerei }
 
 
-##### Schillsdorf 
+##### Schillsdorf  
+{: .city #schillsdorf }
 
 
-Landbrauerei Kirschenholz -   <br>
+
+ Landbrauerei Kirschenholz   `#landbrauereikirschenholz`{:.key} <br>
 24637 Schillsdorf // Hauptstraße 4  <br>
 [www.kirschenholz.de](http://www.kirschenholz.de)  <br>
-{:.brewery}
+{: .brewery #landbrauereikirschenholz }
 
 
 
 
 
-### Thüringen [Thuringia] _(15)_{:.count} {: #de-th }
+### Thüringen [Thuringia] _(15)_{:.count}
+{: #de-th }
 
 
 [Altenburg](#altenburg) • [Apolda](#apolda) • [Bad Blankenburg](#badblankenburg) • [Bad Köstritz](#badkoestritz) • [Dingsleben](#dingsleben) • [Eisenach](#eisenach) • [Erfurt](#erfurt) _(2)_{:.count} • [Greiz](#greiz) • [Kaltennordheim](#kaltennordheim) • [Leinefelde-Worbis](#leinefeldeworbis) • [Meiningen](#meiningen) • [Pößneck](#poessneck) • [Saalfeld](#saalfeld) • [Sonneberg](#sonneberg)
 
-##### Altenburg 
+##### Altenburg  
+{: .city #altenburg }
 
 
-Altenburger Brauerei - 1871  <br>
+
+ Altenburger Brauerei  - 1871   `#altenburger`{:.key} <br>
 04600 Altenburg // Brauereistraße 20  <br>
 [www.brauerei-altenburg.de](http://www.brauerei-altenburg.de)  <br>
-{:.brewery}
+{: .brewery #altenburger }
 
 
-##### Apolda 
+##### Apolda  
+{: .city #apolda }
 
 
-Vereinsbrauerei Apolda - 1887  <br>
+
+ Vereinsbrauerei Apolda  - 1887   `#apolda`{:.key} <br>
 99510 Apolda // Topfmarkt 14  <br>
 [www.brauerei-apolda.de](http://www.brauerei-apolda.de)  <br>
-{:.brewery}
+{: .brewery #apolda }
 
 
-##### Bad Blankenburg 
+##### Bad Blankenburg  
+{: .city #badblankenburg }
 
 
-Watzdorfer Traditions- und Spezialitätenbrauerei - 1411  <br>
+
+ Watzdorfer Traditions- und Spezialitätenbrauerei  - 1411   `#watzdorfer`{:.key} <br>
 Bad Blankenburg //  <br>
-{:.brewery}
+{: .brewery #watzdorfer }
 
 
-##### Bad Köstritz 
+##### Bad Köstritz  
+{: .city #badkoestritz }
 
 
-Köstritzer Schwarzbierbrauerei - 1543  <br>
+
+ Köstritzer Schwarzbierbrauerei  - 1543   `#koestritzer`{:.key} <br>
 07586 Bad Köstritz // Heinrich-Schütz-Straße 16  <br>
 [www.koestritzer.de](http://www.koestritzer.de)  <br>
-{:.brewery}
+{: .brewery #koestritzer }
 
 
-##### Dingsleben 
+##### Dingsleben  
+{: .city #dingsleben }
 
 
-Privatbrauerei Metzler -   <br>
+
+ Privatbrauerei Metzler   `#dingsleben`{:.key} <br>
 Dingsleben //  <br>
 [www.dingslebener.de](http://www.dingslebener.de)  <br>
-{:.brewery}
+{: .brewery #dingsleben }
 
 
-##### Eisenach 
+##### Eisenach  
+{: .city #eisenach }
 
 
-Eisenacher Brauerei - 1828  <br>
+
+ Eisenacher Brauerei  - 1828   `#eisenacher`{:.key} <br>
 Eisenach //  <br>
-{:.brewery}
+{: .brewery #eisenacher }
 
 
-##### Erfurt  _(2)_{:.count} 
+##### Erfurt _(2)_{:.count} 
+{: .city #erfurt }
 
 
-Waldhaus -   <br>
+
+ Waldhaus   `#waldhauserfurt`{:.key} <br>
 Erfurt //  <br>
 [www.waldhaus-erfurt.de](http://www.waldhaus-erfurt.de)  <br>
-{:.brewery}
+{: .brewery #waldhauserfurt }
 
 
-Braugold - 1888  <br>
+ Braugold  - 1888   `#braugold`{:.key} <br>
 Erfurt //  <br>
-{:.brewery}
+{: .brewery #braugold }
 
 
-##### Greiz 
+##### Greiz  
+{: .city #greiz }
 
 
-Vereinsbrauerei Greiz - 1872  <br>
+
+ Vereinsbrauerei Greiz  - 1872   `#greiz`{:.key} <br>
 Greiz //  <br>
-{:.brewery}
+{: .brewery #greiz }
 
 
-##### Kaltennordheim 
+##### Kaltennordheim  
+{: .city #kaltennordheim }
 
 
-Rhönbrauerei Dittmar -   <br>
+
+ Rhönbrauerei Dittmar   `#rhoenbrauerei`{:.key} <br>
 Kaltennordheim //  <br>
 [www.rhoenbrauerei.de](http://www.rhoenbrauerei.de)  <br>
-{:.brewery}
+{: .brewery #rhoenbrauerei }
 
 
-##### Leinefelde-Worbis 
+##### Leinefelde-Worbis  
+{: .city #leinefeldeworbis }
 
 
-Brauerei Neunspringe Worbis - 1867  <br>
+
+ Brauerei Neunspringe Worbis  - 1867   `#worbis`{:.key} <br>
 Leinefelde-Worbis //  <br>
-{:.brewery}
+{: .brewery #worbis }
 
 
-##### Meiningen 
+##### Meiningen  
+{: .city #meiningen }
 
 
-Meininger Privatbrauerei - 1841  <br>
+
+ Meininger Privatbrauerei  - 1841   `#meininger`{:.key} <br>
 Meiningen //  <br>
-{:.brewery}
+{: .brewery #meininger }
 
 
-##### Pößneck 
+##### Pößneck  
+{: .city #poessneck }
 
 
-Rosenbrauerei Pößneck - 1445  <br>
+
+ Rosenbrauerei Pößneck  - 1445   `#poessneck`{:.key} <br>
 07381 Pößneck // Dr.-Wilhelm-Külz-Straße 41  <br>
 [www.rosenbrauerei.de](http://www.rosenbrauerei.de)  <br>
-{:.brewery}
+{: .brewery #poessneck }
 
 
-##### Saalfeld 
+##### Saalfeld  
+{: .city #saalfeld }
 
 
-Bürgerliches Brauhaus Saalfeld - 1892  <br>
+
+ Bürgerliches Brauhaus Saalfeld  - 1892   `#saalfeld`{:.key} <br>
 07318 Saalfeld // Pößnecker Straße 55  <br>
 [www.brauhaus-saalfeld.de](http://www.brauhaus-saalfeld.de)  <br>
-{:.brewery}
+{: .brewery #saalfeld }
 
 
-##### Sonneberg 
+##### Sonneberg  
+{: .city #sonneberg }
 
 
-Privatbrauerei Gessner - 1622  <br>
+
+ Privatbrauerei Gessner  - 1622   `#gessner`{:.key} <br>
 Sonneberg //  <br>
-{:.brewery}
+{: .brewery #gessner }
 
 
 
@@ -8768,7 +10671,9 @@ Sonneberg //  <br>
 
 ### Uncategorized Beers
 
-Alpha Beer   • Mythos Red   • Fix Hellas  
+**Alpha Beer** (5.0%) _lager_{:.tags}  • 
+**Mythos Red** (5.5%) _lager_{:.tags}  • 
+**Fix Hellas** (5.0%) _lager_{:.tags} 
 
 
 
@@ -8784,7 +10689,9 @@ Alpha Beer   • Mythos Red   • Fix Hellas
 
 ### Uncategorized Beers
 
-‹Dreher› Classic   • ‹Dreher› Bak   • ‹Soproni›  
+**‹Dreher› Classic** (5.2%) _lager_{:.tags}  • 
+**‹Dreher› Bak** (7.3%) _bock_{:.tags}  • 
+**‹Soproni›**   
 
 
 
@@ -8800,7 +10707,10 @@ Alpha Beer   • Mythos Red   • Fix Hellas
 
 ### Uncategorized Beers
 
-Egils Pilsner   • Egils Maltbjør   • Viking Lager   • Viking Thule  
+**Egils Pilsner** (2.2%) _pils_{:.tags}  • 
+**Egils Maltbjør** (5.6%)   • 
+**Viking Lager** (4.6%) _lager_{:.tags}  • 
+**Viking Thule** (5.0%) _lager_{:.tags} 
 
 
 
@@ -8816,21 +10726,28 @@ Egils Pilsner   • Egils Maltbjør   • Viking Lager   • Viking Thule
 
 ### Uncategorized Beers
 
-Guinness   • Guinness Foreign Extra   • O'Hara's Irish Red   • O'Hara's Irish Stout   • Galway Hooker Irish Pale Ale   • Porterhouse Oyster Stout   • Wrasslers XXXX Stout  
+**Guinness** (4.2%) _irish dry stout dry stout stout_{:.tags}  • 
+**Guinness Foreign Extra** (7.5%) _stout_{:.tags}  • 
+**O'Hara's Irish Red** (4.3%) _red ale_{:.tags}  • 
+**O'Hara's Irish Stout** (4.3%) _stout_{:.tags}  • 
+**Galway Hooker Irish Pale Ale** (4.4%) _ale_{:.tags}  • 
+**Porterhouse Oyster Stout** (4.8%) _stout_{:.tags}  • 
+**Wrasslers XXXX Stout** (5.0%) _stout_{:.tags} 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-The Porterhouse Brewing Co. - 1996  <br>
+ The Porterhouse Brewing Co.  - 1996   `#porterhouse`{:.key} <br>
 Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 [www.porterhousebrewco.com](http://www.porterhousebrewco.com)  <br>
-{:.brewery}
+{: .brewery #porterhouse }
 
 
 
 
-### Louth / Leinster _(0)_{:.count} {: #ie-lh }
+### Louth / Leinster _(0)_{:.count}
+{: #ie-lh }
 
 
 
@@ -8838,7 +10755,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Leitrim / Connaught _(0)_{:.count} {: #ie-lm }
+### Leitrim / Connaught _(0)_{:.count}
+{: #ie-lm }
 
 
 
@@ -8846,7 +10764,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Sligo / Connaught _(0)_{:.count} {: #ie-so }
+### Sligo / Connaught _(0)_{:.count}
+{: #ie-so }
 
 
 
@@ -8854,7 +10773,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Cavan / Ulster _(0)_{:.count} {: #ie-cn }
+### Cavan / Ulster _(0)_{:.count}
+{: #ie-cn }
 
 
 
@@ -8862,7 +10782,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Donegal / Ulster _(0)_{:.count} {: #ie-dl }
+### Donegal / Ulster _(0)_{:.count}
+{: #ie-dl }
 
 
 
@@ -8870,7 +10791,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Monaghan / Ulster _(0)_{:.count} {: #ie-mn }
+### Monaghan / Ulster _(0)_{:.count}
+{: #ie-mn }
 
 
 
@@ -8878,7 +10800,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Laois / Leinster _(0)_{:.count} {: #ie-ls }
+### Laois / Leinster _(0)_{:.count}
+{: #ie-ls }
 
 
 
@@ -8886,7 +10809,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Longford / Leinster _(0)_{:.count} {: #ie-ld }
+### Longford / Leinster _(0)_{:.count}
+{: #ie-ld }
 
 
 
@@ -8894,7 +10818,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Offaly / Leinster _(0)_{:.count} {: #ie-oy }
+### Offaly / Leinster _(0)_{:.count}
+{: #ie-oy }
 
 
 
@@ -8902,7 +10827,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Westmeath / Leinster _(0)_{:.count} {: #ie-wh }
+### Westmeath / Leinster _(0)_{:.count}
+{: #ie-wh }
 
 
 
@@ -8910,7 +10836,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Galway / Connaught _(0)_{:.count} {: #ie-ga }
+### Galway / Connaught _(0)_{:.count}
+{: #ie-ga }
 
 
 
@@ -8918,7 +10845,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Mayo / Connaught _(0)_{:.count} {: #ie-mo }
+### Mayo / Connaught _(0)_{:.count}
+{: #ie-mo }
 
 
 
@@ -8926,7 +10854,8 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Roscommon / Connaught _(0)_{:.count} {: #ie-rn }
+### Roscommon / Connaught _(0)_{:.count}
+{: #ie-rn }
 
 
 
@@ -8934,24 +10863,28 @@ Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown  <br>
 
 
 
-### Dublin / Leinster _(1)_{:.count} {: #ie-db }
+### Dublin / Leinster _(1)_{:.count}
+{: #ie-db }
 
 
 
 
-##### Dublin 
+##### Dublin   _pop 1.110.627 (1.801.040)_{:.pop}
+{: .city #dublin }
 
 
-St. James's Gate Brewery / Guinness Brewery - 1759  <br>
+
+ St. James's Gate Brewery / Guinness Brewery • Arthur Guinness Son & Co.  - 1759  _diageo_{:.tags} `#guinness`{:.key} <br>
 Saint James's Gate // Dublin 8  <br>
 [www.guinness.com](http://www.guinness.com)  <br>
-{:.brewery}
+{: .brewery #guinness }
 
 
 
 
 
-### Limerick / Munster _(0)_{:.count} {: #ie-lk }
+### Limerick / Munster _(0)_{:.count}
+{: #ie-lk }
 
 
 
@@ -8959,7 +10892,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### North Tipperary / Munster _(0)_{:.count} {: #ie-tn }
+### North Tipperary / Munster _(0)_{:.count}
+{: #ie-tn }
 
 
 
@@ -8967,7 +10901,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### South Tipperary / Munster _(0)_{:.count} {: #ie-ts }
+### South Tipperary / Munster _(0)_{:.count}
+{: #ie-ts }
 
 
 
@@ -8975,7 +10910,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Clare / Munster _(0)_{:.count} {: #ie-ce }
+### Clare / Munster _(0)_{:.count}
+{: #ie-ce }
 
 
 
@@ -8983,7 +10919,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Kildare / Leinster _(0)_{:.count} {: #ie-ke }
+### Kildare / Leinster _(0)_{:.count}
+{: #ie-ke }
 
 
 
@@ -8991,7 +10928,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Meath / Leinster _(0)_{:.count} {: #ie-mh }
+### Meath / Leinster _(0)_{:.count}
+{: #ie-mh }
 
 
 
@@ -8999,7 +10937,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Wicklow / Leinster _(0)_{:.count} {: #ie-ww }
+### Wicklow / Leinster _(0)_{:.count}
+{: #ie-ww }
 
 
 
@@ -9007,7 +10946,8 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Wexford / Leinster _(0)_{:.count} {: #ie-wx }
+### Wexford / Leinster _(0)_{:.count}
+{: #ie-wx }
 
 
 
@@ -9015,33 +10955,30 @@ Saint James's Gate // Dublin 8  <br>
 
 
 
-### Kilkenny / Leinster _(1)_{:.count} {: #ie-kk }
+### Kilkenny / Leinster _(1)_{:.count}
+{: #ie-kk }
 
 
 
 
-##### Kilkenny 
+##### Kilkenny  
+{: .city #kilkenny }
 
 
-St. Francis Abbey Brewery - 1710  <br>
+
+ St. Francis Abbey Brewery • E. Smithwick and Sons Ltd.  - 1710  _diageo guinness_{:.tags} `#kilkenny`{:.key} <br>
 Parliament St // Kilkenny  <br>
-{:.brewery}
+{: .brewery #kilkenny }
 
-Kilkenny   • Smithwick's  
-{:.beers}
-
-
-
-
-### Carlow / Leinster _(0)_{:.count} {: #ie-cw }
+**Kilkenny** (4.3%) _irish red ale red ale ale_{:.tags}  • 
+**Smithwick's** (4.5%) _irish red ale red ale ale_{:.tags} 
+{: .beers }
 
 
 
 
-
-
-
-### Waterford / Munster _(0)_{:.count} {: #ie-wd }
+### Carlow / Leinster _(0)_{:.count}
+{: #ie-cw }
 
 
 
@@ -9049,26 +10986,40 @@ Kilkenny   • Smithwick's
 
 
 
-### Cork / Munster _(1)_{:.count} {: #ie-co }
+### Waterford / Munster _(0)_{:.count}
+{: #ie-wd }
 
 
 
 
-##### Cork 
 
 
-Murphy Brewery - 1856  <br>
+
+### Cork / Munster _(1)_{:.count}
+{: #ie-co }
+
+
+
+
+##### Cork   _pop 198.582_{:.pop}
+{: .city #cork }
+
+
+
+ Murphy Brewery  - 1856  _heineken_{:.tags} `#murphy`{:.key} <br>
 Lady's Well // Leitrim St. // Cork  <br>
 [www.murphys.com](http://www.murphys.com)  <br>
-{:.brewery}
+{: .brewery #murphy }
 
-Murphy's Irish Red   • Murphy's Irish Stout  
-{:.beers}
+**Murphy's Irish Red** (5.2%) _irish red ale red ale ale_{:.tags}  • 
+**Murphy's Irish Stout** (4.3%) _irish dry stout dry stout stout_{:.tags} 
+{: .beers }
 
 
 
 
-### Kerry / Munster _(0)_{:.count} {: #ie-ky }
+### Kerry / Munster _(0)_{:.count}
+{: #ie-ky }
 
 
 
@@ -9087,12 +11038,72 @@ Murphy's Irish Red   • Murphy's Irish Stout
 
 ### Uncategorized Beers
 
-Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La Rossa   • Peroni   • Nastro Azzurro   • Peroni Gran Riserva   • Poretti Premium   • La Blond Bock   • Red Bock 1877   • VIP Pils   • Forst Sixtus   • 150° Anniversario   • Oppale   • Farrotta   • Irie   • Elixir   • Erika   • Xyauyù   • Genziana   • Ke To Re Porter   • Re Ale   • Jennas   • Birra Dolomiti Doppio Malto   • Bastarda Doppia   • Nora   • Villa Pola Soci's Schwartz   • BB10   • Sella del Diavolo   • Motor Oil   • Artigian Ale   • Ley Line   • Stoner   • Formidable   • Verdi Imperial Stout   • Via Emilia   • Chocarubbica   • Amber Shock   • Bibock   • Tipopils   • Back Door Bitter   • La Petrognola   • Ghisa   • Ligera   • Montestella   • Demon Hunter   • Draco   • La Mummia   • Quarta Runa   • Panil Barriquée Sour   • Panil Enhanced   • Nivura   • Daü   • Shangrila   • Birra Ichnusa   • P.I.L.S.   • Tosta   • Rajah   • Theresianer Strong Ale  
+**Dreher (Italia)**    • 
+**Von Wunster**    • 
+**Birra Moretti**    • 
+**Baffo D'Oro** (4.8%)   • 
+**La Rossa** (7.2%) _strong amber lager strong dark lager doppelbock_{:.tags}  • 
+**Peroni** (4.7%) _lager_{:.tags}  • 
+**Nastro Azzurro** (5.1%) _premium pilsner_{:.tags}  • 
+**Peroni Gran Riserva**    • 
+**Poretti Premium**    • 
+**La Blond Bock**    • 
+**Red Bock 1877**    • 
+**VIP Pils**    • 
+**Forst Sixtus** (6.5%) _doppelbock_{:.tags}  • 
+**150° Anniversario** (4.8%) _premium lager_{:.tags}  • 
+**Oppale** (5.0%)   • 
+**Farrotta** (5.7%) _speltbier_{:.tags}  • 
+**Irie** (5.0%)   • 
+**Elixir** (10.0%)   • 
+**Erika** (9.0%) _honingbier_{:.tags}  • 
+**Xyauyù** (13.5%) _barley wine_{:.tags}  • 
+**Genziana** (6.2%)   • 
+**Ke To Re Porter** (4.6%) _porter_{:.tags}  • 
+**Re Ale** (6.4%) _ale_{:.tags}  • 
+**Jennas** (4.9%)   • 
+**Birra Dolomiti Doppio Malto** (6.7%)   • 
+**Bastarda Doppia** (8.5%) _kastanjebier_{:.tags}  • 
+**Nora** (6.8%)   • 
+**Villa Pola Soci's Schwartz** (4.0%)   • 
+**BB10** (10.0%)   • 
+**Sella del Diavolo** (6.5%)   • 
+**Motor Oil** (6.8%) _donkere lager_{:.tags}  • 
+**Artigian Ale** (6.2%) _ale_{:.tags}  • 
+**Ley Line** (5.0%)   • 
+**Stoner** (7.5%)   • 
+**Formidable** (8.0%)   • 
+**Verdi Imperial Stout** (8.199999999999999%) _stout_{:.tags}  • 
+**Via Emilia** (5.0%) _pils_{:.tags}  • 
+**Chocarubbica** (7.0%)   • 
+**Amber Shock** (7.0%) _bockbier_{:.tags}  • 
+**Bibock** (6.2%) _bockbier_{:.tags}  • 
+**Tipopils** (5.2%) _pils_{:.tags}  • 
+**Back Door Bitter** (4.8%) _bitter_{:.tags}  • 
+**La Petrognola** (5.5%) _speltbier_{:.tags}  • 
+**Ghisa** (7.0%) _stout_{:.tags}  • 
+**Ligera** (5.0%) _pale ale_{:.tags}  • 
+**Montestella** (4.9%)   • 
+**Demon Hunter** (8.5%) _ale_{:.tags}  • 
+**Draco** (11.0%) _fruitbier_{:.tags}  • 
+**La Mummia** (5.0%)   • 
+**Quarta Runa** (7.0%) _fruitbier_{:.tags}  • 
+**Panil Barriquée Sour** (8.0%) _sour ale_{:.tags}  • 
+**Panil Enhanced** (9.0%)   • 
+**Nivura** (6.5%) _pale ale_{:.tags}  • 
+**Daü** (3.9%) _saison_{:.tags}  • 
+**Shangrila** (8.5%)   • 
+**Birra Ichnusa**  _lager_{:.tags}  • 
+**P.I.L.S.** (4.2%) _pilsener_{:.tags}  • 
+**Tosta** (14.0%) _barley wine_{:.tags}  • 
+**Rajah** (5.2%) _ipa_{:.tags}  • 
+**Theresianer Strong Ale** (8.5%) _ale_{:.tags} 
 
 
 
 
-### Valle d'Aosta [Aosta Valley] _(0)_{:.count} {: #it-ao }
+### Valle d'Aosta [Aosta Valley] _(0)_{:.count}
+{: #it-ao }
 
 
 
@@ -9100,7 +11111,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Liguria _(0)_{:.count} {: #it-li }
+### Liguria _(0)_{:.count}
+{: #it-li }
 
 
 
@@ -9108,7 +11120,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Lombardia [Lombardy] _(0)_{:.count} {: #it-lo }
+### Lombardia [Lombardy] _(0)_{:.count}
+{: #it-lo }
 
 
 
@@ -9116,7 +11129,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Piemonte [Piedmont] _(0)_{:.count} {: #it-pi }
+### Piemonte [Piedmont] _(0)_{:.count}
+{: #it-pi }
 
 
 
@@ -9124,7 +11138,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Emilia-Romagna _(0)_{:.count} {: #it-er }
+### Emilia-Romagna _(0)_{:.count}
+{: #it-er }
 
 
 
@@ -9132,7 +11147,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Friuli-Venezia Giulia _(0)_{:.count} {: #it-fv }
+### Friuli-Venezia Giulia _(0)_{:.count}
+{: #it-fv }
 
 
 
@@ -9140,7 +11156,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Trentino-Alto Adige (Südtirol) _(0)_{:.count} {: #it-tr }
+### Trentino-Alto Adige (Südtirol) _(0)_{:.count}
+{: #it-tr }
 
 
 
@@ -9148,7 +11165,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Veneto _(0)_{:.count} {: #it-ve }
+### Veneto _(0)_{:.count}
+{: #it-ve }
 
 
 
@@ -9156,7 +11174,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Lazio _(0)_{:.count} {: #it-la }
+### Lazio _(0)_{:.count}
+{: #it-la }
 
 
 
@@ -9164,7 +11183,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Marche _(0)_{:.count} {: #it-ma }
+### Marche _(0)_{:.count}
+{: #it-ma }
 
 
 
@@ -9172,7 +11192,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Toscana [Tuscany] _(0)_{:.count} {: #it-to }
+### Toscana [Tuscany] _(0)_{:.count}
+{: #it-to }
 
 
 
@@ -9180,7 +11201,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Umbria _(0)_{:.count} {: #it-um }
+### Umbria _(0)_{:.count}
+{: #it-um }
 
 
 
@@ -9188,7 +11210,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Abruzzo _(0)_{:.count} {: #it-ab }
+### Abruzzo _(0)_{:.count}
+{: #it-ab }
 
 
 
@@ -9196,7 +11219,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Puglia [Apulia] _(0)_{:.count} {: #it-pu }
+### Puglia [Apulia] _(0)_{:.count}
+{: #it-pu }
 
 
 
@@ -9204,7 +11228,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Basilicata _(0)_{:.count} {: #it-ba }
+### Basilicata _(0)_{:.count}
+{: #it-ba }
 
 
 
@@ -9212,7 +11237,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Calabria _(0)_{:.count} {: #it-ca }
+### Calabria _(0)_{:.count}
+{: #it-ca }
 
 
 
@@ -9220,7 +11246,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Campania _(0)_{:.count} {: #it-cm }
+### Campania _(0)_{:.count}
+{: #it-cm }
 
 
 
@@ -9228,7 +11255,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Molise _(0)_{:.count} {: #it-mo }
+### Molise _(0)_{:.count}
+{: #it-mo }
 
 
 
@@ -9236,7 +11264,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Sardegna [Sardinia] _(0)_{:.count} {: #it-sa }
+### Sardegna [Sardinia] _(0)_{:.count}
+{: #it-sa }
 
 
 
@@ -9244,7 +11273,8 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 
 
-### Sicilia [Sicily] _(0)_{:.count} {: #it-si }
+### Sicilia [Sicily] _(0)_{:.count}
+{: #it-si }
 
 
 
@@ -9263,7 +11293,7 @@ Dreher (Italia)   • Von Wunster   • Birra Moretti   • Baffo D'Oro   • La
 
 ### Uncategorized Beers
 
-Aldaris Porteris  
+**Aldaris Porteris** (6.8%) _baltische porter_{:.tags} 
 
 
 
@@ -9279,7 +11309,7 @@ Aldaris Porteris
 
 ### Uncategorized Beers
 
-Brauhaus  
+**Brauhaus**   
 
 
 
@@ -9295,7 +11325,11 @@ Brauhaus
 
 ### Uncategorized Beers
 
-Gubernijos Ekstra   • Švyturys Baltas   • Švyturys Ekstra   • Utenos Alus   • Utenos Porteris  
+**Gubernijos Ekstra** (5.5%) _blond_{:.tags}  • 
+**Švyturys Baltas** (5.0%) _witbier_{:.tags}  • 
+**Švyturys Ekstra** (5.2%) _dortmunder_{:.tags}  • 
+**Utenos Alus** (5.0%)   • 
+**Utenos Porteris** (6.8%) _porter_{:.tags} 
 
 
 
@@ -9311,7 +11345,8 @@ Gubernijos Ekstra   • Švyturys Baltas   • Švyturys Ekstra   • Utenos Alu
 
 ### Uncategorized Beers
 
-Bofferding   • Diekirch  
+**Bofferding** (4.8%) _pils_{:.tags}  • 
+**Diekirch** (4.8%) _pils_{:.tags} 
 
 
 
@@ -9327,7 +11362,8 @@ Bofferding   • Diekirch
 
 ### Uncategorized Beers
 
-Nikšićko Pivo   • Nikšićko Tamno  
+**Nikšićko Pivo** (5.0%) _lager_{:.tags}  • 
+**Nikšićko Tamno** (6.2%) _stout_{:.tags} 
 
 
 
@@ -9343,20 +11379,14 @@ Nikšićko Pivo   • Nikšićko Tamno
 
 ### Uncategorized Beers
 
-Heineken Pilsener   • Amstel  
+**Heineken Pilsener**  _pale lager_{:.tags}  • 
+**Amstel**   
 
 
 
 
-### Groningen _(0)_{:.count} {: #nl-gr }
-
-
-
-
-
-
-
-### Fryslân [Friesland] _(0)_{:.count} {: #nl-fr }
+### Groningen _(0)_{:.count}
+{: #nl-gr }
 
 
 
@@ -9364,7 +11394,8 @@ Heineken Pilsener   • Amstel
 
 
 
-### Drenthe _(0)_{:.count} {: #nl-dr }
+### Fryslân [Friesland] _(0)_{:.count}
+{: #nl-fr }
 
 
 
@@ -9372,7 +11403,17 @@ Heineken Pilsener   • Amstel
 
 
 
-### Overijssel _(1)_{:.count} {: #nl-ov }
+### Drenthe _(0)_{:.count}
+{: #nl-dr }
+
+
+
+
+
+
+
+### Overijssel _(1)_{:.count}
+{: #nl-ov }
 
 
 
@@ -9381,22 +11422,15 @@ Heineken Pilsener   • Amstel
 ##### Uncategorized _(1)_{:.count}
 
 
-Berghoeve -   <br>
+ Berghoeve • Berghoeve Brouwerij   `#berghoeve`{:.key} <br>
 // Den Ham  <br>
-{:.brewery}
+{: .brewery #berghoeve }
 
 
 
 
-### Gelderland _(0)_{:.count} {: #nl-ge }
-
-
-
-
-
-
-
-### Flevoland _(0)_{:.count} {: #nl-fl }
+### Gelderland _(0)_{:.count}
+{: #nl-ge }
 
 
 
@@ -9404,7 +11438,17 @@ Berghoeve -   <br>
 
 
 
-### Utrecht _(4)_{:.count} {: #nl-ut }
+### Flevoland _(0)_{:.count}
+{: #nl-fl }
+
+
+
+
+
+
+
+### Utrecht _(4)_{:.count}
+{: #nl-ut }
 
 
 
@@ -9413,32 +11457,33 @@ Berghoeve -   <br>
 ##### Uncategorized _(4)_{:.count}
 
 
-De Leckere - 1997  <br>
+ De Leckere • Brouwerij De Leckere  - 1997   `#deleckere`{:.key} <br>
 // Utrecht  <br>
 [www.deleckere.nl](http://www.deleckere.nl)  <br>
-{:.brewery}
+{: .brewery #deleckere }
 
 
-De Eem -   <br>
+ De Eem • Bierbrouwerij De Eem   `#deeem`{:.key} <br>
 // Amersfoort  <br>
-{:.brewery}
+{: .brewery #deeem }
 
 
-Maximus - 2011  <br>
+ Maximus • Brouwerij Maximus  - 2011   `#maximus`{:.key} <br>
 // Leidsche Rijn  <br>
 [www.brouwerijmaximus.nl](http://www.brouwerijmaximus.nl)  <br>
-{:.brewery}
+{: .brewery #maximus }
 
 
-Duits & Lauret - 2009  <br>
+ Duits & Lauret • Speciaalbierbrouwerij Duits & Lauret  - 2009   `#duitslauret`{:.key} <br>
 // Vleuten  <br>
 [www.duitslauret.com](http://www.duitslauret.com)  <br>
-{:.brewery}
+{: .brewery #duitslauret }
 
 
 
 
-### Noord-Holland [North Holland] _(13)_{:.count} {: #nl-nh }
+### Noord-Holland [North Holland] _(13)_{:.count}
+{: #nl-nh }
 
 
 
@@ -9447,72 +11492,65 @@ Duits & Lauret - 2009  <br>
 ##### Uncategorized _(13)_{:.count}
 
 
-De 7 Deugden - 2010  <br>
+ De 7 Deugden • Brouwerij De 7 Deugden  - 2010   `#dezevendeugden`{:.key} <br>
 // Amsterdam  <br>
 [www.de7deugden.nl](http://www.de7deugden.nl)  <br>
-{:.brewery}
+{: .brewery #dezevendeugden }
 
 
-Breugems - 2007  <br>
+ Breugems • Breugems Brouwerij  - 2007   `#breugems`{:.key} <br>
 // Zaandam  <br>
-{:.brewery}
+{: .brewery #breugems }
 
 
-De Boei -   <br>
-{:.brewery}
+ De Boei • Bierbrouwerij De Boei   `#deboei`{:.key} <br>
+{: .brewery #deboei }
 
 
-Dampegheest -   <br>
-{:.brewery}
+ Dampegheest • Brouwerij Dampegheest   `#dampegheest`{:.key} <br>
+{: .brewery #dampegheest }
 
 
-Egmond -   <br>
-{:.brewery}
+ Egmond • Brouwerij Egmond   `#egmond`{:.key} <br>
+{: .brewery #egmond }
 
 
-Florindia -   <br>
-{:.brewery}
+ Florindia • Brouwerij Florindia   `#florindia`{:.key} <br>
+{: .brewery #florindia }
 
 
-Gooische Bierbrouwerij -   <br>
-{:.brewery}
+ Gooische Bierbrouwerij   `#gooische`{:.key} <br>
+{: .brewery #gooische }
 
 
-Heyloo -   <br>
-{:.brewery}
+ Heyloo • Brouwerij Heyloo   `#heyloo`{:.key} <br>
+{: .brewery #heyloo }
 
 
-'t IJ -   <br>
-{:.brewery}
+ 't IJ • Brouwerij 't IJ   `#tij`{:.key} <br>
+{: .brewery #tij }
 
 
-Jopen -   <br>
-{:.brewery}
+ Jopen   `#jopen`{:.key} <br>
+{: .brewery #jopen }
 
 
-Brouwerij De Prael -   <br>
-{:.brewery}
+ Brouwerij De Prael   `#deprael`{:.key} <br>
+{: .brewery #deprael }
 
 
-SNAB -   <br>
-{:.brewery}
+ SNAB   `#snab`{:.key} <br>
+{: .brewery #snab }
 
 
-Texelse Bierbrouwerij -   <br>
-{:.brewery}
-
-
-
-
-### Zuid-Holland [South Holland] _(0)_{:.count} {: #nl-zh }
+ Texelse Bierbrouwerij   `#texelse`{:.key} <br>
+{: .brewery #texelse }
 
 
 
 
-
-
-
-### Zeeland _(0)_{:.count} {: #nl-ze }
+### Zuid-Holland [South Holland] _(0)_{:.count}
+{: #nl-zh }
 
 
 
@@ -9520,7 +11558,17 @@ Texelse Bierbrouwerij -   <br>
 
 
 
-### Noord-Brabant [North Brabant] _(7)_{:.count} {: #nl-nb }
+### Zeeland _(0)_{:.count}
+{: #nl-ze }
+
+
+
+
+
+
+
+### Noord-Brabant [North Brabant] _(7)_{:.count}
+{: #nl-nb }
 
 
 
@@ -9529,49 +11577,50 @@ Texelse Bierbrouwerij -   <br>
 ##### Uncategorized _(7)_{:.count}
 
 
-Budels - 1870  <br>
+ Budels • Budelse Brouwerij  - 1870   `#budels`{:.key} <br>
 // Budel  <br>
 [www.budels.nl](http://www.budels.nl)  <br>
-{:.brewery}
+{: .brewery #budels }
 
 
-De 3 Horne - 1990  <br>
+ De 3 Horne • Brouwerij De 3 Horne  - 1990   `#dedriehorne`{:.key} <br>
 // Kaatsheuvel  <br>
 [www.de3horne.nl](http://www.de3horne.nl)  <br>
-{:.brewery}
+{: .brewery #dedriehorne }
 
 
-Bavaria - 1680  <br>
+ Bavaria • Bavaria Brouwerij  - 1680   `#bavaria`{:.key} <br>
 // Lieshout  <br>
 [www.bavaria.nl](http://www.bavaria.nl)  <br>
-{:.brewery}
+{: .brewery #bavaria }
 
 
-Dommelsch - 1744  <br>
+ Dommelsch • Dommelsche Bierbrouwerij  - 1744  _abinbev_{:.tags} `#dommelsch`{:.key} <br>
 // Dommelen  <br>
 [www.dommelsch.nl](http://www.dommelsch.nl)  <br>
-{:.brewery}
+{: .brewery #dommelsch }
 
 
-De Koningshoeven -   <br>
+ De Koningshoeven • Bierbrouwerij De Koningshoeven  _trappisten_{:.tags} `#dekoningshoeven`{:.key} <br>
 [www.latrappe.nl](http://www.latrappe.nl)  <br>
-{:.brewery}
+{: .brewery #dekoningshoeven }
 
 
-Oijen -   <br>
+ Oijen • Speciaalbierbrouwerij Oijen   `#oijen`{:.key} <br>
 // Oijen (Oss)  <br>
 [www.speciaalbierbrouwerij.nl](http://www.speciaalbierbrouwerij.nl)  <br>
-{:.brewery}
+{: .brewery #oijen }
 
 
-De Roos -   <br>
+ De Roos • Museumbrouwerij De Roos   `#deroos`{:.key} <br>
 [www.museumbrouwerij.nl](http://www.museumbrouwerij.nl)  <br>
-{:.brewery}
+{: .brewery #deroos }
 
 
 
 
-### Limburg _(8)_{:.count} {: #nl-li }
+### Limburg _(8)_{:.count}
+{: #nl-li }
 
 
 
@@ -9580,40 +11629,40 @@ De Roos -   <br>
 ##### Uncategorized _(8)_{:.count}
 
 
-Alfa - 1870  <br>
+ Alfa • Alfa Brouwerij  - 1870   `#alfa`{:.key} <br>
 // Thull (Schinnen)  <br>
 [www.alfabier.nl](http://www.alfabier.nl)  <br>
-{:.brewery}
+{: .brewery #alfa }
 
 
-Brand -   <br>
+ Brand • Brand Bierbrouwerij  _heineken_{:.tags} `#brand`{:.key} <br>
 // Wijlre  <br>
 [www.brand.nl](http://www.brand.nl)  <br>
-{:.brewery}
+{: .brewery #brand }
 
 
-Brouwerij Sint Christoffel -   <br>
-{:.brewery}
+ Brouwerij Sint Christoffel   `#stchristoffel`{:.key} <br>
+{: .brewery #stchristoffel }
 
 
-Brouwerij De Fontein -   <br>
-{:.brewery}
+ Brouwerij De Fontein   `#defontein`{:.key} <br>
+{: .brewery #defontein }
 
 
-· Gulpener Bierbrouwerij -   <br>
-{:.brewery}
+ · Gulpener Bierbrouwerij   `#gulpener`{:.key} <br>
+{: .brewery #gulpener }
 
 
-Hertog Jan Brouwerij -   <br>
-{:.brewery}
+ Hertog Jan Brouwerij   `#hertogjan`{:.key} <br>
+{: .brewery #hertogjan }
 
 
-Bierbrouwerij Lindeboom -   <br>
-{:.brewery}
+ Bierbrouwerij Lindeboom   `#lindeboom`{:.key} <br>
+{: .brewery #lindeboom }
 
 
-Mongozo -   <br>
-{:.brewery}
+ Mongozo   `#mongozo`{:.key} <br>
+{: .brewery #mongozo }
 
 
 
@@ -9629,7 +11678,12 @@ Mongozo -   <br>
 
 ### Uncategorized Beers
 
-Hansa   • Ardenne Blond   • Dark Force   • Norwegian Wood   • Dark Horizon   • Nogne Ø Imperial Stout  
+**Hansa** (4.5%) _pils pils_{:.tags}  • 
+**Ardenne Blond** (7.5%)   • 
+**Dark Force** (9.0%) _stout_{:.tags}  • 
+**Norwegian Wood** (6.5%)   • 
+**Dark Horizon** (16.0%) _stout_{:.tags}  • 
+**Nogne Ø Imperial Stout** (9.0%) _stout_{:.tags} 
 
 
 
@@ -9645,7 +11699,19 @@ Hansa   • Ardenne Blond   • Dark Force   • Norwegian Wood   • Dark Horiz
 
 ### Uncategorized Beers
 
-Brackie   • Żubr   • Strzelec Jasne Pelne   • Strzelec Mocne   • Lomża Export   • Okocim Mocne   • Żywiec   • EB   • Żiewic Porter   • Lech   • Perla Chmielowa   • Tyskie Grodnie   • Tyskie Ksiazece  
+**Brackie** (5.5%) _pils_{:.tags}  • 
+**Żubr**  _lager_{:.tags}  • 
+**Strzelec Jasne Pelne** (5.2%) _pils_{:.tags}  • 
+**Strzelec Mocne** (7.0%) _sterk_{:.tags}  • 
+**Lomża Export** (5.7%) _lager_{:.tags}  • 
+**Okocim Mocne** (7.0%) _sterk_{:.tags}  • 
+**Żywiec** (5.6%) _lager_{:.tags}  • 
+**EB** (5.0%) _pils_{:.tags}  • 
+**Żiewic Porter** (9.5%) _porter_{:.tags}  • 
+**Lech**  _lager_{:.tags}  • 
+**Perla Chmielowa** (6.0%) _pils_{:.tags}  • 
+**Tyskie Grodnie** (5.6%) _pils_{:.tags}  • 
+**Tyskie Ksiazece** (5.7%) _ale_{:.tags} 
 
 
 
@@ -9661,7 +11727,10 @@ Brackie   • Żubr   • Strzelec Jasne Pelne   • Strzelec Mocne   • Lomża
 
 ### Uncategorized Beers
 
-Sagres Bohemia   • Sagres Preta   • Super Bock   • Super Bock Stout  
+**Sagres Bohemia** (6.2%)   • 
+**Sagres Preta** (4.3%)   • 
+**Super Bock** (5.6%) _pale lager_{:.tags}  • 
+**Super Bock Stout** (5.0%) _stout_{:.tags} 
 
 
 
@@ -9679,36 +11748,55 @@ Sagres Bohemia   • Sagres Preta   • Super Bock   • Super Bock Stout
 ### Uncategorized _(4)_{:.count}
 
 
-Heineken Romania - 1998  <br>
+ Heineken Romania  - 1998  _heineken_{:.tags} `#heinekenro`{:.key} <br>
 [www.heinekenromania.ro](http://www.heinekenromania.ro)  <br>
-{:.brewery}
+{: .brewery #heinekenro }
 
-‹Silva› (Original Pils)   • ‹Silva› Dark   • ‹Ciuc› Premium (Pils Original)   • Golden Brau   • Neumarkt (Original Pils)   • Bucegi   • Gambrinus   • Harghita   • Hategana  
-{:.beers}
+**‹Silva› (Original Pils)** (5.1%, 11.2°) _pilsener pale lager_{:.tags}  • 
+**‹Silva› Dark** (7.0%, 16.0°) _dunkler bock dark lager_{:.tags}  • 
+**‹Ciuc› Premium (Pils Original)** (4.8%, 11.5°) _czech pilsener pilsener pale lager_{:.tags}  • 
+**Golden Brau** (5.0%, 11.2°) _pale lager_{:.tags}  • 
+**Neumarkt (Original Pils)** (5.2%, 11.0°) _pale lager_{:.tags}  • 
+**Bucegi** (4.5%, 10.3°) _pale lager_{:.tags}  • 
+**Gambrinus** (4.5%) _pale lager_{:.tags}  • 
+**Harghita** (4.5%, 10.3°) _pale lager_{:.tags}  • 
+**Hategana** (4.5%) _pale lager_{:.tags} 
+{: .beers }
 
-Ursus Breweries -   <br>
+ Ursus Breweries  _sabmiller_{:.tags} `#ursus`{:.key} <br>
 [www.ursus-breweries.ro](http://www.ursus-breweries.ro)  <br>
-{:.brewery}
+{: .brewery #ursus }
 
-‹Ursus› Premium   • ‹Ursus› Pils   • ‹Ursus› Nefiltrată [Unfiltered]   • ‹Ursus› Black   • ‹Timișoreana›   • Stejar Strong   • Azuga   • Ciucaș  
-{:.beers}
+**‹Ursus› Premium** (5.0%, 11.4°) _blonde pale lager pilsener_{:.tags}  • 
+**‹Ursus› Pils**  _pilsener_{:.tags}  • 
+**‹Ursus› Nefiltrată [Unfiltered]** (5.0%)   • 
+**‹Ursus› Black** (6.0%, 15.0°) _porter schwarz_{:.tags}  • 
+**‹Timișoreana›** (5.0%, 11.1°) _pale lager pilsener_{:.tags}  • 
+**Stejar Strong** (7.0%, 14.5°) _strong pale lager imperial pils_{:.tags}  • 
+**Azuga**  _pale lager_{:.tags}  • 
+**Ciucaș** (4.6%, 10.6°)  
+{: .beers }
 
-Bergenbier - 1994  <br>
-{:.brewery}
+ Bergenbier • Bergenbier S.A.  - 1994  _molsoncoors_{:.tags} `#bergenbier`{:.key} <br>
+{: .brewery #bergenbier }
 
-‹Bergenbier›   • ‹Bergenbier› Nefiltrată [Unfiltered]   • Noroc (Blondă)  
-{:.beers}
+**‹Bergenbier›** (5.0%, 11.0°) _pale lager_{:.tags}  • 
+**‹Bergenbier› Nefiltrată [Unfiltered]** (5.0%) _white weizen_{:.tags}  • 
+**Noroc (Blondă)** (4.5%, 10.2°) _blonde pale lager_{:.tags} 
+{: .beers }
 
-Romaqua Group Borsec - 1999  <br>
+ Romaqua Group Borsec  - 1999   `#romaqua`{:.key} <br>
 [www.romaqua-group.ro](http://www.romaqua-group.ro)  <br>
-{:.brewery}
+{: .brewery #romaqua }
 
-Albacher (Original Premium)   • Dorfer (Bere Blondǎ)  
-{:.beers}
+**Albacher (Original Premium)** (4.8%, 11.0°) _blonde pilsener_{:.tags}  • 
+**Dorfer (Bere Blondǎ)**  _pale lager_{:.tags} 
+{: .beers }
 
 
 
-### Bihor _(0)_{:.count} {: #ro-bh }
+### Bihor _(0)_{:.count}
+{: #ro-bh }
 
 
 
@@ -9716,7 +11804,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Bistrița-Năsăud _(0)_{:.count} {: #ro-bn }
+### Bistrița-Năsăud _(0)_{:.count}
+{: #ro-bn }
 
 
 
@@ -9724,7 +11813,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Cluj _(0)_{:.count} {: #ro-cj }
+### Cluj _(0)_{:.count}
+{: #ro-cj }
 
 
 
@@ -9732,7 +11822,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Maramureș _(0)_{:.count} {: #ro-mm }
+### Maramureș _(0)_{:.count}
+{: #ro-mm }
 
 
 
@@ -9740,7 +11831,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Satu Mare _(0)_{:.count} {: #ro-sm }
+### Satu Mare _(0)_{:.count}
+{: #ro-sm }
 
 
 
@@ -9748,7 +11840,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Sălaj _(0)_{:.count} {: #ro-sj }
+### Sălaj _(0)_{:.count}
+{: #ro-sj }
 
 
 
@@ -9756,7 +11849,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Alba _(0)_{:.count} {: #ro-ab }
+### Alba _(0)_{:.count}
+{: #ro-ab }
 
 
 
@@ -9764,7 +11858,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Brașov _(0)_{:.count} {: #ro-bv }
+### Brașov _(0)_{:.count}
+{: #ro-bv }
 
 
 
@@ -9772,7 +11867,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Covasna _(0)_{:.count} {: #ro-cv }
+### Covasna _(0)_{:.count}
+{: #ro-cv }
 
 
 
@@ -9780,7 +11876,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Harghita _(0)_{:.count} {: #ro-hr }
+### Harghita _(0)_{:.count}
+{: #ro-hr }
 
 
 
@@ -9788,7 +11885,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Mureș _(0)_{:.count} {: #ro-ms }
+### Mureș _(0)_{:.count}
+{: #ro-ms }
 
 
 
@@ -9796,7 +11894,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Sibiu _(0)_{:.count} {: #ro-sb }
+### Sibiu _(0)_{:.count}
+{: #ro-sb }
 
 
 
@@ -9804,7 +11903,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Bacău _(0)_{:.count} {: #ro-bc }
+### Bacău _(0)_{:.count}
+{: #ro-bc }
 
 
 
@@ -9812,7 +11912,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Botoșani _(0)_{:.count} {: #ro-bt }
+### Botoșani _(0)_{:.count}
+{: #ro-bt }
 
 
 
@@ -9820,7 +11921,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Iași _(0)_{:.count} {: #ro-is }
+### Iași _(0)_{:.count}
+{: #ro-is }
 
 
 
@@ -9828,7 +11930,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Neamț _(0)_{:.count} {: #ro-nt }
+### Neamț _(0)_{:.count}
+{: #ro-nt }
 
 
 
@@ -9836,7 +11939,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Suceava _(0)_{:.count} {: #ro-sv }
+### Suceava _(0)_{:.count}
+{: #ro-sv }
 
 
 
@@ -9844,7 +11948,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Vaslui _(0)_{:.count} {: #ro-vs }
+### Vaslui _(0)_{:.count}
+{: #ro-vs }
 
 
 
@@ -9852,7 +11957,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Brăila _(0)_{:.count} {: #ro-br }
+### Brăila _(0)_{:.count}
+{: #ro-br }
 
 
 
@@ -9860,7 +11966,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Buzău _(0)_{:.count} {: #ro-bz }
+### Buzău _(0)_{:.count}
+{: #ro-bz }
 
 
 
@@ -9868,7 +11975,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Constanța _(0)_{:.count} {: #ro-ct }
+### Constanța _(0)_{:.count}
+{: #ro-ct }
 
 
 
@@ -9876,7 +11984,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Galați _(0)_{:.count} {: #ro-gl }
+### Galați _(0)_{:.count}
+{: #ro-gl }
 
 
 
@@ -9884,7 +11993,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Tulcea _(0)_{:.count} {: #ro-tl }
+### Tulcea _(0)_{:.count}
+{: #ro-tl }
 
 
 
@@ -9892,7 +12002,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Vrancea _(0)_{:.count} {: #ro-vn }
+### Vrancea _(0)_{:.count}
+{: #ro-vn }
 
 
 
@@ -9900,7 +12011,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Argeș _(0)_{:.count} {: #ro-ag }
+### Argeș _(0)_{:.count}
+{: #ro-ag }
 
 
 
@@ -9908,7 +12020,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Călărași _(0)_{:.count} {: #ro-cl }
+### Călărași _(0)_{:.count}
+{: #ro-cl }
 
 
 
@@ -9916,7 +12029,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Dâmbovița _(0)_{:.count} {: #ro-db }
+### Dâmbovița _(0)_{:.count}
+{: #ro-db }
 
 
 
@@ -9924,7 +12038,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Giurgiu _(0)_{:.count} {: #ro-gr }
+### Giurgiu _(0)_{:.count}
+{: #ro-gr }
 
 
 
@@ -9932,7 +12047,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Ialomița _(0)_{:.count} {: #ro-il }
+### Ialomița _(0)_{:.count}
+{: #ro-il }
 
 
 
@@ -9940,7 +12056,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Prahova _(0)_{:.count} {: #ro-ph }
+### Prahova _(0)_{:.count}
+{: #ro-ph }
 
 
 
@@ -9948,7 +12065,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Teleorman _(0)_{:.count} {: #ro-tr }
+### Teleorman _(0)_{:.count}
+{: #ro-tr }
 
 
 
@@ -9956,7 +12074,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### București _(0)_{:.count} {: #ro-bb }
+### București _(0)_{:.count}
+{: #ro-bb }
 
 
 
@@ -9964,7 +12083,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Ilfov _(0)_{:.count} {: #ro-if }
+### Ilfov _(0)_{:.count}
+{: #ro-if }
 
 
 
@@ -9972,7 +12092,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Dolj _(0)_{:.count} {: #ro-dj }
+### Dolj _(0)_{:.count}
+{: #ro-dj }
 
 
 
@@ -9980,7 +12101,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Gorj _(0)_{:.count} {: #ro-gj }
+### Gorj _(0)_{:.count}
+{: #ro-gj }
 
 
 
@@ -9988,7 +12110,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Mehedinți _(0)_{:.count} {: #ro-mh }
+### Mehedinți _(0)_{:.count}
+{: #ro-mh }
 
 
 
@@ -9996,7 +12119,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Olt _(0)_{:.count} {: #ro-ot }
+### Olt _(0)_{:.count}
+{: #ro-ot }
 
 
 
@@ -10004,7 +12128,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Vâlcea _(0)_{:.count} {: #ro-vl }
+### Vâlcea _(0)_{:.count}
+{: #ro-vl }
 
 
 
@@ -10012,7 +12137,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Arad _(0)_{:.count} {: #ro-ar }
+### Arad _(0)_{:.count}
+{: #ro-ar }
 
 
 
@@ -10020,7 +12146,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Caraș-Severin _(0)_{:.count} {: #ro-cs }
+### Caraș-Severin _(0)_{:.count}
+{: #ro-cs }
 
 
 
@@ -10028,7 +12155,8 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Hunedoara _(0)_{:.count} {: #ro-hd }
+### Hunedoara _(0)_{:.count}
+{: #ro-hd }
 
 
 
@@ -10036,19 +12164,23 @@ Albacher (Original Premium)   • Dorfer (Bere Blondǎ)
 
 
 
-### Timiș _(1)_{:.count} {: #ro-tm }
+### Timiș _(1)_{:.count}
+{: #ro-tm }
 
 
 
 
-##### Timișoara 
+##### Timișoara  
+{: .city #timisoara }
 
 
-Berarium / Clinica de Bere - 2011  <br>
-{:.brewery}
 
-Terapia Platin   • Terapia Gold  
-{:.beers}
+ Berarium / Clinica de Bere  - 2011   `#berarium`{:.key} <br>
+{: .brewery #berarium }
+
+**Terapia Platin**  _weizen_{:.tags}  • 
+**Terapia Gold**  _golden ale ale_{:.tags} 
+{: .beers }
 
 
 
@@ -10064,7 +12196,7 @@ Terapia Platin   • Terapia Gold
 
 ### Uncategorized Beers
 
-Baltika  
+**Baltika**   
 
 
 
@@ -10080,7 +12212,7 @@ Baltika
 
 ### Uncategorized Beers
 
-Lav Pivo  
+**Lav Pivo** (5.2%) _pils_{:.tags} 
 
 
 
@@ -10096,141 +12228,151 @@ Lav Pivo
 
 ### Uncategorized Beers
 
-‹Topvar› 12% Svetlý Ležiak   • ‹Topvar› 10% Svetlé Výčapné   • ‹Topvar› 11% Tmavý Výčapný Ležiak [Dark Lager]   • Stein  
+**‹Topvar› 12% Svetlý Ležiak** (12.0°) _pale lager_{:.tags}  • 
+**‹Topvar› 10% Svetlé Výčapné** (10.0°)   • 
+**‹Topvar› 11% Tmavý Výčapný Ležiak [Dark Lager]** (11.0°) _dark lager_{:.tags}  • 
+**Stein**   
 
 
 ### Uncategorized _(15)_{:.count}
 
 
-Pivovar Šariš - 1968  <br>
+ Pivovar Šariš  - 1968   `#saris`{:.key} <br>
 Pivovarská 9 // 082 21 Veľký Šariš  <br>
 [www.saris.sk](http://www.saris.sk)  <br>
-{:.brewery}
+{: .brewery #saris }
 
-‹Šariš› 12%   • ‹Šariš› 10%   • ‹Šariš› 11% Tmavý [Dark]  
-{:.beers}
+**‹Šariš› 12%** (12.0°)   • 
+**‹Šariš› 10%** (10.0°)   • 
+**‹Šariš› 11% Tmavý [Dark]** (11.0°)  
+{: .beers }
 
-Pivovary Topvar [Topvar Breweries] - 1960  <br>
+ Pivovary Topvar [Topvar Breweries]  - 1960  _sabmiller_{:.tags} `#topvar`{:.key} <br>
 Krušovská 2092 // 955 14 Topoľčany  <br>
 [www.topvar.sk](http://www.topvar.sk)  <br>
-{:.brewery}
+{: .brewery #topvar }
 
 
-Heineken Slovensko -   <br>
+ Heineken Slovensko  _heineken_{:.tags} `#heinekensk`{:.key} <br>
 [www.heinekenslovensko.sk](http://www.heinekenslovensko.sk)  <br>
-{:.brewery}
+{: .brewery #heinekensk }
 
-‹Corgoň› 12%   • ‹Corgoň› 10%   • ‹Martiner› 12%   • ‹Martiner› 10%  
-{:.beers}
+**‹Corgoň› 12%** (12.0°)   • 
+**‹Corgoň› 10%** (10.0°)   • 
+**‹Martiner› 12%** (12.0°)   • 
+**‹Martiner› 10%** (10.0°)  
+{: .beers }
 
-Zlatý Bažant (Heineken Slovensko) - 1967  <br>
+ Zlatý Bažant (Heineken Slovensko)  - 1967   `#zlatybazant`{:.key} <br>
 Novozámocká 2 // 947 12 Hurbanovo  <br>
 [www.zlatybazant.sk](http://www.zlatybazant.sk)  <br>
-{:.brewery}
+{: .brewery #zlatybazant }
 
-‹Zlatý Bažant› 12% (Svetlé)   • ‹Zlatý Bažant› 10% (Svetlé)   • ‹Zlatý Bažant› Tmavé [Dark]  
-{:.beers}
+**‹Zlatý Bažant› 12% (Svetlé)** (5.0%, 12.0°) _pale lager_{:.tags}  • 
+**‹Zlatý Bažant› 10% (Svetlé)** (4.3%, 10.0°)   • 
+**‹Zlatý Bažant› Tmavé [Dark]** (3.8%, 10.0°) _dark_{:.tags} 
+{: .beers }
 
-Gemer Pivovar Rimavská Sobota (Heineken Slovensko) - 1966  <br>
+ Gemer Pivovar Rimavská Sobota (Heineken Slovensko)  - 1966   `#gemer`{:.key} <br>
 Cukrovarská 67/1 // 979 01  Rimavská Sobota  <br>
-{:.brewery}
+{: .brewery #gemer }
 
-‹Gemer› Standard  
-{:.beers}
+**‹Gemer› Standard**   
+{: .beers }
 
-Pivovar Corgoň (Heineken Slovensko) -   <br>
+ Pivovar Corgoň (Heineken Slovensko)   `#corgon`{:.key} <br>
 Štefánikova 79 // 949 40  Nitra  <br>
 [www.corgon.sk](http://www.corgon.sk)  <br>
-{:.brewery}
+{: .brewery #corgon }
 
 
-Martiner (Heineken Slovensko) -   <br>
+ Martiner (Heineken Slovensko)   `#martiner`{:.key} <br>
 Hrdinov SNP 7 // 036 42 Martin  <br>
-{:.brewery}
+{: .brewery #martiner }
 
 
-Pivovar Urpín - 1971  <br>
+ Pivovar Urpín  - 1971   `#urpin`{:.key} <br>
 Sládkovičova 37 // 974 05  Banská Bystrica  <br>
 [www.urpiner.eu](http://www.urpiner.eu)  <br>
-{:.brewery}
+{: .brewery #urpin }
 
 
-Banskobystrický Pivovar -   <br>
+ Banskobystrický Pivovar   `#banskobystricky`{:.key} <br>
 Sládkovičova 37 // 974 05  Banská Bystrica  <br>
 [www.pivovarbb.sk](http://www.pivovarbb.sk)  <br>
-{:.brewery}
+{: .brewery #banskobystricky }
 
-‹Urpiner›  
-{:.beers}
+**‹Urpiner›**  _pale lager_{:.tags} 
+{: .beers }
 
-Pivovar Steiger [Steiger Brewery] - 1473  <br>
+ Pivovar Steiger [Steiger Brewery]  - 1473   `#steiger`{:.key} <br>
 Vyhne č.24 // 966 02  Vyhne  <br>
 [www.steiger.sk](http://www.steiger.sk)  <br>
-{:.brewery}
+{: .brewery #steiger }
 
 
-Pivovar Stein [Stein Brewery] - 1873  <br>
+ Pivovar Stein [Stein Brewery]  - 1873   `#stein`{:.key} <br>
 Blumentálska 19 // 816 13 Bratislava  <br>
 [www.stein.sk](http://www.stein.sk)  <br>
-{:.brewery}
+{: .brewery #stein }
 
 
-Pivovar Poper - 1604  <br>
+ Pivovar Poper  - 1604   `#poper`{:.key} <br>
 Sakalovej 158/39 // 014 24 Bytča  <br>
 [www.popper.sk](http://www.popper.sk)  <br>
-{:.brewery}
+{: .brewery #poper }
 
 
-Pivovar Tatran - 1812  <br>
+ Pivovar Tatran  - 1812   `#tatran`{:.key} <br>
 Murgašova 1 // 058 80 Poprad  <br>
-{:.brewery}
+{: .brewery #tatran }
 
 
-Pivovar Kaltenecker - 1996  <br>
+ Pivovar Kaltenecker  - 1996   `#kaltenecker`{:.key} <br>
 Edelényska 2 // 048 01  Rožňava  <br>
-{:.brewery}
+{: .brewery #kaltenecker }
 
-‹Kaltenecker› Märzen   • Brokát Dark  
-{:.beers}
+**‹Kaltenecker› Märzen**    • 
+**Brokát Dark** (5.0%) _dunkel lager_{:.tags} 
+{: .beers }
 
-Prievalský Pivovar Sandorf - 2011  <br>
+ Prievalský Pivovar Sandorf  - 2011   `#prievaly`{:.key} <br>
 Prievaly 79 // 906 34  Prievaly  <br>
 [www.sandorf.sk](http://www.sandorf.sk)  <br>
-{:.brewery}
+{: .brewery #prievaly }
 
-Sandorf  
-{:.beers}
-
-
-
-### Bratislava _(1)_{:.count} {: #sk-bl }
+**Sandorf**   
+{: .beers }
 
 
 
+### Bratislava _(1)_{:.count}
+{: #sk-bl }
 
-##### Bratislava 
 
 
-Minipivovar Richtár Jakub -   <br>
+
+##### Bratislava   _pop 462.603_{:.pop}
+{: .city #bratislava }
+
+
+
+ Minipivovar Richtár Jakub   `#richtarjakub`{:.key} <br>
 81108 Bratislava 1 // Moskovská 16  <br>
 [www.richtarjakub.sk](http://www.richtarjakub.sk)  <br>
-{:.brewery}
+{: .brewery #richtarjakub }
 
-Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý ležiak spodne kvasený)   • Katarína 13° (Tmavý ležiak)  
-{:.beers}
-
-
-
-
-### Trnava _(0)_{:.count} {: #sk-ta }
+**Anna 10° (Svetlé)** (4.0%, 10.0°) _pale lager_{:.tags}  • 
+**Jakub 12° (Svetlé)** (5.1%, 12.0°) _pale lager_{:.tags}  • 
+**Gejza 12° (Polotmavý ležiak spodne kvasený)** (5.1%, 12.0°) _semidark lager_{:.tags}  • 
+**Katarína 13° (Tmavý ležiak)** (4.6%, 13.0°) _dark lager_{:.tags} 
+{: .beers }
 
 
 
 
-
-
-
-### Trenčín _(0)_{:.count} {: #sk-tc }
+### Trnava _(0)_{:.count}
+{: #sk-ta }
 
 
 
@@ -10238,7 +12380,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Nitra _(0)_{:.count} {: #sk-ni }
+### Trenčín _(0)_{:.count}
+{: #sk-tc }
 
 
 
@@ -10246,7 +12389,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Žilina _(0)_{:.count} {: #sk-zi }
+### Nitra _(0)_{:.count}
+{: #sk-ni }
 
 
 
@@ -10254,7 +12398,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Banská Bystrica _(0)_{:.count} {: #sk-bc }
+### Žilina _(0)_{:.count}
+{: #sk-zi }
 
 
 
@@ -10262,7 +12407,8 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Prešov _(0)_{:.count} {: #sk-pv }
+### Banská Bystrica _(0)_{:.count}
+{: #sk-bc }
 
 
 
@@ -10270,7 +12416,17 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 
 
-### Košice _(0)_{:.count} {: #sk-ki }
+### Prešov _(0)_{:.count}
+{: #sk-pv }
+
+
+
+
+
+
+
+### Košice _(0)_{:.count}
+{: #sk-ki }
 
 
 
@@ -10289,7 +12445,9 @@ Anna 10° (Svetlé)   • Jakub 12° (Svetlé)   • Gejza 12° (Polotmavý lež
 
 ### Uncategorized Beers
 
-Laško   • Zlatorog   • Union Temno Pivo  
+**Laško**  _pils_{:.tags}  • 
+**Zlatorog** (4.9%) _pils_{:.tags}  • 
+**Union Temno Pivo** (5.2%) _lager_{:.tags} 
 
 
 
@@ -10305,12 +12463,26 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 ### Uncategorized Beers
 
-‹Alhambra› Negra   • ‹Alhambra› Reserva 1925   • +Lupulus   • +Malta   • +Negra   • ‹Cruzcampo›   • Legado de Yuste   • ‹Mahou› Negra   • ‹San Miguel›   • Glops Torrada   • Bock ‹Damm›   • ‹Estrella› ‹Damm›   • ‹Estrella› ‹Damm› Inedit   • Voll-‹Damm›  
+**‹Alhambra› Negra** (5.4%) _donkere lager_{:.tags}  • 
+**‹Alhambra› Reserva 1925** (6.4%) _lager_{:.tags}  • 
+**+Lupulus** (5.4%)   • 
+**+Malta** (5.1%) _pale ale_{:.tags}  • 
+**+Negra** (5.2%) _stout_{:.tags}  • 
+**‹Cruzcampo›**    • 
+**Legado de Yuste** (6.5%) _belgium special_{:.tags}  • 
+**‹Mahou› Negra** (5.5%)   • 
+**‹San Miguel›** (5.0%) _pils_{:.tags}  • 
+**Glops Torrada** (4.8%) _lager_{:.tags}  • 
+**Bock ‹Damm›** (5.4%) _dunkel lager_{:.tags}  • 
+**‹Estrella› ‹Damm›** (5.4%) _pils_{:.tags}  • 
+**‹Estrella› ‹Damm› Inedit** (4.8%) _tarwebier_{:.tags}  • 
+**Voll-‹Damm›** (7.2%) _maerzen_{:.tags} 
 
 
 
 
-### Andalucía | Andalusia _(0)_{:.count} {: #es-an }
+### Andalucía | Andalusia _(0)_{:.count}
+{: #es-an }
 
 
 
@@ -10318,7 +12490,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Aragón _(0)_{:.count} {: #es-ar }
+### Aragón _(0)_{:.count}
+{: #es-ar }
 
 
 
@@ -10326,7 +12499,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Asturias _(0)_{:.count} {: #es-as }
+### Asturias _(0)_{:.count}
+{: #es-as }
 
 
 
@@ -10334,7 +12508,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Illes Balears | Balearic Islands _(0)_{:.count} {: #es-ib }
+### Illes Balears | Balearic Islands _(0)_{:.count}
+{: #es-ib }
 
 
 
@@ -10342,7 +12517,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Pais Vasco | Basque Country _(0)_{:.count} {: #es-pv }
+### Pais Vasco | Basque Country _(0)_{:.count}
+{: #es-pv }
 
 
 
@@ -10350,7 +12526,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Canarias | Canary Islands _(0)_{:.count} {: #es-cn }
+### Canarias | Canary Islands _(0)_{:.count}
+{: #es-cn }
 
 
 
@@ -10358,7 +12535,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Cantábria _(0)_{:.count} {: #es-cb }
+### Cantábria _(0)_{:.count}
+{: #es-cb }
 
 
 
@@ -10366,7 +12544,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Castilla y León _(0)_{:.count} {: #es-cl }
+### Castilla y León _(0)_{:.count}
+{: #es-cl }
 
 
 
@@ -10374,7 +12553,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Castilla-La Mancha _(0)_{:.count} {: #es-cm }
+### Castilla-La Mancha _(0)_{:.count}
+{: #es-cm }
 
 
 
@@ -10382,7 +12562,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Cataluña | Catalonia _(0)_{:.count} {: #es-ct }
+### Cataluña | Catalonia _(0)_{:.count}
+{: #es-ct }
 
 
 
@@ -10390,7 +12571,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Extremadura _(0)_{:.count} {: #es-ex }
+### Extremadura _(0)_{:.count}
+{: #es-ex }
 
 
 
@@ -10398,7 +12580,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Galicia _(0)_{:.count} {: #es-ga }
+### Galicia _(0)_{:.count}
+{: #es-ga }
 
 
 
@@ -10406,7 +12589,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### La Rioja _(0)_{:.count} {: #es-ri }
+### La Rioja _(0)_{:.count}
+{: #es-ri }
 
 
 
@@ -10414,7 +12598,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Madrid _(0)_{:.count} {: #es-md }
+### Madrid _(0)_{:.count}
+{: #es-md }
 
 
 
@@ -10422,7 +12607,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Murcia _(0)_{:.count} {: #es-mc }
+### Murcia _(0)_{:.count}
+{: #es-mc }
 
 
 
@@ -10430,7 +12616,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Navarra _(0)_{:.count} {: #es-na }
+### Navarra _(0)_{:.count}
+{: #es-na }
 
 
 
@@ -10438,7 +12625,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Valencia _(0)_{:.count} {: #es-vc }
+### Valencia _(0)_{:.count}
+{: #es-vc }
 
 
 
@@ -10446,7 +12634,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Ceuta _(0)_{:.count} {: #es-ce }
+### Ceuta _(0)_{:.count}
+{: #es-ce }
 
 
 
@@ -10454,7 +12643,8 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 
 
-### Melilla _(0)_{:.count} {: #es-ml }
+### Melilla _(0)_{:.count}
+{: #es-ml }
 
 
 
@@ -10473,7 +12663,13 @@ Laško   • Zlatorog   • Union Temno Pivo
 
 ### Uncategorized Beers
 
-D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout   • Nils Oscar Kalasöl   • Nils Oscar Rökporter   • Nils Oscar God Lager   • Pickla Pils  
+**D. Carnegie & Co. Porter** (5.5%) _porter_{:.tags}  • 
+**Jämtlands Heaven** (5.0%) _donkere lager_{:.tags}  • 
+**Nils Oscar Imperial Stout** (7.0%) _stout_{:.tags}  • 
+**Nils Oscar Kalasöl** (5.2%) _oktoberfestbier_{:.tags}  • 
+**Nils Oscar Rökporter** (6.0%) _rookporter_{:.tags}  • 
+**Nils Oscar God Lager** (5.3%) _lager_{:.tags}  • 
+**Pickla Pils** (4.8%) _pils_{:.tags} 
 
 
 
@@ -10490,7 +12686,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### Glarus _(0)_{:.count} {: #ch-gl }
+### Glarus _(0)_{:.count}
+{: #ch-gl }
 
 
 
@@ -10498,7 +12695,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### Schaffhausen _(0)_{:.count} {: #ch-sh }
+### Schaffhausen _(0)_{:.count}
+{: #ch-sh }
 
 
 
@@ -10506,7 +12704,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### Appenzell Ausserrhoden | Ap. Ausserrhoden _(0)_{:.count} {: #ch-ar }
+### Appenzell Ausserrhoden | Ap. Ausserrhoden _(0)_{:.count}
+{: #ch-ar }
 
 
 
@@ -10514,7 +12713,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### Appenzell Innerrhoden | Ap. Innerrhoden _(0)_{:.count} {: #ch-ai }
+### Appenzell Innerrhoden | Ap. Innerrhoden _(0)_{:.count}
+{: #ch-ai }
 
 
 
@@ -10522,7 +12722,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### St. Gallen _(0)_{:.count} {: #ch-sg }
+### St. Gallen _(0)_{:.count}
+{: #ch-sg }
 
 
 
@@ -10530,7 +12731,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### Graubünden _(0)_{:.count} {: #ch-gr }
+### Graubünden _(0)_{:.count}
+{: #ch-gr }
 
 
 
@@ -10538,7 +12740,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### Thurgau _(0)_{:.count} {: #ch-tg }
+### Thurgau _(0)_{:.count}
+{: #ch-tg }
 
 
 
@@ -10546,7 +12749,8 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 
 
 
-### Zürich _(17)_{:.count} {: #ch-zh }
+### Zürich _(17)_{:.count}
+{: #ch-zh }
 
 
 
@@ -10555,116 +12759,109 @@ D. Carnegie & Co. Porter   • Jämtlands Heaven   • Nils Oscar Imperial Stout
 ##### Uncategorized _(17)_{:.count}
 
 
-Brauerei Sudwerk - 2010  <br>
+ Brauerei Sudwerk  - 2010   `#sudwerk`{:.key} <br>
 Speckstrasse 3 // 8330 Pfäffikon (ZH)  <br>
 [www.sudwerk.ch](http://www.sudwerk.ch)  <br>
-{:.brewery}
+{: .brewery #sudwerk }
 
 
-Brauerei Uster - 2007  <br>
+ Brauerei Uster  - 2007   `#uster`{:.key} <br>
 Brauereistrasse 16 // 8610 Uster  <br>
 [www.brauereiuster.ch](http://www.brauereiuster.ch)  <br>
-{:.brewery}
+{: .brewery #uster }
 
 
-Doppelleu Brauwerkstatt - 2012  <br>
+ Doppelleu Brauwerkstatt  - 2012   `#doppelleu`{:.key} <br>
 Industriestrasse 40b // 8404 Winterthur  <br>
 [www.doppelleu.ch](http://www.doppelleu.ch)  <br>
-{:.brewery}
+{: .brewery #doppelleu }
 
 
-Euelbräu - 2007  <br>
+ Euelbräu • Brauerei zur Euelwies  - 2007   `#euelbraeu`{:.key} <br>
 In der Euelwies 7a // 8408 Winterthur  <br>
 [www.euelbraeu.ch](http://www.euelbraeu.ch)  <br>
-{:.brewery}
+{: .brewery #euelbraeu }
 
 
-Stadtguet - 2002  <br>
+ Stadtguet  - 2002   `#stadtguet`{:.key} <br>
 Industriestrasse 35 // 8400 Winterthur  <br>
 [www.stadtguet.ch](http://www.stadtguet.ch)  <br>
-{:.brewery}
+{: .brewery #stadtguet }
 
 
-Turbinen Bräu - 1997  <br>
+ Turbinen Bräu  - 1997   `#turbinenbraeu`{:.key} <br>
 Badenerstrasse 571 // 8048 Zürich  <br>
 [www.turbinenbraeu.ch](http://www.turbinenbraeu.ch)  <br>
-{:.brewery}
+{: .brewery #turbinenbraeu }
 
 
-Wädi Bräu - 1992  <br>
+ Wädi Bräu  - 1992   `#waedibraeu`{:.key} <br>
 Florhofstrasse 13 // 8820 Wädenswil  <br>
 [www.waedenswiler.ch](http://www.waedenswiler.ch)  <br>
-{:.brewery}
+{: .brewery #waedibraeu }
 
 
-Brauerei Brauwerk - 2010  <br>
+ Brauerei Brauwerk  - 2010   `#brauwerk`{:.key} <br>
 In der Längelen 3 // 8165 Oberweningen  <br>
-{:.brewery}
+{: .brewery #brauwerk }
 
 
-Brauerei Gambrinus / Rüedel - 2005  <br>
+ Brauerei Gambrinus / Rüedel  - 2005   `#rueedel`{:.key} <br>
 Adlergasse 5 // 8245 Feuerthalen  <br>
 [www.rueedel.ch](http://www.rueedel.ch)  <br>
-{:.brewery}
+{: .brewery #rueedel }
 
 
-Brauerei Gutknecht's Hammer-Bier - 2004  <br>
+ Brauerei Gutknecht's Hammer-Bier  - 2004   `#gutknecht`{:.key} <br>
 In den Linden 29 // 8153 Rümlang  <br>
-{:.brewery}
+{: .brewery #gutknecht }
 
 
-Chasperlibräu - 2012  <br>
+ Chasperlibräu  - 2012   `#chasperlibraeu`{:.key} <br>
 // 8049 Zürich  <br>
-{:.brewery}
+{: .brewery #chasperlibraeu }
 
 
-Brauverein Fischenthal - 2006  <br>
+ Brauverein Fischenthal • Hörnlibräu  - 2006   `#fischenthal`{:.key} <br>
 Bahnhofstrasse 5 // 8497 Fischenthal  <br>
 [www.brauverein-fischenthal.ch](http://www.brauverein-fischenthal.ch)  <br>
-{:.brewery}
+{: .brewery #fischenthal }
 
 
-Brauerei Ladus - 2013  <br>
+ Brauerei Ladus  - 2013   `#ladus`{:.key} <br>
 Neufeldstrasse 3 // 8154 Oberglatt (ZH)  <br>
 [www.ladus.ch](http://www.ladus.ch)  <br>
-{:.brewery}
+{: .brewery #ladus }
 
 
-ECM Bräu - 2005  <br>
+ ECM Bräu • Brauerei Flüegass  - 2005   `#ecmbraeu`{:.key} <br>
 Flühgasse 8 // 8008 Zürich  <br>
 [www.sbier.ch](http://www.sbier.ch)  <br>
-{:.brewery}
+{: .brewery #ecmbraeu }
 
 
-Brauerei Drachenbräu - 2006  <br>
+ Brauerei Drachenbräu  - 2006   `#drachenbraeu`{:.key} <br>
 Bickelstrasse 22 // 8942 Oberrieden  <br>
 [www.drachenbraeu.ch](http://www.drachenbraeu.ch)  <br>
-{:.brewery}
+{: .brewery #drachenbraeu }
 
 
-Restaurant Steinfels - 2007  <br>
+ Restaurant Steinfels  - 2007   `#steinfels`{:.key} <br>
 Heinrichstrasse 267 // 8005 Zürich  <br>
 [www.steinfels-zuerich.ch](http://www.steinfels-zuerich.ch)  <br>
-{:.brewery}
+{: .brewery #steinfels }
 
 
-Brauerei Feldhof - 2009  <br>
+ Brauerei Feldhof  - 2009   `#feldhof`{:.key} <br>
 Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 [www.brauereifeldhof.ch](http://www.brauereifeldhof.ch)  <br>
-{:.brewery}
+{: .brewery #feldhof }
 
 
 
 
-### Luzern _(0)_{:.count} {: #ch-lu }
-
-
-
-
-
-
-
-### Uri _(0)_{:.count} {: #ch-ur }
+### Luzern _(0)_{:.count}
+{: #ch-lu }
 
 
 
@@ -10672,7 +12869,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Schwyz _(0)_{:.count} {: #ch-sz }
+### Uri _(0)_{:.count}
+{: #ch-ur }
 
 
 
@@ -10680,7 +12878,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Obwalden _(0)_{:.count} {: #ch-ow }
+### Schwyz _(0)_{:.count}
+{: #ch-sz }
 
 
 
@@ -10688,7 +12887,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Nidwalden _(0)_{:.count} {: #ch-nw }
+### Obwalden _(0)_{:.count}
+{: #ch-ow }
 
 
 
@@ -10696,7 +12896,8 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Zug _(0)_{:.count} {: #ch-zg }
+### Nidwalden _(0)_{:.count}
+{: #ch-nw }
 
 
 
@@ -10704,7 +12905,17 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 
 
 
-### Basel-Stadt _(6)_{:.count} {: #ch-bs }
+### Zug _(0)_{:.count}
+{: #ch-zg }
+
+
+
+
+
+
+
+### Basel-Stadt _(6)_{:.count}
+{: #ch-bs }
 
 
 
@@ -10713,42 +12924,43 @@ Zürichstrasse 82 // 8118 Pfaffhausen  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
-Brauerei Luusbueb - 2010  <br>
+ Brauerei Luusbueb  - 2010   `#luusbueb`{:.key} <br>
 // 4054 Basel  <br>
-{:.brewery}
+{: .brewery #luusbueb }
 
 
-Brauerei Bîrtel - 2012  <br>
+ Brauerei Bîrtel  - 2012   `#birtel`{:.key} <br>
 Flughafenstrasse 31 // 4056 Basel  <br>
 [www.birtel.ch](http://www.birtel.ch)  <br>
-{:.brewery}
+{: .brewery #birtel }
 
 
-Brauerei Basiliske Bier - 2013  <br>
+ Brauerei Basiliske Bier  - 2013   `#basiliske`{:.key} <br>
 Wiesenschanzweg 34 // 4057 Basel  <br>
 [www.basiliskebier.ch](http://www.basiliskebier.ch)  <br>
-{:.brewery}
+{: .brewery #basiliske }
 
 
-Brauerei Käppelijoch - 1996  <br>
+ Brauerei Käppelijoch  - 1996   `#kaeppelijoch`{:.key} <br>
 Colmarerstrasse 16 // 4055 Basel  <br>
-{:.brewery}
+{: .brewery #kaeppelijoch }
 
 
-Brauerei zur grünen Amsel - 2010  <br>
+ Brauerei zur grünen Amsel  - 2010   `#zurgruenenamsel`{:.key} <br>
 Schmiedgasse 30 // 4125 Riehen  <br>
-{:.brewery}
+{: .brewery #zurgruenenamsel }
 
 
-Brauerei Fischerstube - 1974  <br>
+ Brauerei Fischerstube • Ueli Bier  - 1974   `#uelibier`{:.key} <br>
 Rheingasse 45 // 4058 Basel  <br>
 [www.uelibier.ch](http://www.uelibier.ch)  <br>
-{:.brewery}
+{: .brewery #uelibier }
 
 
 
 
-### Basel-Landschaft _(0)_{:.count} {: #ch-bl }
+### Basel-Landschaft _(0)_{:.count}
+{: #ch-bl }
 
 
 
@@ -10756,7 +12968,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Aargau _(0)_{:.count} {: #ch-ag }
+### Aargau _(0)_{:.count}
+{: #ch-ag }
 
 
 
@@ -10764,7 +12977,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Bern _(0)_{:.count} {: #ch-be }
+### Bern _(0)_{:.count}
+{: #ch-be }
 
 
 
@@ -10772,7 +12986,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Fribourg | Freiburg _(0)_{:.count} {: #ch-fr }
+### Fribourg | Freiburg _(0)_{:.count}
+{: #ch-fr }
 
 
 
@@ -10780,7 +12995,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Solothurn _(0)_{:.count} {: #ch-so }
+### Solothurn _(0)_{:.count}
+{: #ch-so }
 
 
 
@@ -10788,7 +13004,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Neuchâtel | Neuenburg _(0)_{:.count} {: #ch-ne }
+### Neuchâtel | Neuenburg _(0)_{:.count}
+{: #ch-ne }
 
 
 
@@ -10796,7 +13013,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Jura _(0)_{:.count} {: #ch-ju }
+### Jura _(0)_{:.count}
+{: #ch-ju }
 
 
 
@@ -10804,7 +13022,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Vaud | Waadt _(0)_{:.count} {: #ch-vd }
+### Vaud | Waadt _(0)_{:.count}
+{: #ch-vd }
 
 
 
@@ -10812,7 +13031,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Valais | Wallis _(0)_{:.count} {: #ch-vs }
+### Valais | Wallis _(0)_{:.count}
+{: #ch-vs }
 
 
 
@@ -10820,7 +13040,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Genève | Genf _(0)_{:.count} {: #ch-ge }
+### Genève | Genf _(0)_{:.count}
+{: #ch-ge }
 
 
 
@@ -10828,7 +13049,8 @@ Rheingasse 45 // 4058 Basel  <br>
 
 
 
-### Ticino | Tessin _(0)_{:.count} {: #ch-ti }
+### Ticino | Tessin _(0)_{:.count}
+{: #ch-ti }
 
 
 
@@ -10847,7 +13069,7 @@ Rheingasse 45 // 4058 Basel  <br>
 
 ### Uncategorized Beers
 
-‹Efes› Pilsen  
+**‹Efes› Pilsen** (5.0%) _pils_{:.tags} 
 
 
 
@@ -10863,7 +13085,7 @@ Rheingasse 45 // 4058 Basel  <br>
 
 ### Uncategorized Beers
 
-Weissbier Etalon  
+**Weissbier Etalon** (5.0%) _weizenbier_{:.tags} 
 
 
 
@@ -10879,12 +13101,13 @@ Weissbier Etalon
 
 ### Uncategorized Beers
 
-‹Antares› Stout Imperial  
+**‹Antares› Stout Imperial** (8.5%) _stout_{:.tags} 
 
 
 
 
-### Ciudad de Buenos Aires _(0)_{:.count} {: #ar-c }
+### Ciudad de Buenos Aires _(0)_{:.count}
+{: #ar-c }
 
 
 
@@ -10892,7 +13115,8 @@ Weissbier Etalon
 
 
 
-### Provincia de Buenos Aires _(1)_{:.count} {: #ar-b }
+### Provincia de Buenos Aires _(1)_{:.count}
+{: #ar-b }
 
 
 
@@ -10901,16 +13125,25 @@ Weissbier Etalon
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervecería y Maltería Quilmes - 1888  <br>
+ Cervecería y Maltería Quilmes  - 1888  _abinbev_{:.tags} `#quilmes`{:.key} <br>
 Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
-{:.brewery}
+{: .brewery #quilmes }
 
-‹Quilmes› Cristal   • ‹Quilmes› Bock   • ‹Quilmes› Stout   • ‹Quilmes› Red Lager   • ‹Quilmes› 1890   • ‹Patagonia› Amber Lager   • ‹Patagonia› Bohemia Pilsener   • ‹Patagonia› Weisse   • Igúazu  
-{:.beers}
+**‹Quilmes› Cristal** (4.9%) _lager_{:.tags}  • 
+**‹Quilmes› Bock** (6.3%) _bock_{:.tags}  • 
+**‹Quilmes› Stout** (4.8%) _stout_{:.tags}  • 
+**‹Quilmes› Red Lager** (4.7%) _red lager_{:.tags}  • 
+**‹Quilmes› 1890** (5.4%) _pilsner_{:.tags}  • 
+**‹Patagonia› Amber Lager** (4.5%) _amber lager_{:.tags}  • 
+**‹Patagonia› Bohemia Pilsener** (5.2%) _pilsner_{:.tags}  • 
+**‹Patagonia› Weisse** (5.0%) _weisse_{:.tags}  • 
+**Igúazu** (4.9%) _lager_{:.tags} 
+{: .beers }
 
 
 
-### Catamarca _(0)_{:.count} {: #ar-k }
+### Catamarca _(0)_{:.count}
+{: #ar-k }
 
 
 
@@ -10918,7 +13151,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Chaco _(0)_{:.count} {: #ar-h }
+### Chaco _(0)_{:.count}
+{: #ar-h }
 
 
 
@@ -10926,7 +13160,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Chubut _(0)_{:.count} {: #ar-u }
+### Chubut _(0)_{:.count}
+{: #ar-u }
 
 
 
@@ -10934,7 +13169,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Córdoba _(0)_{:.count} {: #ar-x }
+### Córdoba _(0)_{:.count}
+{: #ar-x }
 
 
 
@@ -10942,7 +13178,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Corrientes _(0)_{:.count} {: #ar-w }
+### Corrientes _(0)_{:.count}
+{: #ar-w }
 
 
 
@@ -10950,7 +13187,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Entre Ríos _(0)_{:.count} {: #ar-e }
+### Entre Ríos _(0)_{:.count}
+{: #ar-e }
 
 
 
@@ -10958,7 +13196,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Formosa _(0)_{:.count} {: #ar-p }
+### Formosa _(0)_{:.count}
+{: #ar-p }
 
 
 
@@ -10966,7 +13205,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Jujuy _(0)_{:.count} {: #ar-y }
+### Jujuy _(0)_{:.count}
+{: #ar-y }
 
 
 
@@ -10974,7 +13214,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### La Pampa _(0)_{:.count} {: #ar-l }
+### La Pampa _(0)_{:.count}
+{: #ar-l }
 
 
 
@@ -10982,7 +13223,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### La Rioja _(0)_{:.count} {: #ar-f }
+### La Rioja _(0)_{:.count}
+{: #ar-f }
 
 
 
@@ -10990,7 +13232,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Mendoza _(0)_{:.count} {: #ar-m }
+### Mendoza _(0)_{:.count}
+{: #ar-m }
 
 
 
@@ -10998,7 +13241,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Misiones _(0)_{:.count} {: #ar-n }
+### Misiones _(0)_{:.count}
+{: #ar-n }
 
 
 
@@ -11006,7 +13250,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Neuquén _(0)_{:.count} {: #ar-q }
+### Neuquén _(0)_{:.count}
+{: #ar-q }
 
 
 
@@ -11014,7 +13259,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Río Negro _(0)_{:.count} {: #ar-r }
+### Río Negro _(0)_{:.count}
+{: #ar-r }
 
 
 
@@ -11022,7 +13268,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Salta _(0)_{:.count} {: #ar-a }
+### Salta _(0)_{:.count}
+{: #ar-a }
 
 
 
@@ -11030,7 +13277,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### San Juan _(0)_{:.count} {: #ar-j }
+### San Juan _(0)_{:.count}
+{: #ar-j }
 
 
 
@@ -11038,7 +13286,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### San Luis _(0)_{:.count} {: #ar-d }
+### San Luis _(0)_{:.count}
+{: #ar-d }
 
 
 
@@ -11046,7 +13295,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Santa Cruz _(0)_{:.count} {: #ar-z }
+### Santa Cruz _(0)_{:.count}
+{: #ar-z }
 
 
 
@@ -11054,7 +13304,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Santa Fe _(0)_{:.count} {: #ar-s }
+### Santa Fe _(0)_{:.count}
+{: #ar-s }
 
 
 
@@ -11062,7 +13313,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Santiago del Estero _(0)_{:.count} {: #ar-g }
+### Santiago del Estero _(0)_{:.count}
+{: #ar-g }
 
 
 
@@ -11070,7 +13322,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Tierra del Fuego (Antártida e Islas del Atlántico Sur) _(0)_{:.count} {: #ar-v }
+### Tierra del Fuego (Antártida e Islas del Atlántico Sur) _(0)_{:.count}
+{: #ar-v }
 
 
 
@@ -11078,7 +13331,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Tucumán _(0)_{:.count} {: #ar-t }
+### Tucumán _(0)_{:.count}
+{: #ar-t }
 
 
 
@@ -11097,12 +13351,21 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 ### Uncategorized Beers
 
-1999   • ‹Baden Baden› Stout   • ‹Bamberg› Rauchbier   • Demoiselle   • Xingu Black Beer   • ‹DaDo› Belgian Ale   • ‹Eisenbahn› Dunkel   • ‹Eisenbahn› Kölsch   • ‹Eisenbahn› Pale Ale  
+**1999** (5.2%) _bitter_{:.tags}  • 
+**‹Baden Baden› Stout** (7.5%) _stout_{:.tags}  • 
+**‹Bamberg› Rauchbier** (5.0%) _rauchbier_{:.tags}  • 
+**Demoiselle** (6.0%) _porter_{:.tags}  • 
+**Xingu Black Beer** (4.6%) _lager_{:.tags}  • 
+**‹DaDo› Belgian Ale** (8.5%) _ale_{:.tags}  • 
+**‹Eisenbahn› Dunkel** (4.8%) _dunkel_{:.tags}  • 
+**‹Eisenbahn› Kölsch** (4.8%)   • 
+**‹Eisenbahn› Pale Ale** (4.8%) _pale ale_{:.tags} 
 
 
 
 
-### Acre _(0)_{:.count} {: #br-ac }
+### Acre _(0)_{:.count}
+{: #br-ac }
 
 
 
@@ -11110,7 +13373,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Amapá _(0)_{:.count} {: #br-am }
+### Amapá _(0)_{:.count}
+{: #br-am }
 
 
 
@@ -11118,7 +13382,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Amazonas _(0)_{:.count} {: #br-ap }
+### Amazonas _(0)_{:.count}
+{: #br-ap }
 
 
 
@@ -11126,7 +13391,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Pará _(0)_{:.count} {: #br-pa }
+### Pará _(0)_{:.count}
+{: #br-pa }
 
 
 
@@ -11134,7 +13400,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Rondônia _(0)_{:.count} {: #br-ro }
+### Rondônia _(0)_{:.count}
+{: #br-ro }
 
 
 
@@ -11142,7 +13409,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Roraima _(0)_{:.count} {: #br-rr }
+### Roraima _(0)_{:.count}
+{: #br-rr }
 
 
 
@@ -11150,7 +13418,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Tocantins _(0)_{:.count} {: #br-to }
+### Tocantins _(0)_{:.count}
+{: #br-to }
 
 
 
@@ -11158,7 +13427,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Alagoas _(0)_{:.count} {: #br-al }
+### Alagoas _(0)_{:.count}
+{: #br-al }
 
 
 
@@ -11166,7 +13436,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Bahia _(0)_{:.count} {: #br-ba }
+### Bahia _(0)_{:.count}
+{: #br-ba }
 
 
 
@@ -11174,7 +13445,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Ceará _(0)_{:.count} {: #br-ce }
+### Ceará _(0)_{:.count}
+{: #br-ce }
 
 
 
@@ -11182,7 +13454,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Maranhão _(0)_{:.count} {: #br-ma }
+### Maranhão _(0)_{:.count}
+{: #br-ma }
 
 
 
@@ -11190,7 +13463,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Paraíba _(0)_{:.count} {: #br-pb }
+### Paraíba _(0)_{:.count}
+{: #br-pb }
 
 
 
@@ -11198,7 +13472,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Pernambuco _(0)_{:.count} {: #br-pe }
+### Pernambuco _(0)_{:.count}
+{: #br-pe }
 
 
 
@@ -11206,7 +13481,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Piauí _(0)_{:.count} {: #br-pi }
+### Piauí _(0)_{:.count}
+{: #br-pi }
 
 
 
@@ -11214,7 +13490,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Rio Grande do Norte _(0)_{:.count} {: #br-rn }
+### Rio Grande do Norte _(0)_{:.count}
+{: #br-rn }
 
 
 
@@ -11222,7 +13499,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Sergipe _(0)_{:.count} {: #br-se }
+### Sergipe _(0)_{:.count}
+{: #br-se }
 
 
 
@@ -11230,7 +13508,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Distrito Federal (Brasil) _(0)_{:.count} {: #br-df }
+### Distrito Federal (Brasil) _(0)_{:.count}
+{: #br-df }
 
 
 
@@ -11238,7 +13517,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Goiás _(0)_{:.count} {: #br-go }
+### Goiás _(0)_{:.count}
+{: #br-go }
 
 
 
@@ -11246,7 +13526,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Mato Grosso _(0)_{:.count} {: #br-mt }
+### Mato Grosso _(0)_{:.count}
+{: #br-mt }
 
 
 
@@ -11254,7 +13535,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Mato Grosso do Sul _(0)_{:.count} {: #br-ms }
+### Mato Grosso do Sul _(0)_{:.count}
+{: #br-ms }
 
 
 
@@ -11262,7 +13544,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Espírito Santo _(0)_{:.count} {: #br-es }
+### Espírito Santo _(0)_{:.count}
+{: #br-es }
 
 
 
@@ -11270,7 +13553,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Minas Gerais _(0)_{:.count} {: #br-mg }
+### Minas Gerais _(0)_{:.count}
+{: #br-mg }
 
 
 
@@ -11278,7 +13562,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Rio de Janeiro _(0)_{:.count} {: #br-rj }
+### Rio de Janeiro _(0)_{:.count}
+{: #br-rj }
 
 
 
@@ -11286,7 +13571,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### São Paulo _(0)_{:.count} {: #br-sp }
+### São Paulo _(0)_{:.count}
+{: #br-sp }
 
 
 
@@ -11294,7 +13580,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Paraná _(0)_{:.count} {: #br-pr }
+### Paraná _(0)_{:.count}
+{: #br-pr }
 
 
 
@@ -11302,7 +13589,8 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 
 
 
-### Rio Grande do Sul _(1)_{:.count} {: #br-rs }
+### Rio Grande do Sul _(1)_{:.count}
+{: #br-rs }
 
 
 
@@ -11311,15 +13599,16 @@ Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervejaria Brahma - 1888  <br>
-{:.brewery}
+ Cervejaria Brahma • Companhia Cervejaria Brahma  - 1888  _ab inbev_{:.tags} `#brahma`{:.key} <br>
+{: .brewery #brahma }
 
-‹Brahma›  
-{:.beers}
+**‹Brahma›** (5.0%) _pale lager_{:.tags} 
+{: .beers }
 
 
 
-### Santa Catarina _(0)_{:.count} {: #br-sc }
+### Santa Catarina _(0)_{:.count}
+{: #br-sc }
 
 
 
@@ -11338,7 +13627,8 @@ Cervejaria Brahma - 1888  <br>
 
 ### Uncategorized Beers
 
-Cusqueña   • Cusqueña Malta  
+**Cusqueña** (5.0%) _lager_{:.tags}  • 
+**Cusqueña Malta** (5.6%) _donkere lager_{:.tags} 
 
 
 
@@ -11354,12 +13644,13 @@ Cusqueña   • Cusqueña Malta
 
 ### Uncategorized Beers
 
-Polar  
+**Polar** (5.0%) _pils_{:.tags} 
 
 
 
 
-### Amazonas _(0)_{:.count} {: #ve-am }
+### Amazonas _(0)_{:.count}
+{: #ve-am }
 
 
 
@@ -11367,7 +13658,8 @@ Polar
 
 
 
-### Bolívar _(0)_{:.count} {: #ve-bo }
+### Bolívar _(0)_{:.count}
+{: #ve-bo }
 
 
 
@@ -11375,7 +13667,8 @@ Polar
 
 
 
-### Delta Amacuro _(0)_{:.count} {: #ve-da }
+### Delta Amacuro _(0)_{:.count}
+{: #ve-da }
 
 
 
@@ -11383,7 +13676,8 @@ Polar
 
 
 
-### Anzoátegui _(0)_{:.count} {: #ve-an }
+### Anzoátegui _(0)_{:.count}
+{: #ve-an }
 
 
 
@@ -11391,7 +13685,8 @@ Polar
 
 
 
-### Monagas _(0)_{:.count} {: #ve-mo }
+### Monagas _(0)_{:.count}
+{: #ve-mo }
 
 
 
@@ -11399,7 +13694,8 @@ Polar
 
 
 
-### Sucre _(0)_{:.count} {: #ve-su }
+### Sucre _(0)_{:.count}
+{: #ve-su }
 
 
 
@@ -11407,7 +13703,8 @@ Polar
 
 
 
-### Apure _(0)_{:.count} {: #ve-ap }
+### Apure _(0)_{:.count}
+{: #ve-ap }
 
 
 
@@ -11415,7 +13712,8 @@ Polar
 
 
 
-### Guárico _(0)_{:.count} {: #ve-gu }
+### Guárico _(0)_{:.count}
+{: #ve-gu }
 
 
 
@@ -11423,7 +13721,8 @@ Polar
 
 
 
-### Carabobo _(0)_{:.count} {: #ve-ca }
+### Carabobo _(0)_{:.count}
+{: #ve-ca }
 
 
 
@@ -11431,7 +13730,8 @@ Polar
 
 
 
-### Cojedes _(0)_{:.count} {: #ve-co }
+### Cojedes _(0)_{:.count}
+{: #ve-co }
 
 
 
@@ -11439,7 +13739,8 @@ Polar
 
 
 
-### Aragua _(0)_{:.count} {: #ve-ar }
+### Aragua _(0)_{:.count}
+{: #ve-ar }
 
 
 
@@ -11447,7 +13748,8 @@ Polar
 
 
 
-### Miranda _(0)_{:.count} {: #ve-mi }
+### Miranda _(0)_{:.count}
+{: #ve-mi }
 
 
 
@@ -11455,7 +13757,8 @@ Polar
 
 
 
-### Vargas _(0)_{:.count} {: #ve-va }
+### Vargas _(0)_{:.count}
+{: #ve-va }
 
 
 
@@ -11463,7 +13766,8 @@ Polar
 
 
 
-### Distrito Capital _(0)_{:.count} {: #ve-dc }
+### Distrito Capital _(0)_{:.count}
+{: #ve-dc }
 
 
 
@@ -11471,7 +13775,8 @@ Polar
 
 
 
-### Falcón _(0)_{:.count} {: #ve-fa }
+### Falcón _(0)_{:.count}
+{: #ve-fa }
 
 
 
@@ -11479,7 +13784,8 @@ Polar
 
 
 
-### Lara _(0)_{:.count} {: #ve-la }
+### Lara _(0)_{:.count}
+{: #ve-la }
 
 
 
@@ -11487,7 +13793,8 @@ Polar
 
 
 
-### Portuguesa _(0)_{:.count} {: #ve-po }
+### Portuguesa _(0)_{:.count}
+{: #ve-po }
 
 
 
@@ -11495,7 +13802,8 @@ Polar
 
 
 
-### Yaracuy _(0)_{:.count} {: #ve-ya }
+### Yaracuy _(0)_{:.count}
+{: #ve-ya }
 
 
 
@@ -11503,7 +13811,8 @@ Polar
 
 
 
-### Barinas _(0)_{:.count} {: #ve-ba }
+### Barinas _(0)_{:.count}
+{: #ve-ba }
 
 
 
@@ -11511,7 +13820,8 @@ Polar
 
 
 
-### Mérida _(0)_{:.count} {: #ve-me }
+### Mérida _(0)_{:.count}
+{: #ve-me }
 
 
 
@@ -11519,7 +13829,8 @@ Polar
 
 
 
-### Táchira _(0)_{:.count} {: #ve-ta }
+### Táchira _(0)_{:.count}
+{: #ve-ta }
 
 
 
@@ -11527,7 +13838,8 @@ Polar
 
 
 
-### Trujillo _(0)_{:.count} {: #ve-tr }
+### Trujillo _(0)_{:.count}
+{: #ve-tr }
 
 
 
@@ -11535,7 +13847,8 @@ Polar
 
 
 
-### Nueva Esparta _(0)_{:.count} {: #ve-ne }
+### Nueva Esparta _(0)_{:.count}
+{: #ve-ne }
 
 
 
@@ -11543,7 +13856,8 @@ Polar
 
 
 
-### Zulia _(0)_{:.count} {: #ve-zu }
+### Zulia _(0)_{:.count}
+{: #ve-zu }
 
 
 
@@ -11563,7 +13877,8 @@ Polar
 
 
 
-### British Columbia _(3)_{:.count} {: #ca-bc }
+### British Columbia _(3)_{:.count}
+{: #ca-bc }
 
 
 
@@ -11572,27 +13887,31 @@ Polar
 ##### Uncategorized _(3)_{:.count}
 
 
-Tree Brewing Co -   <br>
+ Tree Brewing Co   `#treebrewing`{:.key} <br>
 1083 Richter Street // Kelowna | British Columbia // V1Y 2K6  <br>
 [www.treebeer.com](http://www.treebeer.com)  <br>
-{:.brewery}
+{: .brewery #treebrewing }
 
 
-Nelson Brewing Co -   <br>
+ Nelson Brewing Co   `#nelsonbrewing`{:.key} <br>
 512 Latimer Street // Nelson | British Columbia // V1L 4T9  <br>
 [www.nelsonbrewing.com](http://www.nelsonbrewing.com)  <br>
-{:.brewery}
+{: .brewery #nelsonbrewing }
 
 
-Central City Brewing -   <br>
-{:.brewery}
+ Central City Brewing   `#centralcity`{:.key} <br>
+{: .brewery #centralcity }
 
-Red Racer ESB   • Red Racer Pale Ale   • Red Racer IPA   • Thor's Hammer Barley Wine  
-{:.beers}
+**Red Racer ESB**    • 
+**Red Racer Pale Ale**    • 
+**Red Racer IPA**    • 
+**Thor's Hammer Barley Wine**   
+{: .beers }
 
 
 
-### Alberta _(4)_{:.count} {: #ca-ab }
+### Alberta _(4)_{:.count}
+{: #ca-ab }
 
 
 
@@ -11601,32 +13920,35 @@ Red Racer ESB   • Red Racer Pale Ale   • Red Racer IPA   • Thor's Hammer B
 ##### Uncategorized _(4)_{:.count}
 
 
-Village Brewery -   <br>
+ Village Brewery   `#villagebrewery`{:.key} <br>
 5000 - 12A Street S.E. // Calgary | Alberta // T2G 5K9  <br>
 [www.villagebrewery.com](http://www.villagebrewery.com)  <br>
-{:.brewery}
+{: .brewery #villagebrewery }
 
 
-Ribstone Creek Brewery -   <br>
+ Ribstone Creek Brewery   `#ribstonecreek`{:.key} <br>
 P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 [www.ribstonecreekbrewery.ca](http://www.ribstonecreekbrewery.ca)  <br>
-{:.brewery}
+{: .brewery #ribstonecreek }
 
 
-Drummond Brewing Co -   <br>
+ Drummond Brewing Co   `#drummond`{:.key} <br>
 6610 71st Street // Red Deer | Alberta // T4P 3Y7  <br>
-{:.brewery}
+{: .brewery #drummond }
 
 
-Alley Kat Brewing -   <br>
-{:.brewery}
+ Alley Kat Brewing   `#alleykat`{:.key} <br>
+{: .brewery #alleykat }
 
-Full Moon Pale Ale   • Old Deuteronomy Barley Wine   • Belgian Style Quad  
-{:.beers}
+**Full Moon Pale Ale**    • 
+**Old Deuteronomy Barley Wine**    • 
+**Belgian Style Quad**   
+{: .beers }
 
 
 
-### Manitoba _(1)_{:.count} {: #ca-mb }
+### Manitoba _(1)_{:.count}
+{: #ca-mb }
 
 
 
@@ -11635,15 +13957,16 @@ Full Moon Pale Ale   • Old Deuteronomy Barley Wine   • Belgian Style Quad
 ##### Uncategorized _(1)_{:.count}
 
 
-Fort Garry Brewing Co -   <br>
+ Fort Garry Brewing Co   `#fortgarry`{:.key} <br>
 130 Lowson Crescent // Winnipeg | Manitoba // R3P 2H8  <br>
 [www.fortgarry.com](http://www.fortgarry.com)  <br>
-{:.brewery}
+{: .brewery #fortgarry }
 
 
 
 
-### Saskatchewan _(1)_{:.count} {: #ca-sk }
+### Saskatchewan _(1)_{:.count}
+{: #ca-sk }
 
 
 
@@ -11652,23 +13975,16 @@ Fort Garry Brewing Co -   <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Great Western Brewing Co -   <br>
+ Great Western Brewing Co   `#greatwestern`{:.key} <br>
 519 Second Avenue North // Saskatoon | Saskatchewan // S7K 2C6  <br>
 [www.greatwesternbrewing.com](http://www.greatwesternbrewing.com)  <br>
-{:.brewery}
+{: .brewery #greatwestern }
 
 
 
 
-### New Brunswick _(0)_{:.count} {: #ca-nb }
-
-
-
-
-
-
-
-### Nova Scotia _(0)_{:.count} {: #ca-ns }
+### New Brunswick _(0)_{:.count}
+{: #ca-nb }
 
 
 
@@ -11676,7 +13992,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Prince Edward Island _(0)_{:.count} {: #ca-pe }
+### Nova Scotia _(0)_{:.count}
+{: #ca-ns }
 
 
 
@@ -11684,7 +14001,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Newfoundland and Labrador _(0)_{:.count} {: #ca-nl }
+### Prince Edward Island _(0)_{:.count}
+{: #ca-pe }
 
 
 
@@ -11692,7 +14010,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Ontario _(0)_{:.count} {: #ca-on }
+### Newfoundland and Labrador _(0)_{:.count}
+{: #ca-nl }
 
 
 
@@ -11700,7 +14019,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Québec _(0)_{:.count} {: #ca-qc }
+### Ontario _(0)_{:.count}
+{: #ca-on }
 
 
 
@@ -11708,7 +14028,8 @@ Great Western Brewing Co -   <br>
 
 
 
-### Northwest Territories _(0)_{:.count} {: #ca-nt }
+### Québec _(0)_{:.count}
+{: #ca-qc }
 
 
 
@@ -11716,7 +14037,17 @@ Great Western Brewing Co -   <br>
 
 
 
-### Yukon _(1)_{:.count} {: #ca-yt }
+### Northwest Territories _(0)_{:.count}
+{: #ca-nt }
+
+
+
+
+
+
+
+### Yukon _(1)_{:.count}
+{: #ca-yt }
 
 
 
@@ -11725,15 +14056,16 @@ Great Western Brewing Co -   <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Yukon Brewing Co -   <br>
+ Yukon Brewing Co   `#yukonbrewing`{:.key} <br>
 102-A Copper Road // Whitehorse, Yukon // Y1A 2Z6  <br>
 [www.yukonbeer.com](http://www.yukonbeer.com)  <br>
-{:.brewery}
+{: .brewery #yukonbrewing }
 
 
 
 
-### Nunavut _(0)_{:.count} {: #ca-nu }
+### Nunavut _(0)_{:.count}
+{: #ca-nu }
 
 
 
@@ -11752,62 +14084,117 @@ Yukon Brewing Co -   <br>
 
 ### Uncategorized Beers
 
-Regio   • Regio Light   • Obispado   • La Silla   • El Fraile   • Las Cumbres   • Matacanes   • Huasteca   • Mirador   • Huajuco   • Olinala   • Chipinque Oktoberfest   • Navidad   • Cosaco Güera   • Casaco Negra   • Dos Equis   • Dos Equis Ambar   • Bohemia   • Bohemia Oscura   • Tecate   • Tecate Light   • Indio   • Carta Blanca   • Superior   • Superior Morena   • Sol   • Noche Buena   • Bohemia Chocolate Stout   • Bohemia Weizen   • Barrilito   • Corona   • Corona Light   • Modelo Especial   • Modelo Light   • Negra Modelo   • Tropical Light   • Victoria   • Estrella   • 1810   • 2 de Abril   • Segundo Imperio  
+**Regio**    • 
+**Regio Light**  _lager lite_{:.tags}  • 
+**Obispado**    • 
+**La Silla**    • 
+**El Fraile**    • 
+**Las Cumbres**    • 
+**Matacanes**    • 
+**Huasteca**    • 
+**Mirador**    • 
+**Huajuco**    • 
+**Olinala**    • 
+**Chipinque Oktoberfest**    • 
+**Navidad**    • 
+**Cosaco Güera** (5.0%) _blonde ale_{:.tags}  • 
+**Casaco Negra** (5.5%) _sweet stout_{:.tags}  • 
+**Dos Equis** (4.3%) _pale lager_{:.tags}  • 
+**Dos Equis Ambar** (4.7%) _vienna lager_{:.tags}  • 
+**Bohemia** (5.3%) _pale lager_{:.tags}  • 
+**Bohemia Oscura** (5.5%) _vienna lager_{:.tags}  • 
+**Tecate** (4.5%) _pale lager_{:.tags}  • 
+**Tecate Light** (4.0%) _lager lite_{:.tags}  • 
+**Indio** (4.1%) _vienna lager_{:.tags}  • 
+**Carta Blanca** (4.5%) _pale lager_{:.tags}  • 
+**Superior** (4.5%) _lager_{:.tags}  • 
+**Superior Morena**    • 
+**Sol** (4.2%) _lager pale lager_{:.tags}  • 
+**Noche Buena** (5.9%) _bock seasonal christmas_{:.tags}  • 
+**Bohemia Chocolate Stout** (5.7%) _stout seasonal_{:.tags}  • 
+**Bohemia Weizen** (5.7%) _weizen seasonal_{:.tags}  • 
+**Barrilito** (3.6%) _pale lager_{:.tags}  • 
+**Corona** (4.5%) _lager pale lager_{:.tags}  • 
+**Corona Light**  _lite lager_{:.tags}  • 
+**Modelo Especial** (4.5%) _pale lager_{:.tags}  • 
+**Modelo Light**  _lite lager_{:.tags}  • 
+**Negra Modelo** (5.3%)   • 
+**Tropical Light**  _lite_{:.tags}  • 
+**Victoria** (4.0%) _vienna lager_{:.tags}  • 
+**Estrella**  _pale lager_{:.tags}  • 
+**1810**  _blonde ale_{:.tags}  • 
+**2 de Abril**  _pale ale_{:.tags}  • 
+**Segundo Imperio**  _porter_{:.tags} 
 
 
 ### Uncategorized _(7)_{:.count}
 
 
-Microcervecería La Legendaria - 2010  <br>
-{:.brewery}
+ Microcervecería La Legendaria  - 2010   `#lalegendaria`{:.key} <br>
+{: .brewery #lalegendaria }
 
 
-Cervecera Mexicana -   <br>
-{:.brewery}
+ Cervecera Mexicana   `#mexicana`{:.key} <br>
+{: .brewery #mexicana }
 
-Caballero Águila   • Cheisy   • Potro   • Horus  
-{:.beers}
+**Caballero Águila**    • 
+**Cheisy**    • 
+**Potro**    • 
+**Horus**   
+{: .beers }
 
-Cervecería La Brü -   <br>
-{:.brewery}
+ Cervecería La Brü   `#labrue`{:.key} <br>
+{: .brewery #labrue }
 
 
-Cervecería Tepozteca -   <br>
+ Cervecería Tepozteca   `#tepozteca`{:.key} <br>
 [www.tepozteca.com](http://www.tepozteca.com)  <br>
-{:.brewery}
+{: .brewery #tepozteca }
 
 
-Cerveza Afromestizo -   <br>
+ Cerveza Afromestizo   `#afromestizo`{:.key} <br>
 [www.afromestizo.com](http://www.afromestizo.com)  <br>
-{:.brewery}
+{: .brewery #afromestizo }
 
-Don Hilaro   • Doña Amalia   • Mama Grande   • Doña Amalia Cardamomo   • Doña Amalia Jamaica  
-{:.beers}
+**Don Hilaro**    • 
+**Doña Amalia**    • 
+**Mama Grande**    • 
+**Doña Amalia Cardamomo**    • 
+**Doña Amalia Jamaica**   
+{: .beers }
 
-Cerveza Dos Palomas -   <br>
+ Cerveza Dos Palomas   `#dospalomas`{:.key} <br>
 [www.cervezadospalomas.com](http://www.cervezadospalomas.com)  <br>
-{:.brewery}
+{: .brewery #dospalomas }
 
-Dos Palomas Bitter   • Dos Palomas Ginger Ale   • Dos Palomas Red Ale   • Dos Palomas Porter  
-{:.beers}
+**Dos Palomas Bitter**    • 
+**Dos Palomas Ginger Ale**    • 
+**Dos Palomas Red Ale**    • 
+**Dos Palomas Porter**   
+{: .beers }
 
-Cerveceria Sileno -   <br>
-{:.brewery}
+ Cerveceria Sileno   `#sileno`{:.key} <br>
+{: .brewery #sileno }
 
-Wiesnbier   • Brown Ale   • Porter   • Trippel  
-{:.beers}
-
-
-
-### Aguascalientes _(0)_{:.count} {: #mx-ag }
-
-
-
-
+**Wiesnbier**    • 
+**Brown Ale**    • 
+**Porter**    • 
+**Trippel**   
+{: .beers }
 
 
 
-### Baja California _(9)_{:.count} {: #mx-bc }
+### Aguascalientes _(0)_{:.count}
+{: #mx-ag }
+
+
+
+
+
+
+
+### Baja California _(9)_{:.count}
+{: #mx-bc }
 
 
 
@@ -11816,70 +14203,106 @@ Wiesnbier   • Brown Ale   • Porter   • Trippel
 ##### Uncategorized _(9)_{:.count}
 
 
-Cervecería Mexicali -   <br>
+ Cervecería Mexicali • Cervecería Mexicana   `#mexicali`{:.key} <br>
 // Ensenada | Baja California  <br>
 [www.mexicalibeer.com](http://www.mexicalibeer.com)  <br>
-{:.brewery}
+{: .brewery #mexicali }
 
-Mexicali Pale Lager   • Mexicali Dark   • Red Pig Mexican Ale   • Chili Beer   • Trader José Premium Lager   • Trader José Dark Premium Lager  
-{:.beers}
+**Mexicali Pale Lager**  _pale lager lager_{:.tags}  • 
+**Mexicali Dark** (6.0%) _american dark lager_{:.tags}  • 
+**Red Pig Mexican Ale**  _amber ale red ale ale_{:.tags}  • 
+**Chili Beer**    • 
+**Trader José Premium Lager**    • 
+**Trader José Dark Premium Lager**   
+{: .beers }
 
-Consorcio Cervecero de Baja California - 1996  <br>
+ Consorcio Cervecero de Baja California • T.J. Beer • Tijuana Beer  - 1996   `#tjbeer`{:.key} <br>
 Blvd. Fundadores No. 2951, Col Juárez, CP. 22040 // Tijuana, B.C.  <br>
 [www.tjbeer.com](http://www.tjbeer.com)  <br>
-{:.brewery}
+{: .brewery #tjbeer }
 
-Tijuana Light   • Tijuana Rosarito Beach   • Tijuana Güera   • Tijuana Morena   • Tijuana Bufadora   • Tijuana Brava   • Tijuana Bronca Güera   • Tijuana Bronca Morena  
-{:.beers}
+**Tijuana Light** (3.5%, 8.0°) _pale lager lager lite_{:.tags}  • 
+**Tijuana Rosarito Beach** (3.8%, 8.6°) _american lager_{:.tags}  • 
+**Tijuana Güera** (4.6%, 11.0°) _bohemian pilsner czech pilsner_{:.tags}  • 
+**Tijuana Morena** (4.8%, 11.5°) _schwartzbier_{:.tags}  • 
+**Tijuana Bufadora** (7.5%, 18.5°) _doppelbock maibock bock_{:.tags}  • 
+**Tijuana Brava** (5.3%, 13.0°) _dark lager munchner dunkel_{:.tags}  • 
+**Tijuana Bronca Güera** (4.6%, 11.0°) _bohemian pilsener_{:.tags}  • 
+**Tijuana Bronca Morena** (4.8%, 11.5°) _dark lager schwarzbier_{:.tags} 
+{: .beers }
 
-Cucapá - 2002  <br>
+ Cucapá • Cervecería Cucapá • Cucapá Brewing Co • Cervecería de Baja California  - 2002   `#cucapa`{:.key} <br>
 Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 [www.cucapa.com](http://www.cucapa.com)  <br>
-{:.brewery}
+{: .brewery #cucapa }
 
-Cucapá Clásica   • Cucapá Honey   • Cucapá Obscura   • Cucapá Chupacabras   • Cucapa Light   • Cucapá Trigueña   • Cucapá Barley Wine   • Cucapá Lowrider Ale   • Cucapá Imperial Stout  
-{:.beers}
+**Cucapá Clásica** (4.5%) _blonde ale golden ale_{:.tags}  • 
+**Cucapá Honey** (4.5%) _amber ale_{:.tags}  • 
+**Cucapá Obscura** (4.8%) _american brown ale_{:.tags}  • 
+**Cucapá Chupacabras** (5.8%) _american pale ale_{:.tags}  • 
+**Cucapa Light** (3.5%) _pale lager_{:.tags}  • 
+**Cucapá Trigueña** (3.5%) _weizen wheat ale_{:.tags}  • 
+**Cucapá Barley Wine** (10.0%) _barley wine_{:.tags}  • 
+**Cucapá Lowrider Ale**  _rye ale_{:.tags}  • 
+**Cucapá Imperial Stout**   
+{: .beers }
 
-Cervecería Rámuri -   <br>
+ Cervecería Rámuri   `#ramuri`{:.key} <br>
 [www.cervezaramuri.com](http://www.cervezaramuri.com)  <br>
-{:.brewery}
+{: .brewery #ramuri }
 
-Batari Chónami   • Batari Turio ari biche Amoque   • Batari Choracami   • 100 Dias   • Lágrimas Negras   • Bucéfalo  
-{:.beers}
+**Batari Chónami**  _brown ale_{:.tags}  • 
+**Batari Turio ari biche Amoque**  _weizen_{:.tags}  • 
+**Batari Choracami**  _ipa_{:.tags}  • 
+**100 Dias**    • 
+**Lágrimas Negras**  _stout_{:.tags}  • 
+**Bucéfalo**  _imperial stout_{:.tags} 
+{: .beers }
 
-Ensenada Microbrewery -   <br>
-{:.brewery}
+ Ensenada Microbrewery   `#ensenada`{:.key} <br>
+{: .brewery #ensenada }
 
-Ensenada Sweet Stout   • Ensenada Pale Ale  
-{:.beers}
+**Ensenada Sweet Stout**    • 
+**Ensenada Pale Ale**   
+{: .beers }
 
-Canneria Cerveza - 2010  <br>
+ Canneria Cerveza  - 2010   `#canneria`{:.key} <br>
 [www.canneriacerveza.com.mx](http://www.canneriacerveza.com.mx)  <br>
-{:.brewery}
+{: .brewery #canneria }
 
-Canneria Alt Bier   • Canneria Stout   • Canneria Lager Americana   • Canneria Cherry Lambic  
-{:.beers}
+**Canneria Alt Bier**    • 
+**Canneria Stout**    • 
+**Canneria Lager Americana**    • 
+**Canneria Cherry Lambic**   
+{: .beers }
 
-Cerveza Frontera -   <br>
+ Cerveza Frontera   `#frontera`{:.key} <br>
 [www.cervezafrontera.com.mx](http://www.cervezafrontera.com.mx)  <br>
-{:.brewery}
+{: .brewery #frontera }
 
 
-Cervecería Calafia -   <br>
-{:.brewery}
+ Cervecería Calafia   `#calafia`{:.key} <br>
+{: .brewery #calafia }
 
-Calafia Golden Ale   • Calafia Red Ale   • Calafia Pale Ale   • Calafia IPA  
-{:.beers}
+**Calafia Golden Ale**    • 
+**Calafia Red Ale**    • 
+**Calafia Pale Ale**    • 
+**Calafia IPA**   
+{: .beers }
 
-Cervecería Kudos -   <br>
-{:.brewery}
+ Cervecería Kudos   `#kudos`{:.key} <br>
+{: .brewery #kudos }
 
-Kudos Strawberry Wheat   • Kudos Hefeweizen   • Kudos Mild Brown   • Kudos IPA (India Pale Ale)  
-{:.beers}
+**Kudos Strawberry Wheat**    • 
+**Kudos Hefeweizen**    • 
+**Kudos Mild Brown**    • 
+**Kudos IPA (India Pale Ale)**   
+{: .beers }
 
 
 
-### Baja California Sur _(1)_{:.count} {: #mx-bs }
+### Baja California Sur _(1)_{:.count}
+{: #mx-bs }
 
 
 
@@ -11888,32 +14311,23 @@ Kudos Strawberry Wheat   • Kudos Hefeweizen   • Kudos Mild Brown   • Kudos
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervecería Baja Brewing Co -   <br>
+ Cervecería Baja Brewing Co • Baja Brewing • Cervecería de Los Cabos San Lucas   `#bajabrewing`{:.key} <br>
 [www.bajabrewingcompany.com](http://www.bajabrewingcompany.com)  <br>
-{:.brewery}
+{: .brewery #bajabrewing }
 
-Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpión Negro   • Peyote India Pale Ale   • Oatmeal Stout  
-{:.beers}
-
-
-
-### Campeche _(0)_{:.count} {: #mx-cm }
-
-
-
-
+**Cabotella**    • 
+**Rasberry Lager**    • 
+**Cactus Wheat**    • 
+**Peliroja**    • 
+**Escorpión Negro**    • 
+**Peyote India Pale Ale**    • 
+**Oatmeal Stout**   
+{: .beers }
 
 
 
-### Chiapas _(0)_{:.count} {: #mx-cs }
-
-
-
-
-
-
-
-### Chihuahua _(0)_{:.count} {: #mx-ch }
+### Campeche _(0)_{:.count}
+{: #mx-cm }
 
 
 
@@ -11921,7 +14335,8 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 
 
 
-### Coahuila _(0)_{:.count} {: #mx-co }
+### Chiapas _(0)_{:.count}
+{: #mx-cs }
 
 
 
@@ -11929,7 +14344,8 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 
 
 
-### Colima _(0)_{:.count} {: #mx-cl }
+### Chihuahua _(0)_{:.count}
+{: #mx-ch }
 
 
 
@@ -11937,72 +14353,103 @@ Cabotella   • Rasberry Lager   • Cactus Wheat   • Peliroja   • Escorpió
 
 
 
-### Distrito Federal _(6)_{:.count} {: #mx-df }
+### Coahuila _(0)_{:.count}
+{: #mx-co }
+
+
+
+
+
+
+
+### Colima _(0)_{:.count}
+{: #mx-cl }
+
+
+
+
+
+
+
+### Distrito Federal _(6)_{:.count}
+{: #mx-df }
 
 
 [México](#mexico) • **Uncategorized** _(5)_{:.count}
 
-##### México 
+##### México   _pop (20.137.152)_{:.pop}
+{: .city #mexico }
 
 
-Cervecería Modelo / Grupo Modelo - 1922  <br>
+
+ Cervecería Modelo / Grupo Modelo  - 1922   `#gmodelo`{:.key} <br>
 Lago Alberto 156 | Col. Anáhuac // México | D.F. | C.P. 11320  <br>
 [www.gmodelo.com.mx](http://www.gmodelo.com.mx)  <br>
-{:.brewery}
+{: .brewery #gmodelo }
 
-León  
-{:.beers}
+**León** (4.5%) _munich dunkel lager_{:.tags} 
+{: .beers }
 
 
 ##### Uncategorized _(5)_{:.count}
 
 
-Cervecería Primus - 2007  <br>
+ Cervecería Primus • Andreu Primus  - 2007   `#primus`{:.key} <br>
 Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrito Federal  <br>
 [www.primus.com.mx](http://www.primus.com.mx)  <br>
-{:.brewery}
+{: .brewery #primus }
 
-Tempus Dorada   • Tempus Clásica   • Tempus Doble Malta   • Tempus Reserva Especial  
-{:.beers}
+**Tempus Dorada** (4.3%) _golden ale ale_{:.tags}  • 
+**Tempus Clásica** (5.2%) _altbier ale_{:.tags}  • 
+**Tempus Doble Malta** (7.0%) _imperial altbier ale_{:.tags}  • 
+**Tempus Reserva Especial**   
+{: .beers }
 
-Cervecería Pública Condesa - 2009  <br>
-{:.brewery}
+ Cervecería Pública Condesa  - 2009   `#condesa`{:.key} <br>
+{: .brewery #condesa }
 
-Poe  
-{:.beers}
+**Poe** (6.2%) _brown ale_{:.tags} 
+{: .beers }
 
-Microcerveceria La Chingoneria -   <br>
+ Microcerveceria La Chingoneria   `#lachingoneria`{:.key} <br>
 [www.lachingoneria.com.mx](http://www.lachingoneria.com.mx)  <br>
-{:.brewery}
+{: .brewery #lachingoneria }
 
-Chekate Esta   • Házmela Rusa   • Amargator IPA  
-{:.beers}
+**Chekate Esta**  _pilsner_{:.tags}  • 
+**Házmela Rusa**  _mexican imperial stout_{:.tags}  • 
+**Amargator IPA**  _double ipa imperial ipa_{:.tags} 
+{: .beers }
 
-Cervecería Alebrije - 2004  <br>
+ Cervecería Alebrije • Microcervecera Azteca  - 2004   `#alebrije`{:.key} <br>
 [cerveceriaalebrije.com](http://cerveceriaalebrije.com)  <br>
-{:.brewery}
+{: .brewery #alebrije }
 
-Imperial Stout   • Dark IPA   • Sweet Stout   • Irish Red   • IPA   • Mulli Stout   • Agave Red Ale   • Kölsch   • Dort Honey  
-{:.beers}
+**Imperial Stout**    • 
+**Dark IPA**    • 
+**Sweet Stout**    • 
+**Irish Red**    • 
+**IPA**    • 
+**Mulli Stout**    • 
+**Agave Red Ale**    • 
+**Kölsch**    • 
+**Dort Honey**   
+{: .beers }
 
-Beer Factory -   <br>
+ Beer Factory • Cervecería Santa Fe Beer Factory   `#santafebeerfactory`{:.key} <br>
 [www.beerfactory.com](http://www.beerfactory.com)  <br>
-{:.brewery}
+{: .brewery #santafebeerfactory }
 
-Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena  
-{:.beers}
-
-
-
-### Durango _(0)_{:.count} {: #mx-dg }
-
-
+**Mediterránea**  _light ale_{:.tags}  • 
+**Coronel**  _pilsner_{:.tags}  • 
+**Santa Fe**  _vienna_{:.tags}  • 
+**Coyote**  _pale ale_{:.tags}  • 
+**Luna Llena**  _irish stout_{:.tags} 
+{: .beers }
 
 
 
-
-
-### Guanajuato _(0)_{:.count} {: #mx-gt }
+### Durango _(0)_{:.count}
+{: #mx-dg }
 
 
 
@@ -12010,7 +14457,8 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 
 
 
-### Guerrero _(0)_{:.count} {: #mx-gr }
+### Guanajuato _(0)_{:.count}
+{: #mx-gt }
 
 
 
@@ -12018,7 +14466,17 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 
 
 
-### Hidalgo _(3)_{:.count} {: #mx-hg }
+### Guerrero _(0)_{:.count}
+{: #mx-gr }
+
+
+
+
+
+
+
+### Hidalgo _(3)_{:.count}
+{: #mx-hg }
 
 
 
@@ -12027,29 +14485,34 @@ Mediterránea   • Coronel   • Santa Fe   • Coyote   • Luna Llena
 ##### Uncategorized _(3)_{:.count}
 
 
-Cervecería Cosaco - 2000  <br>
+ Cervecería Cosaco • Cerveza Cosaco  - 2000   `#cosaco`{:.key} <br>
 [www.cervezacosaco.com](http://www.cervezacosaco.com)  <br>
-{:.brewery}
+{: .brewery #cosaco }
 
-Cosaco Roja   • Cosaco Negra   • Cosaco Guera  
-{:.beers}
+**Cosaco Roja** (5.5%) _red ale_{:.tags}  • 
+**Cosaco Negra**    • 
+**Cosaco Guera**   
+{: .beers }
 
-Cervecería Hacienda -   <br>
+ Cervecería Hacienda   `#hacienda`{:.key} <br>
 [www.cerveceriahacienda.com](http://www.cerveceriahacienda.com)  <br>
-{:.brewery}
+{: .brewery #hacienda }
 
-Hidalgo   • Catrina   • Jaguar  
-{:.beers}
+**Hidalgo** (7.0%) _stout_{:.tags}  • 
+**Catrina** (7.0%) _irish red ale_{:.tags}  • 
+**Jaguar** (7.0%) _pale ale_{:.tags} 
+{: .beers }
 
-Cerveza Benévolo - 2010  <br>
+ Cerveza Benévolo  - 2010   `#benevolo`{:.key} <br>
 // Pachuca, Hidalgo  <br>
 [www.cervezabenevolo.com.mx](http://www.cervezabenevolo.com.mx)  <br>
-{:.brewery}
+{: .brewery #benevolo }
 
 
 
 
-### Jalisco _(3)_{:.count} {: #mx-ja }
+### Jalisco _(3)_{:.count}
+{: #mx-ja }
 
 
 
@@ -12058,24 +14521,34 @@ Cerveza Benévolo - 2010  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Cervecería Minerva - 2002  <br>
+ Cervecería Minerva  - 2002   `#minerva`{:.key} <br>
 [www.cervezaminerva.mx](http://www.cervezaminerva.mx)  <br>
-{:.brewery}
+{: .brewery #minerva }
 
-Minerva Colonial   • Minerva Viena (Oscura)   • Minerva Stout Imperial   • Minerva Pale Ale   • Minerva ITA (Imperial Tequila Ale)   • Minerva Diosa Blanca   • Minerva 8:60   • Minerva Lupe Reyes   • Malverde   • Minerva Rila  
-{:.beers}
+**Minerva Colonial**    • 
+**Minerva Viena (Oscura)** (5.0%) _vienna lager_{:.tags}  • 
+**Minerva Stout Imperial** (6.0%) _sweet stout_{:.tags}  • 
+**Minerva Pale Ale**  _pale ale_{:.tags}  • 
+**Minerva ITA (Imperial Tequila Ale)**  _imperial tequila ale_{:.tags}  • 
+**Minerva Diosa Blanca**  _blanche biere_{:.tags}  • 
+**Minerva 8:60** (8.0%) _ipa_{:.tags}  • 
+**Minerva Lupe Reyes** (7.7%) _dunkel doppelbock weizen_{:.tags}  • 
+**Malverde**  _pilsner_{:.tags}  • 
+**Minerva Rila**  _seasonal_{:.tags} 
+{: .beers }
 
-Cervecería Revolucion -   <br>
-{:.brewery}
+ Cervecería Revolucion   `#revolucion`{:.key} <br>
+{: .brewery #revolucion }
 
 
-Cervecería Ale & Ale -   <br>
-{:.brewery}
+ Cervecería Ale & Ale   `#aleale`{:.key} <br>
+{: .brewery #aleale }
 
 
 
 
-### México _(2)_{:.count} {: #mx-me }
+### México _(2)_{:.count}
+{: #mx-me }
 
 
 
@@ -12084,37 +14557,35 @@ Cervecería Ale & Ale -   <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Cervecería Calavera -   <br>
-{:.brewery}
+ Cervecería Calavera • Gourment Calavera   `#calavera`{:.key} <br>
+{: .brewery #calavera }
 
-Calavera Witbier   • Calavera American Pale Ale   • Calavera Smoky Scotish Ale 80/-   • Calavera Oktoberfest   • Calavera Mexican Imperial Stout   • Calavera Dubbel (de Abadia)   • Calavera Tripel (de Abadia)   • Calavera Barley Wine   • Calavera Schwarz   • Calavera Lovecraft   • Calavera Project X  
-{:.beers}
+**Calavera Witbier**  _weizen_{:.tags}  • 
+**Calavera American Pale Ale**  _pale ale_{:.tags}  • 
+**Calavera Smoky Scotish Ale 80/-**  _scotch ale_{:.tags}  • 
+**Calavera Oktoberfest**    • 
+**Calavera Mexican Imperial Stout**  _stout_{:.tags}  • 
+**Calavera Dubbel (de Abadia)** (6.4%) _abbey ale_{:.tags}  • 
+**Calavera Tripel (de Abadia)**  _abbey ale_{:.tags}  • 
+**Calavera Barley Wine**  _barleywine_{:.tags}  • 
+**Calavera Schwarz**  _schwartzbier_{:.tags}  • 
+**Calavera Lovecraft**    • 
+**Calavera Project X**  _brown ale_{:.tags} 
+{: .beers }
 
-Cervecería Jack -   <br>
-{:.brewery}
+ Cervecería Jack   `#jack`{:.key} <br>
+{: .brewery #jack }
 
-Jack Alebrije   • Jack Stout   • Jack Chocolate Sweet Stout   • Jack Clown Smile  
-{:.beers}
-
-
-
-### Michoacán _(0)_{:.count} {: #mx-mi }
-
-
-
-
-
-
-
-### Morelos _(0)_{:.count} {: #mx-mo }
-
-
-
+**Jack Alebrije**  _weissbier_{:.tags}  • 
+**Jack Stout**    • 
+**Jack Chocolate Sweet Stout**    • 
+**Jack Clown Smile**  _scotch ale_{:.tags} 
+{: .beers }
 
 
 
-
-### Nayarit _(0)_{:.count} {: #mx-na }
+### Michoacán _(0)_{:.count}
+{: #mx-mi }
 
 
 
@@ -12122,43 +14593,70 @@ Jack Alebrije   • Jack Stout   • Jack Chocolate Sweet Stout   • Jack Clown
 
 
 
-### Nuevo León _(4)_{:.count} {: #mx-nl }
+### Morelos _(0)_{:.count}
+{: #mx-mo }
+
+
+
+
+
+
+
+### Nayarit _(0)_{:.count}
+{: #mx-na }
+
+
+
+
+
+
+
+### Nuevo León _(4)_{:.count}
+{: #mx-nl }
 
 
 [Monterrey](#monterrey) • **Uncategorized** _(3)_{:.count}
 
-##### Monterrey 
+##### Monterrey   _pop (4.080.329)_{:.pop}
+{: .city #monterrey }
 
 
-Cervecería Cuauhtémoc Moctezuma - 1890  <br>
+
+ Cervecería Cuauhtémoc Moctezuma  - 1890  _heineken_{:.tags} `#cuamoc`{:.key} <br>
 Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 [www.cuamoc.com](http://www.cuamoc.com)  <br>
-{:.brewery}
+{: .brewery #cuamoc }
 
 
 
 ##### Uncategorized _(3)_{:.count}
 
 
-Especialidades Cerveceras -   <br>
-{:.brewery}
+ Especialidades Cerveceras   `#especialidades`{:.key} <br>
+{: .brewery #especialidades }
 
-Casta Bruna   • Casta Dorada   • Casta Milenia   • Casta Morena   • Casta Triguera   • Casta Unica  
-{:.beers}
+**Casta Bruna**  _pale ale_{:.tags}  • 
+**Casta Dorada**  _golden ale blond ale_{:.tags}  • 
+**Casta Milenia**  _belgian strong ale_{:.tags}  • 
+**Casta Morena**  _brown ale_{:.tags}  • 
+**Casta Triguera**  _wheat ale_{:.tags}  • 
+**Casta Unica**  _belgian strong ale_{:.tags} 
+{: .beers }
 
-Cervecería Propaganda - 2012  <br>
-{:.brewery}
+ Cervecería Propaganda  - 2012   `#propaganda`{:.key} <br>
+{: .brewery #propaganda }
 
 
-Sierra Madre Brewing Co. - 1996  <br>
+ Sierra Madre Brewing Co.  - 1996   `#smbc`{:.key} <br>
 // Monterrey  <br>
 [www.smbc.com.mx](http://www.smbc.com.mx)  <br>
-{:.brewery}
+{: .brewery #smbc }
 
 
 
 
-### Oaxaca _(2)_{:.count} {: #mx-oa }
+### Oaxaca _(2)_{:.count}
+{: #mx-oa }
 
 
 
@@ -12167,22 +14665,27 @@ Sierra Madre Brewing Co. - 1996  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Cervecería Camarada - 2009  <br>
-{:.brewery}
+ Cervecería Camarada  - 2009   `#camarada`{:.key} <br>
+{: .brewery #camarada }
 
-Camarada Schwarzbier   • Camarada Weissbier   • Santería   • Camarada Red Ale   • Camarada Pale      seasonal  
-{:.beers}
+**Camarada Schwarzbier**    • 
+**Camarada Weissbier**    • 
+**Santería**  _sweet corn beer_{:.tags}  • 
+**Camarada Red Ale**  _seasonal_{:.tags}  • 
+**Camarada Pale      seasonal**   
+{: .beers }
 
-Compañía Cervecera del Trópico / Grupo Modelo -   <br>
+ Compañía Cervecera del Trópico / Grupo Modelo   `#tropico`{:.key} <br>
 Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxtepec | Oax. | C.P. 68365  <br>
-{:.brewery}
+{: .brewery #tropico }
 
-Montejo  
-{:.beers}
+**Montejo** (4.5%)  
+{: .beers }
 
 
 
-### Puebla _(2)_{:.count} {: #mx-pb }
+### Puebla _(2)_{:.count}
+{: #mx-pb }
 
 
 
@@ -12191,19 +14694,20 @@ Montejo
 ##### Uncategorized _(2)_{:.count}
 
 
-Cervecería Bayernbrau de México -   <br>
+ Cervecería Bayernbrau de México   `#bayernbrau`{:.key} <br>
 [www.bayernbrau.com|www.cervezaweissbier.mx](http://www.bayernbrau.com|www.cervezaweissbier.mx)  <br>
-{:.brewery}
+{: .brewery #bayernbrau }
 
 
-Cervecería Cholula -   <br>
+ Cervecería Cholula   `#cholula`{:.key} <br>
 [www.cerveceriacholula.com](http://www.cerveceriacholula.com)  <br>
-{:.brewery}
+{: .brewery #cholula }
 
 
 
 
-### Querétaro _(3)_{:.count} {: #mx-qe }
+### Querétaro _(3)_{:.count}
+{: #mx-qe }
 
 
 
@@ -12212,34 +14716,29 @@ Cervecería Cholula -   <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Cervecería Querétaro -   <br>
+ Cervecería Querétaro   `#queretaro`{:.key} <br>
 [www.cervezaqueretaro.com](http://www.cervezaqueretaro.com)  <br>
-{:.brewery}
+{: .brewery #queretaro }
 
 
-Cervecería Amalias -   <br>
+ Cervecería Amalias   `#amalias`{:.key} <br>
 [www.amalias.com.mx](http://www.amalias.com.mx)  <br>
-{:.brewery}
+{: .brewery #amalias }
 
-Amalias Ambar   • Amalias Tezontle   • Amalias Obsidiana  
-{:.beers}
+**Amalias Ambar**    • 
+**Amalias Tezontle**    • 
+**Amalias Obsidiana**   
+{: .beers }
 
-Cervecería Josefa - 2011  <br>
+ Cervecería Josefa  - 2011   `#josefa`{:.key} <br>
 [www.cerveceriajosefa.com](http://www.cerveceriajosefa.com)  <br>
-{:.brewery}
+{: .brewery #josefa }
 
 
 
 
-### Quintana Roo _(0)_{:.count} {: #mx-qr }
-
-
-
-
-
-
-
-### San Luis Potosí _(0)_{:.count} {: #mx-sl }
+### Quintana Roo _(0)_{:.count}
+{: #mx-qr }
 
 
 
@@ -12247,7 +14746,17 @@ Cervecería Josefa - 2011  <br>
 
 
 
-### Sinaloa _(1)_{:.count} {: #mx-si }
+### San Luis Potosí _(0)_{:.count}
+{: #mx-sl }
+
+
+
+
+
+
+
+### Sinaloa _(1)_{:.count}
+{: #mx-si }
 
 
 
@@ -12256,24 +14765,18 @@ Cervecería Josefa - 2011  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Cervecería del Pacífico / Grupo Modelo -   <br>
+ Cervecería del Pacífico / Grupo Modelo   `#pacifico`{:.key} <br>
 Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
-{:.brewery}
+{: .brewery #pacifico }
 
-Pacifico   • Pacifico Light  
-{:.beers}
-
-
-
-### Sonora _(0)_{:.count} {: #mx-so }
+**Pacifico** (4.5%) _pale lager_{:.tags}  • 
+**Pacifico Light**  _lite lager_{:.tags} 
+{: .beers }
 
 
 
-
-
-
-
-### Tabasco _(0)_{:.count} {: #mx-tb }
+### Sonora _(0)_{:.count}
+{: #mx-so }
 
 
 
@@ -12281,7 +14784,8 @@ Pacifico   • Pacifico Light
 
 
 
-### Tamaulipas _(0)_{:.count} {: #mx-tm }
+### Tabasco _(0)_{:.count}
+{: #mx-tb }
 
 
 
@@ -12289,7 +14793,8 @@ Pacifico   • Pacifico Light
 
 
 
-### Tlaxcala _(0)_{:.count} {: #mx-tl }
+### Tamaulipas _(0)_{:.count}
+{: #mx-tm }
 
 
 
@@ -12297,7 +14802,17 @@ Pacifico   • Pacifico Light
 
 
 
-### Veracruz _(2)_{:.count} {: #mx-ve }
+### Tlaxcala _(0)_{:.count}
+{: #mx-tl }
+
+
+
+
+
+
+
+### Veracruz _(2)_{:.count}
+{: #mx-ve }
 
 
 
@@ -12306,18 +14821,19 @@ Pacifico   • Pacifico Light
 ##### Uncategorized _(2)_{:.count}
 
 
-Cerveceria La Antigua -   <br>
-{:.brewery}
+ Cerveceria La Antigua   `#laantigua`{:.key} <br>
+{: .brewery #laantigua }
 
 
-Cerveza Criolla -   <br>
+ Cerveza Criolla   `#criolla`{:.key} <br>
 [www.cervezacriolla.com.mx](http://www.cervezacriolla.com.mx)  <br>
-{:.brewery}
+{: .brewery #criolla }
 
 
 
 
-### Yucatán _(0)_{:.count} {: #mx-yu }
+### Yucatán _(0)_{:.count}
+{: #mx-yu }
 
 
 
@@ -12325,7 +14841,8 @@ Cerveza Criolla -   <br>
 
 
 
-### Zacatecas _(0)_{:.count} {: #mx-za }
+### Zacatecas _(0)_{:.count}
+{: #mx-za }
 
 
 
@@ -12344,12 +14861,52 @@ Cerveza Criolla -   <br>
 
 ### Uncategorized Beers
 
-Alaskan Pale   • Alaskan Amber   • Alaskan IPA   • Alaskan Smoked Porter   • Bloody Valentine   • Grand Cru   • Old Numbskull   • AleSmith X   • Anvil Ale   • AleSmith IPA   • Lil Devil   • Horny Devil   • Wee Heavy   • Speedway Stout   • Amber Waves   • Bitter American   • Diesel Imperial Smoked Porter   • Double Trouble Imperial IPA   • Holiday Spiced Ale   • Hop Crisis!   • HQT   • Imperial Jack   • MCA   • Shot Tower Stout   • Seasonal Hell   • High Watermelon   • Bree Free! or Die IPA   • Back in Black   • Bud Lite   • Budweiser   • Miller Lite   • Miller Genuine Draft   • Busch Light   • Michelob Light   • Pabst   • Schlitz   • Lone Star   • Dixie   • Dixie Blackened Voodoo   • Goose Island IPA  
+**Alaskan Pale** (5.2%) _golden ale_{:.tags}  • 
+**Alaskan Amber** (5.3%) _alt_{:.tags}  • 
+**Alaskan IPA** (6.2%) _ipa india pale ale_{:.tags}  • 
+**Alaskan Smoked Porter** (6.5%) _porter_{:.tags}  • 
+**Bloody Valentine**  _pale ale_{:.tags}  • 
+**Grand Cru**    • 
+**Old Numbskull**  _barley wine_{:.tags}  • 
+**AleSmith X** (5.5%) _american pale ale_{:.tags}  • 
+**Anvil Ale**  _extra special bitter_{:.tags}  • 
+**AleSmith IPA**  _ipa_{:.tags}  • 
+**Lil Devil** (5.5%) _belgian pale ale_{:.tags}  • 
+**Horny Devil** (11.0%) _belgian strong ale_{:.tags}  • 
+**Wee Heavy**  _scotch ale_{:.tags}  • 
+**Speedway Stout**  _imperial stout_{:.tags}  • 
+**Amber Waves**  _amber ale_{:.tags}  • 
+**Bitter American** (4.4%) _session pale ale light pale ale_{:.tags}  • 
+**Diesel Imperial Smoked Porter**  _smoked porter_{:.tags}  • 
+**Double Trouble Imperial IPA**  _imperial india pale ale_{:.tags}  • 
+**Holiday Spiced Ale**  _winter warmer_{:.tags}  • 
+**Hop Crisis!** (9.699999999999999%) _imperial india pale ale_{:.tags}  • 
+**HQT**  _indigenous ale_{:.tags}  • 
+**Imperial Jack**  _imperial extra special bitter_{:.tags}  • 
+**MCA**  _stout_{:.tags}  • 
+**Shot Tower Stout**  _stout_{:.tags}  • 
+**Seasonal Hell**    • 
+**High Watermelon**    • 
+**Bree Free! or Die IPA**    • 
+**Back in Black** (6.8%) _black ipa_{:.tags}  • 
+**Bud Lite** (4.2%) _lager lite_{:.tags}  • 
+**Budweiser** (5.0%) _lager_{:.tags}  • 
+**Miller Lite** (4.2%) _lager lite_{:.tags}  • 
+**Miller Genuine Draft**    • 
+**Busch Light** (4.2%) _lager lite_{:.tags}  • 
+**Michelob Light** (4.2%) _lager lite_{:.tags}  • 
+**Pabst** (5.0%) _lager_{:.tags}  • 
+**Schlitz** (4.7%) _lager_{:.tags}  • 
+**Lone Star** (4.7%) _lager_{:.tags}  • 
+**Dixie** (4.6%) _american lager_{:.tags}  • 
+**Dixie Blackened Voodoo** (5.0%) _munich dunkel dark lager_{:.tags}  • 
+**Goose Island IPA** (5.9%) _ipa india pale ale_{:.tags} 
 
 
 
 
-### Maine _(3)_{:.count} {: #us-me }
+### Maine _(3)_{:.count}
+{: #us-me }
 
 
 
@@ -12358,24 +14915,25 @@ Alaskan Pale   • Alaskan Amber   • Alaskan IPA   • Alaskan Smoked Porter  
 ##### Uncategorized _(3)_{:.count}
 
 
-Allagash Brewing Co. -   <br>
+ Allagash Brewing Co. • Allagash Brewing Company   `#allagash`{:.key} <br>
 Portland | ME //  <br>
-{:.brewery}
+{: .brewery #allagash }
 
 
-Maine Beer Co. -   <br>
+ Maine Beer Co. • Maine Beer Company   `#mainebeer`{:.key} <br>
 Portland | ME //  <br>
-{:.brewery}
+{: .brewery #mainebeer }
 
 
-Shipyard Brewing Co. -   <br>
+ Shipyard Brewing Co. • Shipyard Brewing Company   `#shipyardbrewing`{:.key} <br>
 Portland | ME //  <br>
-{:.brewery}
+{: .brewery #shipyardbrewing }
 
 
 
 
-### New Hampshire _(1)_{:.count} {: #us-nh }
+### New Hampshire _(1)_{:.count}
+{: #us-nh }
 
 
 
@@ -12384,14 +14942,15 @@ Portland | ME //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Smuttynose Brewing Co. -   <br>
+ Smuttynose Brewing Co.   `#smuttynose`{:.key} <br>
 NH, Portsmouth | NH //  <br>
-{:.brewery}
+{: .brewery #smuttynose }
 
 
 
 
-### Vermont _(3)_{:.count} {: #us-vt }
+### Vermont _(3)_{:.count}
+{: #us-vt }
 
 
 
@@ -12400,68 +14959,64 @@ NH, Portsmouth | NH //  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Magic Hat Brewing Co. -   <br>
+ Magic Hat Brewing Co. • Magic Hat Brewing Company   `#magichat`{:.key} <br>
 South Burlington | VT //  <br>
-{:.brewery}
+{: .brewery #magichat }
 
 
-Hill Farmstead Brewery -   <br>
+ Hill Farmstead Brewery   `#hillfarmstead`{:.key} <br>
 Greensboro | VT //  <br>
-{:.brewery}
+{: .brewery #hillfarmstead }
 
 
-Long Trail Brewing Co. -   <br>
+ Long Trail Brewing Co. • Long Trail Brewing Company   `#longtrailbrewing`{:.key} <br>
 Bridgewater Corners | VT //  <br>
-{:.brewery}
+{: .brewery #longtrailbrewing }
 
 
 
 
-### Massachusetts _(4)_{:.count} {: #us-ma }
+### Massachusetts _(4)_{:.count}
+{: #us-ma }
 
 
 [Boston](#boston) • **Uncategorized** _(3)_{:.count}
 
-##### Boston 
+##### Boston   _pop 617.594_{:.pop}
+{: .city #boston }
 
 
-Boston Beer Co. (Samuel Adams) - 1984  <br>
+
+ Boston Beer Co. (Samuel Adams) • Boston Beer Company  - 1984   `#boston`{:.key} <br>
 Boston | MA 02130 // 30 Germania St.  <br>
-{:.brewery}
+{: .brewery #boston }
 
-Samuel Adams Boston Lager  
-{:.beers}
+**Samuel Adams Boston Lager** (4.9%) _vienna lager_{:.tags} 
+{: .beers }
 
 
 ##### Uncategorized _(3)_{:.count}
 
 
-Clown Shoes -   <br>
+ Clown Shoes   `#clownshoes`{:.key} <br>
 Ipswich | MA //  <br>
-{:.brewery}
+{: .brewery #clownshoes }
 
 
-Harpoon Brewery -   <br>
+ Harpoon Brewery   `#harpoon`{:.key} <br>
 Boston | MA //  <br>
-{:.brewery}
+{: .brewery #harpoon }
 
 
-Pretty Things Beer & Ale Project -   <br>
+ Pretty Things Beer & Ale Project   `#prettythings`{:.key} <br>
 Somerville | MA //  <br>
-{:.brewery}
+{: .brewery #prettythings }
 
 
 
 
-### Rhode Island _(0)_{:.count} {: #us-ri }
-
-
-
-
-
-
-
-### Connecticut _(0)_{:.count} {: #us-ct }
+### Rhode Island _(0)_{:.count}
+{: #us-ri }
 
 
 
@@ -12469,58 +15024,77 @@ Somerville | MA //  <br>
 
 
 
-### New York _(7)_{:.count} {: #us-ny }
+### Connecticut _(0)_{:.count}
+{: #us-ct }
+
+
+
+
+
+
+
+### New York _(7)_{:.count}
+{: #us-ny }
 
 
 [New York](#newyork) • **Uncategorized** _(6)_{:.count}
 
-##### New York 
+##### New York   _pop 8.175.133_{:.pop}
+{: .city #newyork }
 
 
-Brooklyn Brewery - 1987  <br>
+
+ Brooklyn Brewery  - 1987   `#brooklyn`{:.key} <br>
 Brooklyn | NY 11249 //  <br>
-{:.brewery}
+{: .brewery #brooklyn }
 
-Brooklyn Lager   • Brooklyn Brown Ale   • Brooklyn East India Pale Ale   • Brooklyn Pilsner   • Brooklyn Black Chocolate Stout   • Brooklyn Dry Irish Stout   • Brooklyn Oktoberfest  
-{:.beers}
+**Brooklyn Lager** (5.2%) _lager american amber lager_{:.tags}  • 
+**Brooklyn Brown Ale** (5.6%) _brown ale american brown ale_{:.tags}  • 
+**Brooklyn East India Pale Ale** (6.9%) _ipa india pale ale_{:.tags}  • 
+**Brooklyn Pilsner** (5.1%) _pilsner golden lager_{:.tags}  • 
+**Brooklyn Black Chocolate Stout** (10.0%) _imperial stout_{:.tags}  • 
+**Brooklyn Dry Irish Stout** (4.7%) _dry irish stout_{:.tags}  • 
+**Brooklyn Oktoberfest** (5.5%) _maerzen oktoberfest_{:.tags} 
+{: .beers }
 
 
 ##### Uncategorized _(6)_{:.count}
 
 
-Sixpoint Brewery -   <br>
+ Sixpoint Brewery   `#sixpoint`{:.key} <br>
 Brooklyn | NY //  <br>
-{:.brewery}
+{: .brewery #sixpoint }
 
 
-Southern Tier Brewing Co. -   <br>
+ Southern Tier Brewing Co. • Southern Tier Brewing Company   `#southerntier`{:.key} <br>
 Lakewood | NY //  <br>
-{:.brewery}
+{: .brewery #southerntier }
 
 
-Brewery Ommegang -   <br>
+ Brewery Ommegang   `#ommegang`{:.key} <br>
 Cooperstown | NY //  <br>
-{:.brewery}
+{: .brewery #ommegang }
 
 
-Blue Point Brewing Co. -   <br>
+ Blue Point Brewing Co. • Blue Point Brewing Company   `#bluepoint`{:.key} <br>
 Patchogue | NY //  <br>
-{:.brewery}
+{: .brewery #bluepoint }
 
 
-Captain Lawrence Brewing Co. -   <br>
+ Captain Lawrence Brewing Co. • Captain Lawrence Brewing Company   `#captainlawrence`{:.key} <br>
 Elmsford | NY //  <br>
-{:.brewery}
+{: .brewery #captainlawrence }
 
 
-Ithaca Beer Co. -   <br>
+ Ithaca Beer Co. • Ithaca Beer Company   `#ithaca`{:.key} <br>
 Ithaca | NY //  <br>
-{:.brewery}
+{: .brewery #ithaca }
 
 
 
 
-### Pennsylvania _(8)_{:.count} {: #us-pa }
+### Pennsylvania _(8)_{:.count}
+{: #us-pa }
 
 
 
@@ -12529,49 +15103,50 @@ Ithaca | NY //  <br>
 ##### Uncategorized _(8)_{:.count}
 
 
-Victory Brewing Co. -   <br>
+ Victory Brewing Co. • Victory Brewing Company   `#victory`{:.key} <br>
 Downingtown | PA //  <br>
-{:.brewery}
+{: .brewery #victory }
 
 
-Tröegs Brewing Co. -   <br>
+ Tröegs Brewing Co. • Tröegs Brewing Company   `#troegs`{:.key} <br>
 Hershey | PA //  <br>
-{:.brewery}
+{: .brewery #troegs }
 
 
-Yuengling Brewery -   <br>
+ Yuengling Brewery   `#yuengling`{:.key} <br>
 Pottsville | PA //  <br>
-{:.brewery}
+{: .brewery #yuengling }
 
 
-Weyerbacher Brewing Co. -   <br>
+ Weyerbacher Brewing Co. • Weyerbacher Brewing Company   `#weyerbacher`{:.key} <br>
 Easton | PA //  <br>
-{:.brewery}
+{: .brewery #weyerbacher }
 
 
-Sly Fox Brewing Co. -   <br>
+ Sly Fox Brewing Co. • Sly Fox Brewing Company   `#slyfox`{:.key} <br>
 Pottstown | PA //  <br>
-{:.brewery}
+{: .brewery #slyfox }
 
 
-Voodoo Brewing Co. -   <br>
+ Voodoo Brewing Co.   `#voodoo`{:.key} <br>
 Meadville | PA //  <br>
-{:.brewery}
+{: .brewery #voodoo }
 
 
-Full Pint Brewing Co. -   <br>
+ Full Pint Brewing Co. • Full Pint Brewing Company   `#fullpint`{:.key} <br>
 North Versailles | PA //  <br>
-{:.brewery}
+{: .brewery #fullpint }
 
 
-Yards Brewing Co. -   <br>
+ Yards Brewing Co.   `#yardsbrewing`{:.key} <br>
 Philadelphia | PA //  <br>
-{:.brewery}
+{: .brewery #yardsbrewing }
 
 
 
 
-### New Jersey _(0)_{:.count} {: #us-nj }
+### New Jersey _(0)_{:.count}
+{: #us-nj }
 
 
 
@@ -12579,7 +15154,8 @@ Philadelphia | PA //  <br>
 
 
 
-### Wisconsin _(3)_{:.count} {: #us-wi }
+### Wisconsin _(3)_{:.count}
+{: #us-wi }
 
 
 
@@ -12588,24 +15164,25 @@ Philadelphia | PA //  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Miller Brewing Co. - 1855  <br>
+ Miller Brewing Co. • Miller Brewing Company  - 1855   `#miller`{:.key} <br>
 Milwaukee | WI //  <br>
-{:.brewery}
+{: .brewery #miller }
 
 
-Jacob Leinenkugel Brewing Co. -   <br>
+ Jacob Leinenkugel Brewing Co. • Jacob Leinenkugel Brewing Company   `#leinenkugel`{:.key} <br>
 Chippewa Falls | WI //  <br>
-{:.brewery}
+{: .brewery #leinenkugel }
 
 
-Lakefront Brewery -   <br>
+ Lakefront Brewery   `#lakefront`{:.key} <br>
 Milwaukee | WI //  <br>
-{:.brewery}
+{: .brewery #lakefront }
 
 
 
 
-### Michigan _(6)_{:.count} {: #us-mi }
+### Michigan _(6)_{:.count}
+{: #us-mi }
 
 
 
@@ -12614,83 +15191,87 @@ Milwaukee | WI //  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
-Founders Brewing Co. -   <br>
+ Founders Brewing Co. • Founders Brewing Company   `#founders`{:.key} <br>
 Grand Rapids | MI //  <br>
-{:.brewery}
+{: .brewery #founders }
 
 
-Bell's Brewery -   <br>
+ Bell's Brewery • Bell's Brewery Inc.   `#bell`{:.key} <br>
 Galesburg/Comstock & Kalamazoo | MI //  <br>
-{:.brewery}
+{: .brewery #bell }
 
 
-New Holland Brewing Co. -   <br>
+ New Holland Brewing Co. • New Holland Brewing Company   `#newholland`{:.key} <br>
 Holland | MI //  <br>
-{:.brewery}
+{: .brewery #newholland }
 
 
-Greenbush Brewing Co. -   <br>
+ Greenbush Brewing Co. • Greenbush Brewing Company   `#greenbush`{:.key} <br>
 Sawyer | MI //  <br>
-{:.brewery}
+{: .brewery #greenbush }
 
 
-Short's Brewing Co. -   <br>
+ Short's Brewing Co. • Short's Brewing Company   `#short`{:.key} <br>
 Bellaire | MI //  <br>
-{:.brewery}
+{: .brewery #short }
 
 
-Arcadia Brewing Company (Arcadia Ales) -   <br>
+ Arcadia Brewing Company (Arcadia Ales)   `#arcadia`{:.key} <br>
 Battle Creek | MI //  <br>
-{:.brewery}
+{: .brewery #arcadia }
 
 
 
 
-### Illinois _(6)_{:.count} {: #us-il }
+### Illinois _(6)_{:.count}
+{: #us-il }
 
 
 [Chicago](#chicago) • **Uncategorized** _(5)_{:.count}
 
-##### Chicago 
+##### Chicago   _pop 2.695.598_{:.pop}
+{: .city #chicago }
 
 
-Goose Island Beer Co. - 1988  <br>
+
+ Goose Island Beer Co. • Goose Island Beer Company  - 1988   `#gooseisland`{:.key} <br>
 Chicago | IL 60612 // 1800 West Fulton St. //  <br>
-{:.brewery}
+{: .brewery #gooseisland }
 
 
 
 ##### Uncategorized _(5)_{:.count}
 
 
-Pabst Brewing Co. -   <br>
+ Pabst Brewing Co. • Pabst Brewing Company   `#pabst`{:.key} <br>
 Woodridge | IL //  <br>
-{:.brewery}
+{: .brewery #pabst }
 
 
-Two Brothers Brewing Co. -   <br>
+ Two Brothers Brewing Co. • Two Brothers Brewing Company   `#twobrothers`{:.key} <br>
 Warrenville | IL //  <br>
-{:.brewery}
+{: .brewery #twobrothers }
 
 
-Half Acre Beer Co. -   <br>
+ Half Acre Beer Co. • Half Acre Beer Company   `#halfacre`{:.key} <br>
 Chicago | IL //  <br>
-{:.brewery}
+{: .brewery #halfacre }
 
 
-Pipeworks Brewing Co. -   <br>
+ Pipeworks Brewing Co. • Pipeworks Brewing Company   `#pipeworks`{:.key} <br>
 Chicago | IL //  <br>
-{:.brewery}
+{: .brewery #pipeworks }
 
 
-Finch's Beer Co. -   <br>
+ Finch's Beer Co. • Finch's Beer Company   `#finch`{:.key} <br>
 Chicago | IL //  <br>
-{:.brewery}
+{: .brewery #finch }
 
 
 
 
-### Indiana _(3)_{:.count} {: #us-in }
+### Indiana _(3)_{:.count}
+{: #us-in }
 
 
 
@@ -12699,24 +15280,25 @@ Chicago | IL //  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Three Floyds Brewing Co. -   <br>
+ Three Floyds Brewing Co. • Three Floyds Brewing Company   `#threefloyds`{:.key} <br>
 Munster | IN //  <br>
-{:.brewery}
+{: .brewery #threefloyds }
 
 
-Sun King Brewing Co -   <br>
+ Sun King Brewing Co   `#sunking`{:.key} <br>
 Indianapolis | IN //  <br>
-{:.brewery}
+{: .brewery #sunking }
 
 
-Upland Brewing Co. -   <br>
+ Upland Brewing Co. • Upland Brewing Company   `#uplandbrewing`{:.key} <br>
 Bloomington | IN //  <br>
-{:.brewery}
+{: .brewery #uplandbrewing }
 
 
 
 
-### Ohio _(3)_{:.count} {: #us-oh }
+### Ohio _(3)_{:.count}
+{: #us-oh }
 
 
 
@@ -12725,24 +15307,25 @@ Bloomington | IN //  <br>
 ##### Uncategorized _(3)_{:.count}
 
 
-Great Lakes Brewing Co. -   <br>
+ Great Lakes Brewing Co. • Great Lakes Brewing Company   `#greatlakes`{:.key} <br>
 Cleveland | OH //  <br>
-{:.brewery}
+{: .brewery #greatlakes }
 
 
-Fat Head's Brewery -   <br>
+ Fat Head's Brewery   `#fathead`{:.key} <br>
 North Olmsted | OH //  <br>
-{:.brewery}
+{: .brewery #fathead }
 
 
-Hoppin' Frog Brewery -   <br>
+ Hoppin' Frog Brewery   `#hoppinfrog`{:.key} <br>
 Akron | OH //  <br>
-{:.brewery}
+{: .brewery #hoppinfrog }
 
 
 
 
-### Missouri _(4)_{:.count} {: #us-mo }
+### Missouri _(4)_{:.count}
+{: #us-mo }
 
 
 
@@ -12751,37 +15334,30 @@ Akron | OH //  <br>
 ##### Uncategorized _(4)_{:.count}
 
 
-Boulevard Brewing Co. -   <br>
+ Boulevard Brewing Co.   `#boulevard`{:.key} <br>
 Kansas City | MO //  <br>
-{:.brewery}
+{: .brewery #boulevard }
 
 
-Schlafly Beer (The Saint Louis Brewery) -   <br>
+ Schlafly Beer (The Saint Louis Brewery)   `#schlafly`{:.key} <br>
 Saint Louis| MO //  <br>
-{:.brewery}
+{: .brewery #schlafly }
 
 
-Perennial Artisan Ales -   <br>
+ Perennial Artisan Ales   `#perennialales`{:.key} <br>
 St Louis | MO //  <br>
-{:.brewery}
+{: .brewery #perennialales }
 
 
-Urban Chestnut Brewing Co. -   <br>
+ Urban Chestnut Brewing Co. • Urban Chestnut Brewing Company   `#urbanchestnut`{:.key} <br>
 Saint Louis | MO //  <br>
-{:.brewery}
+{: .brewery #urbanchestnut }
 
 
 
 
-### North Dakota _(0)_{:.count} {: #us-nd }
-
-
-
-
-
-
-
-### South Dakota _(0)_{:.count} {: #us-sd }
+### North Dakota _(0)_{:.count}
+{: #us-nd }
 
 
 
@@ -12789,7 +15365,8 @@ Saint Louis | MO //  <br>
 
 
 
-### Nebraska _(0)_{:.count} {: #us-ne }
+### South Dakota _(0)_{:.count}
+{: #us-sd }
 
 
 
@@ -12797,7 +15374,17 @@ Saint Louis | MO //  <br>
 
 
 
-### Kansas _(1)_{:.count} {: #us-ks }
+### Nebraska _(0)_{:.count}
+{: #us-ne }
+
+
+
+
+
+
+
+### Kansas _(1)_{:.count}
+{: #us-ks }
 
 
 
@@ -12806,14 +15393,15 @@ Saint Louis | MO //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Tallgrass Brewing Co. -   <br>
+ Tallgrass Brewing Co. • Tallgrass Brewing Company   `#tallgrass`{:.key} <br>
 Manhattan | KS //  <br>
-{:.brewery}
+{: .brewery #tallgrass }
 
 
 
 
-### Minnesota _(2)_{:.count} {: #us-mn }
+### Minnesota _(2)_{:.count}
+{: #us-mn }
 
 
 
@@ -12822,19 +15410,20 @@ Manhattan | KS //  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Surly Brewing Company -   <br>
+ Surly Brewing Company   `#surlybrewing`{:.key} <br>
 Brooklyn Center | MN //  <br>
-{:.brewery}
+{: .brewery #surlybrewing }
 
 
-Summit Brewing Co. -   <br>
+ Summit Brewing Co. • Summit Brewing Company   `#summitbrewing`{:.key} <br>
 St. Paul | MN //  <br>
-{:.brewery}
+{: .brewery #summitbrewing }
 
 
 
 
-### Iowa _(1)_{:.count} {: #us-ia }
+### Iowa _(1)_{:.count}
+{: #us-ia }
 
 
 
@@ -12843,14 +15432,15 @@ St. Paul | MN //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Toppling Goliath Brewing -   <br>
+ Toppling Goliath Brewing   `#topplinggoliath`{:.key} <br>
 Decorah | IA //  <br>
-{:.brewery}
+{: .brewery #topplinggoliath }
 
 
 
 
-### Delaware _(2)_{:.count} {: #us-de }
+### Delaware _(2)_{:.count}
+{: #us-de }
 
 
 
@@ -12859,19 +15449,20 @@ Decorah | IA //  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Dogfish Head Craft Brewery -   <br>
+ Dogfish Head Craft Brewery   `#dogfish`{:.key} <br>
 Milton | DE //  <br>
-{:.brewery}
+{: .brewery #dogfish }
 
 
-Iron Hill Brewery -   <br>
+ Iron Hill Brewery   `#ironhill`{:.key} <br>
 Wilmington | DE //  <br>
-{:.brewery}
+{: .brewery #ironhill }
 
 
 
 
-### Maryland _(4)_{:.count} {: #us-md }
+### Maryland _(4)_{:.count}
+{: #us-md }
 
 
 
@@ -12880,29 +15471,30 @@ Wilmington | DE //  <br>
 ##### Uncategorized _(4)_{:.count}
 
 
-Heavy Seas Beer -   <br>
+ Heavy Seas Beer   `#heavyseas`{:.key} <br>
 Baltimore | MD //  <br>
-{:.brewery}
+{: .brewery #heavyseas }
 
 
-DuClaw Brewing Co. -   <br>
+ DuClaw Brewing Co. • DuClaw Brewing Company   `#duclaw`{:.key} <br>
 Bel Air | MD //  <br>
-{:.brewery}
+{: .brewery #duclaw }
 
 
-Stillwater Artisanal Ales -   <br>
+ Stillwater Artisanal Ales   `#stillwaterales`{:.key} <br>
 Baltimore | MD //  <br>
-{:.brewery}
+{: .brewery #stillwaterales }
 
 
-Evolution Craft Brewing Co. -   <br>
+ Evolution Craft Brewing Co. • Evolution Craft Brewing Company   `#evolutioncraft`{:.key} <br>
 Salisbury | MD //  <br>
-{:.brewery}
+{: .brewery #evolutioncraft }
 
 
 
 
-### District of Columbia _(0)_{:.count} {: #us-dc }
+### District of Columbia _(0)_{:.count}
+{: #us-dc }
 
 
 
@@ -12910,7 +15502,8 @@ Salisbury | MD //  <br>
 
 
 
-### Virginia _(2)_{:.count} {: #us-va }
+### Virginia _(2)_{:.count}
+{: #us-va }
 
 
 
@@ -12919,19 +15512,20 @@ Salisbury | MD //  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Starr Hill Brewing Co. -   <br>
+ Starr Hill Brewing Co. • Starr Hill Brewing Company   `#starrhill`{:.key} <br>
 Crozet | VA //  <br>
-{:.brewery}
+{: .brewery #starrhill }
 
 
-Blue Mountain Brewery -   <br>
+ Blue Mountain Brewery   `#bluemountain`{:.key} <br>
 Afton | VA //  <br>
-{:.brewery}
+{: .brewery #bluemountain }
 
 
 
 
-### West Virginia _(0)_{:.count} {: #us-wv }
+### West Virginia _(0)_{:.count}
+{: #us-wv }
 
 
 
@@ -12939,7 +15533,8 @@ Afton | VA //  <br>
 
 
 
-### North Carolina _(4)_{:.count} {: #us-nc }
+### North Carolina _(4)_{:.count}
+{: #us-nc }
 
 
 
@@ -12948,29 +15543,30 @@ Afton | VA //  <br>
 ##### Uncategorized _(4)_{:.count}
 
 
-Foothills Brewing -   <br>
+ Foothills Brewing   `#foothills`{:.key} <br>
 Winston-Salem | NC //  <br>
-{:.brewery}
+{: .brewery #foothills }
 
 
-Highland Brewing Co. -   <br>
+ Highland Brewing Co. • Highland Brewing Company   `#highland`{:.key} <br>
 Asheville | NC //  <br>
-{:.brewery}
+{: .brewery #highland }
 
 
-Mother Earth Brewing -   <br>
+ Mother Earth Brewing   `#motherearth`{:.key} <br>
 Kinston | NC //  <br>
-{:.brewery}
+{: .brewery #motherearth }
 
 
-The Duck-Rabbit Craft Brewery -   <br>
+ The Duck-Rabbit Craft Brewery   `#duckrabbit`{:.key} <br>
 Farmville | NC //  <br>
-{:.brewery}
+{: .brewery #duckrabbit }
 
 
 
 
-### South Carolina _(2)_{:.count} {: #us-sc }
+### South Carolina _(2)_{:.count}
+{: #us-sc }
 
 
 
@@ -12979,19 +15575,20 @@ Farmville | NC //  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Westbrook Brewing Co. -   <br>
+ Westbrook Brewing Co.   `#westbrook`{:.key} <br>
 Mt Pleasant | SC //  <br>
-{:.brewery}
+{: .brewery #westbrook }
 
 
-RJ Rockers Brewing Co. -   <br>
+ RJ Rockers Brewing Co. • RJ Rockers Brewing Company   `#rjrockers`{:.key} <br>
 Spartanburg | SC //  <br>
-{:.brewery}
+{: .brewery #rjrockers }
 
 
 
 
-### Georgia _(2)_{:.count} {: #us-ga }
+### Georgia _(2)_{:.count}
+{: #us-ga }
 
 
 
@@ -13000,27 +15597,20 @@ Spartanburg | SC //  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Terrapin Beer Co. -   <br>
+ Terrapin Beer Co. • Terrapin Beer Company   `#terrapin`{:.key} <br>
 Athens | GA //  <br>
-{:.brewery}
+{: .brewery #terrapin }
 
 
-SweetWater Brewing Co. -   <br>
+ SweetWater Brewing Co. • SweetWater Brewing Company   `#sweetwater`{:.key} <br>
 Atlanta | GA //  <br>
-{:.brewery}
+{: .brewery #sweetwater }
 
 
 
 
-### Florida _(0)_{:.count} {: #us-fl }
-
-
-
-
-
-
-
-### Kentucky _(0)_{:.count} {: #us-ky }
+### Florida _(0)_{:.count}
+{: #us-fl }
 
 
 
@@ -13028,7 +15618,8 @@ Atlanta | GA //  <br>
 
 
 
-### Tennessee _(0)_{:.count} {: #us-tn }
+### Kentucky _(0)_{:.count}
+{: #us-ky }
 
 
 
@@ -13036,7 +15627,8 @@ Atlanta | GA //  <br>
 
 
 
-### Mississippi _(0)_{:.count} {: #us-ms }
+### Tennessee _(0)_{:.count}
+{: #us-tn }
 
 
 
@@ -13044,7 +15636,8 @@ Atlanta | GA //  <br>
 
 
 
-### Alabama _(0)_{:.count} {: #us-al }
+### Mississippi _(0)_{:.count}
+{: #us-ms }
 
 
 
@@ -13052,7 +15645,17 @@ Atlanta | GA //  <br>
 
 
 
-### Oklahoma _(1)_{:.count} {: #us-ok }
+### Alabama _(0)_{:.count}
+{: #us-al }
+
+
+
+
+
+
+
+### Oklahoma _(1)_{:.count}
+{: #us-ok }
 
 
 
@@ -13061,14 +15664,15 @@ Atlanta | GA //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Prairie Artisan Ales -   <br>
+ Prairie Artisan Ales   `#prairieales`{:.key} <br>
 Tulsa | OK //  <br>
-{:.brewery}
+{: .brewery #prairieales }
 
 
 
 
-### Texas _(10)_{:.count} {: #us-tx }
+### Texas _(10)_{:.count}
+{: #us-tx }
 
 
 
@@ -13077,59 +15681,71 @@ Tulsa | OK //  <br>
 ##### Uncategorized _(10)_{:.count}
 
 
-Real Ale -   <br>
-{:.brewery}
+ Real Ale   `#realale`{:.key} <br>
+{: .brewery #realale }
 
 
-Live Oak -   <br>
-{:.brewery}
+ Live Oak   `#liveoak`{:.key} <br>
+{: .brewery #liveoak }
 
 
-Pete's -   <br>
-{:.brewery}
+ Pete's   `#petes`{:.key} <br>
+{: .brewery #petes }
 
 
-Spoetzl Brewery - 1909  <br>
+ Spoetzl Brewery  - 1909   `#spoetzl`{:.key} <br>
 603 E Brewery St // Shiner, TX 77984  <br>
 [www.shiner.com](http://www.shiner.com)  <br>
-{:.brewery}
+{: .brewery #spoetzl }
 
-Shiner Bock   • Shiner White Wing   • Shiner Wild Hare   • Shiner Premium   • Shiner Oktoberfest   • Shiner Light Blonde   • Shiner Rye & Shine   • Shiner Holiday Cheer   • Shiner Black   • Shiner Kosmos Rerserve   • Shiner FM 966   • Shiner Ruby Redbird  
-{:.beers}
+**Shiner Bock** (4.4%) _american dark lager_{:.tags}  • 
+**Shiner White Wing** (4.7%) _belgian wheat ale_{:.tags}  • 
+**Shiner Wild Hare** (5.5%) _pale ale_{:.tags}  • 
+**Shiner Premium** (4.4%) _golden lager_{:.tags}  • 
+**Shiner Oktoberfest**  _maerzen_{:.tags}  • 
+**Shiner Light Blonde**    • 
+**Shiner Rye & Shine**    • 
+**Shiner Holiday Cheer**    • 
+**Shiner Black**  _bohemian black lager_{:.tags}  • 
+**Shiner Kosmos Rerserve** (5.0%) _lager_{:.tags}  • 
+**Shiner FM 966** (5.7%) _farmhouse ale_{:.tags}  • 
+**Shiner Ruby Redbird** (4.01%) _seasonal summer_{:.tags} 
+{: .beers }
 
-Saint Arnold -   <br>
+ Saint Arnold • Saint Arnold Brewing Co. • Saint Arnold Brewing Company   `#saintarnold`{:.key} <br>
 // Houston, TX  <br>
-{:.brewery}
+{: .brewery #saintarnold }
 
 
-Karbach Brewing Co -   <br>
+ Karbach Brewing Co   `#karbach`{:.key} <br>
 // Houston, TX  <br>
-{:.brewery}
+{: .brewery #karbach }
 
 
-Jester King Craft Brewery -   <br>
+ Jester King Craft Brewery   `#jesterking`{:.key} <br>
 // Austin, TX  <br>
-{:.brewery}
+{: .brewery #jesterking }
 
 
-Hops & Grain -   <br>
+ Hops & Grain   `#hopsngrain`{:.key} <br>
 // Austin, TX  <br>
-{:.brewery}
+{: .brewery #hopsngrain }
 
 
-1512 Brewing Company -   <br>
+ 1512 Brewing Company   `#fifteentwelve`{:.key} <br>
 // Austin, TX  <br>
-{:.brewery}
+{: .brewery #fifteentwelve }
 
 
-Deep Ellum Brewing Co. -   <br>
+ Deep Ellum Brewing Co. • Deep Ellum Brewing Company   `#deepellum`{:.key} <br>
 // Dallas, TX  <br>
-{:.brewery}
+{: .brewery #deepellum }
 
 
 
 
-### Arkansas _(0)_{:.count} {: #us-ar }
+### Arkansas _(0)_{:.count}
+{: #us-ar }
 
 
 
@@ -13137,31 +15753,35 @@ Deep Ellum Brewing Co. -   <br>
 
 
 
-### Louisiana _(2)_{:.count} {: #us-la }
+### Louisiana _(2)_{:.count}
+{: #us-la }
 
 
 [New Orleans](#neworleans) • **Uncategorized** _(1)_{:.count}
 
-##### New Orleans 
+##### New Orleans   _pop 343.829_{:.pop}
+{: .city #neworleans }
 
 
-Dixie Brewing Co. - 1907  <br>
+
+ Dixie Brewing Co. • Dixie Brewing Company  - 1907   `#dixie`{:.key} <br>
 New Orleans | LA 70119 // 2401 Tulane Ave. //  <br>
-{:.brewery}
+{: .brewery #dixie }
 
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
-Abita Brewing Co. -   <br>
+ Abita Brewing Co. • Abita Brewing Company   `#abita`{:.key} <br>
 Abita Springs | LA //  <br>
-{:.brewery}
+{: .brewery #abita }
 
 
 
 
-### Idaho _(1)_{:.count} {: #us-id }
+### Idaho _(1)_{:.count}
+{: #us-id }
 
 
 
@@ -13170,14 +15790,15 @@ Abita Springs | LA //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Laughing Dog Brewing -   <br>
+ Laughing Dog Brewing   `#laughingdog`{:.key} <br>
 Ponderay | ID //  <br>
-{:.brewery}
+{: .brewery #laughingdog }
 
 
 
 
-### Montana _(1)_{:.count} {: #us-mt }
+### Montana _(1)_{:.count}
+{: #us-mt }
 
 
 
@@ -13186,22 +15807,15 @@ Ponderay | ID //  <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Big Sky Brewing Co. -   <br>
+ Big Sky Brewing Co. • Big Sky Brewing Company   `#bigsky`{:.key} <br>
 Missoula | MT //  <br>
-{:.brewery}
+{: .brewery #bigsky }
 
 
 
 
-### Wyoming _(0)_{:.count} {: #us-wy }
-
-
-
-
-
-
-
-### Nevada _(0)_{:.count} {: #us-nv }
+### Wyoming _(0)_{:.count}
+{: #us-wy }
 
 
 
@@ -13209,7 +15823,17 @@ Missoula | MT //  <br>
 
 
 
-### Utah _(2)_{:.count} {: #us-ut }
+### Nevada _(0)_{:.count}
+{: #us-nv }
+
+
+
+
+
+
+
+### Utah _(2)_{:.count}
+{: #us-ut }
 
 
 
@@ -13218,19 +15842,20 @@ Missoula | MT //  <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Uinta Brewing Co. -   <br>
+ Uinta Brewing Co. • Uinta Brewingmpany   `#uinta`{:.key} <br>
 Salt Lake City | UT //  <br>
-{:.brewery}
+{: .brewery #uinta }
 
 
-Epic Brewing Co. -   <br>
+ Epic Brewing Co.   `#epic`{:.key} <br>
 Salt Lake City | UT //  <br>
-{:.brewery}
+{: .brewery #epic }
 
 
 
 
-### Colorado _(16)_{:.count} {: #us-co }
+### Colorado _(16)_{:.count}
+{: #us-co }
 
 
 
@@ -13239,96 +15864,89 @@ Salt Lake City | UT //  <br>
 ##### Uncategorized _(16)_{:.count}
 
 
-Flying Dog -   <br>
+ Flying Dog   `#flyingdog`{:.key} <br>
 Frederick | MD //  <br>
-{:.brewery}
+{: .brewery #flyingdog }
 
 
-Breckenridge -   <br>
+ Breckenridge • Breckenridge Brewery   `#breckenridge`{:.key} <br>
 // Denver, CO  <br>
-{:.brewery}
+{: .brewery #breckenridge }
 
 
-Great Divide -   <br>
+ Great Divide • Great Divide Brewing Co. • Great Divide Brewing Company   `#greatdivide`{:.key} <br>
 // Denver, CO  <br>
-{:.brewery}
+{: .brewery #greatdivide }
 
 
-Wynkoop -   <br>
+ Wynkoop   `#wynkoop`{:.key} <br>
 // Denver, CO  <br>
-{:.brewery}
+{: .brewery #wynkoop }
 
 
-Crooked Stave Artisan Beer Project -   <br>
+ Crooked Stave Artisan Beer Project   `#crookedstave`{:.key} <br>
 // Denver, CO  <br>
-{:.brewery}
+{: .brewery #crookedstave }
 
 
-Coors -   <br>
+ Coors • Coors Brewing Co. • Coors Brewing Company   `#coors`{:.key} <br>
 // Golden, CO  <br>
-{:.brewery}
+{: .brewery #coors }
 
-Coors Light  
-{:.beers}
+**Coors Light** (4.2%) _lager lite_{:.tags} 
+{: .beers }
 
-New Belgium -   <br>
+ New Belgium • New Belgium Brewing Co. • New Belgium Brewing Company   `#newbelgium`{:.key} <br>
 // Fort Collins, CO  <br>
-{:.brewery}
+{: .brewery #newbelgium }
 
 
-Odell -   <br>
+ Odell • Odell Brewing Co.   `#odell`{:.key} <br>
 // Fort Collins, CO  <br>
-{:.brewery}
+{: .brewery #odell }
 
 
-Oskar Blues -   <br>
+ Oskar Blues • Oskar Blues Brewery   `#oskarblues`{:.key} <br>
 // Longmont, CO  <br>
-{:.brewery}
+{: .brewery #oskarblues }
 
 
-Left Hand -   <br>
+ Left Hand • Left Hand Brewing Co. • Left Hand Brewing Company   `#lefthand`{:.key} <br>
 // Longmont, CO  <br>
-{:.brewery}
+{: .brewery #lefthand }
 
 
-Avery Brewing Co. -   <br>
+ Avery Brewing Co. • Avery Brewing Company   `#avery`{:.key} <br>
 // Boulder, CO  <br>
-{:.brewery}
+{: .brewery #avery }
 
 
-Boulder Beer Co. -   <br>
+ Boulder Beer Co. • Boulder Beer Company   `#boulder`{:.key} <br>
 // Boulder, CO  <br>
-{:.brewery}
+{: .brewery #boulder }
 
 
-Tommyknocker -   <br>
-{:.brewery}
+ Tommyknocker   `#tommyknocker`{:.key} <br>
+{: .brewery #tommyknocker }
 
 
-Bristol -   <br>
-{:.brewery}
+ Bristol   `#bristol`{:.key} <br>
+{: .brewery #bristol }
 
 
-Ska -   <br>
+ Ska • Ska Brewing   `#ska`{:.key} <br>
 // Durango, CO  <br>
-{:.brewery}
+{: .brewery #ska }
 
 
-Steamworks -   <br>
-{:.brewery}
-
-
-
-
-### Arizona _(0)_{:.count} {: #us-az }
+ Steamworks   `#steamworks`{:.key} <br>
+{: .brewery #steamworks }
 
 
 
 
-
-
-
-### New Mexico _(0)_{:.count} {: #us-nm }
+### Arizona _(0)_{:.count}
+{: #us-az }
 
 
 
@@ -13336,7 +15954,17 @@ Steamworks -   <br>
 
 
 
-### Alaska _(2)_{:.count} {: #us-ak }
+### New Mexico _(0)_{:.count}
+{: #us-nm }
+
+
+
+
+
+
+
+### Alaska _(2)_{:.count}
+{: #us-ak }
 
 
 
@@ -13345,18 +15973,19 @@ Steamworks -   <br>
 ##### Uncategorized _(2)_{:.count}
 
 
-Alaskan Brewing Co. - 1986  <br>
+ Alaskan Brewing Co. • Alaskan Brewery Company  - 1986   `#alaskan`{:.key} <br>
 Juneau, AK 99801-9540 // 5429 Shaune Dr.  <br>
-{:.brewery}
+{: .brewery #alaskan }
 
 
-Midnight Sun -   <br>
-{:.brewery}
+ Midnight Sun   `#midnightsun`{:.key} <br>
+{: .brewery #midnightsun }
 
 
 
 
-### Washington _(11)_{:.count} {: #us-wa }
+### Washington _(11)_{:.count}
+{: #us-wa }
 
 
 
@@ -13365,60 +15994,61 @@ Midnight Sun -   <br>
 ##### Uncategorized _(11)_{:.count}
 
 
-Elysian -   <br>
+ Elysian   `#elysian`{:.key} <br>
 // Seattle, WA  <br>
-{:.brewery}
+{: .brewery #elysian }
 
 
-Georgetown -   <br>
+ Georgetown   `#georgetown`{:.key} <br>
 // Seattle, WA  <br>
-{:.brewery}
+{: .brewery #georgetown }
 
 
-Hale's -   <br>
+ Hale's   `#hales`{:.key} <br>
 // Seattle, WA  <br>
-{:.brewery}
+{: .brewery #hales }
 
 
-Pike -   <br>
+ Pike   `#pike`{:.key} <br>
 // Seattle, WA  <br>
-{:.brewery}
+{: .brewery #pike }
 
 
-Pyramid Breweries -   <br>
+ Pyramid Breweries   `#pyramid`{:.key} <br>
 // Seattle, WA  <br>
-{:.brewery}
+{: .brewery #pyramid }
 
 
-Boundary Bay -   <br>
-{:.brewery}
+ Boundary Bay   `#boundarybay`{:.key} <br>
+{: .brewery #boundarybay }
 
 
-Diamond Knot -   <br>
-{:.brewery}
+ Diamond Knot   `#diamondknot`{:.key} <br>
+{: .brewery #diamondknot }
 
 
-Redhook -   <br>
+ Redhook • Redhook Ale Brewery   `#redhook`{:.key} <br>
 // Woodinville, WA  <br>
-{:.brewery}
+{: .brewery #redhook }
 
 
-Mac & Jack's -   <br>
-{:.brewery}
+ Mac & Jack's   `#macnjacks`{:.key} <br>
+{: .brewery #macnjacks }
 
 
-Fish -   <br>
-{:.brewery}
+ Fish   `#fish`{:.key} <br>
+{: .brewery #fish }
 
 
-No-Li Brewhouse -   <br>
+ No-Li Brewhouse   `#noli`{:.key} <br>
 // Spokane, WA  <br>
-{:.brewery}
+{: .brewery #noli }
 
 
 
 
-### Oregon _(14)_{:.count} {: #us-or }
+### Oregon _(14)_{:.count}
+{: #us-or }
 
 
 
@@ -13427,75 +16057,76 @@ No-Li Brewhouse -   <br>
 ##### Uncategorized _(14)_{:.count}
 
 
-Widmer -   <br>
+ Widmer • Widmer Brothers Brewing   `#widmer`{:.key} <br>
 // Portland, OR  <br>
-{:.brewery}
+{: .brewery #widmer }
 
 
-Bridgeport -   <br>
+ Bridgeport   `#bridgeport`{:.key} <br>
 // Portland, OR  <br>
-{:.brewery}
+{: .brewery #bridgeport }
 
 
-Hair of the Dog -   <br>
+ Hair of the Dog   `#hairofthedog`{:.key} <br>
 // Portland, OR  <br>
-{:.brewery}
+{: .brewery #hairofthedog }
 
 
-Hopworks -   <br>
+ Hopworks   `#hopworks`{:.key} <br>
 // Portland, OR  <br>
-{:.brewery}
+{: .brewery #hopworks }
 
 
-Mactarnahan's -   <br>
+ Mactarnahan's   `#mactarnahans`{:.key} <br>
 // Portland, OR  <br>
-{:.brewery}
+{: .brewery #mactarnahans }
 
 
-Laurelwood -   <br>
+ Laurelwood • Laurelwood Brewing Co.   `#laurelwood`{:.key} <br>
 // Portland, OR  <br>
-{:.brewery}
+{: .brewery #laurelwood }
 
 
-Pelican -   <br>
-{:.brewery}
+ Pelican   `#pelican`{:.key} <br>
+{: .brewery #pelican }
 
 
-Rogue -   <br>
+ Rogue • Rogue Ales   `#rogue`{:.key} <br>
 Newport, OR //  <br>
-{:.brewery}
+{: .brewery #rogue }
 
 
-Full Sail -   <br>
-{:.brewery}
+ Full Sail   `#fullsail`{:.key} <br>
+{: .brewery #fullsail }
 
 
-Terminal Gravity -   <br>
-{:.brewery}
+ Terminal Gravity   `#terminalgravity`{:.key} <br>
+{: .brewery #terminalgravity }
 
 
-Deschutes -   <br>
+ Deschutes • Deschutes Brewery   `#deschutes`{:.key} <br>
 Bend, OR //  <br>
-{:.brewery}
+{: .brewery #deschutes }
 
 
-Caldera -   <br>
-{:.brewery}
+ Caldera   `#caldera`{:.key} <br>
+{: .brewery #caldera }
 
 
-Boneyard -   <br>
+ Boneyard • Boneyard Beer Company   `#boneyard`{:.key} <br>
 Bend, OR //  <br>
-{:.brewery}
+{: .brewery #boneyard }
 
 
-Ninkasi -   <br>
+ Ninkasi • Ninkasi Brewing Co. • Ninkasi Brewing Company   `#ninkasi`{:.key} <br>
 Eugene, OR //  <br>
-{:.brewery}
+{: .brewery #ninkasi }
 
 
 
 
-### California _(6)_{:.count} {: #us-ca }
+### California _(6)_{:.count}
+{: #us-ca }
 
 
 
@@ -13504,39 +16135,40 @@ Eugene, OR //  <br>
 ##### Uncategorized _(6)_{:.count}
 
 
-BJ's Brewhouse -   <br>
+ BJ's Brewhouse   `#bjsbrewhouse`{:.key} <br>
 // Huntington Beach, CA  <br>
-{:.brewery}
+{: .brewery #bjsbrewhouse }
 
 
-The Bruery -   <br>
+ The Bruery   `#thebruery`{:.key} <br>
 // Placentia, CA  <br>
-{:.brewery}
+{: .brewery #thebruery }
 
 
-Knee Deep Brewing Co. -   <br>
+ Knee Deep Brewing Co. • Knee Deep Brewing Company   `#kneedeep`{:.key} <br>
 // Lincoln, CA  <br>
-{:.brewery}
+{: .brewery #kneedeep }
 
 
-Hangar 24 Craft Brewery -   <br>
+ Hangar 24 Craft Brewery   `#hangartwentyfour`{:.key} <br>
 // Redlands, CA  <br>
-{:.brewery}
+{: .brewery #hangartwentyfour }
 
 
-Bootlegger's Brewery -   <br>
+ Bootlegger's Brewery   `#bootleggers`{:.key} <br>
 // Fullerton, CA  <br>
-{:.brewery}
+{: .brewery #bootleggers }
 
 
-Moylan's Brewery -   <br>
+ Moylan's Brewery   `#moylans`{:.key} <br>
 // Novato, CA  <br>
-{:.brewery}
+{: .brewery #moylans }
 
 
 
 
-### Hawaii _(1)_{:.count} {: #us-hi }
+### Hawaii _(1)_{:.count}
+{: #us-hi }
 
 
 
@@ -13545,9 +16177,9 @@ Moylan's Brewery -   <br>
 ##### Uncategorized _(1)_{:.count}
 
 
-Kona Brewing Co. -   <br>
+ Kona Brewing Co. • Kona Brewing Company   `#kona`{:.key} <br>
 // Honolulu, HI  <br>
-{:.brewery}
+{: .brewery #kona }
 
 
 
@@ -13563,7 +16195,10 @@ Kona Brewing Co. -   <br>
 
 ### Uncategorized Beers
 
-Bucanero Fuerte   • Bucanero Max   • Cristal   • Mayabe Calidad Extra  
+**Bucanero Fuerte** (5.4%) _lager_{:.tags}  • 
+**Bucanero Max** (6.5%) _premium lager_{:.tags}  • 
+**Cristal** (4.9%)   • 
+**Mayabe Calidad Extra** (5.0%) _lager_{:.tags} 
 
 
 
@@ -13579,7 +16214,8 @@ Bucanero Fuerte   • Bucanero Max   • Cristal   • Mayabe Calidad Extra
 
 ### Uncategorized Beers
 
-Dragon Stout   • Red Stripe  
+**Dragon Stout** (7.5%) _stout_{:.tags}  • 
+**Red Stripe** (4.7%) _lager_{:.tags} 
 
 
 
@@ -13595,7 +16231,7 @@ Dragon Stout   • Red Stripe
 
 ### Uncategorized Beers
 
-Medalla Light  
+**Medalla Light** (4.2%) _lager_{:.tags} 
 
 
 
@@ -13611,7 +16247,8 @@ Medalla Light
 
 ### Uncategorized Beers
 
-Carib   • Royal Extra Stout  
+**Carib** (5.2%) _lager_{:.tags}  • 
+**Royal Extra Stout** (6.6%) _stout_{:.tags} 
 
 
 
@@ -13627,7 +16264,9 @@ Carib   • Royal Extra Stout
 
 ### Uncategorized Beers
 
-Meister Max   • Sakara Gold   • Stella  
+**Meister Max** (8.0%) _lager_{:.tags}  • 
+**Sakara Gold** (4.0%) _lager_{:.tags}  • 
+**Stella** (4.5%) _lager_{:.tags} 
 
 
 
@@ -13643,7 +16282,8 @@ Meister Max   • Sakara Gold   • Stella
 
 ### Uncategorized Beers
 
-Hakim Stout   • Meta Beer  
+**Hakim Stout** (5.5%) _stout_{:.tags}  • 
+**Meta Beer** (5.0%) _lager_{:.tags} 
 
 
 
@@ -13659,7 +16299,8 @@ Hakim Stout   • Meta Beer
 
 ### Uncategorized Beers
 
-Tusker Lager   • Tusker Malt Lager  
+**Tusker Lager** (4.2%) _lager_{:.tags}  • 
+**Tusker Malt Lager** (5.0%) _lager_{:.tags} 
 
 
 
@@ -13675,7 +16316,7 @@ Tusker Lager   • Tusker Malt Lager
 
 ### Uncategorized Beers
 
-Laurentina Preta  
+**Laurentina Preta** (5.0%) _donkere lager_{:.tags} 
 
 
 
@@ -13691,7 +16332,8 @@ Laurentina Preta
 
 ### Uncategorized Beers
 
-Tafel   • Windhoek Lager  
+**Tafel** (4.0%) _lager_{:.tags}  • 
+**Windhoek Lager** (4.0%) _lager_{:.tags} 
 
 
 
@@ -13707,7 +16349,12 @@ Tafel   • Windhoek Lager
 
 ### Uncategorized Beers
 
-Mitchell's 90/-   • Raven Stout   • Castle Lager   • Castle Milk Stout   • Durban Pale Ale   • iJuba Special  
+**Mitchell's 90/-** (5.0%)   • 
+**Raven Stout** (5.0%) _stout_{:.tags}  • 
+**Castle Lager** (5.0%) _lager_{:.tags}  • 
+**Castle Milk Stout** (6.0%) _stout_{:.tags}  • 
+**Durban Pale Ale** (5.7%) _pale ale_{:.tags}  • 
+**iJuba Special**  _sorghumbier_{:.tags} 
 
 
 
@@ -13723,124 +16370,185 @@ Mitchell's 90/-   • Raven Stout   • Castle Lager   • Castle Milk Stout   �
 
 ### Uncategorized Beers
 
-Foster's   • 3 Ravens White   • Black Wattle Original Ale   • Hef   • Moonshine   • James Boag's Premium Lager   • Knappstein Reserve Lager   • James Squire Golden Ale   • James Squire Original Amber Ale   • James Squire Pilsener   • Alpha Pale Ale   • Dogbolter Dark Lager   • Moo Brew Pilsner   • Hightal Ale   • Murray's Best Extra Porter   • Red Duck Porter   • Red Hill Christmas Ale   • Scotch Ale   • Redoak Baltic Porter   • Redoak Framboise Froment   • Redoak Special Reserve   • Southwark Old Stout   • Stone & Wood Pale Lager   • Forester Pale Ale   • Huon Dark Ale  
+**Foster's** (5.2%) _pale lager_{:.tags}  • 
+**3 Ravens White** (5.2%) _witbier_{:.tags}  • 
+**Black Wattle Original Ale** (5.8%) _ale_{:.tags}  • 
+**Hef** (5.0%) _hefeweizen_{:.tags}  • 
+**Moonshine** (8.5%) _barley wine_{:.tags}  • 
+**James Boag's Premium Lager** (5.0%) _lager_{:.tags}  • 
+**Knappstein Reserve Lager** (5.6%) _lager_{:.tags}  • 
+**James Squire Golden Ale** (4.5%) _ale_{:.tags}  • 
+**James Squire Original Amber Ale** (5.0%) _ale_{:.tags}  • 
+**James Squire Pilsener** (5.0%) _pils_{:.tags}  • 
+**Alpha Pale Ale** (5.2%) _ale_{:.tags}  • 
+**Dogbolter Dark Lager** (5.2%) _dark lager_{:.tags}  • 
+**Moo Brew Pilsner** (5.0%) _pils_{:.tags}  • 
+**Hightal Ale** (4.5%) _ale_{:.tags}  • 
+**Murray's Best Extra Porter** (8.0%) _porter_{:.tags}  • 
+**Red Duck Porter** (6.4%) _porter_{:.tags}  • 
+**Red Hill Christmas Ale** (7.5%) _kerstbier_{:.tags}  • 
+**Scotch Ale** (5.8%) _ale_{:.tags}  • 
+**Redoak Baltic Porter** (9.0%) _porter_{:.tags}  • 
+**Redoak Framboise Froment** (5.0%) _fruitbier_{:.tags}  • 
+**Redoak Special Reserve** (12.0%) _barley wine_{:.tags}  • 
+**Southwark Old Stout** (7.4%) _stout_{:.tags}  • 
+**Stone & Wood Pale Lager** (4.7%) _lager_{:.tags}  • 
+**Forester Pale Ale** (5.5%) _pale ale_{:.tags}  • 
+**Huon Dark Ale** (5.5%) _ale_{:.tags} 
 
 
 
 
-### New South Wales _(2)_{:.count} {: #au-ns }
+### New South Wales _(2)_{:.count}
+{: #au-ns }
 
 
 [Sydney](#sydney) • **Uncategorized** _(1)_{:.count}
 
-##### Sydney 
+##### Sydney   _pop 3.908.642 (4.605.992)_{:.pop}
+{: .city #sydney }
 
 
-Hahn Brewery - 1986  <br>
+
+ Hahn Brewery  - 1986   `#hahn`{:.key} <br>
 Camperdown //  <br>
-{:.brewery}
+{: .brewery #hahn }
 
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
-Tooheys - 1869  <br>
-{:.brewery}
+ Tooheys  - 1869   `#tooheys`{:.key} <br>
+{: .brewery #tooheys }
 
 
 
 
-### Queensland _(2)_{:.count} {: #au-ql }
+### Queensland _(2)_{:.count}
+{: #au-ql }
 
 
 [Brisbane](#brisbane) • **Uncategorized** _(1)_{:.count}
 
-##### Brisbane 
+##### Brisbane   _pop 1.874.427 (2.146.577)_{:.pop}
+{: .city #brisbane }
 
 
-Castlemaine Perkins - 1878  <br>
-{:.brewery}
 
-XXXX  
-{:.beers}
+ Castlemaine Perkins  - 1878   `#castlemaine`{:.key} <br>
+{: .brewery #castlemaine }
+
+**XXXX**  _lager_{:.tags} 
+{: .beers }
 
 
 ##### Uncategorized _(1)_{:.count}
 
 
-Burleigh Brewing Company - 2006  <br>
-{:.brewery}
+ Burleigh Brewing Company  - 2006   `#burleigh`{:.key} <br>
+{: .brewery #burleigh }
 
 
 
 
-### South Australia _(2)_{:.count} {: #au-sa }
+### South Australia _(2)_{:.count}
+{: #au-sa }
 
 
 
 
-##### Adelaide  _(2)_{:.count} 
+##### Adelaide _(2)_{:.count}  _pop 1.103.979 (1.262.940)_{:.pop}
+{: .city #adelaide }
 
 
-Coopers Brewery - 1862  <br>
+
+ Coopers Brewery  - 1862   `#coopers`{:.key} <br>
 Regency Park //  <br>
-{:.brewery}
+{: .brewery #coopers }
 
-Coopers Sparkling Ale   • Coopers Pale Ale   • Coopers Best Extra Stout   • Coopers Dark Ale   • Coopers Mild Ale   • Coopers Premium Lager   • Coopers 62 Pilsner   • Coopers Premium Light   • Coopers Clear   • Coopers Extra Strong Vintage Ale  
-{:.beers}
+**Coopers Sparkling Ale** (5.8%) _golden ale ale_{:.tags}  • 
+**Coopers Pale Ale** (4.5%) _pale ale_{:.tags}  • 
+**Coopers Best Extra Stout** (6.3%) _stout_{:.tags}  • 
+**Coopers Dark Ale** (4.5%) _brown ale_{:.tags}  • 
+**Coopers Mild Ale** (3.5%) _ale_{:.tags}  • 
+**Coopers Premium Lager** (5.0%) _lager_{:.tags}  • 
+**Coopers 62 Pilsner** (5.0%) _pilsner_{:.tags}  • 
+**Coopers Premium Light** (2.9%)   • 
+**Coopers Clear** (4.5%)   • 
+**Coopers Extra Strong Vintage Ale** (7.5%) _strong ale_{:.tags} 
+{: .beers }
 
-South Australian Brewing Co. - 1859  <br>
+ South Australian Brewing Co. • South Australian Brewing Company  - 1859   `#sa`{:.key} <br>
 Thebarton //  <br>
-{:.brewery}
+{: .brewery #sa }
 
 
 
 
 
-### Tasmania _(2)_{:.count} {: #au-ts }
+### Tasmania _(2)_{:.count}
+{: #au-ts }
 
 
 [Hobart](#hobart) • [Launceston](#launceston)
 
-##### Hobart 
-
-
-Cascade Brewery - 1824  <br>
-{:.brewery}
-
-Cascade Premium Lager   • Cascade Pale Ale   • Cascade Blonde   • Cascade Amber   • Cascade Draught   • Cascade Pure   • Cascade Stout   • First Harvest Ale  
-{:.beers}
-
-##### Launceston 
-
-
-J. Boag & Sons - 1883  <br>
-{:.brewery}
+##### Hobart   _pop 170.975 (216.276)_{:.pop}
+{: .city #hobart }
 
 
 
+ Cascade Brewery  - 1824   `#cascade`{:.key} <br>
+{: .brewery #cascade }
+
+**Cascade Premium Lager**  _lager_{:.tags}  • 
+**Cascade Pale Ale**  _lager_{:.tags}  • 
+**Cascade Blonde**  _lager_{:.tags}  • 
+**Cascade Amber**  _ale_{:.tags}  • 
+**Cascade Draught**  _lager_{:.tags}  • 
+**Cascade Pure**  _lager_{:.tags}  • 
+**Cascade Stout** (5.6%) _stout_{:.tags}  • 
+**First Harvest Ale** (5.5%) _ale_{:.tags} 
+{: .beers }
+
+##### Launceston   _pop 74.085 (107.746)_{:.pop}
+{: .city #launceston }
 
 
-### Victoria _(1)_{:.count} {: #au-vi }
+
+ J. Boag & Sons  - 1883   `#boags`{:.key} <br>
+{: .brewery #boags }
 
 
 
 
-##### Melbourne 
+
+### Victoria _(1)_{:.count}
+{: #au-vi }
 
 
-Carlton and United Breweries - 1907  <br>
+
+
+##### Melbourne   _pop 3.707.530 (4.169.103)_{:.pop}
+{: .city #melbourne }
+
+
+
+ Carlton and United Breweries  - 1907   `#carlton`{:.key} <br>
 Abbotsford //  <br>
-{:.brewery}
+{: .brewery #carlton }
 
-Victoria Bitter   • Crown Lager   • Carlton Draught   • Pure Blonde  
-{:.beers}
+**Victoria Bitter** (4.9%) _lager_{:.tags}  • 
+**Crown Lager** (4.9%) _lager_{:.tags}  • 
+**Carlton Draught** (4.6%) _pale lager pils_{:.tags}  • 
+**Pure Blonde** (4.6%) _low carbohydrate lager lite_{:.tags} 
+{: .beers }
 
 
 
 
-### Western Australia _(4)_{:.count} {: #au-wa }
+### Western Australia _(4)_{:.count}
+{: #au-wa }
 
 
 
@@ -13849,37 +16557,40 @@ Victoria Bitter   • Crown Lager   • Carlton Draught   • Pure Blonde
 ##### Uncategorized _(4)_{:.count}
 
 
-Swan Brewery - 1837  <br>
-{:.brewery}
+ Swan Brewery  - 1837   `#swan`{:.key} <br>
+{: .brewery #swan }
 
 
-Bluetongue Brewery - 2003  <br>
-{:.brewery}
+ Bluetongue Brewery  - 2003   `#bluetongue`{:.key} <br>
+{: .brewery #bluetongue }
 
-Bluetongue Traditional Pilsner  
-{:.beers}
+**Bluetongue Traditional Pilsner** (5.8%) _pils_{:.tags} 
+{: .beers }
 
-Bootleg Brewery - 1994  <br>
-{:.brewery}
-
-
-Little Creatures Brewery - 2000  <br>
-{:.brewery}
-
-Little Creatures Pale Ale   • Rogers' Beer  
-{:.beers}
+ Bootleg Brewery  - 1994   `#bootleg`{:.key} <br>
+{: .brewery #bootleg }
 
 
+ Little Creatures Brewery  - 2000   `#creatures`{:.key} <br>
+{: .brewery #creatures }
 
-### Australian Capital Territory _(0)_{:.count} {: #au-ct }
+**Little Creatures Pale Ale** (5.2%) _pale ale_{:.tags}  • 
+**Rogers' Beer** (3.8%) _ale_{:.tags} 
+{: .beers }
 
 
 
+### Australian Capital Territory _(0)_{:.count}
+{: #au-ct }
 
 
 
 
-### Northern Territory _(0)_{:.count} {: #au-nt }
+
+
+
+### Northern Territory _(0)_{:.count}
+{: #au-nt }
 
 
 
@@ -13898,7 +16609,16 @@ Little Creatures Pale Ale   • Rogers' Beer
 
 ### Uncategorized Beers
 
-Anchor Beer   • Gold Crown   • Angkor   • Angkor Extra Stout   • Bayon   • Black Panther   • Klang Beer   • Kingdom Dark Lager   • Kingdom Pilsener   • Cambodia Lager  
+**Anchor Beer**  _lager_{:.tags}  • 
+**Gold Crown**  _lager_{:.tags}  • 
+**Angkor** (5.2%) _lager_{:.tags}  • 
+**Angkor Extra Stout** (8.0%) _stout_{:.tags}  • 
+**Bayon** (4.6%) _lager_{:.tags}  • 
+**Black Panther** (8.0%) _stout_{:.tags}  • 
+**Klang Beer** (6.0%) _lager_{:.tags}  • 
+**Kingdom Dark Lager**  _lager_{:.tags}  • 
+**Kingdom Pilsener**  _pils_{:.tags}  • 
+**Cambodia Lager**  _lager_{:.tags} 
 
 
 
@@ -13914,26 +16634,47 @@ Anchor Beer   • Gold Crown   • Angkor   • Angkor Extra Stout   • Bayon  
 
 ### Uncategorized Beers
 
-Prinz   • Kirin Ichiban   • Angry Boy Brown Ale   • Rising Sun Pale Ale   • Harvestmoon Schwarz   • Hitachino Nest Beer White Ale   • Hitachino Nest Beer XH   • Sankt Gallen Yokohama XPA   • Echigo 90 Days Stout   • Echigo Pilsner   • Fujizakura Heights Rauch   • Fujizakura Heights Weizen   • Super Vintage   • Iwate Kura Oyster Stout   • Kinshachi Nagoya Red Miso Lager   • Minch Double IPA   • Ozeno Yukidoke IPA   • Shiga Kogen IPA   • Shonan Liebe   • Tokyo Black   • Yona Yona Ale  
+**Prinz** (5.5%) _pilsener_{:.tags}  • 
+**Kirin Ichiban** (5.0%) _lager_{:.tags}  • 
+**Angry Boy Brown Ale** (6.2%) _ale_{:.tags}  • 
+**Rising Sun Pale Ale** (5.0%) _ale_{:.tags}  • 
+**Harvestmoon Schwarz** (4.5%) _schwarzbier_{:.tags}  • 
+**Hitachino Nest Beer White Ale** (5.5%) _witbier_{:.tags}  • 
+**Hitachino Nest Beer XH** (8.300000000000001%)   • 
+**Sankt Gallen Yokohama XPA** (6.0%)   • 
+**Echigo 90 Days Stout** (7.0%) _stout_{:.tags}  • 
+**Echigo Pilsner** (5.0%) _pils_{:.tags}  • 
+**Fujizakura Heights Rauch** (5.5%) _rauchbier_{:.tags}  • 
+**Fujizakura Heights Weizen** (5.5%) _witbier_{:.tags}  • 
+**Super Vintage** (14.3%)   • 
+**Iwate Kura Oyster Stout** (7.0%) _stout_{:.tags}  • 
+**Kinshachi Nagoya Red Miso Lager** (6.0%) _lager_{:.tags}  • 
+**Minch Double IPA** (9.0%)   • 
+**Ozeno Yukidoke IPA** (5.0%)   • 
+**Shiga Kogen IPA** (6.0%)   • 
+**Shonan Liebe** (5.0%) _schwarzbier_{:.tags}  • 
+**Tokyo Black** (5.0%) _porter_{:.tags}  • 
+**Yona Yona Ale** (5.5%) _ale_{:.tags} 
 
 
 ### Uncategorized _(3)_{:.count}
 
 
-Asahi Breweries - 1889  <br>
-{:.brewery}
+ Asahi Breweries  - 1889   `#asahi`{:.key} <br>
+{: .brewery #asahi }
 
-Asahi   • Asahi Black  
-{:.beers}
+**Asahi** (5.0%) _lager_{:.tags}  • 
+**Asahi Black** (5.0%) _stout_{:.tags} 
+{: .beers }
 
-Sapporo Brewery - 1876  <br>
-{:.brewery}
+ Sapporo Brewery  - 1876   `#sapporo`{:.key} <br>
+{: .brewery #sapporo }
 
-Sapporo Draft  
-{:.beers}
+**Sapporo Draft** (4.7%) _lager_{:.tags} 
+{: .beers }
 
-Kirin Brewery Co. - 1885  <br>
-{:.brewery}
+ Kirin Brewery Co. • Kirin Brewery Company  - 1885   `#kirin`{:.key} <br>
+{: .brewery #kirin }
 
 
 
@@ -13949,7 +16690,8 @@ Kirin Brewery Co. - 1885  <br>
 
 ### Uncategorized Beers
 
-Beerlao   • Beerlao Dark Lager  
+**Beerlao** (5.0%) _lager_{:.tags}  • 
+**Beerlao Dark Lager** (6.5%) _lager_{:.tags} 
 
 
 
@@ -13965,7 +16707,8 @@ Beerlao   • Beerlao Dark Lager
 
 ### Uncategorized Beers
 
-San Miguel Dark   • San Miguel Pale Pilsen  
+**San Miguel Dark** (5.0%) _muenchener_{:.tags}  • 
+**San Miguel Pale Pilsen** (5.0%) _pils_{:.tags} 
 
 
 
@@ -13981,7 +16724,9 @@ San Miguel Dark   • San Miguel Pale Pilsen
 
 ### Uncategorized Beers
 
-ABC Extra Stout   • Tiger Beer   • Tiger Crystal  
+**ABC Extra Stout**  _stout_{:.tags}  • 
+**Tiger Beer** (5.0%) _pils_{:.tags}  • 
+**Tiger Crystal** (4.1%) _lager_{:.tags} 
 
 
 
@@ -13997,7 +16742,7 @@ ABC Extra Stout   • Tiger Beer   • Tiger Crystal
 
 ### Uncategorized Beers
 
-Prime Max  
+**Prime Max** (4.5%) _lager_{:.tags} 
 
 
 
@@ -14013,7 +16758,7 @@ Prime Max
 
 ### Uncategorized Beers
 
-Lion Stout  
+**Lion Stout** (8.0%) _stout_{:.tags} 
 
 
 
@@ -14029,7 +16774,8 @@ Lion Stout
 
 ### Uncategorized Beers
 
-Singha   • Chang  
+**Singha** (6.0%) _lager_{:.tags}  • 
+**Chang**  _lager_{:.tags} 
 
 
 
@@ -14045,7 +16791,7 @@ Singha   • Chang
 
 ### Uncategorized Beers
 
-Hue Beer  
+**Hue Beer** (5.0%) _lager_{:.tags} 
 
 
 
@@ -14061,7 +16807,23 @@ Hue Beer
 
 ### Uncategorized Beers
 
-Mata Artesian   • Epic Mayhem   • Fair Maiden Ale   • Green Man Stout   • Big John Special Reserve   • Smokin' Bishop   • 12 Gauge   • Hop Rocker   • Moa Original   • Mammoth   • Stonecutter   • Nor'wester   • Emerson's Old 95   • Emerson's Pilsner   • Enigma   • Three Boys Wheat   • Tuatara Indian Pale Ale  
+**Mata Artesian** (5.0%) _blond_{:.tags}  • 
+**Epic Mayhem** (6.2%) _ipa_{:.tags}  • 
+**Fair Maiden Ale** (5.2%) _ale_{:.tags}  • 
+**Green Man Stout** (7.0%) _stout_{:.tags}  • 
+**Big John Special Reserve** (6.5%) _donkere lager_{:.tags}  • 
+**Smokin' Bishop** (7.0%) _stout_{:.tags}  • 
+**12 Gauge** (6.5%) _pilsener_{:.tags}  • 
+**Hop Rocker** (5.0%) _pilsener_{:.tags}  • 
+**Moa Original** (5.5%) _pilsener_{:.tags}  • 
+**Mammoth** (7.0%) _strong ale_{:.tags}  • 
+**Stonecutter** (7.0%) _scotch ale_{:.tags}  • 
+**Nor'wester** (6.5%) _pale ale_{:.tags}  • 
+**Emerson's Old 95** (7.0%) _old ale_{:.tags}  • 
+**Emerson's Pilsner** (5.0%) _pils_{:.tags}  • 
+**Enigma** (10.5%) _barley wine_{:.tags}  • 
+**Three Boys Wheat** (5.0%) _witbier_{:.tags}  • 
+**Tuatara Indian Pale Ale** (5.0%) _ipa_{:.tags} 
 
 
 

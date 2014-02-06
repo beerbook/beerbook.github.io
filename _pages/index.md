@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contents
-permanlink: /index.html
+permalink: /index.html
 ---
 
 # Contents
