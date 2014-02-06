@@ -4,7 +4,7 @@ title: Beers Index
 permalink: /beers.html
 ---
 
-# Beers Index _(1157)_{:.count}
+# Beers A-Z Index _(1157)_{:.count}
 
 
  A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z

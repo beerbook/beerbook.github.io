@@ -4,7 +4,7 @@ title: Breweries Index
 permalink: /breweries.html
 ---
 
-# Breweries Index _(1279)_{:.count}
+# Breweries A-Z Index _(1279)_{:.count}
 
 
  A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z

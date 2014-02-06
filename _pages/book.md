@@ -4,8 +4,9 @@ title: Contents
 permalink: /book.html
 ---
 
-# Contents
+# The Free World Beer Book
 
+## Table of Contents
 
 [What's News?](#news) • [World Beer Tour](#tour) • [A-Z Breweries, Brands, Beers](#az)
 

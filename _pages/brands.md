@@ -4,7 +4,7 @@ title: Brands Index
 permalink: /brands.html
 ---
 
-# Brands Index _(114)_{:.count}
+# Brands A-Z Index _(114)_{:.count}
 
 
  A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z
