@@ -1,11 +1,12 @@
 # The Free World Beer Book
 
+
 ## Table of Contents
 
 [What's News?](#news) • [World Beer Tour](#tour) • [A-Z Breweries, Brands, Beers](#az)
 
 
-## What's News?
+### What's News?
 {: #news}
 
 ..   <!-- add brewery count ?? -->
@@ -17,7 +18,7 @@
 
 
 
-## World Beer Tour
+### World Beer Tour
 {: #tour}
 
 {{ continents_navbar }}
@@ -26,7 +27,7 @@
 {% Continent.all.each do |continent| %}
 
 
-### {{ continent.title }}
+#### {{ continent.title }}
 {: #{{ urlify( continent.title ) }} }
 
   {{ render_toc_countries( continent.countries.order(:title), opts ) }}
@@ -34,7 +35,7 @@
 {% end %}<!-- each continent -->
 
 
-## A-Z Breweries, Brands, Beers
+### A-Z Breweries, Brands, Beers
 {: #az}
 
 <!-- fix: for all-in-one page version use/check opts :inline -->

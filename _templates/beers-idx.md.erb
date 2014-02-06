@@ -14,19 +14,7 @@
 ## {{ letter }}
 
 {% Beer.where( "key like '#{letter.downcase}%'").order(:key).each do |beer| %}
-  {{ beer.title }} ++
-   .. <!-- fix: add brewery synonims if exit -->
-   .. <!-- fix: add brewery tags here -->
-   {% if beer.brewery_id.present? %} -- {{ beer.brewery.title }} {% end %} ++
-   ( ++
-   {{ beer.country.title }} ++
-   {% if beer.region_id.present? %} › {{ beer.region.title }} {% end %} ++
-   {% if beer.city_id.present? %} › {{ beer.city.title }} {% end %} ++
-   ) ++
-   {{ beer_tags( beer ) }} ++ 
-   `#{{ beer.key }}`{:.key} ++ 
-   <br>
+  {{ render_beer_idx( beer, opts ) }}
 {% end %}
 
 {% end %}
-

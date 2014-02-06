@@ -70,8 +70,22 @@ def render_brewery( brewery )
   render_erb_template( tmpl, binding )  
 end
 
+def render_brewery_idx( brewery )
+  tmpl       = File.read_utf8( '_templates/shared/_brewery-idx.md.erb' )
+  render_erb_template( tmpl, binding )  
+end
+
 def render_beer( beer )
   tmpl       = File.read_utf8( '_templates/shared/_beer.md.erb' )
   render_erb_template( tmpl, binding )
 end
 
+def render_beer_idx( beer )
+  tmpl       = File.read_utf8( '_templates/shared/_beer-idx.md.erb' )
+  render_erb_template( tmpl, binding )
+end
+
+def render_brand_idx( beer )
+  tmpl       = File.read_utf8( '_templates/shared/_brand-idx.md.erb' )
+  render_erb_template( tmpl, binding )
+end
