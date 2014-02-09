@@ -13,8 +13,10 @@
 
 ## {{ letter }}
 
+{{ columns_begin }}
 {% Brand.where( "key like '#{letter.downcase}%'").order(:key).each do |brand| %}
   {{ render_brand_idx( brand, opts ) }}
 {% end %}
+{{ columns_end }}
 
 {% end %}

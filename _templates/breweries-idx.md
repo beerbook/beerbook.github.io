@@ -13,7 +13,7 @@
 
 ## {{ letter }}
 
-{{ columns_begin( columns: 3 ) }}
+{{ columns_begin }}
 {% Brewery.where( "key like '#{letter.downcase}%'").order(:key).each do |brewery| %}
   {{ render_brewery_idx( brewery, opts ) }}
 {% end %}
