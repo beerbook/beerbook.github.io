@@ -34,7 +34,7 @@ permalink: /index.html
 {: #europe }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 [Albania (ALB)](al.html) - _1 Beers, 0 Breweries_{:.count}  <br>
 [Austria (AUT)](at.html) - _215 Beers, 88 Breweries_{:.count}  <br>
@@ -84,7 +84,7 @@ permalink: /index.html
 {: #south-america }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 [Argentina (ARG)](ar.html) - _10 Beers, 1 Breweries_{:.count}  <br>
 [Brazil (BRA)](br.html) - _10 Beers, 1 Breweries_{:.count}  <br>
@@ -100,7 +100,7 @@ permalink: /index.html
 {: #north-america }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 [Canada (CAN)](ca.html) - _7 Beers, 10 Breweries_{:.count}  <br>
 [México [Mexico] (MEX)](mx.html) - _179 Beers, 45 Breweries_{:.count}  <br>
@@ -115,7 +115,7 @@ permalink: /index.html
 {: #central-america }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -127,7 +127,7 @@ permalink: /index.html
 {: #caribbean }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 [Cuba (CUB)](cu.html) - _4 Beers, 0 Breweries_{:.count}  <br>
 [Jamaica (JAM)](jm.html) - _2 Beers, 0 Breweries_{:.count}  <br>
@@ -143,7 +143,7 @@ permalink: /index.html
 {: #africa }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 [Egypt (EGY)](eg.html) - _3 Beers, 0 Breweries_{:.count}  <br>
 [Ethiopia (ETH)](et.html) - _2 Beers, 0 Breweries_{:.count}  <br>
@@ -161,7 +161,7 @@ permalink: /index.html
 {: #middle-east }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -173,7 +173,7 @@ permalink: /index.html
 {: #asia--australia }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 [Australia (AUS)](au.html) - _51 Beers, 13 Breweries_{:.count}  <br>
 [Cambodia (CAM)](kh.html) - _10 Beers, 0 Breweries_{:.count}  <br>
@@ -195,7 +195,7 @@ permalink: /index.html
 {: #pacific }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 [New Zealand (NZL)](nz.html) - _17 Beers, 0 Breweries_{:.count}  <br>
 
@@ -208,7 +208,7 @@ permalink: /index.html
 {: #others }
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

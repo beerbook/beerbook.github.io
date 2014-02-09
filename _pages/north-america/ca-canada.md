@@ -19,7 +19,7 @@ permalink: /ca.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -58,7 +58,7 @@ permalink: /ca.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -101,7 +101,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -125,7 +125,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -149,7 +149,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -164,7 +164,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -179,7 +179,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -194,7 +194,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -209,7 +209,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -224,7 +224,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -239,7 +239,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -254,7 +254,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -278,7 +278,7 @@ P.O. Box 102 (4924 - 51 Street) // Edgerton | Alberta // T0B 1K0  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

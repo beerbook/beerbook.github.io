@@ -25,7 +25,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -40,7 +40,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -55,7 +55,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -70,7 +70,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -85,7 +85,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -100,7 +100,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -115,7 +115,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -130,7 +130,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -145,7 +145,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -160,7 +160,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -175,7 +175,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -190,7 +190,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -205,7 +205,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -220,7 +220,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -235,7 +235,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -250,7 +250,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -265,7 +265,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -280,7 +280,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -295,7 +295,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -310,7 +310,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -325,7 +325,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -340,7 +340,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -355,7 +355,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -370,7 +370,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -385,7 +385,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -400,7 +400,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -415,7 +415,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -430,7 +430,7 @@ permalink: /bg.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

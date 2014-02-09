@@ -12,6 +12,9 @@ permalink: /beers.html
 
 ## A
 
+
+<div class='columns300' markdown='1'>
+
 **ABC Extra Stout** _stout_{:.tags}  ( Singapore   ) _#abcextrastout_{:.key} <br>
 **Achel Blonde 5°**   -- Achel  ( Belgium  › Limburg   ) _#achelblonde5_{:.key} <br>
 **Achel Blonde 8°**   -- Achel  ( Belgium  › Limburg   ) _#achelblonde8_{:.key} <br>
@@ -86,8 +89,14 @@ permalink: /beers.html
 **Austrian Amber Ale**   -- Brauerei Gusswerk  ( Austria  › Salzburg   › Salzburg  ) _#austrianamberale_{:.key} <br>
 **Azuga** _pale lager_{:.tags}  -- Ursus Breweries  ( Romania   ) _#azuga_{:.key} <br>
 
+</div>
+
+
 
 ## B
+
+
+<div class='columns300' markdown='1'>
 
 **Back Door Bitter** _bitter_{:.tags}  ( Italy   ) _#backdoorbitter_{:.key} <br>
 **Back in Black** _black ipa_{:.tags}  ( United States  › California   ) _#backinblack_{:.key} <br>
@@ -183,8 +192,14 @@ permalink: /beers.html
 **Budweiser Budvar Tmavý Ležák [Dark Lager]** _dark lager_{:.tags}  ( Czech Republic   ) _#budweiserbudvartmavylezak_{:.key} <br>
 **Busch Light** _lager lite_{:.tags}  ( United States   ) _#buschlight_{:.key} <br>
 
+</div>
+
+
 
 ## C
+
+
+<div class='columns300' markdown='1'>
 
 **Caballero Águila**   -- Cervecera Mexicana  ( México [Mexico]   ) _#caballeroaguila_{:.key} <br>
 **Cabotella**   -- Cervecería Baja Brewing Co  ( México [Mexico]  › Baja California Sur   ) _#cabotella_{:.key} <br>
@@ -297,8 +312,14 @@ permalink: /beers.html
 **Cuvée van de Keizer Rood** _blonde special_{:.tags}  -- Anker  ( Belgium  › Antwerpen [Antwerp]   ) _#cuveevandekeizerrood_{:.key} <br>
 **Czech Rebel Beer** _pale lager_{:.tags}  -- Měšťanský Pivovar Havlíčkův Brod  ( Czech Republic  › Vysočina [• Hochland]   ) _#czechrebelbeer_{:.key} <br>
 
+</div>
+
+
 
 ## D
+
+
+<div class='columns300' markdown='1'>
 
 **‹DaDo› Belgian Ale** _ale_{:.tags}  ( Brazil   ) _#dadobelgianale_{:.key} <br>
 **Dahler Urbräu** _zwickl_{:.tags}  -- Vormann Brauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Hagen (Dahl)  ) _#dahlerurbraeu_{:.key} <br>
@@ -344,8 +365,14 @@ permalink: /beers.html
 **Duckstein Original**   ( Germany   ) _#ducksteinoriginal_{:.key} <br>
 **Durban Pale Ale** _pale ale_{:.tags}  ( South Africa   ) _#durbanpaleale_{:.key} <br>
 
+</div>
+
+
 
 ## E
+
+
+<div class='columns300' markdown='1'>
 
 **EB** _pils_{:.tags}  ( Poland   ) _#eb_{:.key} <br>
 **Echigo 90 Days Stout** _stout_{:.tags}  ( Japan   ) _#echigo90daysstout_{:.key} <br>
@@ -390,8 +417,14 @@ permalink: /beers.html
 **‹Estrella› ‹Damm› Inedit** _tarwebier_{:.tags}  ( Spain   ) _#estrelladamminedit_{:.key} <br>
 **Etoile du Nord** _blond_{:.tags}  ( France   ) _#etoiledunord_{:.key} <br>
 
+</div>
+
+
 
 ## F
+
+
+<div class='columns300' markdown='1'>
 
 **Fair Maiden Ale** _ale_{:.tags}  ( New Zealand   ) _#fairmaidenale_{:.key} <br>
 **Farrotta** _speltbier_{:.tags}  ( Italy   ) _#farrotta_{:.key} <br>
@@ -449,8 +482,14 @@ permalink: /beers.html
 **‹Fuller's› London Pride** _english pale ale pale ale_{:.tags}  -- Fuller, Smith & Turner  ( England  › Greater London   › London  ) _#fullerslondonpride_{:.key} <br>
 **Full Moon Pale Ale**   -- Alley Kat Brewing  ( Canada  › Alberta   ) _#fullmoonpaleale_{:.key} <br>
 
+</div>
+
+
 
 ## G
+
+
+<div class='columns300' markdown='1'>
 
 **Gablitzer Original**   -- Gablitzer Privatbrauerei  ( Austria  › Niederösterreich [Lower Austria]   › Gablitz  ) _#gablitzeroriginal_{:.key} <br>
 **Gaffel Kölsch**   ( Germany   ) _#gaffelkoelsch_{:.key} <br>
@@ -499,8 +538,14 @@ permalink: /beers.html
 **Guinness** _irish dry stout dry stout stout_{:.tags}  ( Irland   ) _#guinness_{:.key} <br>
 **Guinness Foreign Extra** _stout_{:.tags}  ( Irland   ) _#guinnessforeignextra_{:.key} <br>
 
+</div>
+
+
 
 ## H
+
+
+<div class='columns300' markdown='1'>
 
 **Hacker-Pschorr Animator** _doppelbock_{:.tags}  -- Hacker-Pschorr Bräu  ( Germany  › Bayern [Bavaria]   › München  ) _#hackerpschorranimator_{:.key} <br>
 **Hacker-Pschorr Anno 1417**   -- Hacker-Pschorr Bräu  ( Germany  › Bayern [Bavaria]   › München  ) _#hackerpschorranno1417_{:.key} <br>
@@ -570,8 +615,14 @@ permalink: /beers.html
 **Hue Beer** _lager_{:.tags}  ( Vietnam   ) _#huebeer_{:.key} <br>
 **Huon Dark Ale** _ale_{:.tags}  ( Australia   ) _#huondarkale_{:.key} <br>
 
+</div>
+
+
 
 ## I
+
+
+<div class='columns300' markdown='1'>
 
 **Igúazu** _lager_{:.tags}  -- Cervecería y Maltería Quilmes  ( Argentina  › Provincia de Buenos Aires   ) _#iguazu_{:.key} <br>
 **iJuba Special** _sorghumbier_{:.tags}  ( South Africa   ) _#ijubaspecial_{:.key} <br>
@@ -584,8 +635,14 @@ permalink: /beers.html
 **Irish Red**   -- Cervecería Alebrije  ( México [Mexico]  › Distrito Federal   ) _#irishred_{:.key} <br>
 **Iwate Kura Oyster Stout** _stout_{:.tags}  ( Japan   ) _#iwatekuraoysterstout_{:.key} <br>
 
+</div>
+
+
 
 ## J
+
+
+<div class='columns300' markdown='1'>
 
 **Jack Alebrije** _weissbier_{:.tags}  -- Cervecería Jack  ( México [Mexico]  › México   ) _#jackalebrije_{:.key} <br>
 **Jack Chocolate Sweet Stout**   -- Cervecería Jack  ( México [Mexico]  › México   ) _#jackchocolatesweetstout_{:.key} <br>
@@ -609,8 +666,14 @@ permalink: /beers.html
 **John Smith Bitter**   ( England   ) _#johnsmithbitter_{:.key} <br>
 **Julebuk** _kerstbier_{:.tags}  ( Denmark   ) _#julebuk_{:.key} <br>
 
+</div>
+
+
 
 ## K
+
+
+<div class='columns300' markdown='1'>
 
 **Kaiser 2.9 %**   -- Brauerei Wieselburg (Brau Union)  ( Austria  › Niederösterreich [Lower Austria]   › Wieselburg  ) _#kaiser29_{:.key} <br>
 **Kaiser Doppelmalz**   -- Brauerei Wieselburg (Brau Union)  ( Austria  › Niederösterreich [Lower Austria]   › Wieselburg  ) _#kaiserdoppelmalz_{:.key} <br>
@@ -661,8 +724,14 @@ permalink: /beers.html
 **Kudos Mild Brown**   -- Cervecería Kudos  ( México [Mexico]  › Baja California   ) _#kudosmildbrown_{:.key} <br>
 **Kudos Strawberry Wheat**   -- Cervecería Kudos  ( México [Mexico]  › Baja California   ) _#kudosstrawberrywheat_{:.key} <br>
 
+</div>
+
+
 
 ## L
+
+
+<div class='columns300' markdown='1'>
 
 **La Bavaisienne** _biere de garde_{:.tags}  ( France   ) _#labavaisienne_{:.key} <br>
 **La Blond Bock**   ( Italy   ) _#lablondbock_{:.key} <br>
@@ -700,8 +769,14 @@ permalink: /beers.html
 **Lübzer Pils**   ( Germany   ) _#luebzerpils_{:.key} <br>
 **Luna Llena** _irish stout_{:.tags}  -- Beer Factory  ( México [Mexico]  › Distrito Federal   ) _#lunallena_{:.key} <br>
 
+</div>
+
+
 
 ## M
+
+
+<div class='columns300' markdown='1'>
 
 **Märkischer Landmann**   ( Germany   ) _#maerkischerlandmann_{:.key} <br>
 **‹Mahou› Negra**   ( Spain   ) _#mahounegra_{:.key} <br>
@@ -773,8 +848,14 @@ permalink: /beers.html
 **Murray's Best Extra Porter** _porter_{:.tags}  ( Australia   ) _#murraysbestextraporter_{:.key} <br>
 **Mythos Red** _lager_{:.tags}  ( Greece   ) _#mythosred_{:.key} <br>
 
+</div>
+
+
 
 ## N
+
+
+<div class='columns300' markdown='1'>
 
 **Naabecker Hell**   ( Germany   ) _#naabeckerhell_{:.key} <br>
 **Nastro Azzurro** _premium pilsner_{:.tags}  ( Italy   ) _#nastroazzurro_{:.key} <br>
@@ -801,8 +882,14 @@ permalink: /beers.html
 **Norwegian Wood**   ( Norway   ) _#norwegianwood_{:.key} <br>
 **Nor'wester** _pale ale_{:.tags}  ( New Zealand   ) _#norwester_{:.key} <br>
 
+</div>
+
+
 
 ## O
+
+
+<div class='columns300' markdown='1'>
 
 **Oatmeal Stout**   -- Cervecería Baja Brewing Co  ( México [Mexico]  › Baja California Sur   ) _#oatmealstout_{:.key} <br>
 **Obispado**   ( México [Mexico]  › Nuevo León   ) _#obispado_{:.key} <br>
@@ -835,8 +922,14 @@ permalink: /beers.html
 **Ozeno Yukidoke IPA**   ( Japan   ) _#ozenoyukidokeipa_{:.key} <br>
 **Ožujsko bier** _lager_{:.tags}  ( Croatia   ) _#ozujskobier_{:.key} <br>
 
+</div>
+
+
 
 ## P
+
+
+<div class='columns300' markdown='1'>
 
 **Pabst** _lager_{:.tags}  ( United States   ) _#pabst_{:.key} <br>
 **Pacifico** _pale lager_{:.tags}  -- Cervecería del Pacífico / Grupo Modelo  ( México [Mexico]  › Sinaloa   ) _#pacifico_{:.key} <br>
@@ -892,8 +985,14 @@ permalink: /beers.html
 **Puntigamer Winterbier**   -- Brauerei Puntigam (Brau Union)  ( Austria  › Steiermark [Styria]   › Graz  ) _#puntigamerwinterbier_{:.key} <br>
 **Pure Blonde** _low carbohydrate lager lite_{:.tags}  -- Carlton and United Breweries  ( Australia  › Victoria   › Melbourne  ) _#pureblonde_{:.key} <br>
 
+</div>
+
+
 
 ## Q
+
+
+<div class='columns300' markdown='1'>
 
 **Quarta Runa** _fruitbier_{:.tags}  ( Italy   ) _#quartaruna_{:.key} <br>
 **‹Quilmes› 1890** _pilsner_{:.tags}  -- Cervecería y Maltería Quilmes  ( Argentina  › Provincia de Buenos Aires   ) _#quilmes1890_{:.key} <br>
@@ -902,8 +1001,14 @@ permalink: /beers.html
 **‹Quilmes› Red Lager** _red lager_{:.tags}  -- Cervecería y Maltería Quilmes  ( Argentina  › Provincia de Buenos Aires   ) _#quilmesredlager_{:.key} <br>
 **‹Quilmes› Stout** _stout_{:.tags}  -- Cervecería y Maltería Quilmes  ( Argentina  › Provincia de Buenos Aires   ) _#quilmesstout_{:.key} <br>
 
+</div>
+
+
 
 ## R
+
+
+<div class='columns300' markdown='1'>
 
 **Radeberger Pilsner**   ( Germany   ) _#radebergerpilsner_{:.key} <br>
 **Radegast Originál** _czech pilsener pale lager_{:.tags}  -- Pivovar Radegast  ( Czech Republic  › Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien]   ) _#radegastoriginal_{:.key} <br>
@@ -950,8 +1055,14 @@ permalink: /beers.html
 **Rothaus Pils Tannenzäpfle**   ( Germany   ) _#rothauspilstannenzaepfle_{:.key} <br>
 **Royal Extra Stout** _stout_{:.tags}  ( Trinidad and Tobago   ) _#royalextrastout_{:.key} <br>
 
+</div>
+
+
 
 ## S
+
+
+<div class='columns300' markdown='1'>
 
 **Sagres Bohemia**   ( Portugal   ) _#sagresbohemia_{:.key} <br>
 **Sagres Preta**   ( Portugal   ) _#sagrespreta_{:.key} <br>
@@ -1084,8 +1195,14 @@ permalink: /beers.html
 **Švyturys Ekstra** _dortmunder_{:.tags}  ( Lithuania   ) _#svyturysekstra_{:.key} <br>
 **Sweet Stout**   -- Cervecería Alebrije  ( México [Mexico]  › Distrito Federal   ) _#sweetstout_{:.key} <br>
 
+</div>
+
+
 
 ## T
+
+
+<div class='columns300' markdown='1'>
 
 **Tafel** _lager_{:.tags}  ( Namibia   ) _#tafel_{:.key} <br>
 **Tecate** _pale lager_{:.tags}  ( México [Mexico]   ) _#tecate_{:.key} <br>
@@ -1141,8 +1258,14 @@ permalink: /beers.html
 **Tyskie Grodnie** _pils_{:.tags}  ( Poland   ) _#tyskiegrodnie_{:.key} <br>
 **Tyskie Ksiazece** _ale_{:.tags}  ( Poland   ) _#tyskieksiazece_{:.key} <br>
 
+</div>
+
+
 
 ## U
+
+
+<div class='columns300' markdown='1'>
 
 **U Fleků Flekovský Ležák [Dark Lager]** _dark lager_{:.tags}  ( Czech Republic   ) _#uflekuflekovskylezak_{:.key} <br>
 **Unertl Mühldorfer Weissbier Dunkel**   ( Germany   ) _#unertlmuehldorferweissbierdunkel_{:.key} <br>
@@ -1161,8 +1284,14 @@ permalink: /beers.html
 **Uttendorfer Märzen**   -- Brauerei Vitzthum  ( Austria  › Oberösterreich [Upper Austria]   › Uttendorf  ) _#uttendorfermaerzen_{:.key} <br>
 **Uttendorfer Pils**   -- Brauerei Vitzthum  ( Austria  › Oberösterreich [Upper Austria]   › Uttendorf  ) _#uttendorferpils_{:.key} <br>
 
+</div>
+
+
 
 ## V
+
+
+<div class='columns300' markdown='1'>
 
 **Valeir Blond** _belgian pale ale_{:.tags}  -- Brouwerij Contreras  ( Belgium  › Oost-Vlaanderen [East Flanders]   ) _#valeirblond_{:.key} <br>
 **Valeir Divers** _belgian tripel_{:.tags}  -- Brouwerij Contreras  ( Belgium  › Oost-Vlaanderen [East Flanders]   ) _#valeirdivers_{:.key} <br>
@@ -1192,8 +1321,14 @@ permalink: /beers.html
 **Vormann Vorderbier** _export_{:.tags}  -- Vormann Brauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Hagen (Dahl)  ) _#vormannvorderbier_{:.key} <br>
 **Vratislav** _pale lager_{:.tags}  ( Czech Republic   ) _#vratislav_{:.key} <br>
 
+</div>
+
+
 
 ## W
+
+
+<div class='columns300' markdown='1'>
 
 **Wälder Spezial**   -- Brauerei Egg  ( Austria  › Vorarlberg   › Egg  ) _#waelderspezial_{:.key} <br>
 **Wälder Zwickl**   -- Brauerei Egg  ( Austria  › Vorarlberg   › Egg  ) _#waelderzwickl_{:.key} <br>
@@ -1224,21 +1359,39 @@ permalink: /beers.html
 **Wrasslers XXXX Stout** _stout_{:.tags}  ( Irland   ) _#wrasslersxxxxstout_{:.key} <br>
 **Wurmhöringer Märzen**   -- Privatbrauerei Wurmhöringer  ( Austria  › Oberösterreich [Upper Austria]   › Altheim  ) _#wurmhoeringermaerzen_{:.key} <br>
 
+</div>
+
+
 
 ## X
+
+
+<div class='columns300' markdown='1'>
 
 **Xingu Black Beer** _lager_{:.tags}  ( Brazil   ) _#xingublackbeer_{:.key} <br>
 **XXXX** _lager_{:.tags}  -- Castlemaine Perkins  ( Australia  › Queensland   › Brisbane  ) _#xxxx_{:.key} <br>
 **Xyauyù** _barley wine_{:.tags}  ( Italy   ) _#xyauyu_{:.key} <br>
 
+</div>
+
+
 
 ## Y
+
+
+<div class='columns300' markdown='1'>
 
 **Yeti**   ( France   ) _#yeti_{:.key} <br>
 **Yona Yona Ale** _ale_{:.tags}  ( Japan   ) _#yonayonaale_{:.key} <br>
 
+</div>
+
+
 
 ## Z
+
+
+<div class='columns300' markdown='1'>
 
 **Zagorka**   ( Bulgaria   ) _#zagorka_{:.key} <br>
 **Żiewic Porter** _porter_{:.tags}  ( Poland   ) _#ziewicporter_{:.key} <br>
@@ -1269,4 +1422,7 @@ permalink: /beers.html
 **Zwettler Saphir (Premium Pils)**   -- Zwettler Brauerei  ( Austria  › Niederösterreich [Lower Austria]   › Zwettl  ) _#zwettlersaphir_{:.key} <br>
 **Zwettler Zwickl**   -- Zwettler Brauerei  ( Austria  › Niederösterreich [Lower Austria]   › Zwettl  ) _#zwettlerzwickl_{:.key} <br>
 **Żywiec** _lager_{:.tags}  ( Poland   ) _#zywiec_{:.key} <br>
+
+</div>
+
 

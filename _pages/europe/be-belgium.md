@@ -23,7 +23,7 @@ permalink: /be.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -47,7 +47,7 @@ Rue Gheude 56 // 1070 Bruxelles (Anderlecht)  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -115,7 +115,7 @@ Antwerpsesteenweg 496 // 2390 Westmalle  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -152,7 +152,7 @@ Naamsesteenweg 469 // 3800 Sint-Truiden  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -272,7 +272,7 @@ Lindenlaan 25 // 9940 Ertvelde  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -387,7 +387,7 @@ Trieststraat 24 // 1880 Kapelle-op-den-Bos  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -544,7 +544,7 @@ St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -568,7 +568,7 @@ Chemin du Croly 54 // 1430 Rebecq-Quenast  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -674,7 +674,7 @@ Rue de Maréchal 1 // 7904 Pipaix-Leuze  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -697,7 +697,7 @@ Centre 16 // 4852 Hombourg  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -743,7 +743,7 @@ Rue Maurice Grévisse 36 // 6724 Rulles-Habay  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

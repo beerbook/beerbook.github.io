@@ -118,7 +118,7 @@ permalink: /mx.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -133,7 +133,7 @@ permalink: /mx.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -247,7 +247,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -278,7 +278,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -293,7 +293,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -308,7 +308,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -323,7 +323,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -338,7 +338,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -353,7 +353,7 @@ Blvd. López Mateos No. 2301, Col. Sánchez Taboada // Mexicali, B.C.  <br>
 
 [México](#mexico) • **Uncategorized** _(5)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### México   _pop (20.137.152)_{:.pop}
@@ -436,7 +436,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -451,7 +451,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -466,7 +466,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -481,7 +481,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -523,7 +523,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -565,7 +565,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -608,7 +608,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -623,7 +623,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -638,7 +638,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -653,7 +653,7 @@ Av. Revolución 344 // Col. Escandón, Del. Miguel Hidalgo // C.P. 11800 Distrit
 
 [Monterrey](#monterrey) • **Uncategorized** _(3)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Monterrey   _pop (4.080.329)_{:.pop}
@@ -703,7 +703,7 @@ Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -738,7 +738,7 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -766,7 +766,7 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -803,7 +803,7 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -818,7 +818,7 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -833,7 +833,7 @@ Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxte
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -859,7 +859,7 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -874,7 +874,7 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -889,7 +889,7 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -904,7 +904,7 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -919,7 +919,7 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -946,7 +946,7 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -961,7 +961,7 @@ Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

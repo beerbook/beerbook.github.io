@@ -102,7 +102,7 @@ permalink: /de.html
 
 [Gaildorf](#gaildorf) • [Grafenhausen-Rothaus](#grafenhausenrothaus) • [Mannheim](#mannheim) • [Stuttgart](#stuttgart) _(3)_{:.count} • [Waldhaus](#waldhaus)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Gaildorf  
@@ -184,7 +184,7 @@ permalink: /de.html
 
 [Abensberg](#abensberg) _(4)_{:.count} • [Adelsdorf-Aisch](#adelsdorfaisch) • [Adelsdorf-Neuhaus](#adelsdorfneuhaus) _(2)_{:.count} • [Adelsried](#adelsried) • [Ahorntal](#ahorntal) _(2)_{:.count} • [Aichach (Schloss Blumenthal)](#aichach) _(2)_{:.count} • [Aichach-Oberbernbach](#aichachoberbernbach) • [Aichach-Obermauerbach](#aichachobermauerbach) • [Aidenbach](#aidenbach) • [Albertshofen](#albertshofen) • [Aldersbach](#aldersbach) • [Altenkunstadt](#altenkunstadt) • [Altenmarkt an der Alz](#altenmarktanderalz) • [Altenstadt](#altenstadt) • [Altomünster](#altomuenster) _(2)_{:.count} • [Altötting](#altoetting) • [Amberg](#amberg) _(5)_{:.count} • [Andechs](#andechs) • [Apfeltrang](#apfeltrang) • [Appendorf](#appendorf) • [Arnschwang](#arnschwang) • [Arnstein](#arnstein) • [Arnstorf](#arnstorf) • [Arnstorf-Mariakirchen](#arnstorfmariakirchen) • [Aschaffenburg-Schweinheim](#aschaffenburgschweinheim) • [Aschau](#aschau) • [Au in der Hallertau](#auinderhallertau) • [Aufseß](#aufsess) _(3)_{:.count} • [Augsburg](#augsburg) _(5)_{:.count} • [Aying](#aying) • [Baar](#baar) • [Bad Abbach-Oberndorf](#badabbachoberndorf) • [Bad Kissingen-Arnshausen](#badkissingenarnshausen) • [Bad Kissingen-Garitz](#badkissingengaritz) • [Bad Kötzting](#badkoetzting) • [Bad Reichenhall](#badreichenhall) • [Bad Rodach](#badrodach) • [Bad Staffelstein-Frauendorf](#badstaffelsteinfrauendorf) • [Bad Staffelstein-Loffeld](#badstaffelsteinloffeld) • [Bad Staffelstein-Nedensdorf](#badstaffelsteinnedensdorf) • [Bad Staffelstein-Stublang](#badstaffelsteinstublang) _(2)_{:.count} • [Bad Staffelstein-Uetzing](#badstaffelsteinuetzing) • [Bad Staffelstein-Vierzehnheiligen](#badstaffelsteinvierzehnheiligen) • [Bad Staffelstein-Wiesen](#badstaffelsteinwiesen) _(2)_{:.count} • [Bad Tölz](#badtoelz) _(2)_{:.count} • [Bad Windsheim](#badwindsheim) _(3)_{:.count} • [Bad Wörishofen](#badwoerishofen) • [Bamberg](#bamberg) _(10)_{:.count} • [Bayreuth](#bayreuth) _(6)_{:.count} • [Berching](#berching) • [Berchtesgaden](#berchtesgaden) • [Bergen-Thalmannsfeld](#bergenthalmannsfeld) • [Biberach](#biberach) • [Bichl](#bichl) • [Bischberg](#bischberg) • [Bischofsheim an der Rhön](#bischofsheimanderrhoen) • [Bockhorn (Oberbayern)-Grünbach](#bockhorngruenbach) • [Bodenkirchen](#bodenkirchen) • [Bodenmais](#bodenmais) • [Bodenwöhr](#bodenwoehr) • [Breitengüßbach](#breitenguessbach) • [Bruckberg](#bruckberg) _(2)_{:.count} • [Bruckmühl](#bruckmuehl) • [Burgebrach](#burgebrach) _(2)_{:.count} • [Burgebrach-Ampferbach](#burgebrachampferbach) • [Burgkunstadt](#burgkunstadt) • [Buttenheim](#buttenheim) _(3)_{:.count} • [Böbrach](#boebrach) • [Cham](#cham) _(2)_{:.count} • [Cham-Thierlstein](#chamthierlstein) • [Creussen-Lindenhardt](#creussenlindenhardt) • [Debring](#debring) • [Deuerling](#deuerling) • [Dingolfing](#dingolfing) • [Dinkelsbühl](#dinkelsbuehl) _(3)_{:.count} • [Dorfen](#dorfen) _(2)_{:.count} • [Drachselsried](#drachselsried) _(2)_{:.count} • [Ebensfeld](#ebensfeld) _(2)_{:.count} • [Ebing](#ebing) • [Edelsfeld](#edelsfeld) • [Eggenfelden-Spanberg](#eggenfeldenspanberg) • [Eggolsheim](#eggolsheim) • [Eggolsheim-Weigelshofen](#eggolsheimweigelshofen) • [Eichendorf-Adldorf](#eichendorfadldorf) • [Eichstätt](#eichstaett) • [Eitting](#eitting) • [Ellingen](#ellingen) • [Elsendorf-Horneck](#elsendorfhorneck) • [Eltmann-Eschenbach](#eltmanneschenbach) • [Eltmann-Roßstadt](#eltmannrossstadt) • [Erding](#erding) _(2)_{:.count} • [Erharting](#erharting) • [Erlangen](#erlangen) _(2)_{:.count} • [Eslarn](#eslarn) • [Essing](#essing) • [Ettal](#ettal) • [Etzelwang](#etzelwang) • [Eurasburg](#eurasburg) • [Feldkirchen-Riem](#feldkirchenriem) • [Flughafen München](#flughafenmuenchen) • [Forchheim](#forchheim) _(4)_{:.count} • [Frammersbach](#frammersbach) • [Freilassing](#freilassing) • [Freising](#freising) _(2)_{:.count} • [Frensdorf-Reundorf](#frensdorfreundorf) • [Frensdorf-Untergreuth](#frensdorfuntergreuth) • [Freudenberg](#freudenberg) • [Freystadt](#freystadt) • [Freyung](#freyung) • [Fridolfing](#fridolfing) • [Friedberg](#friedberg) • [Friedenfels](#friedenfels) • [Frontenhausen](#frontenhausen) _(2)_{:.count} • [Furth](#furth) • [Furth im Wald](#furthimwald) _(2)_{:.count} • [Fürstenfeldbruck](#fuerstenfeldbruck) • [Gangkofen-Seemannshausen](#gangkofenseemannshausen) • [Geiselhöring](#geiselhoering) • [Gessertshausen](#gessertshausen) • [Glonn](#glonn) • [Gnodstadt](#gnodstadt) • [Grafenau](#grafenau) • [Grafing bei München](#grafingbeimuenchen) • [Großheirath-Rossach](#grossheirathrossach) • [Großostheim](#grossostheim) • [Gräfenberg](#graefenberg) _(4)_{:.count} • [Gunzendorf](#gunzendorf) • [Gunzenhausen](#gunzenhausen) • [Gutenstetten](#gutenstetten) • [Günzburg](#guenzburg) _(2)_{:.count} • [Haag in Oberbayern](#haaginoberbayern) • [Haimhausen](#haimhausen) • [Halfing](#halfing) • [Hallerndorf](#hallerndorf) _(6)_{:.count} • [Hallstadt](#hallstadt) • [Hausen-Herrnwahlthann](#hausenherrnwahlthann) • [Heiligenstadt](#heiligenstadt) _(2)_{:.count} • [Heimenkirch](#heimenkirch) • [Hemau](#hemau) • [Herrngiersdorf](#herrngiersdorf) • [Hersbruck](#hersbruck) • [Herzogenaurach](#herzogenaurach) • [Hirschaid](#hirschaid) • [Hirschau](#hirschau) • [Hof](#hof) _(2)_{:.count} • [Hofheim](#hofheim) • [Hohenthann](#hohenthann) • [Holzhausen bei Buchloe](#holzhausenbeibuchloe) • [Holzheim-Neuhausen](#holzheimneuhausen) • [Holzkirchen](#holzkirchen) • [Hutthurm](#hutthurm) • [Höchstadt](#hoechstadt) • [Höchstadt an der Aisch-Greuth](#hoechstadtanderaischgreuth) • [Ichenhausen-Autenried](#ichenhausenautenried) _(2)_{:.count} • [Illerberg](#illerberg) • [Illertissen](#illertissen) • [Ingolstadt](#ingolstadt) _(5)_{:.count} • [Irlbach](#irlbach) • [Irsee](#irsee) • [Itzgrund](#itzgrund) • [Jandelsbrunn](#jandelsbrunn) • [Jochsberg bei Leutershausen](#jochsbergbeileutershausen) • [Kammerstein-Barthelmesaurach](#kammersteinbarthelmesaurach) • [Karlstadt-Stadelhofen](#karlstadtstadelhofen) • [Kaufbeuren](#kaufbeuren) _(2)_{:.count} • [Kelheim](#kelheim) _(2)_{:.count} • [Kelheim-Weltenburg](#kelheimweltenburg) • [Kemmern](#kemmern) • [Kemnath](#kemnath) • [Kempten](#kempten) • [Kirchenthumbach](#kirchenthumbach) • [Konzell](#konzell) • [Krautheim](#krautheim) • [Kreuzwertheim](#kreuzwertheim) • [Kronach](#kronach) _(2)_{:.count} • [Kronburg](#kronburg) • [Kulmbach](#kulmbach) _(3)_{:.count} • [Kutzenhausen](#kutzenhausen) • [Königsberg in Bayern-Unfinden](#koenigsberginbayernunfinden) • [Königsfeld](#koenigsfeld) • [Kößlarn](#koesslarn) • [Kühbach](#kuehbach) _(2)_{:.count} • [Laaber](#laaber) • [Landau an der Isar](#landauanderisar) _(2)_{:.count} • [Landshut](#landshut) _(2)_{:.count} • [Lauf an der Pegnitz](#laufanderpegnitz) _(2)_{:.count} • [Lauf-Neunhof](#laufneunhof) • [Leinburg](#leinburg) • [Leipheim](#leipheim) _(2)_{:.count} • [Leutenbach](#leutenbach) _(2)_{:.count} • [Leuterschach](#leuterschach) • [Lichtenau](#lichtenau) • [Lichtenberg](#lichtenberg) • [Lichtenfels](#lichtenfels) _(2)_{:.count} • [Litzendorf-Lohndorf](#litzendorflohndorf) _(2)_{:.count} • [Litzendorf-Melkendorf](#litzendorfmelkendorf) • [Litzendorf-Tiefenellern](#litzendorftiefenellern) • [Mainburg](#mainburg) • [Maisach](#maisach) • [Malgersdorf-Heilmfurt](#malgersdorfheilmfurt) • [Mallersdorf](#mallersdorf) • [Markt Schwaben](#marktschwaben) • [Marktheidenfeld](#marktheidenfeld) • [Marktredwitz](#marktredwitz) • [Marktsteft](#marktsteft) • [Maroldsweisach](#maroldsweisach) • [Maxlrain](#maxlrain) • [Memmelsdorf](#memmelsdorf) _(2)_{:.count} • [Memmelsdorf-Drosendorf](#memmelsdorfdrosendorf) • [Memmelsdorf-Merkendorf](#memmelsdorfmerkendorf) • [Memmingen](#memmingen) • [Merkendorf](#merkendorf) • [Meßhofen](#messhofen) • [Michelsneukirchen](#michelsneukirchen) • [Miesbach](#miesbach) • [Miltenberg](#miltenberg) • [Mindelheim](#mindelheim) • [Missen](#missen) • [Mittenwald](#mittenwald) • [Mitterteich](#mitterteich) _(2)_{:.count} • [Mitwitz](#mitwitz) • [Moos](#moos) • [Moosbach](#moosbach) • [Motten](#motten) • [Murnau](#murnau) • [Murnau am Staffelsee](#murnauamstaffelsee) • [Mönchsambach](#moenchsambach) • [Mühldorf am Inn](#muehldorfaminn) _(2)_{:.count} • [Mühlhausen](#muehlhausen) • [München](#muenchen) _(9)_{:.count} • [München-Neuhausen](#muenchenneuhausen) • [Münchsteinach](#muenchsteinach) • [Naila](#naila) • [Nennslingen](#nennslingen) • [Nesselwang](#nesselwang) • [Neu-Ulm](#neuulm) • [Neu-Ulm-Offenhausen](#neuulmoffenhausen) • [Neu-Ulm-Reutti](#neuulmreutti) • [Neuburg an der Donau](#neuburganderdonau) • [Neuhaus an der Pegnitz](#neuhausanderpegnitz) _(3)_{:.count} • [Neukirchen bei Sulzbach-Rosenberg](#neukirchenbeisulzbachrosenberg) • [Neumarkt](#neumarkt) • [Neumarkt in der Oberpfalz](#neumarktinderoberpfalz) _(2)_{:.count} • [Neunburg vorm Wald](#neunburgvormwald) • [Neunkirchen am Brand](#neunkirchenambrand) • [Neunkirchen am Sand](#neunkirchenamsand) • [Neureichenau-Riedelsbach](#neureichenauriedelsbach) • [Neustadt an der Aisch](#neustadtanderaisch) • [Neusäß-Steppach](#neusaesssteppach) • [Nittenau](#nittenau) • [Nittendorf](#nittendorf) • [Nördlingen](#noerdlingen) _(2)_{:.count} • [Nürnberg](#nuernberg) _(5)_{:.count} • [Oberammergau](#oberammergau) • [Oberaurach-Trossenfurt](#oberaurachtrossenfurt) • [Oberelsbach](#oberelsbach) • [Oberhaching-Deisenhofen](#oberhachingdeisenhofen) • [Oberhaid](#oberhaid) _(2)_{:.count} • [Oberkotzau-Fattigau](#oberkotzaufattigau) • [Oberreichenbach](#oberreichenbach) • [Obertaufkirchen](#obertaufkirchen) • [Ochsenfurt](#ochsenfurt) _(2)_{:.count} • [Odelzhausen](#odelzhausen) • [Oettingen](#oettingen) • [Osterberg](#osterberg) • [Ostheim vor der Rhön](#ostheimvorderrhoen) _(2)_{:.count} • [Ottobeuren](#ottobeuren) • [Pahres](#pahres) • [Pappenheim-Bieswang](#pappenheimbieswang) • [Pappenheim-Zimmern](#pappenheimzimmern) • [Passau](#passau) _(2)_{:.count} • [Passau-Ries](#passauries) • [Pegnitz](#pegnitz) _(3)_{:.count} • [Pegnitz-Büchenbach](#pegnitzbuechenbach) • [Pettendorf](#pettendorf) • [Petting/Schönram](#pettingschoenram) • [Pfaffenberg](#pfaffenberg) • [Pfaffenhofen an der Ilm](#pfaffenhofenanderilm) _(2)_{:.count} • [Pfaffing-Forsting](#pfaffingforsting) • [Pfeffenhausen](#pfeffenhausen) _(2)_{:.count} • [Pfronten](#pfronten) • [Pilsting-Großköllnbach](#pilstinggrosskoellnbach) • [Pirk](#pirk) • [Plattling](#plattling) • [Plößberg](#ploessberg) • [Pommersfelden](#pommersfelden) • [Pottenstein](#pottenstein) _(3)_{:.count} • [Pretzfeld](#pretzfeld) _(3)_{:.count} • [Priesendorf](#priesendorf) • [Pullach-Großhesselohe](#pullachgrosshesselohe) • [Pörnbach](#poernbach) • [Pösing](#poesing) • [Raigering](#raigering) • [Rammingen](#rammingen) • [Rattelsdorf](#rattelsdorf) _(2)_{:.count} • [Rauhenebrach-Theinheim](#rauhenebrachtheinheim) • [Reckendorf](#reckendorf) _(2)_{:.count} • [Regen](#regen) • [Regensburg](#regensburg) _(4)_{:.count} • [Rehling](#rehling) • [Reischach](#reischach) • [Rettenberg](#rettenberg) _(2)_{:.count} • [Reuth bei Erbendorf](#reuthbeierbendorf) • [Ried bei Markt Indersdorf](#riedbeimarktindersdorf) • [Riedenburg](#riedenburg) _(2)_{:.count} • [Rosenheim](#rosenheim) _(3)_{:.count} • [Roth vor der Rhön](#rothvorderrhoen) • [Roßdorf am Forst](#rossdorfamforst) • [Ruderatshofen](#ruderatshofen) • [Runding](#runding) • [Röbersdorf](#roebersdorf) • [Rödental](#roedental) • [Röttenbach (bei Erlangen)](#roettenbach) • [Rötz](#roetz) • [Rüdenhausen](#ruedenhausen) • [Saal an der Saale-Waltershausen](#saalandersaalewaltershausen) • [Sachsendorf](#sachsendorf) • [Sachsenkam-Reutberg](#sachsenkamreutberg) • [Salz](#salz) • [Sandersdorf](#sandersdorf) • [Sankt Wolfgang](#sanktwolfgang) • [Schammelsdorf](#schammelsdorf) • [Scheyern](#scheyern) • [Scheßlitz](#schesslitz) _(2)_{:.count} • [Schierling](#schierling) • [Schlammersdorf](#schlammersdorf) • [Schloss Haselbach](#schlosshaselbach) • [Schlüsselfeld](#schluesselfeld) _(3)_{:.count} • [Schnaitsee](#schnaitsee) • [Schnaittach](#schnaittach) _(2)_{:.count} • [Schnaittach-Enzenreuth](#schnaittachenzenreuth) • [Schonungen-Hausen](#schonungenhausen) • [Schwandorf](#schwandorf) • [Schwangau](#schwangau) • [Schwarzach](#schwarzach) • [Schweinfurt](#schweinfurt) _(2)_{:.count} • [Schöllkrippen](#schoellkrippen) • [Schönbrunn-Zettmannsdorf](#schoenbrunnzettmannsdorf) • [Schönthal](#schoenthal) • [Seinsheim](#seinsheim) • [Selb](#selb) • [Seßlach](#sesslach) • [Seßlach-Heilgersdorf](#sesslachheilgersdorf) • [Siegenburg](#siegenburg) • [Solnhofen-Hochholz](#solnhofenhochholz) • [Sonthofen](#sonthofen) • [Spalt](#spalt) • [Speiden](#speiden) • [Spiegelau-Klingenbrunn](#spiegelauklingenbrunn) • [Stadelhofen](#stadelhofen) • [Stadelhofen-Schederndorf](#stadelhofenschederndorf) • [Stadtsteinach](#stadtsteinach) • [Stegaurach](#stegaurach) • [Stegaurach-Mühlendorf](#stegaurachmuehlendorf) • [Stein an der Traun](#steinandertraun) • [Steinfeld-Waldzell](#steinfeldwaldzell) • [Steinsfeld-Reichelshofen](#steinsfeldreichelshofen) • [Stettfeld](#stettfeld) • [Straubing](#straubing) _(2)_{:.count} • [Straßkirchen (Salzweg)](#strasskirchen) • [Strullendorf-Geisfeld](#strullendorfgeisfeld) _(2)_{:.count} • [Sulzbach-Rosenberg](#sulzbachrosenberg) _(2)_{:.count} • [Tacherting](#tacherting) • [Taufkirchen (Vils)](#taufkirchen) • [Tegernsee](#tegernsee) • [Teisendorf](#teisendorf) • [Teisnach](#teisnach) • [Teunz](#teunz) • [Thalmässing-Pyras](#thalmaessingpyras) • [Thannhausen](#thannhausen) • [Thüngen](#thuengen) • [Titting](#titting) • [Trabelsdorf](#trabelsdorf) • [Traitsching-Loifling](#traitschingloifling) • [Traunstein](#traunstein) _(4)_{:.count} • [Trebgast](#trebgast) • [Triefenstein-Homburg](#triefensteinhomburg) • [Truchtlaching](#truchtlaching) • [Tüßling](#tuessling) • [Uehlfeld](#uehlfeld) _(2)_{:.count} • [Unterneukirchen](#unterneukirchen) • [Untersiemau](#untersiemau) • [Untersiemau-Birkach am Forst](#untersiemaubirkachamforst) • [Ursberg](#ursberg) • [Ustersbach](#ustersbach) • [Velburg-Lengenfeld](#velburglengenfeld) • [Velden](#velden) • [Viechtach](#viechtach) • [Viereth-Trunstadt](#vierethtrunstadt) _(2)_{:.count} • [Vilseck](#vilseck) • [Vilshofen an der Donau](#vilshofenanderdonau) • [Vohenstrauß](#vohenstrauss) • [Waischenfeld](#waischenfeld) _(3)_{:.count} • [Walkertshofen](#walkertshofen) • [Wallerstein](#wallerstein) • [Warmensteinach](#warmensteinach) • [Wartenberg](#wartenberg) • [Wassertrüdingen-Fürnheim](#wassertruedingenfuernheim) • [Wattendorf](#wattendorf) _(2)_{:.count} • [Weiden in der Oberpfalz](#weideninderoberpfalz) • [Weihmichl](#weihmichl) • [Weiler-Simmerberg](#weilersimmerberg) • [Weilheim in Oberbayern](#weilheiminoberbayern) • [Weismain](#weismain) • [Weissenstadt](#weissenstadt) • [Weißenbrunn](#weissenbrunn) • [Weißenburg in Bayern](#weissenburginbayern) _(2)_{:.count} • [Weißenohe](#weissenohe) • [Werneck](#werneck) • [Wertingen](#wertingen) • [Wettelsheim](#wettelsheim) • [Weyarn](#weyarn) • [Wiesen](#wiesen) • [Wildenberg](#wildenberg) • [Windischeschenbach](#windischeschenbach) • [Wolnzach](#wolnzach) • [Wunsiedel](#wunsiedel) • [Wunsiedel-Schönbrunn](#wunsiedelschoenbrunn) • [Würgau](#wuergau) • [Würzburg](#wuerzburg) _(2)_{:.count} • [Zeil am Main](#zeilammain) • [Zentbechhofen-Höchstadt](#zentbechhofenhoechstadt) • [Zirndorf](#zirndorf) • [Zwiesel](#zwiesel) _(2)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Abensberg _(4)_{:.count} 
@@ -5272,7 +5272,7 @@ Zwiesel //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Berlin _(21)_{:.count}  _pop 3.501.872 (3.453.000)_{:.pop}
@@ -5414,7 +5414,7 @@ Berlin //  <br>
 
 [Brandenburg a.d. Havel](#brandenburgadhavel) • [Drebkau](#drebkau) • [Finsterwalde](#finsterwalde) • [Luckau](#luckau) • [Lübbenau](#luebbenau) • [Müncheberg](#muencheberg) • [Neuzelle](#neuzelle) • [Potsdam](#potsdam) _(3)_{:.count} • [Rathenow](#rathenow) • [Schlepzig](#schlepzig) • [Wusterhausen](#wusterhausen)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Brandenburg a.d. Havel  
@@ -5557,7 +5557,7 @@ Wusterhausen //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Bremen _(4)_{:.count}  _pop 548.319_{:.pop}
@@ -5601,7 +5601,7 @@ Bremen //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Hamburg _(6)_{:.count}  _pop 1.798.836 (1.794.000)_{:.pop}
@@ -5654,7 +5654,7 @@ Hamburg //  <br>
 
 [Alsfeld](#alsfeld) • [Babenhausen](#babenhausen) • [Bad Orb](#badorb) • [Baunatal](#baunatal) _(2)_{:.count} • [Darmstadt](#darmstadt) _(2)_{:.count} • [Erbach im Odenwald](#erbachimodenwald) • [Eschwege](#eschwege) _(2)_{:.count} • [Frankfurt](#frankfurt) _(2)_{:.count} • [Frankfurt / Main](#frankfurtmain) • [Frankfurt am Main](#frankfurtammain) _(2)_{:.count} • [Frankfurt-Sachsenhausen-Süd](#frankfurtsachsenhausensued) • [Fulda](#fulda) _(2)_{:.count} • [Kassel](#kassel) • [Lich](#lich) • [Michelstadt](#michelstadt) _(3)_{:.count} • [Mossautal](#mossautal) • [Offenbach am Main](#offenbachammain) • [Pfungstadt](#pfungstadt) • [Seligenstadt](#seligenstadt) • [Willingen](#willingen) • [Witzenhausen](#witzenhausen)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Alsfeld  
@@ -5937,7 +5937,7 @@ Seligenstadt //  <br>
 
 [Dargun](#dargun) • [Groß Gievitz](#grossgievitz) • [Hansestadt Stralsund](#hansestadtstralsund) • [Lübz](#luebz) • [Mellenthin](#mellenthin) • [Rostock](#rostock) • [Vielank](#vielank)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Dargun  
@@ -6028,7 +6028,7 @@ Vielank //  <br>
 
 [Braunschweig](#braunschweig) _(3)_{:.count} • [Celle](#celle) • [Dahlenburg](#dahlenburg) • [Einbeck](#einbeck) • [Großefehn](#grossefehn) • [Großefehn-Bagband](#grossefehnbagband) • [Hannover](#hannover) _(2)_{:.count} • [Hannover-Altstadt](#hannoveraltstadt) • [Holzminden](#holzminden) • [Jever](#jever) • [Langeoog](#langeoog) • [Lauenau](#lauenau) • [Lüneburg](#lueneburg) • [Lünne](#luenne) • [Nortrup](#nortrup) • [Nörten-Hardenberg](#noertenhardenberg) • [Osnabrück](#osnabrueck) • [Peine](#peine) • [Stadthagen](#stadthagen) • [Uslar](#uslar) • [Varel](#varel) • [Wittingen](#wittingen)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Braunschweig _(3)_{:.count} 
@@ -6291,7 +6291,7 @@ Wittingen //  <br>
 
 [Dortmund (Hafen)](#dortmund) _(3)_{:.count} • [Hagen (Dahl)](#hagen) • [Kreuztal](#kreuztal) • [Köln](#koeln) _(2)_{:.count} • [Meschede](#meschede) • [Warstein](#warstein)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Dortmund (Hafen) _(3)_{:.count}  _pop 580.956_{:.pop}
@@ -6398,7 +6398,7 @@ Wittingen //  <br>
 
 [Bernkastel-Wehlen](#bernkastelwehlen) • [Bitburg](#bitburg) • [Hachenburg](#hachenburg) • [Kirn](#kirn) • [Koblenz](#koblenz) _(3)_{:.count} • [Lahnstein](#lahnstein) • [Linz am Rhein](#linzamrhein) • [Mainz](#mainz) • [Mainz-Kastel](#mainzkastel) • [Naurath](#naurath) • [Pirmasens](#pirmasens) • [Ransbach-Baumbach](#ransbachbaumbach) • [Remagen](#remagen) • [Trier](#trier) • [Winnweiler](#winnweiler)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Bernkastel-Wehlen  
@@ -6587,7 +6587,7 @@ Linz am Rhein //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6602,7 +6602,7 @@ Linz am Rhein //  <br>
 
 [Bautzen](#bautzen) • [Chemnitz](#chemnitz) • [Coswig](#coswig) • [Dresden](#dresden) _(3)_{:.count} • [Ehrenfriedersdorf](#ehrenfriedersdorf) • [Eibau](#eibau) • [Freiberg](#freiberg) • [Gersdorf](#gersdorf) • [Großröhrsdorf](#grossroehrsdorf) • [Görlitz](#goerlitz) • [Krostitz](#krostitz) • [Leipzig](#leipzig) _(3)_{:.count} • [Löbau](#loebau) • [Meißen](#meissen) • [Penig](#penig) • [Pirna-Copitz](#pirnacopitz) • [Plauen](#plauen) • [Radeberg](#radeberg) • [Rechenberg-Bienenmühle](#rechenbergbienenmuehle) • [Scheibenberg-Oberscheibe](#scheibenbergoberscheibe) • [Torgau](#torgau) • [Wernesgrün](#wernesgruen) • [Wittichenau](#wittichenau) • [Zwickau](#zwickau)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Bautzen  
@@ -6887,7 +6887,7 @@ Zwickau //  <br>
 
 [Bitterfeld-Wolfen](#bitterfeldwolfen) • [Gardelegen](#gardelegen) • [Köthen](#koethen) • [Landsberg](#landsberg) • [Lutherstadt Wittenberg](#lutherstadtwittenberg) • [Magdeburg](#magdeburg) • [Neuendorf](#neuendorf) • [Sangerhausen / Wippra](#sangerhausenwippra) • [Schkopau OT Röglitz](#schkopauotroeglitz) • [Wernigerode](#wernigerode)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Bitterfeld-Wolfen  
@@ -7007,7 +7007,7 @@ Wernigerode //  <br>
 
 [Eutin](#eutin) • [Flensburg](#flensburg) _(3)_{:.count} • [Husum](#husum) • [Kiel](#kiel) _(2)_{:.count} • [Lübeck](#luebeck) • [Marne](#marne) • [Neustadt in Holstein](#neustadtinholstein) • [Rickling](#rickling) • [Schenefeld](#schenefeld) • [Schillsdorf](#schillsdorf)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Eutin  
@@ -7149,7 +7149,7 @@ Schenefeld //  <br>
 
 [Altenburg](#altenburg) • [Apolda](#apolda) • [Bad Blankenburg](#badblankenburg) • [Bad Köstritz](#badkoestritz) • [Dingsleben](#dingsleben) • [Eisenach](#eisenach) • [Erfurt](#erfurt) _(2)_{:.count} • [Greiz](#greiz) • [Kaltennordheim](#kaltennordheim) • [Leinefelde-Worbis](#leinefeldeworbis) • [Meiningen](#meiningen) • [Pößneck](#poessneck) • [Saalfeld](#saalfeld) • [Sonneberg](#sonneberg)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Altenburg  

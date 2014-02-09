@@ -136,7 +136,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Bratislava   _pop 462.603_{:.pop}
@@ -167,7 +167,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -182,7 +182,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -197,7 +197,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -212,7 +212,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -227,7 +227,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -242,7 +242,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -257,7 +257,7 @@ Prievaly 79 // 906 34  Prievaly  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

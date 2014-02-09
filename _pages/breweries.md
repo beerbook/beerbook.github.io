@@ -13,7 +13,7 @@ permalink: /breweries.html
 ## A
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Abbaye des Rocs](be.html#abbayederocs)**   ( Belgium  › Hainaut   ) _#abbayederocs_{:.key} <br>
 **[Abita Brewing Co.](us.html#abita)**   ( United States  › Louisiana   ) _#abita_{:.key} <br>
@@ -74,7 +74,7 @@ permalink: /breweries.html
 ## B
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Baderbräu](de.html#baderbraeu)**   ( Germany  › Bayern [Bavaria]   › Schnaitsee  ) _#baderbraeu_{:.key} <br>
 **[Bad Wörishofer Löwenbräu](de.html#badwoerishoferloewenbraeu)**   ( Germany  › Bayern [Bavaria]   › Bad Wörishofen  ) _#badwoerishoferloewenbraeu_{:.key} <br>
@@ -400,7 +400,7 @@ permalink: /breweries.html
 ## C
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Cervecería Calafia](mx.html#calafia)**   ( México [Mexico]  › Baja California   ) _#calafia_{:.key} <br>
 **[Cervecería Calavera](mx.html#calavera)**   ( México [Mexico]  › México   ) _#calavera_{:.key} <br>
@@ -450,7 +450,7 @@ permalink: /breweries.html
 ## D
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Dortmunder Actien-Brauerei (DAB)](de.html#dab)**   ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#dab_{:.key} <br>
 **[Dachsbräu](de.html#dachsbraeu)**   ( Germany  › Bayern [Bavaria]   › Weilheim in Oberbayern  ) _#dachsbraeu_{:.key} <br>
@@ -520,7 +520,7 @@ permalink: /breweries.html
 ## E
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Ebensfelder Brauhaus](de.html#ebensfelderbrauhaus)**   ( Germany  › Bayern [Bavaria]   › Ebensfeld  ) _#ebensfelderbrauhaus_{:.key} <br>
 **[ECM Bräu](ch.html#ecmbraeu)**   ( Switzerland  › Zürich   ) _#ecmbraeu_{:.key} <br>
@@ -562,7 +562,7 @@ permalink: /breweries.html
 ## F
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Brauerei Falkenstein (Brau Union)](at.html#falkenstein)** ♣♣  _brauunion_{:.tags} ( Austria  › Tirol [Tyrol]   › Lienz  ) _#falkenstein_{:.key} <br>
 **[Falterbräu](de.html#falterbraeu)**   ( Germany  › Bayern [Bavaria]   › Drachselsried  ) _#falterbraeu_{:.key} <br>
@@ -622,7 +622,7 @@ permalink: /breweries.html
 ## G
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Gablitzer Privatbrauerei](at.html#gablitzer)**   ( Austria  › Niederösterreich [Lower Austria]   › Gablitz  ) _#gablitzer_{:.key} <br>
 **[Gänstaller Bräu Hallerndorf](de.html#gaenstallerbraeuhallerndorf)**   ( Germany  › Bayern [Bavaria]   › Hallerndorf  ) _#gaenstallerbraeuhallerndorf_{:.key} <br>
@@ -692,7 +692,7 @@ permalink: /breweries.html
 ## H
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Haacht](be.html#haacht)**   ( Belgium  › Vlaams-Brabant [Flemish Brabant]   ) _#haacht_{:.key} <br>
 **[Haake-Beck Brauerei](de.html#haakebeck)**   ( Germany  › Bremen   › Bremen  ) _#haakebeck_{:.key} <br>
@@ -784,7 +784,7 @@ permalink: /breweries.html
 ## I
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Illertisser Schlossbräu](de.html#illertisserschlossbraeu)**   ( Germany  › Bayern [Bavaria]   › Illertissen  ) _#illertisserschlossbraeu_{:.key} <br>
 **[Innstadt Brauerei Bierspezialitäten](de.html#innstadtbrauereibierspezialitaeten)**   ( Germany  › Bayern [Bavaria]   › Passau  ) _#innstadtbrauereibierspezialitaeten_{:.key} <br>
@@ -799,7 +799,7 @@ permalink: /breweries.html
 ## J
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Cervecería Jack](mx.html#jack)**   ( México [Mexico]  › México   ) _#jack_{:.key} <br>
 **[Jacob](de.html#jacob)**   ( Germany  › Bayern [Bavaria]   › Bodenwöhr  ) _#jacob_{:.key} <br>
@@ -821,7 +821,7 @@ permalink: /breweries.html
 ## K
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Brauerei Käppelijoch](ch.html#kaeppelijoch)**   ( Switzerland  › Basel-Stadt   ) _#kaeppelijoch_{:.key} <br>
 **[Kärrners Hausbrauerei](de.html#kaerrners)**   ( Germany  › Hessen [Hesse]   › Bad Orb  ) _#kaerrners_{:.key} <br>
@@ -905,7 +905,7 @@ permalink: /breweries.html
 ## L
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Cerveceria La Antigua](mx.html#laantigua)**   ( México [Mexico]  › Veracruz   ) _#laantigua_{:.key} <br>
 **[Cervecería La Brü](mx.html#labrue)**   ( México [Mexico]   ) _#labrue_{:.key} <br>
@@ -957,7 +957,7 @@ permalink: /breweries.html
 ## M
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Mac & Jack's](us.html#macnjacks)**   ( United States  › Washington   ) _#macnjacks_{:.key} <br>
 **[Mactarnahan's](us.html#mactarnahans)**   ( United States  › Oregon   ) _#mactarnahans_{:.key} <br>
@@ -1010,7 +1010,7 @@ permalink: /breweries.html
 ## N
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Schlossbrauerei Naabeck](de.html#naabeck)**   ( Germany  › Bayern [Bavaria]   › Schwandorf  ) _#naabeck_{:.key} <br>
 **[Pivovar Náchod](cz.html#nachod)**   ( Czech Republic  › Karlovy Vary [Carlsbad • Karlsbad]   ) _#nachod_{:.key} <br>
@@ -1037,7 +1037,7 @@ permalink: /breweries.html
 ## O
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Oberer Ganskeller](de.html#obererganskeller)**   ( Germany  › Bayern [Bavaria]   › Neumarkt in der Oberpfalz  ) _#obererganskeller_{:.key} <br>
 **[Odell](us.html#odell)**   ( United States  › Colorado   ) _#odell_{:.key} <br>
@@ -1060,7 +1060,7 @@ permalink: /breweries.html
 ## P
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Pabst Brewing Co.](us.html#pabst)**   ( United States  › Illinois   ) _#pabst_{:.key} <br>
 **[Cervecería del Pacífico / Grupo Modelo](mx.html#pacifico)**   ( México [Mexico]  › Sinaloa   ) _#pacifico_{:.key} <br>
@@ -1138,7 +1138,7 @@ permalink: /breweries.html
 ## Q
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Cervecería Querétaro](mx.html#queretaro)**   ( México [Mexico]  › Querétaro   ) _#queretaro_{:.key} <br>
 **[Cervecería y Maltería Quilmes](ar.html#quilmes)**  _abinbev_{:.tags} ( Argentina  › Provincia de Buenos Aires   ) _#quilmes_{:.key} <br>
@@ -1150,7 +1150,7 @@ permalink: /breweries.html
 ## R
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Radbrauerei](de.html#radbrauerei)**   ( Germany  › Bayern [Bavaria]   › Günzburg  ) _#radbrauerei_{:.key} <br>
 **[Radeberger Exportbierbrauerei](de.html#radebergerexportbierbrauerei)**   ( Germany  › Sachsen [Saxony]   › Radeberg  ) _#radebergerexportbierbrauerei_{:.key} <br>
@@ -1203,7 +1203,7 @@ permalink: /breweries.html
 ## S
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[South Australian Brewing Co.](au.html#sa)**   ( Australia  › South Australia   › Adelaide  ) _#sa_{:.key} <br>
 **[Bürgerliches Brauhaus Saalfeld](de.html#saalfeld)**   ( Germany  › Thüringen [Thuringia]   › Saalfeld  ) _#saalfeld_{:.key} <br>
@@ -1350,7 +1350,7 @@ permalink: /breweries.html
 ## T
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Tallgrass Brewing Co.](us.html#tallgrass)**   ( United States  › Kansas   ) _#tallgrass_{:.key} <br>
 **[Pivovar Tatran](sk.html#tatran)**   ( Slovakia   ) _#tatran_{:.key} <br>
@@ -1389,7 +1389,7 @@ permalink: /breweries.html
 ## U
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Brauerei Fischerstube](ch.html#uelibier)**   ( Switzerland  › Basel-Stadt   ) _#uelibier_{:.key} <br>
 **[Uinta Brewing Co.](us.html#uinta)**   ( United States  › Utah   ) _#uinta_{:.key} <br>
@@ -1410,7 +1410,7 @@ permalink: /breweries.html
 ## V
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Vagabund Brauerei](de.html#vagabund)**   ( Germany  › Berlin   › Berlin  ) _#vagabund_{:.key} <br>
 **[Van Den Bossche](be.html#vandenbossche)**   ( Belgium  › Oost-Vlaanderen [East Flanders]   ) _#vandenbossche_{:.key} <br>
@@ -1442,7 +1442,7 @@ permalink: /breweries.html
 ## W
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Wädi Bräu](ch.html#waedibraeu)**   ( Switzerland  › Zürich   ) _#waedibraeu_{:.key} <br>
 **[Wäldches Bräu](de.html#waeldches)**   ( Germany  › Hessen [Hesse]   › Offenbach am Main  ) _#waeldches_{:.key} <br>
@@ -1504,7 +1504,7 @@ permalink: /breweries.html
 ## X
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1514,7 +1514,7 @@ permalink: /breweries.html
 ## Y
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Yards Brewing Co.](us.html#yardsbrewing)**   ( United States  › Pennsylvania   ) _#yardsbrewing_{:.key} <br>
 **[Yuengling Brewery](us.html#yuengling)**   ( United States  › Pennsylvania   ) _#yuengling_{:.key} <br>
@@ -1527,7 +1527,7 @@ permalink: /breweries.html
 ## Z
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 **[Žatecký Pivovar](cz.html#zatecky)**   ( Czech Republic  › Ústí nad Labem [• Aussig]   ) _#zatecky_{:.key} <br>
 **[Ziegler Bräu](de.html#zieglerbraeu)**   ( Germany  › Bayern [Bavaria]   › Mainburg  ) _#zieglerbraeu_{:.key} <br>

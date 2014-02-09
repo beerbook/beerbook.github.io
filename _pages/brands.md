@@ -12,14 +12,23 @@ permalink: /brands.html
 
 ## A
 
+
+<div class='columns300' markdown='1'>
+
 **Altenburger**  -- Altenburger Brauerei  ( Germany  › Thüringen [Thuringia]   › Altenburg  ) _#altenburger_{:.key} <br>
 **Andreas**  -- Dortmunder Actien-Brauerei (DAB)  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#andreas_{:.key} <br>
 **Apoldaer**  -- Vereinsbrauerei Apolda  ( Germany  › Thüringen [Thuringia]   › Apolda  ) _#apoldaer_{:.key} <br>
 **Astra**  -- Holsten Brauerei  ( Germany  › Hamburg   › Hamburg  ) _#astra_{:.key} <br>
 **Attersee Bräu**  -- Brauerei Attersee  ( Austria  › Oberösterreich [Upper Austria]   › Straß (i. Attergau)  ) _#atterseebraeu_{:.key} <br>
 
+</div>
+
+
 
 ## B
+
+
+<div class='columns300' markdown='1'>
 
 **Bärenpils**  -- Berliner-Kindl-Schultheiss-Brauerei  ( Germany  › Berlin   › Berlin  ) _#baerenpils_{:.key} <br>
 **Bellheimer**  -- Park & Bellheimer  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Pirmasens  ) _#bellheimer_{:.key} <br>
@@ -30,13 +39,25 @@ permalink: /brands.html
 **Bitburger**  -- Bitburger Brauerei  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Bitburg  ) _#bitburger_{:.key} <br>
 **Bohnsdorfer**  -- Brauhaus Bohnsdorf  ( Germany  › Berlin   › Berlin  ) _#bohnsdorfer_{:.key} <br>
 
+</div>
+
+
 
 ## C
 
+
+<div class='columns300' markdown='1'>
+
 **Clarissen**  -- Hövels Hausbrauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#clarissen_{:.key} <br>
+
+</div>
+
 
 
 ## D
+
+
+<div class='columns300' markdown='1'>
 
 **DAB**  -- Dortmunder Actien-Brauerei (DAB)  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#dab_{:.key} <br>
 **Darguner**  -- Darguner Brauerei  ( Germany  › Mecklenburg-Vorpommern   › Dargun  ) _#darguner_{:.key} <br>
@@ -50,16 +71,28 @@ permalink: /brands.html
 **Dortmunder Union**  -- Dortmunder Actien-Brauerei (DAB)  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#dortmunderunion_{:.key} <br>
 **Duckstein**  -- Mecklenburgische Brauerei Lübz  ( Germany  › Mecklenburg-Vorpommern   › Lübz  ) _#duckstein_{:.key} <br>
 
+</div>
+
+
 
 ## E
+
+
+<div class='columns300' markdown='1'>
 
 **Edelweiss**  -- Hofbräu Kaltenhausen (Brau Union)  ( Austria  › Salzburg   › Hallein-Kaltenhausen  ) _#edelweiss_{:.key} <br>
 **Egger**  -- Privatbrauerei Fritz Egger  ( Austria  › Niederösterreich [Lower Austria]   › Unterradlberg  ) _#egger_{:.key} <br>
 **Eichbaum**  -- Privatbrauerei Eichbaum  ( Germany  › Baden-Württemberg   › Mannheim  ) _#eichbaum_{:.key} <br>
 **Eschenbräu**  -- Hausbrauerei Eschenbräu  ( Germany  › Berlin   › Berlin  ) _#eschenbraeu_{:.key} <br>
 
+</div>
+
+
 
 ## F
+
+
+<div class='columns300' markdown='1'>
 
 **Felskrone**  -- Dortmunder Actien-Brauerei (DAB)  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#felskrone_{:.key} <br>
 **Flensburger**  -- Flensburger Brauerei  ( Germany  › Schleswig-Holstein   › Flensburg  ) _#flensburger_{:.key} <br>
@@ -70,8 +103,14 @@ permalink: /brands.html
 **Früh**  -- Cölner Hofbräu Früh  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Köln  ) _#frueh_{:.key} <br>
 **Fuller's**  -- Fuller, Smith & Turner  ( England  › Greater London   › London  ) _#fullers_{:.key} <br>
 
+</div>
+
+
 
 ## G
+
+
+<div class='columns300' markdown='1'>
 
 **Gaildorfer**  -- Brauerei Eugen Häberlen  ( Germany  › Baden-Württemberg   › Gaildorf  ) _#gaildorfer_{:.key} <br>
 **Georg Pils**  -- Brauhaus Georgbräu  ( Germany  › Berlin   › Berlin  ) _#georgpils_{:.key} <br>
@@ -81,8 +120,14 @@ permalink: /brands.html
 **Grieskirchner**  -- Brauerei Grieskirchen  ( Austria  › Oberösterreich [Upper Austria]   › Grieskirchen  ) _#grieskirchner_{:.key} <br>
 **Gröninger**  -- Gröninger Privatbrauerei  ( Germany  › Hamburg   › Hamburg  ) _#groeninger_{:.key} <br>
 
+</div>
+
+
 
 ## H
+
+
+<div class='columns300' markdown='1'>
 
 **Hachenburger**  -- Westerwald Brauerei  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Hachenburg  ) _#hachenburger_{:.key} <br>
 **Hadmar**  -- Weitra Bräu Bierwerkstatt  ( Austria  › Niederösterreich [Lower Austria]   › Weitra  ) _#hadmar_{:.key} <br>
@@ -92,17 +137,35 @@ permalink: /brands.html
 **Holsten**  -- Holsten Brauerei  ( Germany  › Hamburg   › Hamburg  ) _#holsten_{:.key} <br>
 **Hubertus**  -- Hubertus Bräu  ( Austria  › Niederösterreich [Lower Austria]   › Laa/Thaya  ) _#hubertus_{:.key} <br>
 
+</div>
+
+
 
 ## I
 
+
+<div class='columns300' markdown='1'>
+
 **Isenbeck**  -- Warsteiner Brauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Warstein  ) _#isenbeck_{:.key} <br>
+
+</div>
+
 
 
 ## J
 
 
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
 
 ## K
+
+
+<div class='columns300' markdown='1'>
 
 **Kapsreiter**  -- Kapsreiter Brauerei  ( Austria  › Oberösterreich [Upper Austria]   › Schärding  ) _#kapsreiter_{:.key} <br>
 **Koblenzer**  -- Koblenzer Brauerei  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Koblenz  ) _#koblenzer_{:.key} <br>
@@ -111,15 +174,27 @@ permalink: /brands.html
 **Krombacher**  -- Krombacher Brauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Kreuztal  ) _#krombacher_{:.key} <br>
 **Kronen**  -- Hövels Hausbrauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#kronen_{:.key} <br>
 
+</div>
+
+
 
 ## L
+
+
+<div class='columns300' markdown='1'>
 
 **Lahnsteiner**  -- Lahnsteiner Brauerei  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Lahnstein  ) _#lahnsteiner_{:.key} <br>
 **Lübzer Pils**  -- Mecklenburgische Brauerei Lübz  ( Germany  › Mecklenburg-Vorpommern   › Lübz  ) _#luebzerpils_{:.key} <br>
 **Lüneburger**  -- Holsten Brauerei  ( Germany  › Hamburg   › Hamburg  ) _#lueneburger_{:.key} <br>
 
+</div>
+
+
 
 ## M
+
+
+<div class='columns300' markdown='1'>
 
 **Märkischer Landmann**  -- Berliner-Kindl-Schultheiss-Brauerei  ( Germany  › Berlin   › Berlin  ) _#maerkischerlandmann_{:.key} <br>
 **Malteser Weissbier**  -- Stuttgarter Hofbräu  ( Germany  › Baden-Württemberg   › Stuttgart  ) _#malteserweissbier_{:.key} <br>
@@ -128,18 +203,36 @@ permalink: /brands.html
 **Mohren**  -- Mohrenbrauerei  ( Austria  › Vorarlberg   › Dornbirn  ) _#mohren_{:.key} <br>
 **Murauer**  -- Brauerei Murau  ( Austria  › Steiermark [Styria]   › Murau  ) _#murauer_{:.key} <br>
 
+</div>
+
+
 
 ## N
 
+
+<div class='columns300' markdown='1'>
+
 **Nette**  -- Koblenzer Brauerei  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Koblenz  ) _#nette_{:.key} <br>
+
+</div>
+
 
 
 ## O
 
+
+<div class='columns300' markdown='1'>
+
 **Ottakringer**  -- Ottakringer Brauerei  ( Austria  › Wien [Vienna]   › Wien  ) _#ottakringer_{:.key} <br>
+
+</div>
+
 
 
 ## P
+
+
+<div class='columns300' markdown='1'>
 
 **Park**  -- Park & Bellheimer  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Pirmasens  ) _#park_{:.key} <br>
 **Piestinger**  -- Villacher Brauerei (Vereinigte Kärntner Brauereien)  ( Austria  › Kärnten [Carinthia]   › Villach  ) _#piestinger_{:.key} <br>
@@ -147,12 +240,24 @@ permalink: /brands.html
 **Premium**  -- Premium Kollektiv  ( Germany  › Hamburg   › Hamburg  ) _#premium_{:.key} <br>
 **Puntigamer**  -- Brauerei Puntigam (Brau Union)  ( Austria  › Steiermark [Styria]   › Graz  ) _#puntigamer_{:.key} <br>
 
+</div>
+
+
 
 ## Q
 
 
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
 
 ## R
+
+
+<div class='columns300' markdown='1'>
 
 **Rats**  -- Dom-Brauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Köln  ) _#rats_{:.key} <br>
 **Ratsherrn**  -- Ratsherrn Brauerei  ( Germany  › Hamburg   › Hamburg  ) _#ratsherrn_{:.key} <br>
@@ -162,8 +267,14 @@ permalink: /brands.html
 **Rollberger**  -- Privatbrauerei Am Rollberg  ( Germany  › Berlin   › Berlin  ) _#rollberger_{:.key} <br>
 **Rothaus**  -- Badische Staatsbrauerei Rothaus  ( Germany  › Baden-Württemberg   › Grafenhausen-Rothaus  ) _#rothaus_{:.key} <br>
 
+</div>
+
+
 
 ## S
+
+
+<div class='columns300' markdown='1'>
 
 **Saalfelder**  -- Bürgerliches Brauhaus Saalfeld  ( Germany  › Thüringen [Thuringia]   › Saalfeld  ) _#saalfelder_{:.key} <br>
 **Samichlaus**  -- Brauerei Schloss Eggenberg  ( Austria  › Oberösterreich [Upper Austria]   › Vorchdorf  ) _#samichlaus_{:.key} <br>
@@ -185,25 +296,49 @@ permalink: /brands.html
 **Stiegl**  -- Stieglbrauerei  ( Austria  › Salzburg   › Salzburg  ) _#stiegl_{:.key} <br>
 **Stuttgarter Hofbräu**  -- Stuttgarter Hofbräu  ( Germany  › Baden-Württemberg   › Stuttgart  ) _#stuttgarterhofbraeu_{:.key} <br>
 
+</div>
+
+
 
 ## T
 
+
+<div class='columns300' markdown='1'>
+
 **Trumer**  -- Trumer Privatbrauerei  ( Austria  › Salzburg   › Obertrum  ) _#trumer_{:.key} <br>
+
+</div>
+
 
 
 ## U
 
+
+<div class='columns300' markdown='1'>
+
 **Uttendorfer**  -- Brauerei Vitzthum  ( Austria  › Oberösterreich [Upper Austria]   › Uttendorf  ) _#uttendorfer_{:.key} <br>
+
+</div>
+
 
 
 ## V
+
+
+<div class='columns300' markdown='1'>
 
 **Vagabund**  -- Vagabund Brauerei  ( Germany  › Berlin   › Berlin  ) _#vagabund_{:.key} <br>
 **Veltins**  -- Brauerei C. & A. Veltins  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Meschede  ) _#veltins_{:.key} <br>
 **Villacher**  -- Villacher Brauerei (Vereinigte Kärntner Brauereien)  ( Austria  › Kärnten [Carinthia]   › Villach  ) _#villacher_{:.key} <br>
 
+</div>
+
+
 
 ## W
+
+
+<div class='columns300' markdown='1'>
 
 **Waldhaus**  -- Privatbrauerei Waldhaus  ( Germany  › Baden-Württemberg   › Waldhaus  ) _#waldhaus_{:.key} <br>
 **Warsteiner**  -- Warsteiner Brauerei  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Warstein  ) _#warsteiner_{:.key} <br>
@@ -211,19 +346,40 @@ permalink: /brands.html
 **Wicküler**  -- Dortmunder Actien-Brauerei (DAB)  ( Germany  › Nordrhein-Westfalen [North Rhine-Westphalia]   › Dortmund (Hafen)  ) _#wickueler_{:.key} <br>
 **Wieselburger**  -- Brauerei Wieselburg (Brau Union)  ( Austria  › Niederösterreich [Lower Austria]   › Wieselburg  ) _#wieselburger_{:.key} <br>
 
+</div>
+
+
 
 ## X
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
 
 
 
 ## Y
 
 
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
 
 ## Z
+
+
+<div class='columns300' markdown='1'>
 
 **Zillertal**  -- Brauhaus Simon Strasser  ( Austria  › Tirol [Tyrol]   › Zell am Ziller  ) _#zillertal_{:.key} <br>
 **Zipfer**  -- Brauerei Zipf (Brau Union)  ( Austria  › Oberösterreich [Upper Austria]   › Zipf  ) _#zipfer_{:.key} <br>
 **Zischke Kellerbier**  -- Koblenzer Brauerei  ( Germany  › Rheinland-Pfalz [Rhineland-Palatinate]   › Koblenz  ) _#zischkekellerbier_{:.key} <br>
 **Zwettler**  -- Zwettler Brauerei  ( Austria  › Niederösterreich [Lower Austria]   › Zwettl  ) _#zwettler_{:.key} <br>
+
+</div>
+
 

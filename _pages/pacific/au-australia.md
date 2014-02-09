@@ -47,7 +47,7 @@ permalink: /au.html
 
 [Sydney](#sydney) • **Uncategorized** _(1)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Sydney   _pop 3.908.642 (4.605.992)_{:.pop}
@@ -79,7 +79,7 @@ Camperdown //  <br>
 
 [Brisbane](#brisbane) • **Uncategorized** _(1)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Brisbane   _pop 1.874.427 (2.146.577)_{:.pop}
@@ -112,7 +112,7 @@ Camperdown //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Adelaide _(2)_{:.count}  _pop 1.103.979 (1.262.940)_{:.pop}
@@ -153,7 +153,7 @@ Thebarton //  <br>
 
 [Hobart](#hobart) • [Launceston](#launceston)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Hobart   _pop 170.975 (216.276)_{:.pop}
@@ -195,7 +195,7 @@ Thebarton //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Melbourne   _pop 3.707.530 (4.169.103)_{:.pop}
@@ -225,7 +225,7 @@ Abbotsford //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -264,7 +264,7 @@ Abbotsford //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -279,7 +279,7 @@ Abbotsford //  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

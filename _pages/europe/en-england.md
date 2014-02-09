@@ -24,7 +24,7 @@ permalink: /en.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -39,7 +39,7 @@ permalink: /en.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -54,7 +54,7 @@ permalink: /en.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -69,7 +69,7 @@ permalink: /en.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -84,7 +84,7 @@ permalink: /en.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -99,7 +99,7 @@ permalink: /en.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -114,7 +114,7 @@ permalink: /en.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### London   _pop 7.619.800 (8.586.000)_{:.pop}
@@ -147,7 +147,7 @@ The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -162,7 +162,7 @@ The Griffin Brewery // Chiswick Lane South // London | W4 2QB  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

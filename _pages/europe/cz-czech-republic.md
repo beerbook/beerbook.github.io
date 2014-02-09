@@ -41,7 +41,7 @@ permalink: /cz.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Praha [Prague] _(2)_{:.count}  _pop 1.290.846 (1.265.000)_{:.pop}
@@ -72,7 +72,7 @@ Nádražní 84 // 150 54  Praha 5 - Smíchov, abinbev  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -136,7 +136,7 @@ Vysoký Chlumec // 262 52  Vysoký Chlumec  <br>
 
 [Budějovice [Budweis]](#budejovice) • **Uncategorized** _(5)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Budějovice [Budweis]   _pop 93.883_{:.pop}
@@ -199,7 +199,7 @@ Podskalského 324 // 386 19  Strakonice  <br>
 
 [Plzeň [Pilsen]](#plzen) _(2)_{:.count} • **Uncategorized** _(1)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Plzeň [Pilsen] _(2)_{:.count}  _pop 169.688_{:.pop}
@@ -252,7 +252,7 @@ Pivovarská 107 // 348 13  Chodová Planá  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -298,7 +298,7 @@ Křižíkova 486 // 541 01  Trutnov  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -341,7 +341,7 @@ Pivovarská 116 // 403 23  Velké Březno  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -371,7 +371,7 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -386,7 +386,7 @@ Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -422,7 +422,7 @@ Resslova 260 // 539 01  Hlinsko v Čechách  <br>
 
 [Brno](#brno) • **Uncategorized** _(3)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Brno   _pop 384.277_{:.pop}
@@ -474,7 +474,7 @@ Hradní 2 // 669 28  Znojmo  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -523,7 +523,7 @@ Vrchlického 2 // 586 01  Jihlava  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -563,7 +563,7 @@ Palackého 934 // 784 05  Litovel  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -587,7 +587,7 @@ Neradice 369 // 688 16 Uherský Brod  <br>
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

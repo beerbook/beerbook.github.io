@@ -32,7 +32,7 @@ permalink: /at.html
 
 [Gols](#gols) • [Kobersdorf](#kobersdorf)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Gols  
@@ -72,7 +72,7 @@ permalink: /at.html
 
 [Brunn am Gebirge](#brunnamgebirge) • [Gablitz](#gablitz) • [Gaming](#gaming) _(2)_{:.count} • [Hainfeld](#hainfeld) • [Korneuburg](#korneuburg) • [Krumbach](#krumbach) • [Laa/Thaya](#laathaya) • [Schottwien](#schottwien) • [Schrems](#schrems) • [Schwechat](#schwechat) • [Thernberg](#thernberg) • [Unterradlberg](#unterradlberg) • [Untersiebenbrunn](#untersiebenbrunn) • [Warth](#warth) • [Weitra](#weitra) • [Wieselburg](#wieselburg) • [Winzendorf](#winzendorf) • [Zwettl](#zwettl)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Brunn am Gebirge  
@@ -351,7 +351,7 @@ permalink: /at.html
 
 
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Wien   _pop 1.731.236 (1.724.000)_{:.pop}
@@ -386,7 +386,7 @@ permalink: /at.html
 
 [Bad Radkersburg](#badradkersburg) • [Ebersdorf](#ebersdorf) • [Eisenerz](#eisenerz) • [Fürstenfeld](#fuerstenfeld) • [Graz](#graz) • [Göss/Leoben](#goessleoben) • [Kaindorf](#kaindorf) • [Kalsdorf](#kalsdorf) • [Leutschach](#leutschach) • [Murau](#murau) • [Schladming](#schladming) • [St. Marein](#stmarein) • [St. Nikolai i. S.](#stnikolaiis) • [Weinburg](#weinburg) • [Wundschuh](#wundschuh)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Bad Radkersburg  
@@ -607,7 +607,7 @@ permalink: /at.html
 
 [Klagenfurt](#klagenfurt) • [Kraig](#kraig) • [Kötschach-Mauthen](#koetschachmauthen) • [Micheldorf](#micheldorf) • [Villach](#villach)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Klagenfurt   _pop 94.796_{:.pop}
@@ -693,7 +693,7 @@ permalink: /at.html
 
 [Altheim](#altheim) _(2)_{:.count} • [Ampflwang](#ampflwang) • [Attersee](#attersee) • [Braunau](#braunau) • [Eggelsberg](#eggelsberg) • [Engelhartszell](#engelhartszell) • [Frankenmarkt](#frankenmarkt) _(2)_{:.count} • [Freistadt](#freistadt) • [Grieskirchen](#grieskirchen) • [Linz](#linz) • [Neufelden](#neufelden) • [Neumarkt/Hausruck](#neumarkthausruck) • [Ried/Innkreis](#riedinnkreis) _(2)_{:.count} • [Schlägl](#schlaegl) • [Schwertberg](#schwertberg) • [Schärding](#schaerding) _(2)_{:.count} • [Schörfling (am Attersee)](#schoerfling) • [St. Martin](#stmartin) • [St. Stefan am Walde](#ststefanamwalde) • [Straß (i. Attergau)](#strass) • [Uttendorf](#uttendorf) • [Vorchdorf](#vorchdorf) • [Wilhering](#wilhering) • [Zipf](#zipf)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Altheim _(2)_{:.count} 
@@ -1063,7 +1063,7 @@ permalink: /at.html
 
 [Hallein-Kaltenhausen](#halleinkaltenhausen) • [Obertrum](#obertrum) • [Salzburg](#salzburg) _(4)_{:.count}
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Hallein-Kaltenhausen  
@@ -1151,7 +1151,7 @@ permalink: /at.html
 
 [Alpach](#alpach) • [Innsbruck](#innsbruck) • [Lienz](#lienz) • [St. Johann](#stjohann) • [Tarrenz](#tarrenz) • [Unterperfuß/Innsbruck](#unterperfussinnsbruck) • [Vils](#vils) • [Zell am Ziller](#zellamziller)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Alpach  
@@ -1258,7 +1258,7 @@ permalink: /at.html
 
 [Bludenz](#bludenz) • [Dornbirn](#dornbirn) • [Egg](#egg) • [Frastanz](#frastanz)
 
-<div class='columns2' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 ##### Bludenz  
