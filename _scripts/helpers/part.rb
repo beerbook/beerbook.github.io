@@ -61,31 +61,31 @@ end
 
 
 def render_city( city, opts={} )
-  tmpl       = File.read_utf8( '_templates/shared/_city.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_city.md' )
   render_erb_template( tmpl, binding )
 end
 
 def render_brewery( brewery, opts={} )
-  tmpl       = File.read_utf8( '_templates/shared/_brewery.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_brewery.md' )
   render_erb_template( tmpl, binding )  
 end
 
 def render_brewery_idx( brewery, opts={} )
-  tmpl       = File.read_utf8( '_templates/shared/_brewery-idx.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_brewery-idx.md' )
   render_erb_template( tmpl, binding )  
 end
 
 def render_beer( beer, opts={} )
-  tmpl       = File.read_utf8( '_templates/shared/_beer.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_beer.md' )
   render_erb_template( tmpl, binding )
 end
 
 def render_beer_idx( beer, opts={} )
-  tmpl       = File.read_utf8( '_templates/shared/_beer-idx.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_beer-idx.md' )
   render_erb_template( tmpl, binding )
 end
 
 def render_brand_idx( brand, opts={} )
-  tmpl       = File.read_utf8( '_templates/shared/_brand-idx.md.erb' )
+  tmpl       = File.read_utf8( '_templates/shared/_brand-idx.md' )
   render_erb_template( tmpl, binding )
 end
