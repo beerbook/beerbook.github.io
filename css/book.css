@@ -25,6 +25,12 @@ a:hover {
   padding-left: 12px;  /* add extra space on the left */
 }
 
+table.brewery {
+  background-color: #efe;
+  border-collapse: collapse;
+  border: 1px solid #7a7;
+}
+
 table.brewery td:nth-child(1) {
   vertical-align: top;
   padding: 2px;
