@@ -12,16 +12,26 @@ a:hover {
 .city {
   border-top: 2px black solid;
   margin-top: 0;
+  margin-bottom: 3px;
 }
 
 .count, .tags, .pop, .key {
   color: grey;
   font-size: 10px;
 }
-     
+
 .pop {
   display: inline-block;
   padding-left: 12px;  /* add extra space on the left */
+}
+
+table.brewery td:nth-child(1) {
+  vertical-align: top;
+  padding: 2px;
+}
+table.brewery td:nth-child(2) {
+  vertical-align: top;
+  padding: 2px;
 }
 
 div.brewery-title {
@@ -31,10 +41,5 @@ div.brewery-title {
 div.brewery-details {
   color: grey;
 }
-
-td.beers {
-  vertical-align: top;
-}
-
 
 
