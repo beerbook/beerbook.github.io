@@ -26,9 +26,11 @@ a:hover {
 }
 
 table.brewery {
-  background-color: #efe;
-  border-collapse: collapse;
+/*  background-color: #efe;
   border: 1px solid #7a7;
+*/
+  border-collapse: collapse;
+  width: 100%;
 }
 
 table.brewery td:nth-child(1) {
