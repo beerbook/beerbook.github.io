@@ -40,11 +40,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Pannonia Brauerei Gols   _#gols_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 7122 Gols // Sandgrube 1a  <br>
@@ -57,7 +57,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Golser Helles** (5.2%, 12.2°)   • 
@@ -81,11 +81,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Kobersdorfer Schlossbräu   _#kobersdorfer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 7332 Kobersdorf // Hauptstraße 43  <br>
@@ -98,7 +98,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -115,11 +115,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Braugasthof Schmidt   _#braugasthofschmidt_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 7423 Neustift a.d. Lafnitz // Nr. 64  <br>
@@ -130,7 +130,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -147,11 +147,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Scharrer   _#scharrer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 7453 Steinberg-Dörfl // Obere Hauptstraße 129  <br>
@@ -162,7 +162,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -194,11 +194,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Allander Stierkogl Bräu   _#allander_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2534 Alland // Wagenhofstraße 538  <br>
@@ -209,7 +209,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -226,11 +226,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Schrammelsbräu   _#schrammelsbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2822 Bad Erlach // Harrathof 39  <br>
@@ -243,7 +243,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -260,11 +260,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Die Bierzauberei   _#bierzauberei_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2345 Brunn am Gebirge // Leopold Gattringer-Straße 39  <br>
@@ -277,7 +277,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -294,11 +294,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Zecherbräu   _#zecherbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2640 Enzenreith // Siedlaustraße 129  <br>
@@ -309,7 +309,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -326,11 +326,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Gablitzer Privatbrauerei  - 2009   _#gablitzer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3003 Gablitz // Spitzersteig 10  <br>
@@ -343,7 +343,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Gablitzer Original** (4.8%, 12.0°)  
@@ -364,11 +364,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Bruckners Brauwelt • Erzbräu   _#bruckners_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3292 Gaming // Grubberg 4a  <br>
@@ -381,7 +381,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -392,11 +392,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Privatbrauerei Gaming • Kartausen Bräu   _#kartausenbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3293 Gaming // Kartause 1  <br>
@@ -407,7 +407,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Kartausen Bräu Hell** (5.0%, 11.8°)  
@@ -428,11 +428,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Geroldinger Brauhaus   _#geroldinger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3392 Gerolding // Graf Geroldstraße 43  <br>
@@ -443,7 +443,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -460,11 +460,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Gasthof Diewald   _#diewald_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2640 Gloggnitz // Raach am Hochgebirge 38  <br>
@@ -475,7 +475,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -492,11 +492,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Hainfeld   _#hainfeld_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3170 Hainfeld // Wienerstraße 10  <br>
@@ -509,7 +509,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Hainfelder Edel-Pils** (4.8%, 11.5°)   • 
@@ -532,11 +532,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Haßbacher Braueck • Privatbrauerei Martin Gruber   _#hassbacher_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2831 Haßbach // Berggasse 6  <br>
@@ -547,7 +547,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -564,11 +564,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Brauerei Dangl   _#dangl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3763 Japons // Zettenreith 7  <br>
@@ -579,7 +579,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -596,11 +596,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Dunkelsteiner Bräu   _#dunkelsteiner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3121 Karlstetten // Schaubing 2  <br>
@@ -611,7 +611,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -628,11 +628,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Kastner Bier   _#kastnerbier_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3072 Kasten // Steinabruck 35  <br>
@@ -645,7 +645,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -662,11 +662,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Biermanufaktur Korneuburg   _#korneuburg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2100 Korneuburg // Brückenstraße 8  <br>
@@ -679,7 +679,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Korneuburger Original** (5.2%, 12.6°)   • 
@@ -702,11 +702,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Privatbrauerei Gerald Schwarz • Schwarzbräu   _#schwarzbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2851 Krumbach // Bundesstraße 19  <br>
@@ -719,7 +719,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Schwarz Bräu Helles** (5.0%, 12.4°)   • 
@@ -742,11 +742,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Hubertus Bräu  - 1454   _#hubertus_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2136 Laa/Thaya // Hubertusgasse 1  <br>
@@ -759,7 +759,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Hubertus Märzen** (5.1%, 11.9°)   • 
@@ -782,11 +782,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Fiaker Bräu   _#fiakerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3550 Langenlois // Holzplatz 7  <br>
@@ -799,7 +799,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Fiaker Bräu Bock Hell** (7.0%, 15.0°)   • 
@@ -822,11 +822,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Langenrohrer Erlebnisbrauerei   _#langenrohrer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3442 Langenrohr // Josef-Reither-Straße 18  <br>
@@ -837,7 +837,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -854,11 +854,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Wirtshausbrauerei Haselböck   _#haselbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3662 Münichreith am Ostrong // Hausbrauerstraße 3  <br>
@@ -869,7 +869,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Hasel Bräu Helles** (4.9%, 11.8°)   • 
@@ -891,11 +891,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Rax Bräu   _#raxbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2650 Payerbach // Hauptstraße 40  <br>
@@ -906,7 +906,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -923,11 +923,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Poidl Bräu   _#poidlbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2563 Pottenstein // Wehrgasse 6  <br>
@@ -938,7 +938,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -955,11 +955,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Brettner Brauerei ("Altes Doktorhaus")   _#brettner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2641 Schottwien // Hauptstraße 49  <br>
@@ -972,7 +972,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Brettner Fuhrmannsgold** (5.5%, 13.5°)  
@@ -993,11 +993,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Schrems • Trojan  - 1410   _#schrems_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3943 Schrems // Niederschremser Straße 1  <br>
@@ -1010,7 +1010,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Schremser Premium** (5.1%, 11.9°)   • 
@@ -1038,11 +1038,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Brauerei Schwechat (Brau Union)  - 1796   _#schwechat_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2320 Schwechat // Mautner Markhof-Straße 11  <br>
@@ -1055,7 +1055,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Schwechater** (5.0%, 11.5°)   • 
@@ -1078,11 +1078,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Privatbrauerei Maria Pichler   _#mariapichler_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3633 Schönbach // Schönbach 1  <br>
@@ -1093,7 +1093,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1110,11 +1110,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Bierwerkstatt Thomas Fritsche   _#fritsche_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2486 Siegersdorf // Pottendorfer Straße 106  <br>
@@ -1125,7 +1125,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1142,11 +1142,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Petri-Bräu • Hausbrauerei Sigl   _#petribraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3161 St. Veit an der Gölsen // Brillergraben 8  <br>
@@ -1157,7 +1157,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1174,11 +1174,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Wolfsbräu   _#wolfsbrau_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2832 Thernberg // Blumengasse 7  <br>
@@ -1191,7 +1191,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1208,11 +1208,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Linko Bräu   _#linkobraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3160 Traisen // Gartengasse 9  <br>
@@ -1223,7 +1223,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1240,11 +1240,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Privatbrauerei Fritz Egger  - 1978   _#egger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3105 Unterradlberg // Tiroler Straße 18  <br>
@@ -1257,7 +1257,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Egger Märzen** (5.2%, 11.8°)   • 
@@ -1281,11 +1281,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Marchfelder Storchenbräu   _#storchenbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2284 Untersiebenbrunn // Brückengasse 5  <br>
@@ -1298,7 +1298,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Marchfelder Störchle** (5.5%, 12.5°)   • 
@@ -1322,11 +1322,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Ybbstal Bräu Gasthaus Hehenberger   _#ybbstal_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3340 Waidhofen/Ybbs // Wienerstraße 28  <br>
@@ -1337,7 +1337,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1354,11 +1354,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Holzb(r)auer / Natürliche Handwerksbrauerei   _#holzbrauer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2831 Warth // Wiesengasse 9  <br>
@@ -1369,7 +1369,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1386,11 +1386,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
 ♣ Weitra Bräu Bierwerkstatt • Brauerei Weitra  - 1321   _#weitra_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3970 Weitra // Sparkasseplatz 160  <br>
@@ -1403,7 +1403,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1414,11 +1414,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Brauerei Brauhotel Weitra   _#brauhotelweitra_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3970 Weitra // Rathausplatz 6  <br>
@@ -1429,7 +1429,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1446,11 +1446,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Brauerei Wieselburg (Brau Union)  - 1770   _#wieselburg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3250 Wieselburg // Dr.-Beuerle-Straße 1  <br>
@@ -1463,7 +1463,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Wieselburger Gold** (5.0%, 11.8°)   • 
@@ -1485,11 +1485,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Erlauftaler Bräu   _#erlauftaler_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3250 Wieselburg // Teichweg 6  <br>
@@ -1500,7 +1500,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1517,11 +1517,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Emmerberg-Bräu / Erste Österreichische Ökobrauerei  - 1991   _#emmerberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 2722 Winzendorf // Hauptstraße 137  <br>
@@ -1532,7 +1532,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1549,11 +1549,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Zwettler Brauerei • Privatbrauerei Zwettl  - 1709   _#zwettler_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 3910 Zwettl // Syrnauer Straße 22-25  <br>
@@ -1566,7 +1566,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Zwettler Original** (5.1%, 11.9°)   • 
@@ -1608,11 +1608,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Ottakringer Brauerei • Ottakringer  - 1838   _#ottakringer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1160 Wien // Ottakringer Platz 1  <br>
@@ -1625,7 +1625,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Ottakringer Helles** (5.2%, 11.8°)   • 
@@ -1648,11 +1648,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) 1516 Brewing Company • 1516 Brewing   _#fifteensixteen_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1010 Wien // Krugerstraße 18/Schwarzenbergstraße 2  <br>
@@ -1665,7 +1665,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1676,11 +1676,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Stadtbrauerei Schwarzenberg   _#schwarzenberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1010 Wien // Schellinggasse 14  <br>
@@ -1693,7 +1693,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1704,11 +1704,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Salm Bräu  - 1994   _#salmbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1030 Wien // Rennweg 8  <br>
@@ -1721,7 +1721,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Salm Bräu Pils** (5.0%, 12.5°)   • 
@@ -1740,11 +1740,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Wieden-Bräu  - 1991   _#wiedenbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1040 Wien // Waaggasse 5  <br>
@@ -1757,7 +1757,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1768,11 +1768,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Zum Schwarzen Adler • Hackl Bräu   _#zumschwarzenadler_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1050 Wien // Schönbrunner Strasse 40  <br>
@@ -1785,7 +1785,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1796,11 +1796,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) 7 Stern Bräu • Siebensternbräu  - 1994   _#siebensternbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1070 Wien // Siebensterngasse 19  <br>
@@ -1813,7 +1813,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **7 Stern Bräu Wiener Helles** (4.7%, 11.8°)   • 
@@ -1829,11 +1829,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Lichtenthaler Bräu   _#lichtenthalerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1090 Wien // Lichtensteinstrasse 108  <br>
@@ -1846,7 +1846,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1857,11 +1857,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) The Highlander   _#highlander_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1090 Wien // Sobieskiplatz 4  <br>
@@ -1874,7 +1874,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1885,11 +1885,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Medl Bräu  - 1989   _#medlbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1140 Wien // Linzer Straße 275  <br>
@@ -1902,7 +1902,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Medl Bräu Märzen** (4.9%, 12.2°)  
@@ -1917,11 +1917,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Schwarzer Rabe • Raben Bräu   _#rabenbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1160 Wien // Ottakringer Straße 180  <br>
@@ -1934,7 +1934,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1945,11 +1945,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Fischerbräu  - 1985   _#fischerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1190 Wien // Billrothstraße 17  <br>
@@ -1962,7 +1962,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -1973,11 +1973,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Kadlez Bräu   _#kadlezbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1210 Wien // Hopfengasse 8-11  <br>
@@ -1990,7 +1990,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2001,11 +2001,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Hiaslbräu • Zum Roten Hiasl   _#hiaslbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 1220 Wien // Biberhaufenweg 228  <br>
@@ -2016,7 +2016,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2048,11 +2048,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Peterwirtsbräu   _#peterwirtsbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8983 Bad Mitterndorf // Nr. 68  <br>
@@ -2063,7 +2063,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2080,11 +2080,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauhaus Bevog • Bevog   _#bevog_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8490 Bad Radkersburg // Gewerbepark B Nr. 9  <br>
@@ -2097,7 +2097,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2114,11 +2114,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Kandlbauer's Hausbräu   _#kandlbauers_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8190 Birkfeld // Aschau 21  <br>
@@ -2129,7 +2129,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2146,11 +2146,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Toni Bräu   _#tonibraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8273 Ebersdorf // Wagenbach 61  <br>
@@ -2163,7 +2163,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Toni Bräu Helles** (5.0%, 12.0°)  
@@ -2184,11 +2184,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Privatbrauerei Erzbergbräu   _#erzbergbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8790 Eisenerz // Trofengbachgasse 2  <br>
@@ -2201,7 +2201,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2218,11 +2218,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Lava Bräu   _#lavabraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8330 Feldbach // Auersbach 130  <br>
@@ -2233,7 +2233,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2250,11 +2250,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Bauernhofbrauerei Johann Schmallegger   _#schmallegger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8183 Floing // Haring 17  <br>
@@ -2265,7 +2265,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2282,11 +2282,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) s'kloane Sudhaus   _#skloanesudhaus_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8130 Frohnleiten // Mauritzener Hauptstraße 1  <br>
@@ -2297,7 +2297,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2314,11 +2314,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Nibelungengold Brauerei   _#nibelungengold_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8280 Fürstenfeld // Franz-Bauer-Weg 4  <br>
@@ -2331,7 +2331,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2342,11 +2342,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Fürstenbräu   _#fuerstenbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8280 Fürstenfeld // Hauptstraße 31  <br>
@@ -2357,7 +2357,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2374,11 +2374,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Sajacher Schlößl Bräu   _#sajacher_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8424 Gabersdorf // Sajach 23  <br>
@@ -2389,7 +2389,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2406,11 +2406,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Bauernhof Neuwirth   _#neuwirth_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8200 Gleisdorf // Brodersdorf 21  <br>
@@ -2421,7 +2421,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2432,11 +2432,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Laurenzi Bräu   _#laurenzi_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8200 Gleisdorf // Hauptplatz 3  <br>
@@ -2447,7 +2447,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2464,11 +2464,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Brauerei Puntigam (Brau Union)   _#puntigam_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8055 Graz // Triester Straße 359  <br>
@@ -2481,7 +2481,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Puntigamer Panther** (5.2%, 12.1°)   • 
@@ -2508,11 +2508,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Großstübinger Leitn Bräu   _#leitnbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8114 Großstübing // Nr. 34  <br>
@@ -2523,7 +2523,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2540,11 +2540,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Gösser Brauerei (Brau Union) • Brauerei Göss   _#goesser_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8700 Göss/Leoben // Brauhausgasse 1  <br>
@@ -2557,7 +2557,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Gösser Märzen** (5.2%, 11.8°)   • 
@@ -2584,11 +2584,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Marienbräu Edwin Strobl   _#marienbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8075 Hart bei Graz // Rupertistraße 80  <br>
@@ -2599,7 +2599,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2616,11 +2616,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Kulturbrauerei Hengist   _#hengist_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8411 Hengsberg // Schönberg 24  <br>
@@ -2631,7 +2631,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2648,11 +2648,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Gratzer   _#gratzer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8224 Kaindorf // Obertiefenbach 26  <br>
@@ -2665,7 +2665,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Gratzer Johann** (5.3%, 12.8°)   • 
@@ -2687,11 +2687,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Handbrauerei Forstner • Forstner Biere • Hof-Bräu Kalsdorf   _#forstner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8401 Kalsdorf // Dorfstraße 52  <br>
@@ -2704,7 +2704,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Forstner Blond Pale Ale** (5.0%, 12.6°)   • 
@@ -2730,11 +2730,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Leutschach   _#leutschach_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8463 Leutschach // Schillerplatz 3  <br>
@@ -2747,7 +2747,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Rossnatur** (5.3%, 12.2°)  
@@ -2768,11 +2768,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Wirtshausbrauerei Mariazell   _#mariazell_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8630 Mariazell // Wiener Straße 5  <br>
@@ -2783,7 +2783,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2800,11 +2800,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Hermax-Bräu   _#hermaxbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8311 Markt Hartmannsdorf // Reith 72  <br>
@@ -2815,7 +2815,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2832,11 +2832,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Murau • Obermurtaler Brauerei   _#murau_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8850 Murau // Raffaltplatz 19-23  <br>
@@ -2849,7 +2849,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Murauer Märzen** (5.2%, 12.5°)   • 
@@ -2872,11 +2872,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Hausbrauerei Seidl   _#hausbrauereiseidl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8820 Neumarkt // Zeutschach 7  <br>
@@ -2887,7 +2887,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2904,11 +2904,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Putz'n Bräu   _#putznbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8243 Pinggau // Wiesenhöf 17  <br>
@@ -2919,7 +2919,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2936,11 +2936,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Kofler Bräu   _#kofler_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8786 Rottenmann // Hauptstraße 4  <br>
@@ -2951,7 +2951,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -2968,11 +2968,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Schladminger Brau (Brau Union)  - 1909   _#schladminger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8970 Schladming // Hammerfeldweg 163  <br>
@@ -2985,7 +2985,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Schladminger Märzen** (5.1%, 11.7°)   • 
@@ -3003,11 +3003,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Schwalben-Bräu   _#schwalbebraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8970 Schladming // Siedergasse 89  <br>
@@ -3018,7 +3018,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3035,11 +3035,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Trieb Bräu   _#triebbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8641 St. Marein // Ferdinand Raimundweg 7  <br>
@@ -3050,7 +3050,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Trieb Bräu Märzen** (5.1%)  
@@ -3071,11 +3071,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Michael Löscher   _#flamberger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8505 St. Nikolai i. S. // Flamberg 101  <br>
@@ -3088,7 +3088,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3105,11 +3105,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) 3BB-Farm   _#dreibb_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8181 St. Ruprecht a.d. Raab // Dietmannsdorf 17  <br>
@@ -3120,7 +3120,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3137,11 +3137,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Berger-Bräu   _#bergerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8255 St.Jakob i. Walde  // Kirchenviertel 34  <br>
@@ -3152,7 +3152,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3169,11 +3169,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Moar-Bräu   _#moarbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8223 Stubenberg // Vockenberg 46  <br>
@@ -3184,7 +3184,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3201,11 +3201,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Nassauer City Bier   _#nassauer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8522 Unterbergla // Nassau 48  <br>
@@ -3216,7 +3216,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3233,11 +3233,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Landwerkstatt & Genusslabor • Pock Bier   _#pock_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8481 Weinburg // Pichla/M. 31  <br>
@@ -3250,7 +3250,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3267,11 +3267,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Herzog Hofbräu • Herzog   _#herzoghofbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 8142 Wundschuh // Steindorf 8  <br>
@@ -3284,7 +3284,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3316,11 +3316,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Stoana Bräu   _#stoanabraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9546 Bad Kleinkirchheim // Zirkitzer Weg 17  <br>
@@ -3331,7 +3331,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3348,11 +3348,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Altes Brauhaus   _#altesbrauhaus_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9150 Bleiburg // Hauptplatz 9  <br>
@@ -3363,7 +3363,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3380,11 +3380,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Jauntaler Bauernbier   _#jauntaler_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9132 Gallizien // Pirk 1  <br>
@@ -3395,7 +3395,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3412,11 +3412,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Schleppe Brauerei (Vereinigte Kärntner Brauereien)  - 1607   _#schleppe_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9020 Klagenfurt // Schleppeplatz 1  <br>
@@ -3429,7 +3429,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **‹Schleppe› Märzen** (5.0%, 11.7°)   • 
@@ -3452,11 +3452,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Hirter Botschaft   _#hirterbotschaft_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9020 Klagenfurt // Bahnhofstraße 44  <br>
@@ -3467,7 +3467,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3484,11 +3484,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Wimitzbräu   _#wimitz_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9311 Kraig // Wimitz 7  <br>
@@ -3501,7 +3501,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3518,11 +3518,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Privatbrauerei Loncium   _#loncium_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9640 Kötschach-Mauthen // Mauthen 60  <br>
@@ -3535,7 +3535,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **‹Loncium› Helles** (4.9%, 11.8°)   • 
@@ -3557,11 +3557,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Drucker-Bräu   _#druckerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9556 Liebenfels // Zweikirchen 9  <br>
@@ -3572,7 +3572,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3589,11 +3589,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Hirt  - 1270   _#hirt_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9322 Micheldorf // Hirt 9  <br>
@@ -3606,7 +3606,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **‹Hirter› Pils** (5.2%, 12.3°)   • 
@@ -3635,11 +3635,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Villacher Brauerei (Vereinigte Kärntner Brauereien)   _#villacher_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9500 Villach // Brauhausgasse 6  <br>
@@ -3652,7 +3652,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **‹Villacher› Märzen** (5.0%, 11.8°)   • 
@@ -3682,11 +3682,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Turmbräu   _#turmbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9500 Villach-Maria Gail // Anton Tuder Straße 2  <br>
@@ -3697,7 +3697,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3729,11 +3729,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Privatbrauerei Wurmhöringer  - 1652   _#wurmhoeringer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4950 Altheim // Stadtplatz 10/11  (Innviertel)  <br>
@@ -3746,7 +3746,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Wurmhöringer Märzen** (4.9%, 11.9°)   • 
@@ -3769,11 +3769,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Raschhofer  - 1645   _#raschhofer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4950 Altheim // Braunauer Straße 12  <br>
@@ -3786,7 +3786,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Raschhofer Pils** (5.1%, 11.7°)   • 
@@ -3809,11 +3809,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Pachinger • Pfeiffi's Bräu   _#pfeiffisbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4843 Ampflwang // Vorderschlagen 19  <br>
@@ -3826,7 +3826,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -3843,11 +3843,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Brauerei Kaltenböck   _#kaltenboeck_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4864 Attersee // Palmsdorf 17  <br>
@@ -3858,7 +3858,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Hoangarten** (5.2%, 11.8°)  
@@ -3879,11 +3879,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Hausbrauerei Bogner • Brauhaus Braunau   _#bogner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5280 Braunau am Inn // Haselbach 26  <br>
@@ -3896,7 +3896,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Bogner Weiße** (5.0%, 12.1°)   • 
@@ -3920,11 +3920,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Schnaitl • Privatbrauerei Schnaitl  - 1842   _#schnaitl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5142 Eggelsberg // Gundertshausen 9 (Innviertel)  <br>
@@ -3937,7 +3937,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Schnaitl Naturtrüb** (5.1%, 11.8°)   • 
@@ -3966,11 +3966,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Trappistenbrauerei Stift Engelszell   _#stiftengelszell_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4090 Engelhartszell // Stiftstraße 6  (Innviertel)  <br>
@@ -3983,7 +3983,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Gregorius** (9.699999999999999%, 21.5°)   • 
@@ -4006,11 +4006,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Hofrauerei Preuner • Ramp'n Bräu   _#rampnbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4873 Frankenburg // Vordersteining 5  <br>
@@ -4021,7 +4021,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4038,11 +4038,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Aspach (Starzinger)  - 1777   _#aspach_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4890 Frankenmarkt // Hauptstraße 23  <br>
@@ -4053,7 +4053,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4064,11 +4064,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Bräu am Berg (Starzinger)  - 1626   _#braeuamberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4890 Frankenmarkt // Bahnhofstraße 1  <br>
@@ -4079,7 +4079,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Frankenmarkter Bräu am Berg Lager Hell** (5.0%, 11.8°)  
@@ -4100,11 +4100,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Freistädter Brauhaus • Braucommune in Freistadt  - 1770   _#freistaedter_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4240 Freistadt // Brauhausstraße 2 (Mühlviertel)  <br>
@@ -4117,7 +4117,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Freistädter Rattsherrn** (5.2%, 12.3°)   • 
@@ -4146,11 +4146,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Grieskirchen  - 1708   _#grieskirchen_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4710 Grieskirchen // Stadtplatz 14  <br>
@@ -4163,7 +4163,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Grieskirchner Pils** (4.8%, 11.2°)   • 
@@ -4187,11 +4187,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Eder-Bräu Bierbuschenschank   _#ederbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4292 Kefermarkt // Netzberg 32  <br>
@@ -4202,7 +4202,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4213,11 +4213,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Schloßbrauerei Weinberg   _#schlossbrauereiweinberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4292 Kefermarkt // Weinberg 2  <br>
@@ -4228,7 +4228,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4245,11 +4245,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Sandberg Bräu   _#sandbergbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4550 Kremsmünster // Sandberg 1  <br>
@@ -4260,7 +4260,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4277,11 +4277,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Braugasthof Leimer • Leimer Bräu   _#leimerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4860 Lenzing // Atterseestraße 34  <br>
@@ -4292,7 +4292,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Leimer Bräu Hell** (5.0%)  
@@ -4313,11 +4313,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Brau Union Österreich   _#brauunion_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4020 Linz // Poschacherstrasse 35  <br>
@@ -4330,7 +4330,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4347,11 +4347,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Neufeldner Biobrauerei   _#biobrauerei_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4120 Neufelden // Bräuhausgasse 3  <br>
@@ -4364,7 +4364,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4381,11 +4381,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Bio-Hofbrauerei Fürst   _#biohofbrauereifuerst_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4212 Neumarkt im Mühlkreis // Möhringdorf 8  <br>
@@ -4396,7 +4396,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4413,11 +4413,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Ritterbräu Neumarkt  - 1609   _#ritterbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4720 Neumarkt/Hausruck // Bräuhausgasse 1  <br>
@@ -4430,7 +4430,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4447,11 +4447,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Ernstinger Wirt's Bräu   _#ernstinger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5121 Ostermiething // Ernsting 6  <br>
@@ -4462,7 +4462,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4479,11 +4479,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Thor-Bräu   _#thorbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4100 Ottensheim // Hostauerstraße 2  <br>
@@ -4494,7 +4494,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4511,11 +4511,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Ried  - 1536   _#ried_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4910 Ried i. Innkreis // Brauhausgasse 24 (Innviertel)  <br>
@@ -4528,7 +4528,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Rieder Weißbierbock** (6.5%, 16.5°)   • 
@@ -4566,11 +4566,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Voralpenbräu   _#voralpenbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4642 Sattledt // Hauptstraße 13  <br>
@@ -4581,7 +4581,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4598,11 +4598,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Brauhof Goldberg   _#brauhofgoldberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4521 Schiedlberg // Weichstettenstraße 119  <br>
@@ -4613,7 +4613,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4630,11 +4630,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Stiftsbrauerei Schlägl  - 1580   _#schlaegl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4160 Schlägl // Schlägl 1 (Mühlviertel)  <br>
@@ -4647,7 +4647,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Schlägl Urquell** (11.8%)   • 
@@ -4679,11 +4679,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Gasthausbrauerei Zum Alfons   _#zumalfons_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4690 Schwanenstadt // Bergern 2  <br>
@@ -4694,7 +4694,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4711,11 +4711,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Schwertberger Bräu   _#schwertberger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4311 Schwertberg // Ing. Schmiedl-Straße 7  <br>
@@ -4726,7 +4726,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4743,11 +4743,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Jos. Baumgartner • Brauerei Baumgartner  - 1609   _#baumgartner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)  <br>
@@ -4760,7 +4760,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Baumgartner Märzen** (5.1%, 12.2°)   • 
@@ -4789,11 +4789,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Argus-Bräu  - 2002   _#argus_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4861 Schörfling (am Attersee) // Oberachmanstraße 21  <br>
@@ -4806,7 +4806,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4823,11 +4823,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Bratl Bräu   _#bratlbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4372 St. Georgen am Walde // Markt 13  <br>
@@ -4838,7 +4838,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4855,11 +4855,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Hofstetten   _#hofstetten_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4113 St. Martin // Adsdorf 5 (Mühlviertel)  <br>
@@ -4872,7 +4872,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Hofstettner Märzen** (4.7%, 11.4°)   • 
@@ -4901,11 +4901,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Bachner   _#bachner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4170 St. Stefan am Walde // Unterriedl 4  <br>
@@ -4916,7 +4916,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4927,11 +4927,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Steffinger Brauerei   _#steffinger_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4170 St. Stefan am Walde // Unterriedl 4  <br>
@@ -4942,7 +4942,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4959,11 +4959,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Staffelmayr Gutshofbräu   _#staffelmayr_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4400 Steyr // Kegelprielstraße 17  <br>
@@ -4974,7 +4974,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -4991,11 +4991,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Attersee   _#attersee_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4881 Straß (i. Attergau) // Straß 8  <br>
@@ -5008,7 +5008,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Attersee Bräu Hell**   
@@ -5029,11 +5029,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Trauner Bier   _#trauner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4050 Traun // Madlschenterweg 7  <br>
@@ -5046,7 +5046,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5063,11 +5063,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Vitzthum  - 1600   _#vitzthum_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5261 Uttendorf // Uttendorf 25 (Innviertel)  <br>
@@ -5080,7 +5080,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Uttendorf Märzen** (5.0%, 12.1°)   • 
@@ -5110,11 +5110,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Schloss Eggenberg • Schloss Eggenberg  - 1681   _#schlosseggenberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4655 Vorchdorf // Eggenberg 1  <br>
@@ -5127,7 +5127,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Schloss Eggenberg (Classic) Märzen** (4.9%, 11.7°)   • 
@@ -5158,11 +5158,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Gerstl Bräu   _#gerstlbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4600 Wels // Freiung 9-11  <br>
@@ -5173,7 +5173,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5190,11 +5190,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Dörnbacher Floriani-Bräu  - 2000   _#florianibraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4061 Wilhering // Dörnbacherstraße 132  <br>
@@ -5207,7 +5207,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5224,11 +5224,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Kemmet Bräu   _#kemmetbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4580 Windischgarsten // Hauptstraße 22  <br>
@@ -5239,7 +5239,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5256,11 +5256,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Brauerei Zipf (Brau Union)   _#zipf_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 4871 Zipf // Zipf 22  <br>
@@ -5273,7 +5273,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Zipfer Urtyp** (5.4%, 12.2°)   • 
@@ -5320,11 +5320,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Raggei-Bräu   _#raggei_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5102 Anthering bei Salzburg // Acharting 32  <br>
@@ -5335,7 +5335,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5352,11 +5352,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Schmaranz Bräu   _#schmaranz_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5630 Bad Hofgastein // Wieden 52  <br>
@@ -5367,7 +5367,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5384,11 +5384,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Kohlschnait Bräu   _#kohlschnait_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5662 Bruck an der Glocknerstraße // Niederhof 3  <br>
@@ -5399,7 +5399,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5416,11 +5416,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Bramsau-Bräu   _#bramsaubraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5324 Faistenau // Bramsaustraße 1  <br>
@@ -5431,7 +5431,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5448,11 +5448,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Gasthausbrauerei Zum Faßl   _#zumfassl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5082 Grödig // Haupstraße 36  <br>
@@ -5463,7 +5463,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5480,11 +5480,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Hofbräu Kaltenhausen (Brau Union)  - 1475   _#kaltenhausen_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5400 Hallein-Kaltenhausen // Salzburger Straße 67  <br>
@@ -5497,7 +5497,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Kaltenhauser Kellerbier**    • 
@@ -5520,11 +5520,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Gusswerk • Brauhaus Gusswerk   _#gusswerk_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5322 Hof bei Salzburg // Römerstraße 3  <br>
@@ -5537,7 +5537,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Austrian Amber Ale** (5.6%, 12.8°)   • 
@@ -5563,11 +5563,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Bräurup   _#braeurup_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5730 Mittersill // Kirchgasse 9  <br>
@@ -5578,7 +5578,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5595,11 +5595,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) s'Weizerl   _#sweizerl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5151 Nussdorf // Hauptstraße 32  <br>
@@ -5610,7 +5610,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5627,11 +5627,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Trumer Privatbrauerei • Trumer Privatbrauerei Josef Sigl  - 1601   _#trumer_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5162 Obertrum // Brauhausgasse 2  <br>
@@ -5644,7 +5644,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Trumer Pils** (4.9%, 11.5°)   • 
@@ -5663,11 +5663,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Kiesbye's Bierkulturhaus   _#kiesbyes_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5162 Obertrum // Dorfplatz 1  <br>
@@ -5678,7 +5678,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5695,11 +5695,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Landgasthaus Weixen   _#weixen_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5661 Rauris // Seidlwinkelstraße 114  <br>
@@ -5710,7 +5710,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5727,11 +5727,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Augustiner Bräu Kloster Mülln  - 1621   _#augustinermuelln_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5020 Salzburg // Lindhofstraße 7  <br>
@@ -5744,7 +5744,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Augustiner Märzen** (4.6%, 12.0°)   • 
@@ -5760,11 +5760,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Die Weisse Brauerei  - 1901   _#dieweisse_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5020 Salzburg // Bayerhamerstraße 10  <br>
@@ -5777,7 +5777,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5788,11 +5788,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (l) Stieglbrauerei • Stieglbrauerei zu Salzburg  - 1492   _#stiegl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5017 Salzburg // Kendlerstraße 1  <br>
@@ -5805,7 +5805,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Stiegl Goldbräu** (4.9%, 12.0°)   • 
@@ -5827,11 +5827,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Isi-Bräu   _#isibraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5020 Salzburg // Bäckerstraße 3  <br>
@@ -5842,7 +5842,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5853,11 +5853,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) s'Kloane Brauhaus   _#skloane_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5020 Salzburg // Schallmoser Hauptstraße 27  <br>
@@ -5868,7 +5868,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5885,11 +5885,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Allerberger Bräu   _#allerbergerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5072 Siezenheim // Doktorstraße 49  <br>
@@ -5900,7 +5900,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5917,11 +5917,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Simal-Bräu   _#simal_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 5700 Zell am See // Bruckberg 1  <br>
@@ -5932,7 +5932,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5964,11 +5964,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Gasthof Ebner Brauerei   _#ebner_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6067 Absam // Karl Zanger Straße 17  <br>
@@ -5979,7 +5979,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -5996,11 +5996,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Kristall Brauerei   _#kristall_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6236 Alpbach // Inneralpbach 431  <br>
@@ -6011,7 +6011,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6028,11 +6028,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Strickers Dorf-Alm   _#strickers_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6654 Holzgau // Nr. 71  <br>
@@ -6043,7 +6043,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6060,11 +6060,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Oldy Bräu   _#oldybraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6460 Imst // Josef-Kochstraße 3  <br>
@@ -6075,7 +6075,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6092,11 +6092,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Harald Franz Baumgartner   _#baumgartnerinnsbruck_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6020 Innsbruck // Feldstraße 11a  <br>
@@ -6107,7 +6107,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6118,11 +6118,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Theresienbräu   _#theresienbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6020 Innsbruck // Maria-Theresien-Straße 51-53  <br>
@@ -6133,7 +6133,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6150,11 +6150,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Falkenstein (Brau Union)   _#falkenstein_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9900 Lienz // Pußtertaler Straße 40  <br>
@@ -6165,7 +6165,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6176,11 +6176,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Haidenhof Wirtshausbrauerei   _#haidenhof_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 9900 Lienz // Grafendorferstraße 2  <br>
@@ -6191,7 +6191,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6208,11 +6208,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Dorf Bräu   _#dorfbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6167 Neustift i. Stubaital // Dorf 15  <br>
@@ -6223,7 +6223,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6240,11 +6240,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Achenseebier Schau- und Hausbrauerei   _#achensee_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6213 Pertisau //  <br>
@@ -6255,7 +6255,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6272,11 +6272,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Brauhaus Rattenberg   _#rattenberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6240 Rattenberg // Bienerstraße 84  <br>
@@ -6287,7 +6287,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6304,11 +6304,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Gasthofbrauerei Heustadl   _#heustadl_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6622 Rinnen/Berwang // Nr. 38  <br>
@@ -6319,7 +6319,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6336,11 +6336,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Gasthof Mairwirt   _#mairwirt_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6385 Schwendt // Dorfstrasse 17  <br>
@@ -6351,7 +6351,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6368,11 +6368,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Stöfflbräu • Das Bauernhofbräuhaus   _#stoefflbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6330 Schwoich bei Kufstein // Sonnendorf 27  <br>
@@ -6383,7 +6383,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6400,11 +6400,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Familienbrauerei Huber • Huber Bräu  - 1727   _#huberbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6380 St. Johann // Brauweg 2  <br>
@@ -6417,7 +6417,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Huber Bräu St. Johanner Original** (5.0%, 11.6°)   • 
@@ -6448,11 +6448,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) s'Höf Bräuhaus   _#shoef_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6675 Tannheim // Unterhöfen 28  <br>
@@ -6463,7 +6463,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6480,11 +6480,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Schloß Starkenberg  - 1810   _#starkenberg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6464 Tarrenz // Griesegg 1  <br>
@@ -6497,7 +6497,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6514,11 +6514,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Metzger Bräu   _#metzgerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6293 Tux // Lanersbach  <br>
@@ -6529,7 +6529,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6546,11 +6546,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Branger Bräu  - 1993   _#brangerbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6175 Unterperfuß/Innsbruck // Unterperfuß 32  <br>
@@ -6563,7 +6563,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6580,11 +6580,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Vilser Privatbrauerei   _#vilser_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6682 Vils // Stadtgasse 2  <br>
@@ -6597,7 +6597,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6614,11 +6614,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (brewpub) Loder Bräu Privatbrauerei   _#loderbraeu_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6344 Walchsee/Kaiserwinkl // Kalvarienweg 5  <br>
@@ -6629,7 +6629,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 
@@ -6646,11 +6646,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauhaus Simon Strasser • Zillertal Bier  - 1509   _#zillertal_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6280 Zell am Ziller // Bräuweg 1  <br>
@@ -6663,7 +6663,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Zillertal Märzen** (5.1%, 12.0°)   • 
@@ -6707,11 +6707,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Brauerei Fohrenburg  - 1881   _#fohrenburg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6700 Bludenz // Fohrenburgstraße 5  <br>
@@ -6724,7 +6724,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Fohrenburger Jubiläum** (5.5%, 12.8°)   • 
@@ -6754,11 +6754,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  (m) Mohrenbrauerei  - 1834   _#mohren_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6850 Dornbirn // Dr.-Waibel-Straße 2  <br>
@@ -6771,7 +6771,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Mohren Pilsner** (4.8%, 11.3°)   • 
@@ -6800,11 +6800,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
  Brauerei Egg  - 1894   _#egg_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6863 Egg // Gerbe 500  <br>
@@ -6817,7 +6817,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Egger Spezial** (5.5%, 12.8°)   • 
@@ -6840,11 +6840,11 @@ permalink: /at.html
 
 <table class='brewery'>
 <tr>
-<td class='brewery' width='33.333%'>
+<td class='brewery' width='33.333%' markdown='1'>
 
 ♣ (m) Vorarlberger Brauereigenossenschaft Frastanz  - 1902   _#frastanz_{:.key} <br>
 
-<span class='brewery-details'>
+<span class='brewery-details' markdown='1'>
 
 
 6820 Frastanz //  <br>
@@ -6857,7 +6857,7 @@ permalink: /at.html
 </span>
 
 </td>
-<td class='beers' width='66.666%'>
+<td class='beers' width='66.666%' markdown='1'>
 
 
 **Frastanzer Gold Spezial** (5.5%, 12.6°)   • 
