@@ -40,12 +40,24 @@ table.brewery td:nth-child(2) {
   padding: 2px;
 }
 
+
 div.brewery-title {
   color: navy;
   font-weight: bold;
 }
+
 div.brewery-details {
   color: grey;
 }
 
+.brewery-title p,
+.brewery-details p,
+.beers p {
+  margin: 0;
+}
+
+.brewery-details a,
+.brewery-details a:visited {
+  color: grey;  
+}
 
