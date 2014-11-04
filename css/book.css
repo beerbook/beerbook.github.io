@@ -1,31 +1,40 @@
 
 /****
    font size styles (definitions)
-    use 12px normal 
-    and 10px smaller  - city header, beers brewery info, etc
-    and 9px smallest  - tags,
  *****/
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
+h3 {
+   /* state/region header */
+  font-size: 16px;
+}
+
+h3 + p  {
+  /* cities nav header
+      fix: add css!!!
+   */
+  font-size: 11px;
+} 
 
 h5 {
  /* city header */
-  font-size: 10px;
+  font-size: 11px;
 }
 
 
 .count, .tags, .pop, .key {
-  font-size: 9px;
+  font-size: 10px;
 }
 
 .brewery-details,
 .beers  {
-  font-size: 10px;
+  font-size: 12px;
 }
+
 
 /****
   more style
