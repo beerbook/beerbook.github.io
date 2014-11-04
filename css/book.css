@@ -1,3 +1,23 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+}
+
+
+h5 {
+ /* city header */
+  font-size: 8px;
+}
+
+.count, .tags, .pop, .key {
+  font-size: 7px;
+}
+
+.brewery-details,
+.beers  {
+  font-size: 8px;
+}
+
 
 a, a:visited {
   color: black;
@@ -8,7 +28,6 @@ a:hover {
   text-decoration: underline;
 }
 
-
 .city {
   border-top: 2px black solid;
   margin-top: 0;
@@ -17,7 +36,6 @@ a:hover {
 
 .count, .tags, .pop, .key {
   color: grey;
-  font-size: 10px;
 }
 
 .pop {
