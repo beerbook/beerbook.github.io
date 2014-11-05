@@ -7,68 +7,12 @@ permalink: /at-breweries.html
 # Breweries A-Z Index _(194)_{:.count}
 
 
-
- A
-
- •  B
-
- •  C
-
- •  D
-
- •  E
-
- •  F
-
- •  G
-
- •  H
-
- •  I
-
- •  J
-
- •  K
-
- •  L
-
- •  M
-
- •  N
-
- •  O
-
- •  P
-
- •  Q
-
- •  R
-
- •  S
-
- •  T
-
- •  U
-
- •  V
-
- •  W
-
- •  X
-
- •  Y
-
- •  Z
-
+  A   •  B   •  C   •  D   •  E   •  F   •  G   •  H   •  I   •  J   •  K   •  L   •  M   •  N   •  O   •  P   •  Q   •  R   •  S   •  T   •  U   •  V   •  W   •  X   •  Y   •  Z 
 
 
 
 
 ## A
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Achenseebier Schau- und Hausbrauerei](at.html#achensee)**   ( Austria  › Tirol [Tyrol]  › Pertisau ) _#achensee_{:.key} <br>
@@ -96,17 +40,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## B
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Brauerei Bachner](at.html#bachner)**   ( Austria  › Oberösterreich [Upper Austria]  › St. Stefan am Walde ) _#bachner_{:.key} <br>
@@ -170,31 +106,15 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## C
-
-
-<div class='columns300' markdown='1'>
-
-
-
-
-</div>
 
 
 
 
 
 ## D
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Brauerei Dangl](at.html#dangl)**   ( Austria  › Niederösterreich [Lower Austria]  › Japons ) _#dangl_{:.key} <br>
@@ -219,17 +139,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## E
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Gasthof Ebner Brauerei](at.html#ebner)**   ( Austria  › Tirol [Tyrol]  › Absam ) _#ebner_{:.key} <br>
@@ -257,17 +169,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## F
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Brauerei Falkenstein (Brau Union)](at.html#falkenstein)**   ( Austria  › Tirol [Tyrol]  › Lienz ) _#falkenstein_{:.key} <br>
@@ -307,17 +211,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## G
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Gablitzer Privatbrauerei](at.html#gablitzer)**   ( Austria  › Niederösterreich [Lower Austria]  › Gablitz ) _#gablitzer_{:.key} <br>
@@ -345,17 +241,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## H
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Haidenhof Wirtshausbrauerei](at.html#haidenhof)**   ( Austria  › Tirol [Tyrol]  › Lienz ) _#haidenhof_{:.key} <br>
@@ -410,24 +298,12 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## I
 
 
-<div class='columns300' markdown='1'>
-
-
-
 **[Isi-Bräu](at.html#isibraeu)**   ( Austria  › Salzburg  › Salzburg ) _#isibraeu_{:.key} <br>
-
-
-
-</div>
 
 
 
@@ -436,25 +312,13 @@ permalink: /at-breweries.html
 ## J
 
 
-<div class='columns300' markdown='1'>
-
-
-
 **[Jauntaler Bauernbier](at.html#jauntaler)**   ( Austria  › Kärnten [Carinthia]  › Gallizien ) _#jauntaler_{:.key} <br>
-
-
-
-</div>
 
 
 
 
 
 ## K
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Kadlez Bräu](at.html#kadlezbraeu)**   ( Austria  › Wien [Vienna]  › Wien ) _#kadlezbraeu_{:.key} <br>
@@ -497,17 +361,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## L
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Langenrohrer Erlebnisbrauerei](at.html#langenrohrer)**   ( Austria  › Niederösterreich [Lower Austria]  › Langenrohr ) _#langenrohrer_{:.key} <br>
@@ -541,17 +397,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## M
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Gasthof Mairwirt](at.html#mairwirt)**   ( Austria  › Tirol [Tyrol]  › Schwendt ) _#mairwirt_{:.key} <br>
@@ -582,17 +430,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## N
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Nassauer City Bier](at.html#nassauer)**   ( Austria  › Steiermark [Styria]  › Unterbergla ) _#nassauer_{:.key} <br>
@@ -605,17 +445,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## O
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Oldy Bräu](at.html#oldybraeu)**   ( Austria  › Tirol [Tyrol]  › Imst ) _#oldybraeu_{:.key} <br>
@@ -625,17 +457,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## P
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Peterwirtsbräu](at.html#peterwirtsbraeu)**   ( Austria  › Steiermark [Styria]  › Bad Mitterndorf ) _#peterwirtsbraeu_{:.key} <br>
@@ -660,31 +484,15 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## Q
-
-
-<div class='columns300' markdown='1'>
-
-
-
-
-</div>
 
 
 
 
 
 ## R
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Schwarzer Rabe](at.html#rabenbraeu)**   ( Austria  › Wien [Vienna]  › Wien ) _#rabenbraeu_{:.key} <br>
@@ -712,17 +520,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## S
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Sajacher Schlößl Bräu](at.html#sajacher)**   ( Austria  › Steiermark [Styria]  › Gabersdorf ) _#sajacher_{:.key} <br>
@@ -828,17 +628,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## T
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Theresienbräu](at.html#theresienbraeu)**   ( Austria  › Tirol [Tyrol]  › Innsbruck ) _#theresienbraeu_{:.key} <br>
@@ -863,31 +655,15 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## U
-
-
-<div class='columns300' markdown='1'>
-
-
-
-
-</div>
 
 
 
 
 
 ## V
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Villacher Brauerei (Vereinigte Kärntner Brauereien)](at.html#villacher)**   ( Austria  › Kärnten [Carinthia]  › Villach ) _#villacher_{:.key} <br>
@@ -903,17 +679,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## W
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Weitra Bräu Bierwerkstatt](at.html#weitra)** ♣  ( Austria  › Niederösterreich [Lower Austria]  › Weitra ) _#weitra_{:.key} <br>
@@ -938,21 +706,9 @@ permalink: /at-breweries.html
 
 
 
-</div>
-
-
-
 
 
 ## X
-
-
-<div class='columns300' markdown='1'>
-
-
-
-
-</div>
 
 
 
@@ -961,25 +717,13 @@ permalink: /at-breweries.html
 ## Y
 
 
-<div class='columns300' markdown='1'>
-
-
-
 **[Ybbstal Bräu Gasthaus Hehenberger](at.html#ybbstal)**   ( Austria  › Niederösterreich [Lower Austria]  › Waidhofen/Ybbs ) _#ybbstal_{:.key} <br>
-
-
-
-</div>
 
 
 
 
 
 ## Z
-
-
-<div class='columns300' markdown='1'>
-
 
 
 **[Zecherbräu](at.html#zecherbraeu)**   ( Austria  › Niederösterreich [Lower Austria]  › Enzenreith ) _#zecherbraeu_{:.key} <br>
@@ -1002,9 +746,6 @@ permalink: /at-breweries.html
 
 **[Zwettler Brauerei](at.html#zwettler)**   ( Austria  › Niederösterreich [Lower Austria]  › Zwettl ) _#zwettler_{:.key} <br>
 
-
-
-</div>
 
 
 

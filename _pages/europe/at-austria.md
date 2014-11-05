@@ -4,18 +4,20 @@ title: Austria (AUT)
 permalink: /at.html
 ---
 
-## Austria (AUT) - 337 Beers, 194 Breweries ( 9 l/ 29 m/ 51 s/ 105 brewpubs ) {: #at }
+## Austria (AUT) - 337 Beers, 194 Breweries
+{: #at }
 
 
-[Burgenland](#at-b) _(4 - 0 l/ 1 m/ 2 s/ 1 brewpubs)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(40 - 3 l/ 3 m/ 15 s/ 19 brewpubs)_{:.count} • [Wien [Vienna]](#at-w) _(14 - 1 l/ 0 m/ 0 s/ 13 brewpubs)_{:.count} • [Steiermark [Styria]](#at-st) _(37 - 2 l/ 2 m/ 11 s/ 22 brewpubs)_{:.count} • [Kärnten [Carinthia]](#at-k) _(11 - 0 l/ 3 m/ 2 s/ 6 brewpubs)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(43 - 2 l/ 11 m/ 13 s/ 17 brewpubs)_{:.count} • [Salzburg](#at-s) _(19 - 1 l/ 3 m/ 2 s/ 13 brewpubs)_{:.count} • [Tirol [Tyrol]](#at-t) _(22 - 0 l/ 3 m/ 5 s/ 14 brewpubs)_{:.count} • [Vorarlberg](#at-v) _(4 - 0 l/ 3 m/ 1 s/ 0 brewpubs)_{:.count}
+[Burgenland](#at-b) _(4)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(40)_{:.count} • [Wien [Vienna]](#at-w) _(14)_{:.count} • [Steiermark [Styria]](#at-st) _(37)_{:.count} • [Kärnten [Carinthia]](#at-k) _(11)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(43)_{:.count} • [Salzburg](#at-s) _(19)_{:.count} • [Tirol [Tyrol]](#at-t) _(22)_{:.count} • [Vorarlberg](#at-v) _(4)_{:.count}
+
 
 
 
 ### Uncategorized Beers
 
+**Schützen Bräu** (4.2%)   • 
 **Weitra Helles** (5.0%, 11.8°)   • 
-**Hadmar Bio** (5.2%, 12.5°)   • 
-**Schützen Bräu** (4.2%)  
+**Hadmar Bio** (5.2%, 12.5°)  
 
 
 
@@ -5650,10 +5652,10 @@ permalink: /at.html
 <div class='beers' markdown='1'>
 
 **Huber Bräu St. Johanner Original** (5.0%, 11.6°)   • 
-**Huber Bräu Spezial** (5.4%, 12.7°)   • 
 **Huber Bräu St. Johanner Zwickl**    • 
 **Huber Bräu St. Johanner Engerl** (3.7%, 9.4°)   • 
 **Huber Bräu Meisterpils** (4.9%, 11.5°)   • 
+**Huber Bräu Spezial** (5.4%, 12.7°)   • 
 **Huber Bräu Augustinus** (5.0%, 11.5°)   • 
 **Huber Bräu Dunkel** (5.0%, 11.6°)   • 
 **Huber Bräu Tiroler Hefeweizen Hell** (5.2%, 12.5°)   • 
