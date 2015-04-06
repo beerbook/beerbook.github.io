@@ -15,7 +15,6 @@ permalink: /index.html
 ### What's News?
 {: #news}
 
-..   
 [What's News in 2014?](2014.html)  <br>
 [What's News in 2013?](2013.html)  <br>
 [What's News in 2012?](2012.html)  <br>
@@ -31,22 +30,16 @@ permalink: /index.html
 
 
 
-
-
 #### Europe
 {: #europe }
 
 
 <div class='columns300' markdown='1'>
 
-
 [Austria (AUT)](at.html) - _337 Beers, 194 Breweries_{:.count}  <br>
 [Czech Republic (CZE)](cz.html) - _68 Beers, 44 Breweries_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -58,11 +51,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -74,11 +63,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -90,11 +75,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -106,11 +87,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -122,11 +99,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -138,11 +111,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -154,11 +123,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -170,11 +135,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
@@ -186,11 +147,7 @@ permalink: /index.html
 <div class='columns300' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 
